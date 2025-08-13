@@ -1,0 +1,204 @@
+{
+  "Dic" : {
+    "00009" : {
+      "group": "A",
+      "dId" : "ᤀ",
+      "desc" : "/अ/",
+      "mean" : "<p>The first vowel letter of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे पहिलो स्वरवर्ण ।"
+    },
+    "00010" : {
+      "group": "A",
+      "dId" : "ᤀᤀᤡ(ᤒᤠ)",
+      "desc" : "/अइ(बा)/",
+      "mean" : "<p>Porcupine</p>दुम्सी ।"
+    },
+    "00011" : {
+      "group": "A",
+      "dId" : "ᤀ᤹ᤀᤡ ",
+      "desc" : "/अ? इ/",
+      "mean" : "<p>(n.) Weir; pond-trap or diversion of a stream (to catch fish)</p>दुवाली"
+    },
+    "00012" : {
+      "group": "B",
+      "dId" : "ᤀ᤹ᤍ᤺ᤱ/ᤀ᤹ᤍᤅ᤻",
+      "desc" : "/अ?दःङ्/",
+      "mean" : "<p>(n.)ass; donkey, (adj.) foolish; stupid.</p> (ना.) गधा; (वि.) मूर्ख ।"
+    },
+    "00013" : {
+      "group": "B",
+      "dId" : "ᤀ᤹ᤒᤠ",
+      "desc" : "/अ?बा/",
+      "mean" : "<p>(adj.) a man who cannot express himself well/ fight for himself in front of others.</p>निमुखा"
+    },
+    "00014" : {
+      "dId" : "ᤀ᤹ᤔᤠ",
+      "desc" : "/अ?मा/",
+      "mean" : "<p>(adj.) a woman who cannot express herself well/ fight for herself in front of others, (v.) to break off (a piece of the whole); to come loose (as  rock from a cliff).</p>(वि.) निमुखी; (क्रि.) चाेइटिनु ।"
+    },
+    "00015" : {
+      "dId" : "ᤀ᤹ᤗ᤺ᤴᤍᤠᤣ/ᤀ᤹ᤗᤏ᤻ᤍᤠᤣ",
+      "desc" : "/अ?लःन्दाे/",
+      "mean" : "<p>(n.) Dhatura, a plant with white poisonous flower. Datura fastuosa; D. stramonium.</p>धतुराे"
+    },
+    "00016" : {
+      "dId" : "ᤀᤰᤂᤣ",
+      "desc" : "/अक्खे/",
+      "mean" : "<p>Thus.</p>यसो ।"
+    },
+    "00017" : {
+      "dId" : "ᤀᤰᤂᤣᤖᤡᤰ",
+      "desc" : "/अक्खेरिक्/",
+      "mean" : "<p>(adv.) in  this way; in this manner.</p>यस प्रकारले"
+    },
+    "00018" : {
+      "dId" : "ᤀᤰᤂ᤺ᤣᤸᤗᤧ/ᤀᤰᤂ᤺ᤣᤸ",
+      "desc" : "/अक्खेःल्ले /अक्खेल्/",
+      "mean" : "<p>(adv.) nowadays; these days, (adj.) of nowadays; of present days/ time.</p>(क्रिवि.) हिजाेआज; अचेल, (वि.) हिजाेआजकाे; आजकलकाे ।"
+    },
+    "00019" : {
+      "dId" : "ᤀᤰᤆᤶᤔᤠ",
+      "desc" : "/अक्चम्मा/",
+      "mean" : "<p>Diarrhoea.</p>झाडा पखाला ।"
+    },
+    "00020" : {
+      "dId" : "ᤀᤰᤋᤱᤒᤠ",
+      "desc" : "/अक्तङबा/",
+      "mean" : "<p>Such; like this.</p>यस्ताे; यस्तै ।"
+    },
+    "00021" : {
+      "dId" : "ᤀᤰᤔᤠ",
+      "desc" : "/अक्मा/",
+      "mean" : "<p>To come off (label, sticker etc); to become unstuck.</p>उप्कनु"
+    },
+    "00022" : {
+      "dId" : "ᤀᤰᤔᤧᤸᤗᤧᤱ",
+      "desc" : "/अक्मेल्लेङ्/",
+      "mean" : "<p>The same; identical.</p>काटीकुटी; उस्तै रुपकाे ।"
+    },
+    "00023" : {
+      "dId" : "ᤀᤰᤘᤠᤏᤠ",
+      "desc" : "/अक्वाना/",
+      "mean" : "<p>Tortoise.</p>कछुवा"
+    },
+    "00024" : {
+      "dId" : "ᤀᤰᤘᤠᤔᤠ/ᤀᤰᤘᤠᤏᤠᤔᤠ",
+      "desc" : "/अक्वामा /अक्वानामा/",
+      "mean" : "<p>(n. {Mundhum}) a particular deity residing at the foot of the main pole inside the house; (n.{astro.}) one of the eight ill / well disposed influential deities recognised in astrology.</p>घरकाे मूल खाँबाेकाे फेदमा वास गर्ने देवी देवताविशेष ।; मङ्गला याेगिनी ।"
+    },
+    "00025" : {
+      "dId" : "ᤀᤂᤸᤒᤡᤴᤍᤠᤱ",
+      "desc" : "/अखल्बिन्दाङ्/",
+      "mean" : "<p>(Adv.) the manner in which a tree uproots or topples down; manner of falling down prostrate/ falling upside down.</p>रुख, मूढाे आदि ढल्दा फेद उचालिने चालले; उँधाेमुन्टाे हुने गरी लड्ने चालले ।"
+    },
+    "00026" : {
+      "dId" : "ᤀᤂᤡᤰᤆᤠᤱ",
+      "desc" : "/अखिक्चाङ्/",
+      "mean" : "<p>A footmill for husking paddy.</p>ढिकी"
+    },
+    "00027" : {
+      "dId" : "ᤀᤃ᤺ᤣᤰ/ᤀᤃᤣᤁ᤻",
+      "desc" : "/अगेःक्/ ",
+      "mean" : "<p>(n.) heavy rain; downpour.</p>झरी; झरीपानी ।"
+    },
+    "00028" : {
+      "dId" : "ᤀᤃ᤺ᤣᤰᤔᤠ/ᤀᤃᤣᤁ᤻ᤔᤠ",
+      "desc" : "/अगेःक्मा/",
+      "mean" : "<p>a kind of small white mushroom.</p>सानासाना खालकाे एक प्रकारकाे सेताे च्याउ ।"
+    },
+    "00029" : {
+      "dId" : "ᤀᤃᤣᤱᤐ᤺ᤳ/ᤐᤋ᤻",
+      "desc" : "/अगेङ् पत/",
+      "mean" : "<p>a kind of mushroom which comes out in rainy season.</p>झरी च्याउ ।"
+    },
+    "00030" : {
+      "dId" : "ᤀᤅᤧᤰᤗᤡ ",
+      "desc" : "/अङेक् लि/",
+      "mean" : "<p>A kind of tree.</p>सिङ्गाैरे; एक प्रकारकाे रूख ।"
+    },
+    "00031" : {
+      "dId" : "ᤀᤅᤧᤰᤗᤡᤱ",
+      "desc" : "/अङेक् लिङ/",
+      "mean" : "<p>a kind of tree with edible fruit and leaves; its wood. Aporusa Roxburghii.</p>अर्चले; अर्चलेकाे रूख काठ ।"
+    },
+    "00032" : {
+      "dId" : "ᤀᤅᤧ᤺ᤰ/ᤀᤅᤧᤁ᤻",
+      "desc" : "/अङेःक्/",
+      "mean" : "<p>Slowly.</p>विस्तारै ।",
+      "nep" : ""
+    },
+    "00033" : {
+      "dId" : "ᤀᤅᤧ᤺ᤰᤐᤠ/ᤀᤅᤧᤁ᤻ᤐᤠ",
+      "desc" : "/अङेःक्पा/",
+      "mean" : "<p>Younger sister’s husband (address term used by female); younger brother of husband (address term used by female).</p>बहिनी ज्वाइँ (स्त्रीले प्रयाेग  गर्ने शव्द); देवर (स्त्रीले प्रयाेग  गर्ने शव्द) ।"
+    },
+    "00034" : {
+      "dId" : "ᤀᤅᤧ᤺ᤰᤔᤠ/ᤀᤅᤧᤁ᤻ᤔᤠ",
+      "desc" : "/अङेःक्मा/",
+      "mean" : "<p>Wife of younger brother ( address term used by male) ; younger sister of wife/ spouse ( address term used by male).</p>भाइबुहारी (पुरुषले प्रयाेग  गर्ने शव्द); साली (पुरुषले प्रयाेग  गर्ने शव्द) ।"
+    },
+    "00035" : {
+      "dId" : "ᤀᤱᤃᤰᤐᤠ",
+      "desc" : "/अङ्गक्पा/",
+      "mean" : "<p>Loose; slack; not tight (not taut or tense).</p>खुकुलाे"
+    },
+    "00036" : {
+      "dId" : "ᤀᤱᤃᤶ ᤑᤢᤱ",
+      "desc" : "/अङ्गम् फुङ्/",
+      "mean" : "<p>a kind of flower blossoming in the month of Asar (June- July);Viburnum erubescens.</p>असारे फुल"
+    },
+    "00037" : {
+      "dId" : "ᤀᤱᤄᤒᤠ/ᤔᤠ ᤂᤣ",
+      "desc" : "/अङ्घवा/ मा खे/",
+      "mean" : "<p>A kind of red wild yam having a sweet taste.</p>एक प्रकारकाे राताे गुलीयाे वनतरूल ।"
+    },
+    "00038" : {
+      "dId" : "ᤀᤱᤔᤠ",
+      "desc" : "/अङ्मा/",
+      "mean" : "<p>1. to take off and put down (or put away); 2. to strip off ; to pull free/ unstick; to take out (label, sticker, upper layer or bark etc).</p>१. माथिकाे वस्तु तल उतार्नु , २. उप्काउनु ।"
+    },
+    "00039" : {
+      "dId" : "ᤀᤱᤛᤡ ",
+      "desc" : "/अङ्सि/",
+      "mean" : "<p>1. ascetic; saint, 2. abbot; head priest of a temple.</p>१. महात्मा; ऋषि; ज्ञानी पुरुष,  २. महन्त; मूल पुराेहित ।"
+    },
+    "00040" : {
+      "dId" : "ᤀᤱᤛᤡᤱᤔᤠ",
+      "desc" : "/अङ्सिङ्मा/",
+      "mean" : "<p>To leave one’s place of work; to discontinue or stop one’s work.</p>मेला छाड्नु; गर्दै गरेकाे काम वन्द गर्नु ।"
+    },
+    "00041" : {
+      "dId" : "ᤀᤆ᤹",
+      "desc" : "/अच?/",
+      "mean" : "<p>An expression used when presenting or handing over sth to sb, meaning ‘take it’.</p>ला, लाै, लिनुहाेस; कसैलाइ केहि चीज दिंदा भनिने शव्द ।"
+    },
+    "00042" : {
+      "dId" : "ᤀᤈᤡ᤹ ",
+      "desc" : "/अजि?/",
+      "mean" : "<p>(inter.) oh! (An exclamatory word used to frighten children).</p>अबुई (डर लागेकाे अर्थमा नानीहरूलाई तर्साउने शव्द)"
+    },
+    "00043" : {
+      "dId" : "ᤀᤈᤡᤰᤁᤠ",
+      "desc" : "/अजिक्का/",
+      "mean" : "<p>Frightful ghost etc, a word used to frighten  children.</p>तर्साउने (भुत -प्रेत इत्यादि); नानीहरूलाई तर्साउन भनिने शव्द  ।"
+    },
+    "00044" : {
+      "dId" : "ᤀᤈᤡᤱᤈᤠ",
+      "desc" : "/अजिङ्जा/",
+      "mean" : "<p>a kind of small tree. Maesa chisia.</p>बिलाउने, एकजातकाे सानाे रूख ।"
+    },
+    "00045" : {
+      "dId" : "ᤀᤈᤧᤳᤋᤠᤱᤔᤠ",
+      "desc" : "अजेत् ताङ्मा",
+      "mean" : "<p>A kind of bird; piebald bird.</p>पाङ्ग्री चराे ।"
+    },
+    "00046" : {
+      "dId" : "ᤀᤈᤧᤳᤔᤠ",
+      "desc" : "/अजेत्मा/",
+      "mean" : "<p>A kind of water bird (found in rivers) with fork tail; Robin Dial. Copsychus saularis.</p>खाेलाकाे धाेबिनी चराे ।"
+    },
+    "00047" : {
+      "dId" : "ᤀᤈᤧᤖᤧᤶᤒᤠ",
+      "desc" : "/अजेरेम्बा/",
+      "mean" : "<p>A kind of crested bird; Yuhina. Timaliidae yuhina.</p>जुरे चराे"
+    }
+  }
