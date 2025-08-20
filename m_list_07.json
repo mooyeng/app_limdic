@@ -1,0 +1,226 @@
+{
+  "Dic" : {
+"00746" : {
+      "dId" : "ᤀᤠᤤ",
+      "desc" : "/औ/",
+      "group" : "AG",
+      "mean" : "<p>the eighth vowel of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे आठाैं स्वरवर्ण  ।"
+    },
+    "00747" : {
+      "dId" : "ᤀᤨ",
+      "desc" : "/अ/",
+      "group" : "AG",
+      "mean" : "<p>the ninth vowel of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे नवाैं स्वरवर्ण  ।"
+    },
+    "00748" : {
+      "dId" : "ᤀᤧ",
+      "desc" : "/ए/",
+      "group" : "AG",
+      "mean" : "<p>the tenth vowel of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे दशाैं स्वरवर्ण  ।"
+    },
+    "00749" : {
+      "dId" : "ᤀᤧ᤹",
+      "desc" : "/ए?/",
+      "group" : "AG",
+      "mean" : "<p>[Tamor]  here; there.</p>[ तमर ] यहाँ ।"
+    },
+    "00750" : {
+      "dId" : "-ᤀᤧᤀᤠᤣ",
+      "desc" : "/-एओ/",
+      "group" : "AG",
+      "mean" : "<p>the sign of the locative case; the case-ending suffix used to denote the sense of  ‘in; inside; up; above’.</p>अधिकरण कारककाे विभक्तिकाे चिन्ह; कुनै शब्दकाे पछाडि जाेडिएर - मा; भित्र; माथि; त्यहाँ आदि बुझाउने विभक्ति ।"
+    },
+    "00751" : {
+      "dId" : "ᤀᤧ᤹ᤔᤠ",
+      "desc" : "/ए?मा/",
+      "group" : "AG",
+      "mean" : "<p>to be insolent or conceited; to behave roughly (to a woman); to be rude.</p>मात्नु; पात्नु ।"
+    },
+    "00752" : {
+      "dId" : "ᤀᤧ᤹ᤛᤡᤱ",
+      "desc" : "/ए?सिङ्/",
+      "group" : "AG",
+      "mean" : "<p>the state of being spoilt; fondling; caressing.</p>पुलपुल्याइ ।"
+    },
+    "00753" : {
+      "dId" : "ᤀᤧ᤹ᤛᤡᤱᤒᤠ",
+      "desc" : "/ए?सिङ्बा/",
+      "group" : "AG",
+      "mean" : "<p>1. fondling; caressed. 2. a fondling; a pet; a darling.</p>१. लाडे; पुलपुलिएकाे । २. लाडे ( बच्चा ) ।"
+    },
+    "00754" : {
+      "dId" : "ᤀᤧ᤹ᤛᤡᤱᤔᤠ",
+      "desc" : "/ए?सिङ्मा/",
+      "group" : "AG",
+      "mean" : "<p>to be fondled; to be caressed.</p>पुलपुलिनु ।"
+    },
+    "00755" : {
+      "dId" : "ᤀᤧᤰᤁᤣᤒᤠ",
+      "desc" : "/एक्केबा/",
+      "group" : "AG",
+      "mean" : "<p>general; common.</p>सामान्य ।"
+    },
+    "00756" : {
+      "dId" : "ᤀᤧᤰᤂᤱ",
+      "desc" : "/एक्खङ्/",
+      "group" : "AG",
+      "mean" : "<p>hobbling; limping; in a hobbling or limping manner.</p>खाेच्याङ् खाेच्याङ् गर्दै हिँड्ने चालले ।"
+    },
+    "00757" : {
+      "dId" : "ᤀᤧᤰᤔᤠ",
+      "desc" : "/एक्मा/",
+      "group" : "AG",
+      "mean" : "<p>1. to winnow; to fan off on a tray ( of bamboo ) to separate heavy parts. 2. to be broken.</p>१. छिन्कनु; निफन्दै केलाउनु । २. भाँचिनु र। "
+    },
+    "00758" : {
+      "dId" : "ᤀᤧᤰᤗᤱᤒᤠ",
+      "desc" : "/एक्लङ्बा/",
+      "group" : "AG",
+      "mean" : "<p>lame; limping (human being, animal birds ) .</p>लङ्गडाे; खाेरन्डाे ( मान्छे, जनावर, पन्छी ) ।"
+    },
+    "00759" : {
+      "dId" : "ᤀᤧᤱᤔᤠ",
+      "desc" : "/एङ्मा/",
+      "group" : "AG",
+      "mean" : "<p>to break .</p>भाँच्नु ।"
+    },
+    "00760" : {
+      "dId" : "ᤀᤧᤱᤛᤡᤱᤔᤠ",
+      "desc" : "/एङ्सिङ्मा/",
+      "group" : "AG",
+      "mean" : "<p>to break itself.</p>भाँचिनु ।"
+    },
+    "00761" : {
+      "dId" : "ᤀᤧᤆᤡ ",
+      "desc" : "/एचि/",
+      "group" : "AG",
+      "mean" : "<p>vexAtion; worry.</p>कलझगडा ( नानीहरुकाे ) पिराेलाे ।"
+    },
+    "00762" : {
+      "dId" : "ᤀᤧᤆᤧ᤹ᤆᤧ᤹ᤔᤠ",
+      "desc" : "/एचे?चे?मा/",
+      "group" : "AG",
+      "mean" : "<p>{fem.} shameless; disgraceful; headstrong.</p>नकच्चरी; निर्लज्ज ।"
+    },
+    "00763" : {
+      "dId" : "ᤀᤧᤆᤇᤍᤡᤶ",
+      "desc" : "/एचेदिम्/",
+      "group" : "AG",
+      "mean" : "<p>a wooden hanger with several pegs.</p>सामान झुन्ड्याउन एउटै फ्रेममा धेरै काठका कीलाहरू जाेडीएकाे एक प्रकारकाे ह्याङ्गर ।"
+    },
+    "00764" : {
+      "dId" : "ᤀᤧᤳᤇᤠᤔᤠ ᤐᤢ",
+      "desc" : "/एत्छामा पु/",
+      "group" : "AG",
+      "mean" : "<p>a kind of particular bird. </p>दुखी चराे; एक प्रकारकाे चराे विशेष ।"
+    },
+    "00765" : {
+      "dId" : "ᤀᤧᤳᤇᤡ᤺ᤱ",
+      "desc" : "/एत्छिङ्/",
+      "group" : "AG",
+      "mean" : "<p>saddock, a kind of tree. Citrus garndis.</p>भाेगटे ।"
+    },
+    "00766" : {
+      "dId" : "ᤀᤧᤳᤇᤡ᤺ᤱᤔᤠ",
+      "desc" : "/एत्छिङ्मा/",
+      "group" : "AG",
+      "mean" : "<p>1. to be hindered/ blocked. 2. to lock oneself. 3. to ridicule/ taunt each other.</p>१. राेकिनु । २. थुनिनु ( दैलाे आदि आफै बन्द गरेर ) । ३. एकअर्कामा घाेचपेच गर्नु । "
+    },
+    "00767" : {
+      "dId" : "ᤀᤧᤳᤗᤧᤱ",
+      "desc" : "/एत्लेङ्/",
+      "group" : "AG",
+      "mean" : "<p>again and again; repeatedly.</p>फेरिफेरि; पटकपटक ।"
+    },
+    "00768" : {
+      "dId" : "ᤀᤧᤏᤧᤍᤠ᤺ᤴ/ᤀᤧᤏᤧᤍᤠᤏ᤻",
+      "desc" : "/एनेदाःन्/",
+      "group" : "AG",
+      "mean" : "<p>nowadays; the recent time.</p>आजकाल;  हालसाल ।"
+    },
+    "00769" : {
+      "dId" : "ᤀᤧᤴ",
+      "desc" : "/एन्/",
+      "group" : "AG",
+      "mean" : "<p>[Phedape/ Tamor] today.</p>[फेदापे/ तमर]  आज ।"
+    },
+    "00770" : {
+      "dId" : "ᤀᤧᤴᤍᤠ᤺ᤴ/ᤀᤧᤴᤍᤠᤏ᤻",
+      "desc" : "/एन्दाःन्/",
+      "group" : "AG",
+      "mean" : "<p>[Phedape/ Tamor]  at this hour.</p>[फेदापे/ तमर]  यसबेला ।"
+    },
+    "00771" : {
+      "dId" : "ᤀᤧᤴᤏᤡᤱ",
+      "desc" : "/एन्निङ्/",
+      "group" : "AG",
+      "mean" : "<p>[Phedape/ Tamor]  Current year; this year.</p>[फेदापे/ तमर]  चालु वर्ष; याे वर्ष ।"
+    },
+    "00772" : {
+      "dId" : "ᤀᤧᤵᤗᤠᤓᤣ᤹",
+      "desc" : "/एप्लाभे?/",
+      "group" : "AG",
+      "mean" : "<p>fan.</p>पङ्खा ।"
+    },
+    "00773" : {
+      "dId" : "ᤀᤧᤵᤗᤠ ᤛᤡᤱ",
+      "desc" : "/एप्ला सिङ्/",
+      "group" : "AG",
+      "mean" : "<p>date-palm tree. Phoenix sylvestris.</p>खजुर; ताडकाे रूख ।"
+    },
+    "00774" : {
+      "dId" : "ᤀᤧᤵᤔᤠ",
+      "desc" : "/एप्मा/",
+      "group" : "AG",
+      "mean" : "<p>1. to shut; to keep close. 2. to lock/ bolt/ latch. 3. to hinder; to prevent. 4. to bind together bamboo stripes or sticks into a lattice frame. 5. to fan; to give air to.</p>१. थुन्नु; बन्द गरेर राख्नु । २. ताला मार्नु; आग्लाे लाउनु । ३. राेक्नु; हुन नदिनु । ४. टाट्ना झैं बाँध्नु । ५. हम्कनु; हावा लाउनु ।"
+    },
+    "00775" : {
+      "dId" : "ᤀᤧᤵᤗᤧᤰ",
+      "desc" : "/एप्लेक्/",
+      "group" : "AG",
+      "mean" : "<p>cheating; deceit; deception; fraud; dishonesty.</p>छल; कपट ।"
+    },
+    "00776" : {
+      "dId" : "ᤀᤧᤵᤛᤡᤱᤔᤠ",
+      "desc" : "/एप्सिङ्मा/",
+      "group" : "AG",
+      "mean" : "<p>to be fanned by oneself.</p>हम्कनु; आफैलाई हावा (पङ्खा आदिले) लगाउनु ।"
+    },
+    "00777" : {
+      "dId" : "ᤀᤧᤖᤧᤛᤫᤠ",
+      "desc" : "/एरेस्वा/",
+      "group" : "AG",
+      "mean" : "<p>childish ace; fondling.</p>लाडेपन; पुलपुल्याइ; केटाैलेपन ।"
+    },
+    "00778" : {
+      "dId" : "ᤀᤧᤖᤧᤛᤫᤠᤒᤠ",
+      "desc" : "/एरेस्वाबा/",
+      "group" : "AG",
+      "mean" : "<p>childish; fondling.</p>लाडे; पुलपुलिएकाे ।"
+    },
+    "00779" : {
+      "dId" : "ᤀᤧ᤺",
+      "desc" : "/एः/",
+      "group" : "AG",
+      "mean" : "<p>the long form of the tenth vowel of the Siriijunga alphabet which is represent by putting the long vowel sign ke:mphrmean  to /ᤀᤧ/ in the Sirijunga script.</p>सिरिजङ्गा वर्णमालाकाे दशाैं स्वरवर्ण  काे दीर्घरुप ।"
+    },
+    "00780" : {
+      "dId" : "ᤀᤧ᤺ᤰ/ᤀᤧᤁ᤻",
+      "desc" : "/एःक्/",
+      "group" : "AG",
+      "mean" : "<p>vexation; badgering.</p>पिराइ; पिर्ने काम; ठग्ने वा दल्ने काम; काँध हालाहाल गर्ने काम । "
+    },
+    "00781" : {
+      "dId" : "ᤀᤧ᤺ᤰᤔᤠ/ᤀᤧᤁ᤻ᤔᤠ",
+      "desc" : "/एःक्मा/",
+      "group" : "AG",
+      "mean" : "<p>1. (vi.) to be vexed/ worried by ab. 2. (vi.) to be exploited/ cheated in works. 3. (vt.) to vex/ worry sb. 4. (vt.) to shirk work and let others do it instead.</p>१.(अक्रि.) पिराेलिनु । २. (अक्रि.) काममा ठगिनु । ३. (सक्रि.) पिराेल्नु; घर्क्याउनु । ४. (अक्रि.)  काम ठग्नु; काममा जाेत्नु ।"
+    },
+    "00782" : {
+      "dId" : "ᤀᤧ᤺ᤰᤛᤡᤱᤔᤠ/ᤀᤧᤁ᤻ᤛᤡᤱᤔᤠ",
+      "desc" : "/एःक्सिङ्मा/",
+      "group" : "AG",
+      "mean" : "<p>to shirk work to each other; to void working by oneself and let others do one’s work.</p>काम ठगाठग गर्नु; काँध हालाहाल गर्नु ।"
+    }
+  }
+}
