@@ -1,0 +1,892 @@
+{
+  "Dic": {
+    "00118": {
+      "dId": "ᤀᤠ",
+      "desc": "/आ/",
+      "group": "AB",
+      "mean": "<p>1. the second vowel letter of the Sirijunga alphabet. 2. {affix} denoting 1st sg. poss. pron. when affixed to a noun word and first person dual or plural number when prefixed to a verb, e.g. amba (a+pa) = my father. Pe:kka ( pe:k +a) = I will go. … so on. 3. {particle} emphatic particle; just like ‘नि’ in Nepali, i.e. amba-a = “by the way; for nothing”. Hekke-a = “ that is so: that way; not specifically, incidentally”.</p>१. सिरिजङ्गा वर्णमालाकाे दाेस्राे स्वरवर्ण । २. {उपसर्ग/ परसर्ग } संज्ञा शब्दकाे अगाडि पछाडि जाेडिएर प्रथम पुरुष ‘म’ बुझाउने उपसर्ग अथवा क्रियापदकाे अगाडि जाेडिएर प्रथम पुरुष, द्वि वचन, बहुवचन बुझाउने परसर्ग जस्तै:-  आम्बा (आ+पा)= मेराे बाबु । पेःक्का ( पेःक्+आ)= म जान्छु ।आबित्छि?= हामी दुईजना जान्छाैं । आबेःक्= हामीहरू जान्छाैं । ३. {निपात} अघिल्लाे शाब्दकाे अर्थलाई विशेष बनाउने नेपालीकाे ‘नि’ बाेधक निपात, जस्तै:- आम्बाआ =“यसै नि” । हेक्केआ= “त्यसै हाे नि” ।"
+    },
+    "00119": {
+      "dId": "ᤀᤠᤀᤠ᤹ᤒᤠ",
+      "desc": "/आआ?बा/",
+      "group": "AB",
+      "mean": "<p>A person who stammers.</p>भकभके ।"
+    },
+    "00120": {
+      "dId": "ᤀᤠᤀᤡᤴ",
+      "desc": "/आइन्/",
+      "group": "AB",
+      "mean": "<p>today.</p>आज ।"
+    },
+    "00121": {
+      "dId": "ᤀᤠᤀᤡᤴᤍᤠ᤺ᤴ/ᤀᤠᤀᤡᤴᤍᤠᤏ᤻",
+      "desc": "/आइन्दाःन्/",
+      "group": "AB",
+      "mean": "<p>At present; current time (period).</p>हाल हालसाल हिजाेआज ।"
+    },
+    "00122": {
+      "dId": "ᤀᤠᤀᤡᤗᤠᤶᤒᤠ",
+      "desc": "/आइलाम्बा/",
+      "group": "AB",
+      "mean": "<p>1. this time. 2. Current year; running year.</p>१. यसपल्ट । २. याे साल; चालु वर्ष ।"
+    },
+    "00123": {
+      "dId": "ᤀᤠᤀᤠᤣᤍᤠ᤺ᤴ/ᤀᤠᤀᤠᤣᤍᤠᤏ᤻",
+      "desc": "/आओदाःन/",
+      "group": "AB",
+      "mean": "<p>the third day after tomorrow.</p>कानिकाेर्सि निकाेर्सिकाे भाेलिपल्ट ।"
+    },
+    "00124": {
+      "dId": "ᤀᤠ᤹ᤖᤢ",
+      "desc": "/आ?रु/",
+      "group": "AB",
+      "mean": "<p>Very strong, over-ripe or well cooked (e.g. over-ripe beer).</p>राम्राे पाकेर निकै कडा लाग्ने (जस्तै छिप्पिएकाे जाँड) ।"
+    },
+    "00125": {
+      "dId": "ᤀᤠᤰᤁᤠᤷᤈᤡ ",
+      "desc": "/आक्कार् जि/",
+      "group": "AB",
+      "mean": "<p>Demon; devil; giant; ogre.</p>राक्षस दैत्य ।"
+    },
+    "00126": {
+      "dId": "ᤀᤠᤰᤁᤢᤒᤠ",
+      "desc": "/आक्कुबा/",
+      "group": "AB",
+      "mean": "<p>cuckoo. Cuculus.</p>काेइली ।"
+    },
+    "00127": {
+      "dId": "ᤀᤠᤰᤁᤣ",
+      "desc": "/आक्खे/",
+      "group": "AB",
+      "mean": "<p>How, an interrogative adverb.</p>कसाे प्रश्न वा शंका आदि बुझाउने शब्द ।"
+    },
+    "00128": {
+      "dId": "ᤀᤠᤰᤂᤣᤖᤡᤰ",
+      "desc": "/आक्खेरिक्/",
+      "group": "AB",
+      "mean": "<p>how.</p>कसरी ।"
+    },
+    "00129": {
+      "dId": "ᤀᤠᤰᤂᤠᤣ",
+      "desc": "/आक्खाे/",
+      "group": "AB",
+      "mean": "<p>After a while; a little while after.</p>भरे; केहिबेर पछि ।"
+    },
+    "00130": {
+      "dId": "ᤀᤠᤰᤂᤧᤴ",
+      "desc": "/आक्खेन्/",
+      "group": "AB",
+      "mean": "<p>How much (or many); an interrogative term used to express quantity, number, time etc.</p>कति; परिमाण, सङ्ख्या वा अवधि आदि जान्नकाे निम्ति प्रश्न गर्दा प्रयाेग गरिने शब्द ।"
+    },
+    "00131": {
+      "dId": "ᤀᤠᤰᤂᤧᤴᤍᤠ᤺ᤴ/ᤀᤠᤰᤂᤧᤴᤍᤠᤏ᤻",
+      "desc": "/आक्खेन्दाःन/",
+      "group": "AB",
+      "mean": "<p>Two days after tomorrow; the 4th day from today.</p>निपर्सि;निकाेर्सि आजकाे चाैंथाे दिन; पर्सिकाे भाेलीपल्ट ।"
+    },
+    "00132": {
+      "dId": "ᤀᤠᤰᤂᤧᤶᤔᤠᤰ",
+      "desc": "/आक्खेम्माक्/",
+      "group": "AB",
+      "mean": "<p>the year after the 3rd year; the coming fourth year.</p>पराघाैंकाे अर्काे वर्ष; आउँदाे चाैंथाे साल ।"
+    },
+    "00133": {
+      "dId": "ᤀᤠᤰᤂᤩᤠ᤺ᤰ/ᤀᤠᤰᤂᤩᤠᤁ᤻",
+      "desc": "/आक्ख्याःक्/",
+      "group": "AB",
+      "mean": "<p>how much.</p>कति"
+    },
+    "00134": {
+      "dId": "ᤀᤠᤰᤆᤧᤵᤐᤠ",
+      "desc": "/आक्चेप्पा/",
+      "group": "AB",
+      "mean": "<p>Wagtail. Motacilla.</p>टिकटिके चराे ।"
+    },
+    "00135": {
+      "dId": "ᤀᤠᤰᤋᤱᤒᤠ",
+      "desc": "/आक्तङ्बा/",
+      "group": "AB",
+      "mean": "<p>Of what kind; like what.</p>कस्ताे"
+    },
+    "00136": {
+      "dId": "ᤀᤠᤰᤔᤠ",
+      "desc": "/आक्मा/",
+      "group": "AB",
+      "mean": "<p>[Tamor] To put in (esp to serve fermented millet beer putting in a Tongba to the guest).</p>[तमर] हाल्नु भर्नु (जस्तै काेदाेकाे छाक्रा ताेङ्बामा हालेर पाहुनालाई दिनु ) ।"
+    },
+    "00137": {
+      "dId": "ᤀᤠᤃᤠᤃᤠ",
+      "desc": "/आगागा/",
+      "group": "AB",
+      "mean": "<p>(n.) mouthwash, (adv.) gargling.</p>(ना.) कुल्ला, (क्रि. वि.) पानी मुखमा हाली घाँटी ठाडाे पारेर गलगल गरी घाँटी सफा गर्ने तरीका ।"
+    },
+    "00138": {
+      "dId": "ᤀᤠᤃᤠᤸᤖᤠ",
+      "desc": "/आगाल् रा /",
+      "group": "AB",
+      "mean": "<p>a bangle having thorny designs around its surface.</p>काँडे चुरा (एक प्रकारकाे चुरा) ।"
+    },
+    "00139": {
+      "dId": "ᤀᤠᤱ",
+      "desc": "/आङ्/",
+      "group": "AB",
+      "mean": "<p>1. (n.) pine tree. Pinus roxburghii. 2. (conj.) and; also; with; too, even; at all.</p>१. (ना. ) सल्ला । २. (संयाे.) अनि; पनि ।"
+    },
+    "00140": {
+      "dId": "ᤀᤠᤱᤃᤠ᤹",
+      "desc": "/आङ्गा?/",
+      "group": "AB",
+      "mean": "<p>I; Me.</p>म; मलाई ।"
+    },
+    "00141": {
+      "dId": "ᤀᤠᤱᤃᤢᤃᤧᤴ",
+      "desc": "/आङ्गुगेन्/",
+      "group": "AB",
+      "mean": "<p>Passionate burning of the intestines owing to thirst and hunger, etc.</p>आँत जलेझैं पाेल्ने भाेकप्यास आदिले हरहर भएकाे आँत ।"
+    },
+    "00142": {
+      "dId": "ᤀᤠᤱᤄᤢ",
+      "desc": "/आङ्घु/",
+      "group": "AB",
+      "mean": "<p>resin.</p>खाेटाे ।"
+    },
+    "00143": {
+      "dId": "ᤀᤠᤱᤍᤡᤱ",
+      "desc": "/आङ्दिङ्/",
+      "group": "AB",
+      "mean": "<p>Egoism, vanity; haughtiness.</p>अहङ्कार अटेरीपना ।"
+    },
+    "00144": {
+      "dId": "ᤀᤠᤱᤍᤧᤶᤒᤣ",
+      "desc": "/आङ्देम्बे/",
+      "group": "AB",
+      "mean": "<p>(adj.) inhabitant of pine-covered land or pine grove. (n.) a clan name of the Limbu tribe.</p>(वि.) सल्लाघारीमा बस्ने । (ना.) लिम्बूकाे एक थर ।"
+    },
+    "00145": {
+      "dId": "ᤀᤠᤱᤒᤠᤣ",
+      "desc": "/आङ्बाे/",
+      "group": "AB",
+      "mean": "<p>Pine grove; a clan name of the Limbu tribe.</p>आङ्बाे"
+    },
+    "00146": {
+      "dId": "ᤀᤠᤱᤔᤠ",
+      "desc": "/आङ्मा/",
+      "group": "AB",
+      "mean": "<p>an edible frog of big size which makes a cry at night.</p>रातिराति बेसरी कराउने ठुलाे खालकाे पाहा ।"
+    },
+    "00147": {
+      "dId": "ᤀᤠᤱᤗᤠᤱᤃᤠᤣᤒᤠ",
+      "desc": "/आङ्लाङ्गाेबा/",
+      "group": "AB",
+      "mean": "<p>the man  or disciple who assist the Samba.</p>साम्बाकाे सहयाेगी साथी ।"
+    },
+    "00148": {
+      "dId": "ᤀᤠᤱᤛᤖᤠᤱ",
+      "desc": "/आङ्सराङ्/",
+      "group": "AB",
+      "mean": "<p>pine tree/trunk.</p>सल्लाकाे रुख/ मुढा ।"
+    },
+    "00149": {
+      "dId": "ᤀᤠᤱᤛ᤺ᤣᤰ/ᤀᤠᤱᤛᤣᤁ᤻",
+      "desc": "/आङ्सेःक्/",
+      "group": "AB",
+      "mean": "<p>Seeds (or fruits) of the pine tree.</p>सिम्टा; सल्लाकाे फल वा दाना ।"
+    },
+    "00150": {
+      "dId": "ᤀᤠᤇᤡ",
+      "desc": "/आछि/",
+      "group": "AB",
+      "mean": "<p>(n.) baby’s stool. (inter.) -1. an exclamatory expression of disapproval. 2. an exclamation of pain or fear of cold.</p>(ना.)- बच्चाकाे गुहु; नानीकाे टट्टी । (विबाे.)- १. फाेहाेरकाे अनुभव हुँदा साे भाव व्यक्त गर्ने शब्द; छि; छ्या । २. पानी आदिकाे छिटा लाग्दा वा चिसाे अनुभव हुदा व्यक्त हुने शब्द; आछु ।"
+    },
+    "00151": {
+      "dId": "ᤀᤠᤇᤡᤴᤍᤠ᤺ᤴ/ᤀᤠᤇᤡᤴᤍᤠᤏ᤻",
+      "desc": "/आछेन्दाःन्/",
+      "group": "AB",
+      "mean": "<p>Day after tomorrow.</p>पर्सि ।"
+    },
+    "00152": {
+      "dId": "ᤀᤠᤇᤡᤶᤔᤠᤰ",
+      "desc": "/आछिम्माक्/",
+      "group": "AB",
+      "mean": "<p>One year after the next ; the year after the next year.</p>पराघाैं; आघाैंकाे अर्काे साल ।"
+    },
+    "00153": {
+      "dId": "ᤀᤠᤈᤰᤁᤣ",
+      "desc": "/आजक्के/",
+      "group": "AB",
+      "mean": "<p>Excess; extreme.</p>अति; अतिचार; सारै ।"
+    },
+    "00154": {
+      "dId": "ᤀᤠᤈᤠ᤺ᤈᤠ᤺ᤒᤠ",
+      "desc": "/आजाःजाःबा/",
+      "group": "AB",
+      "mean": "<p>(adj.) fearful; horrible, (n.) demon.</p>(वि.) डरलाग्दाे; भयङ्कर । (ना.) राक्षस ।"
+    },
+    "00155": {
+      "dId": "ᤀᤠᤈᤠ᤺ᤈᤠ᤺ᤔᤠ",
+      "desc": "/आजाःजाःमा/",
+      "group": "AB",
+      "mean": "<p>(adj.) fearful; horrible, (n.) demon.  {fem.}.</p>(वि.) डरलाग्दी; भयङ्कर । (ना.) राच्छेस्नी ।"
+    },
+    "00156": {
+      "dId": "ᤀᤠᤈᤡ ",
+      "desc": "/आजि/",
+      "group": "AB",
+      "mean": "<p>Misery; unhappiness; distress.</p>पीर; पीडा ; दुःख ।"
+    },
+    "00157": {
+      "dId": "ᤀᤠᤈᤡᤒᤠ",
+      "desc": "/आजिबा/",
+      "group": "AB",
+      "mean": "<p>1. (n.) white pink Bauhinia, a kind of tree, its flowers are eaten as vegetable. Bauinia variegata; Bauinia purpurea. 2. (adj.) tragic; ending in sorrow, horribly tragic.</p>१. (ना. ) काेइरालाे । २. (वि.) दुखान्त; दुखान्तक; त्रासद ।"
+    },
+    "00158": {
+      "dId": "ᤀᤠᤈᤢᤏᤡ ",
+      "desc": "/आजुनि/",
+      "group": "AB",
+      "mean": "<p>Eternal; immortal.</p>अमर ।"
+    },
+    "00159": {
+      "dId": "ᤀᤠᤈᤧᤳ",
+      "desc": "/आजेत्/",
+      "group": "AB",
+      "mean": "<p>a little; a bit.</p>अलिक; अलिकति ।"
+    },
+    "00160": {
+      "dId": "ᤀᤠᤳᤋᤠ",
+      "desc": "/आत्ता/",
+      "group": "AB",
+      "mean": "<p>where.</p>कहाँ ।"
+    },
+    "00161": {
+      "dId": "ᤀᤠᤳᤋᤠᤴ",
+      "desc": "/आत्तान्/",
+      "group": "AB",
+      "mean": "<p>where.</p>कता; कहाँ ।"
+    },
+    "00162": {
+      "dId": "ᤀᤠᤳᤋᤡ ",
+      "desc": "/आत्ति/",
+      "group": "AB",
+      "mean": "<p>(pro.) which: whichever. (adv.) where: anywhere.</p>(सर्व. ) कुन; कुनै  । (क्रिवि.) कहाँ; कता; जहाँ; जता ।"
+    },
+    "00163": {
+      "dId": "ᤀᤠᤳᤋᤡᤴ",
+      "group": "AB",
+      "desc": "/आत्तिन्/",
+      "mean": "<p>(pro.) 1. who or which (used to discern or particularise someone from among the group). 2. who ( used while questioning for introduction).</p>(सर्व. ) १) कुनचाहिँ (धेरै मध्ये एकलाई किटेर जान्नका निम्ति प्रश्न साेध्दा प्रयाेग गरीने शब्द) । २) काे (कसैकाे परिचयकाे निम्ति प्रश्न साेध्दा प्रयाेग गरीने शब्द) ।"
+    },
+    "00164": {
+      "dId": "ᤀᤠᤳᤋᤠᤣ",
+      "desc": "/आत्ताे/",
+      "group": "AB",
+      "mean": "<p>Where; whither.</p>कहाँ; कता; जहाँ; जता  ।"
+    },
+    "00165": {
+      "dId": "ᤀᤠᤳᤌᤶᤔᤠᤰ",
+      "desc": "/आत्थम्माक्/",
+      "group": "AB",
+      "mean": "<p>The year after fourth year the coming fifth year.</p>पराघाैंकाे अर्काे वर्ष; आउँदाे पाँचाैं साल ।"
+    },
+    "00166": {
+      "dId": "ᤀᤠᤳᤌᤠᤣ",
+      "desc": "/आत्थाे/",
+      "group": "AB",
+      "mean": "<p>[Tamor] (adj.) approximately; very nearly. (Adv.) up there.</p>[तमर]  (वि.) पुगनपुग । ( क्रिवि.) त्यहाँमाथि ।"
+    },
+    "00167": {
+      "dId": "ᤀᤠᤳᤋᤩᤧᤴ-ᤀᤠᤳᤋᤩᤧᤴ",
+      "desc": "/आत्येन् -आत्येन्/",
+      "group": "AB",
+      "mean": "<p>Occasionally; from time to time.</p>समय समयमा ।"
+    },
+    "00168": {
+      "dId": "ᤀᤠᤠᤍᤠᤱᤒᤠ",
+      "desc": "/आदाङ्बा/",
+      "group": "AB",
+      "mean": "<p>Sir; my lord; master ( an address term of respect for a male).</p>(लाेग्ने मानिसलाइ आदरपुर्वक सम्वाेधन गर्दा प्रयाेग गरीने शब्द ) महाशाय; महाेदय; श्रीमान (मेराे) मालिक ।"
+    },
+    "00169": {
+      "dId": "ᤀᤠᤍᤠᤱᤔᤠ",
+      "desc": "/आदाङ्मा/",
+      "group": "AB",
+      "mean": "<p>Mrs/Madam (a formal address term meaning Mrs/Madam).</p>(स्वास्नी मानिसलाइ आदरपुर्वक सम्वाेधन गर्दा प्रयाेग गरीने शब्द ) महाशाया; महाेदया; श्रीमती (मेरी) मालिक्नी । "
+    },
+    "00170": {
+      "dId": "ᤀᤠᤍᤧ",
+      "desc": "/आदे/",
+      "group": "AB",
+      "mean": "<p>My dear friend! ( a term of address for a friend); comrade.</p>ए साथी ( साथिलाई सम्बाेधन गरेर बाेलाउने शब्द) ।"
+    },
+    "00171": {
+      "dId": "ᤀᤠᤎᤠ᤺ᤵᤐᤠ/ᤀᤠᤎᤠᤐ᤻ᤐᤠ",
+      "desc": "/आधाःप्पा/",
+      "group": "AB",
+      "mean": "<p>Transparent; clear; lucid; clearly visible or understandable; frank; candid.</p>पारदर्शी; पारदर्शक; स्पस्ट, छर्लङ्ग देखिने वा बुझिने; स्पस्टवादी ।"
+    },
+    "00172": {
+      "dId": "ᤀᤠᤎᤡᤱᤃᤠᤏᤡ ",
+      "desc": "/आधिङ्गानि/",
+      "group": "AB",
+      "mean": "<p>Unmindful; obstinate.</p>थेत्तराे; अटेरी ।"
+    },
+    "00173": {
+      "dId": "ᤀᤠᤏᤠᤶ",
+      "desc": "/आनाम्/",
+      "group": "AB",
+      "mean": "<p>Vietnam ( a country).</p>भियतनाम (देश) । "
+    },
+    "00174": {
+      "dId": "ᤀᤠᤏᤡ᤹ ",
+      "desc": "/आनि?/",
+      "group": "AB",
+      "mean": "<p>We; us (plu.; inclusive).</p>हामी; समाबेशी ( सम्बाेधित व्यक्ति समाविष्ट) ।"
+    },
+    "00175": {
+      "dId": "ᤀᤠᤏᤡᤃᤧ(ᤃᤩᤠ)",
+      "desc": "/आनिगे(ग्या)/",
+      "group": "AB",
+      "mean": "<p>We; us (plu.; exclusive).</p>हामी; असमाबेशी ( सम्बाेधित व्यक्ति असमाविष्ट) ।"
+    },
+    "00176": {
+      "dId": "ᤀᤠᤏᤡ᤺ᤵᤏᤡ᤺ᤵᤐᤠ/ᤀᤠᤏᤡᤐ᤻ᤏᤡᤐ᤻ᤐᤠ",
+      "desc": "/आनिःप्निःप्पा/",
+      "group": "AB",
+      "mean": "<p>Quagmire; marsh.</p>भास; दलदल ।"
+    },
+    "00177": {
+      "dId": "ᤀᤠᤏᤣᤵᤐᤠ",
+      "desc": "/आनेप्पा/",
+      "group": "AB",
+      "mean": "<p>Peculiar; uncommon; unusual.</p>अनाैठा; असामान्य ।"
+    },
+    "00178": {
+      "dId": "ᤀᤠᤏᤧᤜᤠᤣ",
+      "desc": "/आनेहाे/",
+      "group": "AB",
+      "mean": "<p>Handle of a plough.</p>अनाै (हलाेकाे) ।"
+    },
+    "00179": {
+      "dId": "ᤀᤠᤴᤇᤡ᤹ ",
+      "desc": "/आन्छि?/",
+      "group": "AB",
+      "mean": "<p>We two ( inclusive).</p>हामी (समावशी) ।"
+    },
+    "00180": {
+      "dId": "ᤀᤠᤴᤇᤃᤧ(ᤃᤩᤠ)",
+      "desc": "/आन्छिगे(ग्या)/",
+      "group": "AB",
+      "mean": "<p>we tow ( exclusive).</p>हामी (असमावशी) ।"
+    },
+    "00181": {
+      "dId": "ᤀᤠᤴᤇᤡᤱ",
+      "desc": "/आन्छिङ्/",
+      "group": "AB",
+      "mean": "<p>Attempt; effort; endeavour; try.</p>काेशीश; प्रयास; प्रयत्न ।"
+    },
+    "00182": {
+      "dId": "ᤀᤠᤴᤇᤡᤱᤔᤠ",
+      "desc": "/आन्छिङ्मा/",
+      "group": "AB",
+      "mean": "<p>to be bold; to dare.</p>आँट गर्नु ।"
+    },
+    "00183": {
+      "dId": "ᤀᤠᤇᤡᤴᤍᤠ᤺ᤴ/ᤀᤠᤇᤡᤴᤍᤠᤏ᤻",
+      "desc": "/आछिन्दाःन्/",
+      "group": "AB",
+      "mean": "<p>Day after tomorrow.</p>पर्सि; भाेलीकाे भाेली।"
+    },
+    "00184": {
+      "dId": "ᤀᤠᤴᤇᤠ᤺ᤣᤴ/ᤀᤠᤴᤇᤠᤣᤏ᤻",
+      "desc": "/आन्छाेःन्/",
+      "group": "AB",
+      "mean": "<p>Formerly; a few days ago.</p>उहिले; अस्ति; निकै दिन पहिले ।"
+    },
+    "00185": {
+      "dId": "ᤀᤠᤴᤈᤡᤖᤡ ",
+      "desc": "/आन्जिरि/",
+      "group": "AB",
+      "mean": "<p>immortal.</p>अमर ।"
+    },
+    "00186": {
+      "dId": "ᤀᤠᤴᤍᤠᤣ",
+      "desc": "/आन्दाे/",
+      "group": "AB",
+      "mean": "<p>[Phedape]  after sometime.</p>[फेदापे]  भरे केहि बेरपछि ।"
+    },
+    "00187": {
+      "dId": "ᤀᤠᤴᤍᤧ᤺ᤴ/ᤀᤠᤴᤍᤧᤏ᤻",
+      "desc": "/आन्देन्/",
+      "group": "AB",
+      "mean": "<p>1. a short while ago; previously. 2. A moment ago; just now; before.</p>१. अघि अगि ।  २. एकेछिन अघि भर्खर भर्खरै केहि पहिले ।"
+    },
+    "00188": {
+      "dId": "ᤀᤠᤴᤎᤠ",
+      "desc": "/आन्धा/",
+      "group": "AB",
+      "mean": "<p>Bumble bee.</p>भमराे भँवराे ।"
+    },
+    "00189": {
+      "dId": "ᤀᤠᤴᤏᤠᤖᤠ",
+      "desc": "/आन्नारा/",
+      "group": "AB",
+      "mean": "<p>Mistake; error; fault.</p>भुल; गल्ती ।"
+    },
+    "00190": {
+      "dId": "ᤀᤠᤴᤏᤡᤱ",
+      "desc": "/आन्निङ्/",
+      "group": "AB",
+      "mean": "<p>[Tamor]  Current year; this year.</p>[तमर]  याे सल"
+    },
+    "00191": {
+      "dId": "ᤀᤠᤴᤏᤧᤶᤔᤠᤰ",
+      "desc": "/आन्नेम्माक्/",
+      "group": "AB",
+      "mean": "<p>Next year; coming year.</p>आघाैं; आउँदाे वर्ष ।"
+    },
+    "00192": {
+      "dId": "ᤀᤠᤵᤆᤠᤖᤠ",
+      "desc": "/आप्चारा/",
+      "group": "AB",
+      "mean": "<p>hunter.</p>शिकारी ।"
+    },
+    "00193": {
+      "dId": "ᤀᤠᤵᤆᤠᤖᤠ ᤐᤰᤆᤠᤏᤠ",
+      "desc": "/आप्चारा पक्चाना/",
+      "group": "AB",
+      "mean": "<p>the hunting deity residing in a cress-road.</p>दाेबाटाेमा वास गर्ने दाेबाटे शिकारी देवता ।"
+    },
+    "00194": {
+      "dId": "ᤀᤠᤵᤆᤡᤖᤡ ",
+      "desc": "/आप्चिरि/",
+      "group": "AB",
+      "mean": "<p>catapult.</p>फित्काैली; उफ्रेर प्रहार गर्ने हतियारकाे किसिम ।"
+    },
+    "00195": {
+      "dId": "ᤀᤠᤵᤋᤠᤰ-ᤁᤡᤵᤔᤠ",
+      "desc": "/आप्ताक- किप्मा/",
+      "group": "AB",
+      "mean": "<p>fear.</p>डर; त्रास ।"
+    },
+    "00196": {
+      "dId": "ᤀᤠᤵᤋᤡᤰ",
+      "desc": "/आप्तिक्/",
+      "group": "AB",
+      "mean": "<p>Accusation; indictment.</p>अभियाेग; लान्छाना ।"
+    },
+    "00197": {
+      "dId": "ᤀᤠᤵᤏᤠ",
+      "desc": "/आप्ना/",
+      "group": "AB",
+      "mean": "<p>a fatal blow; a serious stroke.</p>मर्मान्तक प्रहार ।"
+    },
+    "00198": {
+      "dId": "ᤀᤠᤵᤐᤢᤱᤃᤣ",
+      "desc": "/आप्पुङ्गे/",
+      "group": "AB",
+      "mean": "<p>1. free; independent; of an independent nature. 2. anarchist.</p>१. स्वतन्त्र; पराधीन नभएकाे ।  २. अराजक ।"
+    },
+    "00199": {
+      "dId": "ᤀᤠᤵᤑᤠ᤺ᤸ/ᤀᤠᤵᤑᤠᤗ᤻(ᤗᤧ)",
+      "desc": "/आप्फाःल्(ले)/",
+      "group": "AB",
+      "mean": "<p>When; at what time.</p>कहिले; कुनबेला ।"
+    },
+    "00200": {
+      "dId": "ᤀᤠᤵᤑ᤺ᤢᤔᤠ",
+      "desc": "/आप्फुःमा/",
+      "group": "AB",
+      "mean": "<p>to throw (away).</p>फाल्नु; फ्याँक्नु ।"
+    },
+    "00201": {
+      "dId": "ᤀᤠᤵᤔᤠ",
+      "desc": "/आप्मा/",
+      "group": "AB",
+      "mean": "<p>To strike; to shoot.</p>प्रहार गर्नु; हान्नु ।"
+    },
+    "00202": {
+      "dId": "ᤀᤠᤓᤠᤱᤗᤢᤱ",
+      "desc": "/आभाङ्लुङ्/",
+      "group": "AB",
+      "mean": "<p>Parts of speech.</p>पद- व्याकरण ।"
+    },
+    "00203": {
+      "dId": "ᤀᤠᤓᤠᤱᤗᤢᤶ",
+      "desc": "/आभाङ्लुम्/",
+      "group": "AB",
+      "mean": "<p>Mutuality; reciprocity.</p>आपसीपन; पारस्परिकता ।"
+    },
+    "00204": {
+      "dId": "ᤀᤠᤓᤠᤱᤛᤡᤱ",
+      "desc": "/आभाङ्सिङ्/",
+      "group": "AB",
+      "mean": "<p>Mutual relation. (Mundhum) authoritarianism; autocracy; feudalism.</p>आपसि वा परस्परकाे सम्वन्ध । (मुन्धुम) हैकमवाद; सामान्तवाद ।"
+    },
+    "00205": {
+      "dId": "ᤀᤠᤔ᤺ᤔ᤺ᤒᤠ",
+      "desc": "/आमःमःबा/",
+      "group": "AB",
+      "mean": "<p>Intoxicating; besotting; e.g. liquor; venomous or poisonous  plants (drugs), etc.</p>मादक पदार्थ (जाँड, रक्सी तथा बिखालु मात लाग्ने जडीबुटी आदि पदार्थ ) जस्तै:- रक्सी; बाँकाे; माने इत्यादी ।"
+    },
+    "00206": {
+      "dId": "ᤀᤠᤔᤡ᤺ᤶ/ᤀᤠᤔᤡᤔ᤻",
+      "desc": "/आमिःम/",
+      "group": "AB",
+      "mean": "<p>1. dear; beloved. 2. my beloved one.</p>१. प्याराे; प्रिय । २. मेराे प्रिय ।"
+    },
+    "00207": {
+      "dId": "ᤀᤠᤔᤣᤗᤠ",
+      "desc": "/आमेला/",
+      "group": "AB",
+      "mean": "<p>a kind of bird.</p>चाङ्ग्री; एक प्रकारकाे चराे ।"
+    },
+    "00208": {
+      "dId": "ᤀᤠᤔᤠᤣ",
+      "desc": "/आमाे/",
+      "group": "AB",
+      "mean": "<p>Mother; O mother.</p>आमा; हे आमा ।"
+    },
+    "00209": {
+      "dId": "ᤀᤠᤶᤍᤠᤱ",
+      "desc": "/आम्दाङ्/",
+      "group": "AB",
+      "mean": "<p> Strangeness; peculiarity.</p>अनाैठाेपना ।"
+    },
+    "00210": {
+      "dId": "ᤀᤠᤶᤏᤠᤕᤠ",
+      "desc": "/आम्नाया/",
+      "group": "AB",
+      "mean": "<p>Grains mixed in ghee used for burning the Sacred Fire.</p>चरु; हाेममा चढाइने घ्युमा मिसाइएका अन्नहरू ।"
+    },
+    "00211": {
+      "dId": "ᤀᤠᤶᤒᤡ᤹ ",
+      "desc": "/आम्बि?/",
+      "group": "AB",
+      "mean": "<p>Oh!; exclamation of alarm, distress, surprise, fear, etc.</p>“आम्मै; ओहाे; हाय; उफ”; डर, आश्चार्य आदि जनाउन मुखबाट एक्कासि निस्कने शब्दविशेष ।"
+    },
+    "00212": {
+      "dId": "ᤀᤠᤶᤒᤢᤳᤋᤣ",
+      "desc": "/आम्बुत्ते/",
+      "group": "AB",
+      "mean": "<p>a particular way of carrying a baby on one’s back.</p>बच्चालाई पिठ्यूँमा बाेक्ने किसिम ।"
+    },
+    "00213": {
+      "dId": "ᤀᤠᤶᤒᤠ᤹",
+      "desc": "/आम्बा?/",
+      "group": "AB",
+      "mean": "<p>For nothing.</p>त्यसै; बित्थामा ।"
+    },
+    "00214": {
+      "dId": "ᤀᤠᤶᤒᤣ",
+      "desc": "/आम्बे/",
+      "group": "AB",
+      "mean": "<p>mango. Mangifera indica.</p>आँप ।"
+    },
+    "00215": {
+      "dId": "ᤀᤠᤶᤓᤠ᤹",
+      "desc": "/आम्भा?/",
+      "group": "AB",
+      "mean": "<p>In vain; for nothing; uselessly.</p>सित्तै; बित्थामा ।"
+    },
+    "00216": {
+      "dId": "ᤀᤠᤶᤓᤠᤣ",
+      "desc": "/आम्भाे/",
+      "group": "AB",
+      "mean": "<p>1. 1. seat or raised sides (platforms) in the earthen floor on either side of a Nepali door front. 2. the earthen floor in front of the door of a Nepali house.</p>१. सिकुवाकाे पेटी वा डील । २. सिकुवा ।"
+    },
+    "00217": {
+      "dId": "ᤀᤠᤶᤔᤠ",
+      "desc": "/आम्मा/",
+      "group": "AB",
+      "mean": "<p>1. symbol of vowel “a”; the sign () in the Sirijunga script. 2. to warm (up); to warm oneself by a fire (or at a fire); to dry in the sun. 3. to roast; to bake.</p>१. आकार; कन्धनी; आ स्वरकध्वनिकाे मात्रा; सिरिजङ्गा लिपिकाे यस्ताे ( ) चिन्ह । २. सेक्नु ( आगाे; घाम आदिमा तताउनु) ।  ३. सुकाउने प्रकृयाद्वारा पकाउनु; पाेल्नु ।"
+    },
+    "00218": {
+      "dId": "ᤀᤠᤶᤔᤡ᤺ᤵᤔᤠ/ᤀᤠᤶᤔᤡᤐ᤻ᤔᤠ",
+      "desc": "/अम्मिःप्मा/",
+      "group": "AB",
+      "mean": "<p>Recently; a few days ago.</p>हिजाेअस्ति; केहि दिन अगाडि ।"
+    },
+    "00219": {
+      "dId": "ᤀᤠᤶᤛᤡᤱ",
+      "desc": "/आम्सिङ्/ ",
+      "group": "AB",
+      "mean": "<p>a kind of tree.</p>आली रूख ।"
+    },
+    "00220": {
+      "dId": "ᤀᤠᤶᤛᤡᤱᤔᤠ",
+      "desc": "/आम्सिङ्मा/",
+      "group": "AB",
+      "mean": "<p>To be warmed; to warm oneself at a fire.</p>सेकिनु; आफुलाई ताताे पार्नु ।"
+    },
+    "00221": {
+      "dId": "ᤀᤠᤶᤛᤠ᤺ᤣᤴ/ᤀᤠᤶᤛᤠᤣᤏ᤻",
+      "desc": "/आम्साेःन्/",
+      "group": "AB",
+      "mean": "<p>Observation.</p>पर्यवेक्षण ।"
+    },
+    "00222": {
+      "dId": "ᤀᤠᤶᤛᤠ᤺ᤣᤶᤔᤠ/ᤀᤠᤶᤛᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/आम्साेःम्मा/",
+      "group": "AB",
+      "mean": "<p>to observed; to invigilate.</p>पर्यवेक्षण गर्नु; निरिक्षण गर्नु ।"
+    },
+    "00223": {
+      "dId": "ᤀᤠᤕᤠᤰᤁᤠᤣ",
+      "desc": "/आयाक्काे/",
+      "group": "AB",
+      "mean": "<p>Ouch; expression of sudden pain.</p>ऐया नि भन्ने भावकाे अभिव्यक्ति ।"
+    },
+    "00224": {
+      "dId": "ᤀᤠᤕᤠᤕᤠ",
+      "desc": "/आयाया/",
+      "group": "AB",
+      "mean": "<p>Exclamation of pain (or tiredness); oh! .</p>ऐया (दुख्दा वा थाक्दा मुखवाट निस्कने शब्दविशेष) ।"
+    },
+    "00225": {
+      "dId": "ᤀᤠᤖ",
+      "desc": "/आर/",
+      "group": "AB",
+      "mean": "<p>Yet; now.</p>अझ; अब ।"
+    },
+    "00226": {
+      "dId": "ᤀᤠᤖᤡ ",
+      "desc": "/आरी/",
+      "group": "AB",
+      "mean": "<p>a rectangular wooden pot for keeping filtered millet beer.</p>छानेकाे जाँड राख्ने ठूलाे मुख र सानाे पींध भएकाे काठकाे चारकुने पात्र भाँडाे ।"
+    },
+    "00227": {
+      "dId": "ᤀᤠᤖᤡ᤺ᤰ",
+      "desc": "/आरीक्/",
+      "group": "AB",
+      "mean": "<p>curse.</p>शाप; सराप ।"
+    },
+    "00228": {
+      "dId": "ᤀᤠᤖᤡᤴᤏᤧ",
+      "desc": "/आरिन्ने/",
+      "group": "AB",
+      "mean": "<p>a term to denote disagreement, neglect, humility ( used in abuse) .</p>बेवास्ता, तिरस्कार आदिकाे भाव जनाउन व्यक्त गरीने शब्द; भुत्राे; भुत्रसित; यत्रैसित ।"
+    },
+    "00229": {
+      "dId": "ᤀᤠᤖᤧᤴᤈᤡ",
+      "desc": "/आरेन्जि/",
+      "group": "AB",
+      "mean": "<p>cardamom. <i>Amomum subulatum.</i></p>अलैची ।"
+    },
+    "00230": {
+      "dId": "ᤀᤠᤖᤧᤵᤘᤠ",
+      "desc": "/आरेप् वा/",
+      "group": "AB",
+      "mean": "<p>Trouble; sickness; pain.</p>व्याथा ।"
+    },
+    "00231": {
+      "dId": "ᤀᤠᤷᤃᤠ᤺ᤣᤰ/ᤀᤠᤷᤃᤠᤣᤁ᤻",
+      "desc": "/आर् गाेःक्/",
+      "group": "AB",
+      "mean": "<p>Terraced slope of land.</p>कान्ला; डील ।"
+    },
+    "00232": {
+      "dId": "ᤀᤠᤷᤛᤠᤱ",
+      "desc": "/आर् साङ्/",
+      "group": "AB",
+      "mean": "<p>yet; once more.</p>अझैपनि; फेरी पनि ।"
+    },
+    "00233": {
+      "dId": "ᤀᤠᤗᤠᤛ᤻ᤋᤠ",
+      "desc": "/आलाःस्ता/",
+      "group": "AB",
+      "mean": "<p>1. unconscious. 2. ignorant; innocent.</p>१. बेहाेश । २. अनजान; अबाेध ।"
+    },
+    "00234": {
+      "dId": "ᤀᤠᤗᤧᤰᤂᤠᤔᤠᤱ",
+      "desc": "/आलेक्खामाङ्/",
+      "group": "AB",
+      "mean": "<p>Invisible and eternal God; God the eternal.</p>अगाेचर ईश्वर ।"
+    },
+    "00235": {
+      "dId": "ᤀᤠᤗᤧᤵ",
+      "desc": "/आलेप्/ ",
+      "group": "AB",
+      "mean": "<p>Bad; defective; spoiled; miserable.</p>खराब ।"
+    },
+    "00236": {
+      "dId": "ᤀᤠᤸᤑᤡ ",
+      "desc": "/आल्फि/",
+      "group": "AB",
+      "mean": "<p>a kind of long and loose Limbu shirt (dress).</p>अलखा लामाे भाेटाे  जस्ताे एक प्रकारकाे लिम्बू लुगा ।"
+    },
+    "00237": {
+      "dId": "ᤀᤠᤸᤗ",
+      "desc": "/आल्ल/",
+      "group": "AB",
+      "mean": "<p>Now; just now.</p>अब ।"
+    },
+    "00238": {
+      "dId": "ᤀᤠᤸᤗᤠ᤹ᤗᤠ",
+      "desc": "/आल्ला?ला/",
+      "group": "AB",
+      "mean": "<p>Knowingly; intentionally.</p>जानी जानी; जानी बुझी ।"
+    },
+    "00239": {
+      "dId": "ᤀᤠᤸᤗᤠᤵ",
+      "desc": "/आल्लाप्/",
+      "group": "AB",
+      "mean": "<p>Disappearance; invisibility.</p>लाेप; अन्तर्धान ।"
+    },
+    "00240": {
+      "dId": "ᤀᤠᤸᤗᤠᤣ",
+      "desc": "/आल्लाे/",
+      "group": "AB",
+      "mean": "<p>Just now; immediately instantly; now.</p>तत्क्षण; तत्काल; भर्खर ।"
+    },
+    "00241": {
+      "dId": "ᤀᤠᤸᤗᤧᤰ",
+      "desc": "/आल्लेक्/",
+      "group": "AB",
+      "mean": "<p>Quickly; soon.</p>झटपट; चाँडाे ।"
+    },
+    "00242": {
+      "dId": "ᤀᤠᤸᤗᤧᤵ",
+      "desc": "/आल्लेप्/",
+      "group": "AB",
+      "mean": "<p>Ill manner.</p>खराब बानी ।"
+    },
+    "00243": {
+      "dId": "ᤀᤠᤘᤠᤍᤠ᤺ᤴ/ᤀᤠᤘᤠᤠᤍᤠᤏ᤻",
+      "desc": "/आवादाःन्/",
+      "group": "AB",
+      "mean": "<p>the sixth day from today; the day after the 5th day.</p>आजकाे छैटाैं दिन ।"
+    },
+    "00244": {
+      "dId": "ᤀᤠᤛᤢᤛ᤺ᤢᤒᤠ",
+      "desc": "/आसुसुःबा/",
+      "group": "AB",
+      "mean": "<p>untouchable.</p>अछुत ।"
+    },
+    "00245": {
+      "dId": "ᤀᤠᤛᤧᤴ",
+      "desc": "/आसेन्/",
+      "group": "AB",
+      "mean": "<p>[Tamor]  Formerly; a few days ago.</p>[तमर] उहिले; अस्ति; निकै दिन पहिले ।"
+    },
+    "00246": {
+      "dId": "ᤀᤠᤛᤧᤵᤐᤪᤠᤣ",
+      "desc": "/आसेप्पाे/",
+      "group": "AB",
+      "mean": "<p>Highest place.</p>सर्वाेच्च स्थान ।"
+    },
+    "00247": {
+      "dId": "ᤀᤠᤛᤪᤠᤣ",
+      "desc": "/आस्राे/",
+      "group": "AB",
+      "mean": "<p>A kind of white flowering (edible) plant of bitter taste.</p>इत्छा; तीताे तीताे स्वादकाे, तरकारी खाइने सेताे रङ्गकाे फूल हुने बाेट ।"
+    },
+    "00248": {
+      "dId": "ᤀᤠᤜᤠᤸ",
+      "desc": "/आहाल्/",
+      "group": "AB",
+      "mean": "<p>Muddy ditch where pigs or buffaloes wallow.</p>आहाल; हिलाे पानी जमेकाे पाेखरी ।"
+    },
+    "00249": {
+      "dId": "ᤀᤠ᤺",
+      "desc": "/आः/",
+      "group": "AB",
+      "mean": "<p>The long form of the second vowel of Sirijunga alphabet which is represented by putting the vowel lmeanth symbol {ke:mphrmean} () to /ᤀᤠ/ in the Sirijunga script.</p>सिरिजङ्गा वर्णमालाकाे दाेस्राे स्वरवर्ण /ᤀᤠ/ काे दीर्घरुप ।"
+    },
+    "00250": {
+      "dId": "ᤀᤠ᤺ᤰ/ᤀᤠᤁ᤻",
+      "desc": "/आःक्/",
+      "group": "AB",
+      "mean": "<p>blech.</p>डकार ढ्याउ ।"
+    },
+    "00251": {
+      "dId": "ᤀᤠ᤺ᤰᤁᤠᤷᤈᤡ/ᤀᤠᤁ᤻ᤁᤠᤷᤈᤡ",
+      "desc": "/आःक्कार् जि/",
+      "group": "AB",
+      "mean": "<p>Demon; devil; giant; ogre.</p>राक्षस ।"
+    },
+    "00252": {
+      "dId": "ᤀᤠ᤺ᤰᤐᤠ/ᤀᤠᤁ᤻ᤐᤠ",
+      "desc": "/आःक्पा/",
+      "group": "AB",
+      "mean": "<p>Bitter; sharp; strong or hot (in taste).</p>कडा; खराे; चर्काे (स्वाद) ।"
+    },
+    "00253": {
+      "dId": "ᤀᤠ᤺ᤰᤔᤠ/ᤀᤠᤁ᤻ᤔᤠ",
+      "desc": "/आःक्मा/",
+      "group": "AB",
+      "mean": "<p>1. to be pulled out; to be destroyed. 2. to be exterminated; to be eradicated; to be destroyed.</p>१. उखेलिनु । २. मासिनु; निमिट्यान्न हुनु ।"
+    },
+    "00254": {
+      "dId": "ᤀᤠ᤺ᤰᤔᤣ/ᤀᤠᤁ᤻ᤔᤣ",
+      "desc": "/आःक्मे/",
+      "group": "AB",
+      "mean": "<p>Admittance of mistake; confession.</p>साबिती ।"
+    },
+    "00255": {
+      "dId": "ᤀᤠ᤺ᤰᤗᤡᤘᤠ/ᤀᤠᤁ᤻ᤗᤡᤘᤠ",
+      "desc": "/आःक् लिवा/",
+      "group": "AB",
+      "mean": "<p>magpie. <i>Corvidae.</i></p>लाम्पुछ्रे चराे ।"
+    },
+    "00256": {
+      "dId": "ᤀᤠ᤺ᤰᤘᤠ/ᤀᤠᤁ᤻ᤘᤠ",
+      "desc": "/आःक्वा/",
+      "group": "AB",
+      "mean": "<p>Crow; raven. <i>Corvus splendens.</i></p>काग ।"
+    },
+    "00257": {
+      "dId": "ᤀᤠ᤺ᤰᤘᤠ-ᤗᤧᤛᤠ᤺ᤣᤳ/ᤀᤠᤁ᤻ᤘᤠ-ᤗᤧᤛᤠᤣᤋ᤻",
+      "desc": "/आःक्वा- लेसाेःत/",
+      "group": "AB",
+      "mean": "<p>A kind of leafy vegetable.</p>कन्ने साग ।"
+    },
+    "00258": {
+      "dId": "ᤀᤠ᤺ᤱᤔᤠ/ᤀᤠᤅ᤻ᤔᤠ",
+      "desc": "/आःङ्मा/",
+      "group": "AB",
+      "mean": "<p>1. a kind of green edible frog. 2. to root out; to uproot.</p>१. मनपाहा; मालेपाहा ।२. उखेल्नु ।"
+    },
+    "00259": {
+      "dId": "ᤀᤠ᤺ᤱᤘᤠᤖᤠᤣᤰ/ᤀᤠᤅ᤻ᤘᤠᤖᤠᤣᤰ",
+      "desc": "/आःङ् वाराेक/",
+      "group": "AB",
+      "mean": "<p>Emblica officinalis; Phyllanthys emblica.</p>अमला ।"
+    },
+    "00260": {
+      "dId": "ᤀᤠ᤺ᤱᤛᤡᤱᤔᤠ/ᤀᤠᤅ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/आङ्सिङ्मा/",
+      "group": "AB",
+      "mean": "<p>1. to uproot each other; to exterminate/ destroy each other. 2. to uproot.</p>१. परस्पर उखेलिने काम गर्नु; एकले अर्कालाई मास्ने काम गर्नु । २. उखेलिनु; जरा सहित उखेलिनु । "
+    },
+    "00261": {
+      "dId": "ᤀᤠ᤺ᤱᤳ/ᤀᤠᤋ᤻",
+      "desc": "/आःत्/",
+      "group": "AB",
+      "mean": "<p>1. piece; fragment. 2. log; block of wood.</p>१. गिँड; गिँडुल्काे । २. ठुन्काे ।"
+    },
+    "00262": {
+      "dId": "ᤀᤠ᤺ᤵᤔᤠ/ᤀᤠᤐ᤻ᤔᤠ",
+      "desc": "/आःप्मा/",
+      "group": "AB",
+      "mean": "<p>To cut a cylindrical thing in to piece (e.g. log, tree, radish, sugarcane), maintaining its cylindricity.</p>गिँड्नु; रूख, मुढा, मूला, उखु आदि डाेलाे वस्तुकाे डाेलै टुक्रा पार्नु ।"
+    },
+    "00263": {
+      "dId": "ᤀᤠ᤺ᤶᤔᤠ/ᤀᤠᤔ᤻ᤔᤠ",
+      "desc": "/आःम्मा/",
+      "group": "AB",
+      "mean": "<p>1. to be rough; to be difficult to deal with. 2. to be uneven. 3. to winnow; to fan.</p>१. खस्राे मिजास वा स्वभावकाे हुनु; खराे हुनु । २. एकनासकाे नहुनु । ३. निफन्नु ।"
+    },
+    "00264": {
+      "dId": "ᤀᤠ᤺ᤛᤢ",
+      "desc": "/आःसु/",
+      "group": "AB",
+      "mean": "<p>Rhinoceros.</p>गैंडा ।"
+    },
+    "00265": {
+      "dId": "ᤀᤡ ",
+      "desc": "/इ/",
+      "group": "AC",
+      "mean": "<p>1. the third vowel of the Sirijunga alphabet. 2. string, snare; trap, climber; creeper. 3. a term used to express eagerness, inquisitiveness, surprise.</p>१. सिरिजङ्गा वर्णमालाकाे तेस्राे स्वरवर्ण । २. डाेरी; पासाे (डाेरीकाे बन्धन); लहरा । ३. जिज्ञासा वा आश्चार्यकाे भाव व्यक्त गर्न आउने शब्द, “नि, हँ, कि” ।"
+    }
+  }
+}
