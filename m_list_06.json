@@ -1,0 +1,466 @@
+{
+  "Dic": {
+    "00669": {
+      "dId": "ᤀᤤ",
+      "desc": "/ऐ/",
+      "group": "AF",
+      "mean": "<p>the sixth vowel of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे छैटाै स्वरवर्ण  ।"
+    },
+    "00670": {
+      "dId": "ᤀᤤᤏᤢ",
+      "desc": "/ऐनु/",
+      "group": "AF",
+      "mean": "<p>the sign of the sixth vowel of /ai/ of the Sirijunga alphabet.</p>ऐकार; सिरिजङ्गा वर्णमालाकाे यस्ताे (ᤤ) मात्रा चिन्ह ।"
+    },
+    "00671": {
+      "dId": "ᤀᤠᤣ",
+      "desc": "/ओ/",
+      "group": "AF",
+      "mean": "<p>1. the seventh vowel of the Sirijunga alphabet. 2. att. particle which denotes the sense of yes, all right, ok, etc.</p>१. सिरिजङ्गा वर्णमालाकाे साताैं स्वरवर्ण  । २. हाे; अँ; ज्यू; ठीक; हुन्छ; स्वीकृति, सन्ताेष वा समर्थन आदि जनाउन सुरूमा आउने निपात ।"
+    },
+    "00672": {
+      "dId": "-ᤀᤠᤣ",
+      "desc": "/-ओ/",
+      "group": "AF",
+      "mean": "<p>locative  case marker denoting ‘in’; ‘at’; ‘on’; etc.</p>मा; तिर; माथि; तल; वर; पर आदि बुझाउने अधिकरण कारककाे विभक्ति चिन्ह ।"
+    },
+    "00673": {
+      "dId": "ᤀᤠᤣᤀᤡᤕᤧᤶ",
+      "desc": "/ओइयेम्/",
+      "group": "AF",
+      "mean": "<p>iron age; the fourth modern age/ time.</p>कलियुग; चाैथाे आधुनिक युग ।"
+    },
+    "00674": {
+      "dId": "ᤀᤠᤣᤀᤡᤛᤠ᤹",
+      "desc": "/ओइसा?/",
+      "group": "AF",
+      "mean": "<p>it may be.</p>होला ।"
+    },
+    "00675": {
+      "dId": "ᤀᤠᤣᤀᤡᤛᤢᤶ",
+      "desc": "/ओइसुम्/",
+      "group": "AF",
+      "mean": "<p>generosity.</p>उदारता ।"
+    },
+    "00676": {
+      "dId": "ᤀᤠᤣᤀᤡᤛᤢᤶᤒᤠ",
+      "desc": "/ओइसुम्बा/",
+      "group": "AF",
+      "mean": "<p>liberal; generous.</p>उदार ।"
+    },
+    "00677": {
+      "dId": "-ᤀᤠᤣ᤹ᤏᤢ",
+      "desc": "/-ओ?नु/",
+      "group": "AF",
+      "mean": "<p>ablative case marker.</p>बाट; देखि; अपदान कारककाे विभक्ति चिन्ह ।"
+    },
+    "00678": {
+      "dId": "-ᤀᤠᤣᤏ᤺ᤢᤸᤗᤣ",
+      "desc": "/ओनुःल्ले/",
+      "group": "AF",
+      "mean": "<p>then; more than; better than.</p>भन्दामा; मा भन्दा ।"
+    },
+    "00679": {
+      "dId": "ᤀᤠᤣ᤹ᤔᤠ",
+      "desc": "/ओ?मा/",
+      "group": "AF",
+      "mean": "<p>1. to feel hot ( in taste ); to have hot sensation ( or taste ) . 2. to feel irritation pain ( wound ).</p>१. पिराे हुनु । २. टट्टाउनु; पाेल्नु (घाउ) ।"
+    },
+    "00680": {
+      "dId": "ᤀᤠᤣ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/ओ?सिङ्मा/",
+      "group": "AF",
+      "mean": "<p>to complain of each other ( in the sense of backbiting ).</p>एक अर्कालाई पाेल्नु; एक अर्कालाई झाेसपाेल गर्नु ।"
+    },
+    "00681": {
+      "dId": "ᤀᤠ᤺ᤣ",
+      "desc": "/ओः/",
+      "group": "AF",
+      "mean": "<p>the allophone and the long form of the seventh vowel of the Sirijunga alphabet which is represented by putting the long vowel sign ke:mphrmean ( ) to / ᤀᤠᤣ /  in the Sirijunga script.</p>सिरिजङ्गा वर्णमालाकाे साताैं स्वरवर्ण /ᤀᤠᤣ/ काे दीर्घरुप ।"
+    },
+    "00682": {
+      "dId": "ᤀᤠᤣᤁᤡᤗᤠ",
+      "desc": "/ओकिला/",
+      "group": "AF",
+      "mean": "<p>it may be; may be so.</p>नि; हाेला ।"
+    },
+    "00683": {
+      "dId": "ᤀᤠᤣᤃᤠᤵ",
+      "desc": "/ओगाप्/",
+      "group": "AF",
+      "mean": "<p>practice; experiment; application.</p>व्यवहार; प्रयाेग ।"
+    },
+    "00684": {
+      "dId": "ᤀᤠᤣᤃᤠᤵᤔᤠ",
+      "desc": "/ओगाप्मा/",
+      "group": "AF",
+      "mean": "<p>to practise; to make use of ; to experiment.</p>प्रयाेग गर्नु; व्यवहारमा ल्याउनु ।"
+    },
+    "00685": {
+      "dId": "ᤀᤠᤣᤃᤠᤵᤗᤠᤒᤠ",
+      "desc": "/ओगाप्लाबा/",
+      "group": "AF",
+      "mean": "<p>experimental.</p>प्रयाेगात्मक ।"
+    },
+    "00686": {
+      "dId": "ᤀᤠᤣᤈᤶ",
+      "desc": "/ओजम्/",
+      "group": "AF",
+      "mean": "<p>publication.</p>प्रकाशन ।"
+    },
+    "00687": {
+      "dId": "ᤀᤠᤣᤈᤠ",
+      "desc": "/ओजा/",
+      "group": "AF",
+      "mean": "<p>planet.</p>ग्रह ।"
+    },
+    "00688": {
+      "dId": "ᤀᤠᤣᤈᤪᤠᤒᤠ ᤛᤡᤱ",
+      "desc": "/ओज्राेबा सिङ्/",
+      "group": "AF",
+      "mean": "<p>a kind of tree.</p>तिल्केकाे रुख ।"
+    },
+    "00689": {
+      "dId": "ᤀᤠᤣᤍᤡᤱᤃᤠ",
+      "desc": "/ओदिङ्गा/",
+      "group": "AF",
+      "mean": "<p>fire-fly; glow-worm.</p>जुनकिरी ।"
+    },
+    "00690": {
+      "dId": "ᤀᤠᤣᤎᤰ",
+      "desc": "/ओधक्/",
+      "group": "AF",
+      "mean": "<p>1. utility; use. 2. utilisation; use.</p>१. उपयाेग । २. उपभाेग ।"
+    },
+    "00691": {
+      "dId": "ᤀᤠᤣᤎᤰᤁᤡᤒᤠ",
+      "desc": "/ओधक्किबा/",
+      "group": "AF",
+      "mean": "<p>useful; serviceable.</p>उपयाेगी ।"
+    },
+    "00692": {
+      "dId": "ᤀᤠᤣᤎᤰᤐᤠ",
+      "desc": "/ओधक्पा/",
+      "group": "AF",
+      "mean": "<p>one who makes use of sth; consumer.</p>उपभाेक्ता ।"
+    },
+    "00693": {
+      "dId": "ᤀᤠᤣᤎᤠ᤺ᤣᤰᤔᤠ/ᤀᤠᤣᤎᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/ओधोक्मा/",
+      "group": "AF",
+      "mean": "<p>a variety of highland chestnut tree. Castanopsis hustris.</p>एक प्रकारकाे लेकाली कटुस । "
+    },
+    "00694": {
+      "dId": "ᤀᤠᤣᤒᤡ ",
+      "desc": "/ओबि/",
+      "group": "AF",
+      "mean": "<p>interrogative forms of the verb “to be”.</p>हो?; हो कि?; हो र?; हुनु क्रियाकाे प्रश्नार्थक भाव बुझाउने निपात ।"
+    },
+    "00695": {
+      "dId": "ᤀᤠᤣᤒᤣ",
+      "desc": "/ओबे/",
+      "group": "AF",
+      "mean": "<p>affirmative forms of the verb “to be”.</p>स्वीकृतिसूचक भाव बुझाउने अव्यय पद, “हाे, अँ” आदि ।"
+    },
+    "00696": {
+      "dId": "ᤀᤠᤣᤔ᤺ᤔᤠ",
+      "desc": "/ओमःमा/",
+      "group": "AF",
+      "mean": "<p>to look .</p>हेर्नु ।"
+    },
+    "00697": {
+      "dId": "ᤀᤠᤣᤔ᤺ᤗᤠᤒᤠ",
+      "desc": "/ओमःलाबा/",
+      "group": "AF",
+      "mean": "<p>worth seeing.</p>दर्शनिय ।"
+    },
+    "00698": {
+      "dId": "ᤀᤠᤣᤔ᤺ᤛᤠᤒᤠ/ᤔᤠ",
+      "desc": "/ओमःसाबा/मा/",
+      "group": "AF",
+      "mean": "<p>audience.</p>दर्शक ।"
+    },
+    "00699": {
+      "dId": "ᤀᤠᤣᤔᤠᤣᤗᤢᤵ",
+      "desc": "/ओमाेलुप्/",
+      "group": "AF",
+      "mean": "<p>group of audience.</p>दर्शक समुह ।"
+    },
+    "00700": {
+      "dId": "ᤀᤠᤣᤔᤢ",
+      "desc": "/ओमु/",
+      "group": "AF",
+      "mean": "<p>gladness; cheerfulness.</p>खुशी; हर्ष; प्रफुल्लता ।"
+    },
+    "00701": {
+      "dId": "ᤀᤠᤣᤔᤢᤀᤡᤒᤠ",
+      "desc": "/ओमुइबा/",
+      "group": "AF",
+      "mean": "<p>pleasant.</p>सुखदायी; सुखकर ।"
+    },
+    "00702": {
+      "dId": "ᤀᤠᤣᤔᤢᤃᤧᤴ",
+      "desc": "/ओमुगेन्/",
+      "group": "AF",
+      "mean": "<p> cheerful; happy pleasant.</p>प्रशन्नचित्त; सुखी ।"
+    },
+    "00703": {
+      "dId": "ᤀᤠᤣᤔᤢᤍᤠᤱᤒᤠ",
+      "desc": "/ओमुदाङ्बा/",
+      "group": "AF",
+      "mean": "<p>pleasant.</p>सुखदायी; सुखकर ।"
+    },
+    "00704": {
+      "dId": "ᤀᤠᤣᤔᤢᤕᤠᤱᤒᤠ",
+      "desc": "/ओमुयाङ्बा/",
+      "group": "AF",
+      "mean": "<p>1. light-heartedness; happy-go-lucky temperament. 2. the state of being totally free from anxiety; “May-devil-care’ deposition.</p>१. मस्ती । २. शाेकसुर्ता नभएकाे अवस्था ।"
+    },
+    "00705": {
+      "dId": "ᤀᤠᤣᤔᤧᤳᤇᤡᤱᤔᤠ",
+      "desc": "/ओमेत्छिङ्मा/",
+      "group": "AF",
+      "mean": "<p>1. to look at each other. 2. to look after; to take care of each other.</p>१. हेराहेर गर्नु । २. हेरविचार-गरागर गर्नु ।"
+    },
+    "00706": {
+      "dId": "ᤀᤠᤣᤔᤣᤵᤔᤠ",
+      "desc": "/ओमेप्मा/",
+      "group": "AF",
+      "mean": "<p>1. to look at; to watch; to supervise. 2. to take care of to look after.</p>१. हेर्नु; अवलाेकन गर्नु । २. दृष्टी पुर्याउनु; रेखदेख गर्नु ।"
+    },
+    "00707": {
+      "dId": "ᤀᤠᤣᤕᤠ᤺ᤣᤰᤐᤠ/ᤀᤠᤣᤕᤠᤣᤁ᤻ᤐᤠ",
+      "desc": "/ओयाेःक्पा/",
+      "group": "AF",
+      "mean": "<p>Wild cat.</p>वनबिरालाे ।"
+    },
+    "00708": {
+      "dId": "ᤀᤠᤣᤖᤠ᤺ᤱ/ᤀᤠᤣᤖᤠᤅ᤻",
+      "desc": "/ओराङ्/",
+      "group": "AF",
+      "mean": "<p>plasma.</p>प्लाविका, रक्तरस, रगतमा भएकाे पानी झैं देखिने द्रव ।"
+    },
+    "00709": {
+      "dId": "ᤀᤠᤣᤖᤢᤵᤗᤢᤵ",
+      "desc": "/ओरुलुप्/",
+      "group": "AF",
+      "mean": "<p>1. fat; corpulent. 2. fat.</p>१. माेटाे; थसुल्लाे । २. भुँडे ।"
+    },
+    "00710": {
+      "dId": "ᤀᤠᤣᤖᤡᤸᤗᤠᤣ",
+      "desc": "/ओरिल्लाे/",
+      "group": "AF",
+      "mean": "<p>ending word or words  of a song; ending tune of a song.</p>गीत टुङ्ग्याउने पदावली; गीतकाे अन्तकाे भाका ।"
+    },
+    "00711": {
+      "dId": "ᤀᤠᤣᤷᤍᤠᤣ",
+      "desc": "/ओर्दाे/",
+      "group": "AF",
+      "mean": "<p>catapult; sling.</p>घुएँत्राे ।"
+    },
+    "00712": {
+      "dId": "ᤀᤠᤣᤗᤧᤴᤛᤡ ",
+      "desc": "/ओलेन्सि/",
+      "group": "AF",
+      "mean": "<p>fried vegetable or meat.</p>तारेकाे तरकारी; भुटुवा ।"
+    },
+    "00713": {
+      "dId": "ᤀᤠᤣᤸᤓᤢᤶᤒᤠ",
+      "desc": "/ओल्भुम्बा/",
+      "group": "AF",
+      "mean": "<p>bulb of the malarial large arum lily. Arum campanulatum.</p>ठूलाे खालकाे औले बाँकाे ।"
+    },
+    "00714": {
+      "dId": "ᤀᤠᤣᤛᤠ᤹ᤒᤠ",
+      "desc": "/ओसा?बा/",
+      "group": "AF",
+      "mean": "<p>inspector.</p>निरीक्षक ।"
+    },
+    "00715": {
+      "dId": "ᤀᤠᤣᤛᤠ᤹ᤔᤠ",
+      "desc": "/ओसा?मा/",
+      "group": "AF",
+      "mean": "<p>1. ot inspect. 2. to look after; to go to look after.</p>१. निरीक्षण गर्नु; जाँचबुझ गर्नु । २. हेरविचार गर्नु ।"
+    },
+    "00716": {
+      "dId": "ᤀᤠᤣᤛᤠᤃᤏᤢ",
+      "desc": "/ओसागनु/",
+      "group": "AF",
+      "mean": "<p>denoting affirmative sense; eg. yes; oh yes; alright; that’s so, etc. </p>स्वीकृति वा सन्ताेष जनाउने निपात; हाे, त्यसै हाे ।"
+    },
+    "00717": {
+      "dId": "ᤀᤠᤣᤛᤠᤒᤠ",
+      "desc": "/ओसाबा/",
+      "group": "AF",
+      "mean": "<p>a free and separate letter or word used to denote the sense of ‘yes; all right, ok, etc’.</p>स्वीकृति वा सन्ताेष जनाउने निपात; हाे नि; त्यसै हाे नि; हाे; अँ; ज्यू; ठीक; हुन्छ; त्यसै हाे।"
+    },
+    "00718": {
+      "dId": "ᤀᤠᤣᤛᤣ᤹",
+      "desc": "/ओसे?/",
+      "group": "AF",
+      "mean": "<p>lip.</p>ओंठ ।"
+    },
+    "00719": {
+      "dId": "ᤀᤠᤣᤛᤣ᤹ᤒᤠ",
+      "desc": "/ओसे?बा/",
+      "group": "AF",
+      "mean": "<p>labial/ lip.</p>ओष्ठ्य; ओंठ ।"
+    },
+    "00720": {
+      "dId": "ᤀᤠᤣᤛᤣ",
+      "desc": "/ओसे/",
+      "group": "AF",
+      "mean": "<p>silkworm.</p>रेसमकीराे ।"
+    },
+    "00721": {
+      "dId": "ᤀᤠᤣᤛᤣᤍᤡᤒᤠ",
+      "desc": "/ओसेदिबा/",
+      "group": "AF",
+      "mean": "<p>flying snake.</p>उड्ने सर्प ।"
+    },
+    "00722": {
+      "dId": "ᤀᤠᤣᤛ᤺ᤣᤰᤂᤡ/ᤀᤠᤣᤛᤣᤁ᤻ᤂᤡ ",
+      "desc": "/ओसेःक्खि/",
+      "group": "AF",
+      "mean": "<p>silk thread.</p>रेसमकाे धागाे ।"
+    },
+    "00723": {
+      "dId": "ᤀᤠᤣᤛ᤺ᤣᤰ/ᤀᤠᤣᤛᤣᤁ᤻ ᤛᤠᤶᤍᤢᤰ",
+      "desc": "/ओसेःक् साम्दुक्/",
+      "group": "AF",
+      "mean": "<p>artacheria.</p>जाबे राेग ।"
+    },
+    "00724": {
+      "dId": "ᤀᤠᤣᤛ᤺ᤣᤴᤍᤱ/ᤀᤠᤣᤛᤣᤏ᤻ᤍᤩ",
+      "desc": "/ओसेःन्दङ्/",
+      "group": "AF",
+      "mean": "<p>display; show; exhibition; demonstration.</p>प्रदर्शन ।"
+    },
+    "00725": {
+      "dId": "ᤀᤠᤣᤛ᤺ᤣᤴᤎᤠᤰᤛᤡᤱᤔᤠ/ᤀᤠᤣᤛᤣᤏ᤻ᤎᤠᤰᤛᤡᤱᤔᤠ",
+      "desc": "/ओसेःन्धाक्सिङ्मा/",
+      "group": "AF",
+      "mean": "<p>to show to each other.</p>परस्पर वा आपसमा देखाउनु; एक अर्कालाई देखाउनु ।"
+    },
+    "00726": {
+      "dId": "ᤀᤠᤧᤣᤛᤠ᤺ᤣᤰ/ᤀᤠᤣᤛᤠᤣᤁ᤻",
+      "desc": "/ओसाेःक्/",
+      "group": "AF",
+      "mean": "<p>locative case.</p>अधिकरण कारक ।"
+    },
+    "00727": {
+      "dId": "ᤀᤠ᤺ᤣᤰ/ᤀᤠᤣᤁ᤻",
+      "desc": "/ओःक्/",
+      "group": "AF",
+      "mean": "<p>an affirmative particle denoting yes, yeah, etc,</p>स्वीकार जनाउन प्रयाेग हुने अव्यय शब्द; अँ; हजुर; हुन्छ;  हा ।"
+    },
+    "00728": {
+      "dId": "ᤀᤠ᤺ᤣᤰᤂᤴᤍᤩᤠ᤺ᤰᤔᤠ/ᤀᤠᤣᤁ᤻ᤂᤴᤍᤩᤠᤁ᤻ᤔᤠ",
+      "desc": "/ओःक्खन्द्याःक्मा/",
+      "group": "AF",
+      "mean": "<p>green brier, a kind of creeper. Smilax zelyanica.</p>कुकुरडाइनाे ( लहरा ) ।"
+    },
+    "00729": {
+      "dId": "ᤀᤠ᤺ᤣᤰᤂᤣ/ᤀᤠᤣᤁ᤻ᤂᤣ",
+      "desc": "/ओःक्खे/",
+      "group": "AF",
+      "mean": "<p>garlic; a kind of Allium sativum.</p>लसुन ( एक प्रकारकाे ) ।"
+    },
+    "00730": {
+      "dId": "ᤀᤠ᤺ᤣᤰᤛᤡ/ᤀᤠᤣᤁ᤻ᤛᤡ ",
+      "desc": "/ओःक्सि/",
+      "group": "AF",
+      "mean": "<p>interjectional; exclamatory.</p>विस्माेयादिबाेधक ।"
+    },
+    "00731": {
+      "dId": "ᤀᤠ᤺ᤣᤰᤛᤡᤒᤣ/ᤀᤠᤣᤁ᤻ᤛᤡᤒᤣ",
+      "desc": "/ओःक्सिबे/",
+      "group": "AF",
+      "mean": "<p>an interjectional (exclamatory ) sign; (!) the sign / symbol of the Sirijunga script.</p>विस्माेयादिबाेधक चिन्ह; सिरिजङ्गा लिपिकाे यस्ताे ( ! ) चिन्ह।"
+    },
+    "00732": {
+      "dId": "ᤀᤠ᤺ᤣᤱᤔᤠ/ᤀᤠᤣᤅ᤻ᤔᤠ",
+      "desc": "/ओःङ्मा/",
+      "group": "AF",
+      "mean": "<p>to strip off; to skin; to peel off.</p>काढनु ( छाला; चाेया इत्यादि ) ।"
+    },
+    "00733": {
+      "dId": "ᤀᤠ᤺ᤣᤳ/ᤀᤠᤣᤋ᤻",
+      "desc": "/ओःत्/",
+      "group": "AF",
+      "mean": "<p>brightness; light.</p>उज्ज्वलता; प्रकाश ।"
+    },
+    "00734": {
+      "dId": "ᤀᤠ᤺ᤣᤳᤋᤠ/ᤀᤠᤣᤋ᤻ᤋᤠ",
+      "desc": "/ओःत्ता/",
+      "group": "AF",
+      "mean": "<p>a kind of hand-machine to separate cotton from its seed.</p>ओंइटा ।"
+    },
+    "00735": {
+      "dId": "ᤀᤠ᤺ᤣᤳᤋᤡ/ᤀᤠᤣᤋ᤻ᤋᤡ ",
+      "desc": "/ओःत्ति/",
+      "group": "AF",
+      "mean": "<p>light; ray.</p>प्रकाश; ज्याेति ।"
+    },
+    "00736": {
+      "dId": "ᤀᤠ᤺ᤣᤳᤋᤡ/ᤀᤠᤣᤋ᤻ᤋᤡ ᤛᤡᤱ",
+      "desc": "/ओःत्ति सिङ्/",
+      "group": "AF",
+      "mean": "<p>rose wood. Dalbergia latifolia.</p>सतिसालकाे रूख; त्यैकाे काठ ।"
+    },
+    "00737": {
+      "dId": "ᤀᤠ᤺ᤣᤴᤎᤠᤰᤐᤠ/ᤀᤠᤣᤏ᤻ᤎᤠᤰᤐᤠ",
+      "desc": "/ओःन्धाक्पा/",
+      "group": "AF",
+      "mean": "<p>director.</p>निर्देशक ।"
+    },
+    "00738": {
+      "dId": "ᤀᤠ᤺ᤣᤴᤎᤠᤰᤔᤠ/ᤀᤠᤣᤏ᤻ᤎᤠᤰᤔᤠ",
+      "desc": "/ओःन्धाक्मा/",
+      "group": "AF",
+      "mean": "<p>to show; to point out.</p>देखाउनु; निर्देशन दिनु ।"
+    },
+    "00739": {
+      "dId": "ᤀᤠ᤺ᤣᤴᤎᤠᤰᤛᤠᤶᤒᤠ/ᤀᤠᤣᤏ᤻ᤎᤠᤰᤛᤠᤶᤒᤠ",
+      "desc": "/ओःन्धाक्साम्बा/",
+      "group": "AF",
+      "mean": "<p>director.</p>निर्देशक ।"
+    },
+    "00740": {
+      "dId": "ᤀᤠ᤺ᤣᤴᤎᤠᤰᤛᤡᤱᤔᤠ/ᤀᤠᤣᤏ᤻ᤎᤠᤰᤛᤡᤱᤔᤠ",
+      "desc": "/ओःन्धाक्सिङ्मा/",
+      "group": "AF",
+      "mean": "<p>to show to each other.</p>परस्पर वा आपसमा देखाउनु; एक अर्कालाई देखाउनु ।"
+    },
+    "00741": {
+      "dId": "ᤀᤠ᤺ᤣᤵᤔᤠ/ᤀᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/ओःप्मा/",
+      "group": "AF",
+      "mean": "<p>to be illuminated; to be lighted.</p>उज्यालाे हुनु; बल्नु (प्रकाश प्रदान गर्ने अर्थमा ) ।"
+    },
+    "00742": {
+      "dId": "ᤀᤠ᤺ᤣᤵᤐᤠ/ᤀᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/ओःप्पा/",
+      "group": "AF",
+      "mean": "<p>bright; lustrous; full of light.</p>उज्ज्वल; प्रकाशमय ।"
+    },
+    "00743": {
+      "dId": "ᤀᤠ᤺ᤣᤵᤗᤠᤛᤣ᤹/ᤀᤠᤣᤐ᤻ᤗᤠᤛᤣ᤹",
+      "desc": "/ओःप्लासे?/",
+      "group": "AF",
+      "mean": "<p>a kind of guava-like fruit and its tree.</p>अम्बके; अम्बकजस्ताे तर खुर्सानी जत्राे एक प्रकारकाे फल- विशेष ।"
+    },
+    "00744": {
+      "dId": "ᤀᤠ᤺ᤣᤶᤔᤠ/ᤀᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/ओःम्मा/",
+      "group": "AF",
+      "mean": "<p>(of the rain) to stop/ come to a stop;  (of the sky) to be clear.</p>वर्षा झरी थामिनु ।"
+    },
+    "00745": {
+      "dId": "ᤀᤠ᤺ᤣᤸᤗᤡ/ᤀᤠᤣᤗ᤻ᤗᤡ ",
+      "desc": "/ओःल्लि/",
+      "group": "AF",
+      "mean": "<p>kind; category; design; variety; structure.</p>किसिम; प्रकार; भाँति ।"
+    }
+  }
+}
