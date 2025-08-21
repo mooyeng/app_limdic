@@ -1,0 +1,279 @@
+{
+  "Dic": {
+    "00975": {
+      "dId": "ᤁᤡ᤹ᤗᤡᤱᤃᤣ",
+      "desc": "/कि?लिङ्गे/",
+      "group": "AJ",
+      "mean": "<p>a kind of yellow weed that spreads over green Simali bush. Cuscuta reflexa.</p>परेवाआन्द्रे झार; सिमालीकाे झ्याङ्मा फिँज्जिने पहेंलाे एक प्रकारकाे झार ।"
+    },
+    "00976": {
+      "dId": "ᤁᤡ᤹ᤗᤡᤱᤒᤠ",
+      "desc": "/कि?लिङ्बा/",
+      "group": "AJ",
+      "mean": "<p>a kind of vegetable, bitter in taste when uncooked.</p>वनकरेला ।"
+    },
+    "00979": {
+      "dId": "ᤁᤡ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/कि?सिङ्मा/",
+      "group": "AJ",
+      "mean": "<p>to be afraid of each other; to fear each other.</p>एकअर्कासित (परस्पर) डराउनु ।"
+    },
+    "00980": {
+      "dId": "ᤁᤡᤁᤠ",
+      "desc": "/किका/",
+      "group": "AJ",
+      "mean": "<p>1. a design (made out of threads) at the hem of a piece of cloth. 2. point; dot.</p>१. लु;र्का कपडाकाे छेउमा वा पारीमा धागाेद्वारा बनाइएकाे ससाना गाेलाेगाेलाे बुट्टा भएका धागाहरु ।  २. बिन्दु ।"
+    },
+    "00981": {
+      "dId": "ᤁᤡᤰᤁᤡᤰᤏᤠ",
+      "desc": "/किक्किक्ना/",
+      "group": "AJ",
+      "mean": "<p>a kind of bird that cries with a clicking noise.</p>किक्किक् आवाज निकालेर कराउने चराेविशेष ।"
+    },
+    "00982": {
+      "dId": "ᤁᤡᤃᤡᤐᤢ",
+      "desc": "/किगिपु/",
+      "group": "AJ",
+      "mean": "<p>a kind of timid bird.</p>डरछेरूवा चराे, चराेविशेष ।"
+    },
+    "00983": {
+      "dId": "ᤁᤡᤱᤏᤠ",
+      "desc": "/किङ्ना/",
+      "group": "AJ",
+      "mean": "<p>a bell; a metal bell.</p>घण्टी; धातुकाे घण्टी ।"
+    },
+    "00984": {
+      "dId": "ᤁᤡᤱᤏᤠᤐᤢ",
+      "desc": "/किङ्ना पु/",
+      "group": "AJ",
+      "mean": "<p>a kind of bird.</p>घण्टी चराे ।"
+    },
+    "00985": {
+      "dId": "ᤁᤡᤱᤔᤠ",
+      "desc": "/किङ्मा/",
+      "group": "AJ",
+      "mean": "<p>to be wrinkled; to be puckered up.</p>चाउरी पर्नु; किक्रिक्क पर्नु ( चाउरीनु) । "
+    },
+    "00986": {
+      "dId": "ᤁᤡᤱᤗᤡᤱ",
+      "desc": "/किङ्लिङ्/",
+      "group": "AJ",
+      "mean": "<p>steel (metal).</p>इस्पात (धातु) ।"
+    },
+    "00987": {
+      "dId": "ᤁᤡᤱᤘᤧᤳ",
+      "desc": "/किङ्वेत्/",
+      "group": "AJ",
+      "mean": "<p>pestle.</p>मुसल; मुसली ।"
+    },
+    "00989": {
+      "dId": "ᤁᤡᤈᤶᤔᤠ",
+      "desc": "/किजम्मा/",
+      "group": "AJ",
+      "mean": "<p>peacock. Pavo cristatus.</p>मजुर ।"
+    },
+    "00990": {
+      "dId": "ᤁᤡᤈᤡᤈᤡᤒᤠ",
+      "desc": "/किजिजिबा/",
+      "group": "AJ",
+      "mean": "<p>grumbler.</p>गनगने ।"
+    },
+    "00991": {
+      "dId": "/कित्चाक्/",
+      "group": "AJ",
+      "mean": "<p>conjurer; tricker.</p>जादुगर; चटके ।"
+    },
+    "00992": {
+      "dId": "ᤁᤡᤳᤇᤡᤱᤔᤠ",
+      "desc": "/कित्छिङ्मा/",
+      "group": "AJ",
+      "mean": "<p>1. to embrace each other; to be held right in an embrace ( with each other). 2. to be afraid of each other.</p>१. एक अर्कासित लपेटिनु; बेरिनु; आलिङ्गनबद्ध हुनु । २. एकअर्कासित डराउनु ।"
+    },
+    "00993": {
+      "dId": "ᤁᤡᤳᤋᤡ ",
+      "desc": "/कित्ति/",
+      "group": "AJ",
+      "mean": "<p>a kind of strawmat.</p>गुन्द्री ।"
+    },
+    "00994": {
+      "dId": "ᤁᤡᤳᤌᤰ",
+      "desc": "/कित्थक/",
+      "group": "AJ",
+      "mean": "<p>[Phedape]  flea.</p>[फेदापे] उपियाँ ।"
+    },
+    "00995": {
+      "dId": "ᤁᤡᤳᤌᤡᤰ",
+      "desc": "/कित्थिक/",
+      "group": "AJ",
+      "mean": "<p>swiftly.</p>हुत्तै ।"
+    },
+    "00996": {
+      "dId": "ᤁᤡᤳᤗᤡᤱᤒᤠ",
+      "desc": "/कित्लिङ्बा/",
+      "group": "AJ",
+      "mean": "<p>a kind of creeper often growing in the cardamom orchard.</p>अलैंचिबारीमा हुने एक प्रकारकाे लहरा ।"
+    },
+    "00997": {
+      "dId": "ᤁᤡᤎᤡᤖᤢᤵᤐᤠ",
+      "desc": "/किधिरुप्पा/",
+      "group": "AJ",
+      "mean": "<p>jackal.</p>स्याल ।"
+    },
+    "00998": {
+      "dId": "ᤁᤡᤏᤠᤔᤠ",
+      "desc": "/किनामा/",
+      "group": "AJ",
+      "mean": "<p>boiled and fermented soyabean used as food.</p>किनेमा ।"
+    },
+    "00999": {
+      "dId": "ᤁᤡᤴᤍᤪᤢᤰᤐᤠ",
+      "desc": "/किन्द्रुक्पा/",
+      "group": "AJ",
+      "mean": "<p>marten; the red panda.</p>मलसाँप्राे ।"
+    },
+    "01000": {
+      "dId": "ᤁᤡᤵ",
+      "desc": "/किप्/",
+      "group": "AJ",
+      "mean": "<p>one hundred; number of one hundred; 100.</p>सय; सयकाे सङ्ख्या; १०० ।"
+    },
+    "01001": {
+      "dId": "ᤁᤡᤵᤐᤠ᤺ᤣᤳ/ᤁᤡᤵᤐᤠᤣᤋ᤻",
+      "desc": "/किप्पाेःत्/",
+      "group": "AJ",
+      "mean": "<p>a kind of revenue free, freehold ancestral land (of Limbus).</p>किपट; मालाेत नलाग्ने लिम्बूहरूकाे भुमि ।"
+    },
+    "001002": {
+      "dId": "ᤁᤡᤰᤑᤧᤰᤘᤠ ᤛᤡᤱ",
+      "desc": "/किक्फेक्वा सिङ्/",
+      "group": "AJ",
+      "mean": "<p>date-palm tree. Phoenix sylvestris.</p>ताडकाे रूख ।"
+    },
+    "01003": {
+      "dId": "ᤁᤡᤵᤔᤠ",
+      "desc": "/किप्मा/",
+      "group": "AJ",
+      "mean": "<p>1. to roll; to wrap. 2. to be afraid of sth/sb; to fear sth/sb.</p>१. बेर्नु; गाेलाे गरी पट्याउनु । २. कसैसित वा केहि चीजिसित डराउनु; डर मान्नु ।"
+    },
+    "01004": {
+      "dId": "ᤁᤡᤵᤔᤠᤄᤢ",
+      "desc": "/किप्माघु/",
+      "group": "AJ",
+      "mean": "<p>fear.</p>डर; भय; भयावह ।"
+    },
+    "01005": {
+      "dId": "ᤁᤡᤵᤔᤠᤁᤧᤄᤢᤒᤠ",
+      "desc": "/किप्माकेघुवा/",
+      "group": "AJ",
+      "mean": "<p>dreadful .</p>डरलाग्दाे; भयप्रद ।"
+    },
+    "01006": {
+      "dId": "ᤁᤡᤵᤛᤡᤱ",
+      "desc": "ᤁᤡᤵᤛᤡᤱ",
+      "group": "AJ",
+      "mean": "<p>percentage; per hundred.</p>सयकडा/ सैकडा ।"
+    },
+    "01007": {
+      "dId": "ᤁᤡᤒᤰᤆᤰ ᤐᤢ",
+      "desc": "/किबक्चक् पु/",
+      "group": "AJ",
+      "mean": "<p>water-cock. <i>Gallicrex cinerea.</i></p>सिमकुखुराे चराे ।"
+    },
+    "01008": {
+      "dId": "ᤁᤡᤒᤢ",
+      "desc": "/किबु/",
+      "group": "AJ",
+      "mean": "<p>1. fear; fright. 2. threat.</p>१. डर; भय; त्रास । २. हप्कीदप्की ।"
+    },
+    "01009": {
+      "dId": "ᤁᤡᤶᤋᤡ ",
+      "desc": "/किम्ति/",
+      "group": "AJ",
+      "mean": "<p>muslin.</p>मलमल ।"
+    },
+    "01010": {
+      "dId": "ᤁᤡᤶᤔᤠ",
+      "desc": "/किम्मा/",
+      "group": "AJ",
+      "mean": "<p>to flick off/ to throw off (or away); to knock away with the help of sth.</p>लट्ठी आदि केहि वस्तुकाे सहयाेगले उछिट्याउनु वा हुत्त्याउनु ।"
+    },
+    "01011": {
+      "dId": "ᤁᤡᤖᤡᤰᤐᤠ",
+      "desc": "/किरिक्पा/",
+      "group": "AJ",
+      "mean": "<p>insects.</p>किथ्रा; किराफट्याङ्ग्रा ।"
+    },
+    "01012": {
+      "dId": "ᤁᤡᤖᤡᤰ(ᤗᤡᤰ)ᤘᤠ᤹",
+      "desc": "/किरिक्(लिक्)वा?/",
+      "group": "AJ",
+      "mean": "<p>a kind of bird that cries with a clicking noise.</p>किरिककिरिक आवाज निकालेर कराउने चराेविशेष ।"
+    },
+    "01013": {
+      "dId": "ᤁᤡᤖᤡᤱ ᤐᤢ",
+      "desc": "/किरिङ् पु/",
+      "group": "AJ",
+      "mean": "<p>a  kind of bird which lives in the caves (of den).</p>ओडारे चराे ।"
+    },
+    "01014": {
+      "dId": "ᤁᤡᤖᤡᤱᤗᤡᤱ",
+      "desc": "/किरिङ्लिङ्/",
+      "group": "AJ",
+      "mean": "<p>stripes; lines.</p>धर्काे/ धर्साे ।"
+    },
+    "01015": {
+      "dId": "ᤁᤡᤖᤡᤱᤗᤡᤱᤒᤠ",
+      "desc": "/किरिङ्लिङ्बा/",
+      "group": "AJ",
+      "mean": "<p>full of stripes or lines.</p>धर्काेधर्काे भएकाे; धर्के ।"
+    },
+    "01016": {
+      "dId": "ᤁᤡᤗᤠ",
+      "desc": "/किला/",
+      "group": "AJ",
+      "mean": "<p>stake; peg to tie cattle.</p>कीलाे ।"
+    },
+    "01017": {
+      "dId": "ᤁᤡᤗᤡᤱᤕᤠ᤺ᤴ/ᤁᤡᤗᤡᤱᤕᤠᤏ᤻",
+      "desc": "/किलिङ्याःन्/",
+      "group": "AJ",
+      "mean": "<p>a kind of grass that grows by rivers. Saccharum spontaneum.</p>काँसे झार ।"
+    },
+    "01018": {
+      "dId": "ᤁᤡᤸᤗᤡᤱ",
+      "desc": "/किल्लिङ्/",
+      "group": "AJ",
+      "mean": "<p>the ringing or jingling sound of a metal or a smell bell.</p>टिनटिन; टिङटिङ; घण्टी बजेकाे आवाज । "
+    },
+    "01019": {
+      "dId": "ᤁᤡ᤺ᤰᤆᤰᤏᤠ/ᤁᤡᤁ᤻ᤆᤰᤏᤠ",
+      "desc": "/किःक्चक्ना/",
+      "group": "AJ",
+      "mean": "<p>drongo, a variety of Dicrucidae.</p>चिबे; एक प्रकारकाे चराे ।"
+    },
+    "01020": {
+      "dId": "ᤁᤡ᤺ᤔᤠ",
+      "desc": "/किःमा/",
+      "group": "AJ",
+      "mean": "<p>1. to rot. 2. fear; fright. 3. to be afraid of; to be frightened.</p>१. कुहुनु । २. डर; भय; त्रास । ३. डराउनु; तर्सनु ।"
+    },
+    "01021": {
+      "dId": "ᤁᤡ᤺ᤶᤔᤠ/ᤁᤡᤔ᤻ᤔᤠ",
+      "desc": "/किःम्मा/",
+      "group": "AJ",
+      "mean": "<p>1. to threaten; to frighten; to make sb afraid; to cause sb to be afraid. 2. to cause to allow to rot; to cause to decay.</p>१. डर देखाउनु; तर्साउनु । २. कुहाउनु ।"
+    },
+    "01022": {
+      "dId": "ᤁᤡ᤺ᤛᤡᤱᤔᤠ",
+      "desc": "/किःसिङ्मा/",
+      "group": "AJ",
+      "mean": "<p>to be afraid of each other.</p>एक अर्कासँग डराउनु ।"
+    },
+    "01023": {
+      "dId": "ᤁᤡ᤺ᤡᤛᤫᤠᤒᤠ",
+      "desc": "/किःस्वाबा/",
+      "group": "AJ",
+      "mean": "<p>timid; coward.</p>डरछेरुवा; पानीमरुवा; कातर ।"
+    }
+  }
+}
