@@ -1,0 +1,573 @@
+{
+  "Dic": {
+    "01448": {
+      "dId": "ᤂ",
+      "desc": "/ख/",
+      "group": "AM",
+      "mean": "<p>the second consonant letter of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाकाे दाेश्राे व्यञ्जनवर्ण ।"
+    },
+    "01449": {
+      "dId": "ᤂᤀᤡᤰ",
+      "desc": "/खइक्/",
+      "group": "AM",
+      "mean": "<p>twisting repeatedly.</p>कुइँक्क बटार्ने किसिमले ।"
+    },
+    "01450": {
+      "dId": "ᤂᤀᤡᤰᤐᤠ",
+      "desc": "/खइक्पा/",
+      "group": "AM",
+      "mean": "<p>1. twisted; distorted; sulky. 2. sulky; displeased; wearing a discontented look.</p>१. कुइँक्क बटारिएकाे; कुइँक्क घुमेकाे । २. झनक्क रिसाएर फन्केकाे ।"
+    },
+    "01451": {
+      "dId": "ᤂ᤹ᤔᤠ",
+      "desc": "/ख?मा/",
+      "group": "AM",
+      "mean": "<p>1. to taste pungent. 2. to hesitate.</p>१. काेक्याउनु । २. धकाउनु ।"
+    },
+    "01452": {
+      "dId": "ᤂᤰᤂᤰ",
+      "desc": "/खक्खक्/",
+      "mean": "<p>(n.) clang; clink; clank. (adv.) in a clinking (clanking) manner.</p>(ना.) ट्वाकट्वाक, ठकठक आदि आवाज; काठ आदि हल्का किसिमले ठाेक्दा आउने आवाज । (क्रिवि.) ट्वाकट्वाक वा ठकठक ठाेक्ने किसिमले ।"
+    },
+    "01453": {
+      "dId": "ᤂᤰᤂᤘᤠ",
+      "desc": "/खक्खवा/",
+      "group": "AM",
+      "mean": "<p>self-interest; selfishness.</p>स्वार्थ; स्वार्थीपन ।"
+    },
+    "01454": {
+      "dId": "ᤂᤰᤂᤘᤠᤒᤠ",
+      "desc": "/खक्खवाबा/",
+      "group": "AM",
+      "mean": "<p>selfish.</p>स्वार्थी ।"
+    },
+    "01455": {
+      "dId": "ᤂᤰᤔᤧᤶᤒᤠ",
+      "desc": "/खक्मेम्बा/",
+      "group": "AM",
+      "mean": "<p>selfless; unselfish.</p>निःस्वार्थ ।"
+    },
+    "01456": {
+      "dId": "ᤂᤰᤆᤢᤱ",
+      "desc": "/खक्चुङ्/",
+      "group": "AM",
+      "mean": "<p>1. a wooden slab on which spices are ground. 2. monkey.</p>१. काठकाे सिलाैटाे । २. बाँदर ।"
+    },
+    "01457": {
+      "dId": "ᤂᤰᤆᤢᤱᤒᤠ",
+      "desc": "/खक्चुङ्बा/",
+      "group": "AM",
+      "mean": "<p>starling; Rupi bird. Sturnidae.</p>रुपी (चराे) ।"
+    },
+    "01458": {
+      "dId": "ᤂᤰᤋᤠᤱ",
+      "desc": "/खक्ताङ्/",
+      "group": "AM",
+      "mean": "<p>population.</p>जनसंख्या ।"
+    },
+    "01459": {
+      "dId": "ᤂᤰᤋᤠᤱᤕᤢᤰ",
+      "desc": "/खक्ताङ्युक्/",
+      "group": "AM",
+      "mean": "<p>inhabitation.</p>आवादी ।"
+    },
+    "01460": {
+      "dId": "ᤂᤰᤋᤡ᤺ᤶᤒᤠ/ᤂᤰᤋᤡᤔ᤻ᤒᤠ",
+      "desc": "/खक्तिःम्बा/",
+      "group": "AM",
+      "mean": "<p>owl.</p>लाटकाेसेराे ।"
+    },
+    "01461": {
+      "dId": "ᤂᤰᤋᤢᤶᤒᤠ",
+      "desc": "/खक्तुम्बा/",
+      "group": "AM",
+      "mean": "<p>a kind of cuckoo bird. Cuculus indica.</p>कुक्कु चरा ।"
+    },
+    "01462": {
+      "dId": "ᤂᤰᤏᤡ᤺ᤳ/ᤂᤰᤏᤡᤋ᤻",
+      "desc": "/खक्निःत्/",
+      "group": "AM",
+      "mean": "<p>all; whole; entire.</p>सबै; टाकटुक ।"
+    },
+    "01463": {
+      "dId": "ᤂᤰᤐᤠ/ᤂᤰᤐᤠ᤺",
+      "desc": "/खक्पा/खक्पाः/",
+      "group": "AM",
+      "mean": "<p>1. the carcass (without its entrails) of an animal slain by a wild beast. 2. the dressed body (trunk) of a slaughtered animal (pig)  without entrails used for food.</p>१. वन्य जन्तुले मारेकाे पशुकाे पशुकाे आन्द्राभुँडी झिकिएकाे डल्लाे शरीर । २. आन्द्राभुँडी झिकेर राैं पाेली वा खुइल्याई सफा गरिएकाे र नटुक्राइएकाे कुनै जन्तुकाे सिङ्गाे शरीर; डल्लै जन्तु (सुगुर) ।"
+    },
+    "01464": {
+      "dId": "ᤂᤰᤔᤠ/ᤂᤰᤔᤠ᤺",
+      "desc": "/खक्मा/खक्माः/",
+      "group": "AM",
+      "mean": "<p>1. gain; food grain. 2. to cut/ chop/ slice (firewood/ meat, etc) .</p>१. अन्नकाे दाना, गेडा । २. चुलेसी, खुकुरी आदि साना हतियारले छिन्ने गरि काटेर चाक्टा वा टुक्रा पार्नु ।"
+    },
+    "01465": {
+      "dId": "ᤂᤁᤪᤡᤱ ᤛᤡᤱ",
+      "desc": "/खक्रिङ् सिङ्/",
+      "group": "AM",
+      "mean": "<p>a kind of tree (whose stems yield a slippery/ adhesive substance). Pouzolzia viminea.</p>चिप्ले रुख ।"
+    },
+    "01466": {
+      "dId": "ᤂᤰᤗᤠᤛᤣ᤹",
+      "desc": "/खक्लासे?/",
+      "group": "AM",
+      "mean": "<p>a kind of tree; a variety of Rhus acuminiata.</p>भलायाे ।"
+    },
+    "01467": {
+      "dId": "ᤂᤰᤘᤠ",
+      "desc": "//",
+      "group": "AM",
+      "mean": "<p>a kind of tree.</p>कुटमिराे (रुख) ।"
+    },
+    "01468": {
+      "dId": "ᤂᤱᤈᤱᤛᤣ᤹",
+      "desc": "/खङ्जङ्से?/",
+      "group": "AM",
+      "mean": "<p>ground-nut; almond. Archis hupogaea.</p>बदाम ।"
+    },
+    "01469": {
+      "dId": "ᤂᤈᤣᤔᤠ ᤋᤢᤱ",
+      "desc": "/खजेमा तुङ्/",
+      "group": "AM",
+      "mean": "<p>pneumonia.</p>सन्निपात ।"
+    },
+    "01470": {
+      "dId": "ᤂᤈᤡᤄᤧᤱ",
+      "desc": "/खजिघेङ्/",
+      "group": "AM",
+      "mean": "<p>a kind of bird which lives on mountain cliffs.</p>भिर चराे ।"
+    },
+    "01471": {
+      "dId": "ᤂᤈᤢᤶ-ᤔᤠᤱᤈᤢᤶ",
+      "desc": "/खजुम-माङ्जुम्/",
+      "group": "AM",
+      "mean": "<p>a place of worship; shrine.</p>देवस्थल; पूजास्थल ।"
+    },
+    "01472": {
+      "dId": "ᤂᤳᤋᤰ",
+      "desc": "/खत्तक्/",
+      "group": "AM",
+      "mean": "<p>only one; last one.</p>फिट्ठाे; एक मात्र; अन्तिम ।"
+    },
+    "01473": {
+      "dId": "ᤂᤳᤋᤪᤧᤰ",
+      "desc": "/खत्त्रेक/",
+      "group": "AM",
+      "mean": "<p>pouring out suddenly and completely .</p>ह्वात्तै; एकैचाेटि हुनेगरी ।"
+    },
+    "01474": {
+      "dId": "ᤂᤳᤗᤱ",
+      "desc": "/खत्लङ्/",
+      "group": "AM",
+      "mean": "<p>wooden spoon or ladle.</p>दाबिलाे (काठकाे) ।"
+    },
+    "01475": {
+      "dId": "ᤂᤳᤗᤡᤰ",
+      "desc": "/खत्लिक्/",
+      "group": "AM",
+      "mean": "<p>stirring randomly.</p>जथाभावी चलाउने किसिम ।"
+    },
+    "01476": {
+      "dId": "ᤂᤳᤗᤧᤰ",
+      "desc": "/खत्लेक्/",
+      "group": "AM",
+      "mean": "<p>totally; wholly; completely; all in one lot.</p>ख्वात्त; ह्वात्त; केहि बाँकी नरहने गरी एकैपटकमा सबै; सकिने चालले ।"
+    },
+    "01477": {
+      "dId": "ᤂᤍᤰᤋᤰ",
+      "desc": "/खदक्तक्/",
+      "group": "AM",
+      "mean": "<p>chuckling; giggling.</p>खितखित; खितखित वा गलल हाँस्ने किसिम ।"
+    },
+    "01478": {
+      "dId": "ᤂᤍᤁᤩᤣ",
+      "desc": "/खदक्ये/",
+      "group": "AM",
+      "mean": "<p>a kind of wedding.</p>कुम्ले बिहा ।"
+    },
+    "01479": {
+      "dId": "ᤂᤍᤠᤰᤔᤡ ",
+      "desc": "/खदाक्मि/",
+      "group": "AM",
+      "mean": "<p>1. old. 2. matured; experienced.</p>१. वृद्ध । २. पाकाे ।"
+    },
+    "01480": {
+      "dId": "ᤂᤍᤧᤴ",
+      "desc": "/खदेन्/",
+      "group": "AM",
+      "mean": "<p>farm; cultivable/ arable land.</p>खेतबारी; खेती गर्ने स्थल ।"
+    },
+    "01481": {
+      "dId": "ᤂᤍᤧᤒᤠ",
+      "desc": "/खदेबा/",
+      "group": "AM",
+      "mean": "<p>(n.) ape; chimpanzee. (adj.) savage; uncivilized; wild man.</p>(ना.) वनमान्छे । (वि.) वनमान्छे झैं; जङ्गली मान्छे; असभ्य ।"
+    },
+    "01482": {
+      "dId": "ᤂᤍᤧᤶ",
+      "desc": "/खदेम्/",
+      "group": "AM",
+      "mean": "<p>result; consequence.</p>फल; परिणाम ।"
+    },
+    "01483": {
+      "dId": "ᤂᤏ᤺ᤰᤘᤠ/ᤂᤏᤁ᤻ᤘᤠ",
+      "desc": "/खनःक्वा/",
+      "group": "AM",
+      "mean": "<p>snore; snoring.</p>घुरइ; घुर्ने काम ।"
+    },
+    "01484": {
+      "dId": "ᤂᤏᤠᤒᤠ",
+      "desc": "/खनाबा/",
+      "group": "AM",
+      "mean": "<p>a man with a cutlip.</p>खुँडे ।"
+    },
+    "01485": {
+      "dId": "ᤂᤏᤠᤔᤠ",
+      "desc": "/खनामा/",
+      "group": "AM",
+      "mean": "<p>a woman with a cutlip.</p>खुँडी ।"
+    },
+    "01486": {
+      "dId": "ᤂᤏᤣᤍᤢᤒᤠ",
+      "desc": "/खनेदुबा/",
+      "group": "AM",
+      "mean": "<p>a certain, such and such man.</p>फलानाे; अमुक ।"
+    },
+    "01487": {
+      "dId": "ᤂᤏᤣᤍᤢᤔᤠ",
+      "desc": "/खनेदुमा/",
+      "group": "AM",
+      "mean": "<p>a certain, such and such woman.</p>फलानाी; अमुक ।"
+    },
+    "01488": {
+      "dId": "ᤂᤴᤗᤡᤒᤠ",
+      "desc": "/खन्दिबा/",
+      "group": "AM",
+      "mean": "<p>ugly; unsightly.</p>कुरुप ।"
+    },
+    "01489": {
+      "dId": "ᤂᤴᤏᤠᤱ",
+      "desc": "/खन्नाङ्/",
+      "group": "AM",
+      "mean": "<p>[Tamor] then; after that.</p>[तमाेर] त्यसपछि ।"
+    },
+    "01490": {
+      "dId": "ᤂᤵᤐᤡ ",
+      "desc": "/खप्पि/",
+      "group": "AM",
+      "mean": "<p>the game ‘Khoppi’ played with coins throwing them in the hole made in the ground.</p>खाेपी (खेल) ।"
+    },
+    "01491": {
+      "dId": "ᤂᤵᤔᤧᤴ",
+      "desc": "/खप्मेन्/",
+      "group": "AM",
+      "mean": "<p>1. a flat spoon to ladle out rice; spatula. 2. [Tamor] nearly; closely; approximately; almost.</p>१. पन्यूँ; पनिउ । २. [तमाेर] झन्डै; लगभग; पुगनपुग ।"
+    },
+    "01492": {
+      "dId": "ᤂᤵᤐᤩᤠ",
+      "desc": "/खप्या/",
+      "group": "AM",
+      "mean": "<p>utensil; a pot of daily use for cooking, etc.</p>भाँडाे; दैनिक व्यवहारमा प्रयाेग गरिने भाँडाे ।"
+    },
+    "01493": {
+      "dId": "ᤂᤒᤠ᤺ᤰ/ᤂᤒᤠᤁ᤻",
+      "desc": "/खबाःक्/",
+      "group": "AM",
+      "mean": "<p>with a splash; in a manner of dipping (or scooping) with a splash.</p>घ्वाप्प, घ्याप्प; अँजुलिले वा केहि वस्तुले गाडेर वा डुबाएर (अन्न, पानी, दही आदि वस्तु) उघाउने चालाले । "
+    },
+    "01494": {
+      "dId": "ᤂᤁᤠ᤺ᤰᤘᤠ/ᤂᤒᤠᤁ᤻ᤘᤠ",
+      "desc": "/खबाःक्वा/",
+      "group": "AM",
+      "mean": "<p>ladle.</p>डाडु ।"
+    },
+    "01495": {
+      "dId": "ᤂᤔᤠᤣ ᤛᤡᤱ",
+      "desc": "/खमाे सिङ्/",
+      "group": "AM",
+      "mean": "<p>a kind of large-leafed plant, a kind of Sauraujia napalensis.</p>गाेगन ।"
+    },
+    "01496": {
+      "dId": "ᤂᤔᤧᤴᤍᤠᤣ᤺ᤰ/ᤂᤔᤣᤴᤍᤠᤣᤁ᤻",
+      "desc": "/खमेन्दाेःक्/",
+      "group": "AM",
+      "mean": "<p>zeal; jou; cheerfulness; delight; buoyancy.</p>उल्लास; हर्ष; आनन्द ।"
+    },
+    "01498": {
+      "dId": "ᤂᤶᤎᤠᤣ᤺ᤰ/ᤂᤶᤎᤠᤣᤁ᤻",
+      "desc": "/खम्धाेःक्/",
+      "group": "AM",
+      "mean": "<p>industry.</p>उद्याेग ।"
+    },
+    "01499": {
+      "dId": "ᤂᤶᤓᤠ",
+      "desc": "/खम्भा/",
+      "group": "AM",
+      "mean": "<p>[Tamor] thus; like that.</p>[तमाेर] यसरी; त्यसरी ।"
+    },
+    "01500": {
+      "dId": "ᤂᤶᤔᤠ",
+      "desc": "/खम्मा/",
+      "group": "AM",
+      "mean": "<p>1. to pick up; to lift. 2. to stir (rice, vegetable etc while cooking.</p>१. टिप्नु; तल रहेकाे वा भुँइकाे वस्तु उठाउनु । २. भाँडाे भित्रकाे वस्तु चलाउनु ।"
+    },
+    "01501": {
+      "dId": "ᤂᤶᤛᤪᤧᤰᤏᤠ",
+      "desc": "/खम्स्रेक्ना/",
+      "group": "AM",
+      "mean": "<p>conoon.</p>कुकुलढुक; काेयाे (रेशमकाे) ।"
+    },
+    "01502": {
+      "dId": "ᤂᤕᤠᤣ᤺ᤰᤘᤠ/ᤂᤕᤠᤣᤁ᤻ᤘᤠ",
+      "desc": "/खयाेःक्वा/",
+      "group": "AM",
+      "mean": "<p>a kind of whistling bird.</p>सुसेले झैं कराउने एक जातकाे चराे ।"
+    },
+    "01503": {
+      "dId": "ᤂᤕᤠᤣ᤺ᤔᤠ/ᤂᤠᤣᤕᤠ᤺ᤣᤔᤠ",
+      "desc": "/खयाेःमा/खाेयाेःमा/",
+      "group": "AM",
+      "mean": "<p>a kind of tree. Buddleia asiatica.</p>भीमसेनपाती ।"
+    },
+    "01504": {
+      "dId": "ᤂᤕᤠᤣ᤺ ᤛᤡᤱ",
+      "desc": "/खयाेः सिङ्/",
+      "group": "AM",
+      "mean": "<p>a kind of tree. Schima wallichi.</p>सानाे खाले चिलाउनेकाे बाेट ।"
+    },
+    "01505": {
+      "dId": "ᤂᤕᤧᤰᤆᤠ",
+      "desc": "/खयेक्चा/",
+      "group": "AM",
+      "mean": "<p>water-melon. Citrullus vulgaris.</p>तरबुजा ।"
+    },
+    "01506": {
+      "dId": "ᤂᤖᤰ",
+      "desc": "/खरक्/",
+      "group": "AM",
+      "mean": "<p>in a croaking manner.</p>ट्वाइँय; त्यस्ताे आवाज आउने गरी ।"
+    },
+    "01507": {
+      "dId": "ᤂᤖᤰᤘᤠ",
+      "desc": "/खरक्वा/",
+      "group": "AM",
+      "mean": "<p>a steep hill stream which runs and dries up quickly.</p>खहरे खाेला ।"
+    },
+    "01508": {
+      "dId": "ᤂᤖ᤺ᤰᤘᤠ/ᤂᤖᤁ᤻ᤘᤠ",
+      "desc": "/खरःक्वा/",
+      "group": "AM",
+      "mean": "<p>snore; snoring.</p>घुरइ; घुर्ने काम ।"
+    },
+    "01509": {
+      "dId": "ᤂᤖᤠᤂᤷ",
+      "desc": "/खराखर/",
+      "group": "AM",
+      "mean": "<p>straightway; without pause; uninterruptedly.</p>फटाफट; सरासर ।"
+    },
+    "01510": {
+      "dId": "ᤂᤖᤡᤱ",
+      "desc": "/खरिङ्/",
+      "group": "AM",
+      "mean": "<p>to mount suddenly.</p>बुर्लुक्क; बुरुक्क ।"
+    },
+    "01511": {
+      "dId": "ᤂᤖᤧᤱ",
+      "desc": "/खरेङ्/",
+      "group": "AM",
+      "mean": "<p>smearing with a swirling motion.</p>सिनित्तै (लिप्नु) ।"
+    },
+    "01512": {
+      "dId": "ᤂᤖᤧ᤺ᤱ/ᤂᤖᤧᤅ᤹",
+      "desc": "/खरेःङ्/",
+      "group": "AM",
+      "mean": "<p>a kind of pancake.</p>चाक्लाे र चेप्टाे आकारकाे साधारण राेटी; घट्टे, बाबर आदि राेटी ।"
+    },
+    "01513": {
+      "dId": "ᤂᤷᤁᤠ",
+      "desc": "/खर्का/",
+      "group": "AM",
+      "mean": "<p>manger.</p>डुँढ ।"
+    },
+    "01514": {
+      "dId": "ᤂᤷᤈᤰᤆᤰᤐᤠ",
+      "desc": "/खर्जक्चक्पा/",
+      "group": "AM",
+      "mean": "<p>restless (children); agile.</p>चकचके; छुकछुके ।"
+    },
+    "01515": {
+      "dId": "ᤂᤷᤈ᤺ᤶᤒᤠ/ᤂᤷᤈᤔ᤻ᤒᤠ",
+      "desc": "/खर्जःम्बा/",
+      "group": "AM",
+      "mean": "<p>mask.</p>मखुण्डाे ।"
+    },
+    "01516": {
+      "dId": "ᤂᤷᤈᤠᤣ᤺ᤶᤒᤠ/ᤂᤷᤈᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/खर्जाेःम्बा/",
+      "group": "AM",
+      "mean": "<p>a kind of bird.</p>तुलीगाँडा चराे ।"
+    },
+    "01517": {
+      "dId": "ᤂᤷᤍᤡᤰ",
+      "desc": "/खर्दिक्/",
+      "group": "AM",
+      "mean": "<p>to slip away suddenly.</p>स्वात्त वा सुलुत्त चिप्लिने किसिमले ।"
+    },
+    "01518": {
+      "dId": "ᤂᤷᤒᤠ",
+      "desc": "/खर्बा/",
+      "group": "AM",
+      "mean": "<p>a kind of wooden tray or bowl.</p>आरी; काठकाे चारपाटे भाँडाे ।"
+    },
+    "01519": {
+      "dId": "ᤂᤷᤔᤠᤰ ᤛᤡᤱ/ ᤂᤠᤷᤔᤠᤰ ᤛᤡᤱ",
+      "desc": "/खर्माक सिङ्/ खार्माक सिङ्/",
+      "group": "AM",
+      "mean": "<p>a kind of tree. Callicarpa arborea.</p>गुयेंलाे ।"
+    },
+    "01520": {
+      "dId": "ᤂᤷᤔᤧᤰ",
+      "desc": "/खर्मेक्/",
+      "group": "AM",
+      "mean": "<p>to finish entirely.</p>टाकटुक; निमिट्यान्न ।"
+    },
+    "01521": {
+      "dId": "ᤂᤷᤔᤧᤴᤍᤰ",
+      "desc": "/खर्मेमेन्दक्/",
+      "group": "AM",
+      "mean": "<p>back-biting; mischief; slandering.</p>छुल्याइँ; उपद्राे ।"
+    },
+    "01522": {
+      "dId": "ᤂᤷᤔᤧᤴᤍᤰ",
+      "desc": "/खर्मेमेन्दक्पा/",
+      "group": "AM",
+      "mean": "<p>mischievous; slanderer.</p>छुल्याहा ।"
+    },
+    "01523": {
+      "dId": "ᤂᤷᤘᤧᤳ",
+      "desc": "/खर्वेत्/",
+      "group": "AM",
+      "mean": "<p>adze; an instrument used by a carpenter.</p>बसिला ।"
+    },
+    "01524": {
+      "dId": "ᤂᤸᤔᤠ",
+      "desc": "/खल्मा/",
+      "group": "AM",
+      "mean": "<p>barn.</p>खाेल्मा; कटेराे; पालीघर । "
+    },
+    "01525": {
+      "dId": "ᤂᤸᤗᤧᤱᤒᤠ",
+      "desc": "/खल्लेङ्बा/",
+      "group": "AM",
+      "mean": "<p>1. knavish; hooligan; villainous; wicked. 2. villain.</p>१. बदमास; गुण्डाे । २. खलनायक ।"
+    },
+    "01526": {
+      "dId": "ᤂᤘᤠ ᤑᤢᤱ",
+      "desc": "/खवा फुङ्/",
+      "group": "AM",
+      "mean": "<p>a kind of flower.</p>झुलाे फुल ।"
+    },
+    "01527": {
+      "dId": "ᤂᤘᤠᤔᤠ",
+      "desc": "/खवामा/",
+      "group": "AM",
+      "mean": "<p>bee.</p>माहुरी ।"
+    },
+    "01528": {
+      "dId": "ᤂᤘᤠᤗᤢᤱ(ᤒᤠ)",
+      "desc": "/खवालुङ्(बा)/",
+      "group": "AM",
+      "mean": "<p>1. the planet- Mars. 2. a House-deity or god.</p>१. मङ्गल (ग्रह) । २. घर रुङ्ने देवता । "
+    },
+    "01529": {
+      "dId": "ᤂᤘᤡ᤹ ",
+      "desc": "/खवि?/",
+      "group": "AM",
+      "mean": "<p>sealing wax; lac; lac-dye.</p>लाहा; लाक्षा ।"
+    },
+    "01530": {
+      "dId": "ᤂᤜᤡᤍᤠᤱᤘᤠ",
+      "desc": "/खहिदाङ्वा/",
+      "group": "AM",
+      "mean": "<p>a kind of bird.</p>कल्कले ।"
+    },
+    "01531": {
+      "dId": "ᤂ᤺",
+      "desc": "/खः/",
+      "group": "AM",
+      "mean": "<p>suspicion; doubt.</p>शङ्का ।"
+    },
+    "01532": {
+      "dId": "ᤂ᤺ᤰ/ᤂᤁ᤻",
+      "desc": "/खःक्/",
+      "group": "AM",
+      "mean": "<p>spot; mark.</p>टाटाे; दाग ।"
+    },
+    "01533": {
+      "dId": "ᤂ᤺ᤰᤁᤣ᤹/ᤂᤁ᤻ᤁᤣ ᤛᤡᤱ",
+      "desc": "/खःक्के? सिङ्/",
+      "group": "AM",
+      "mean": "<p>mulberry, a kind of Ficus cunia.</p>ठूलाे खालकाे खन्यू ।"
+    },
+    "01534": {
+      "dId": "ᤂ᤺ᤰᤂ᤺ᤰ/ᤂᤁ᤻ᤂᤁ᤻",
+      "desc": "/खःक्-खःक्/",
+      "group": "AM",
+      "mean": "<p>(n.) quientitude; calmness; silence. (adv.) silently; in reticence; quietly; noiselessly.</p>(ना.) चकमन्नता; माैनता; सुनसानपन । २. धुमधमती; नबाेली; माैन भएर । "
+    },
+    "01535": {
+      "dId": "ᤂ᤺ᤰᤔᤠ/ᤂᤁ᤻ᤔᤠ",
+      "desc": "/खःक्मा/",
+      "group": "AM",
+      "mean": "<p>to be marked with a spot.</p>टाटाे/ दाग लाग्नु ।"
+    },
+    "01536": {
+      "dId": "ᤂ᤺ᤰᤗᤠ/ᤂᤁ᤻ᤗᤠ",
+      "desc": "/खःक्ला/",
+      "group": "AM",
+      "mean": "<p>Capricorn; the sigh of Zodiac.</p>मकर (राशी) ।"
+    },
+    "01537": {
+      "dId": "ᤂ᤺ᤰᤛᤣ᤹/ᤂᤁ᤻ᤛᤣ᤹",
+      "desc": "/खःक्से/",
+      "group": "AM",
+      "mean": "<p>fruits of Ficus cunia.</p>खन्यूकाे फल ( दाना) ।"
+    },
+    "01538": {
+      "dId": "ᤂ᤺ᤱᤃᤡ/ᤂᤅ᤻ᤃᤡ ",
+      "desc": "/खःङ्गि/",
+      "group": "AM",
+      "mean": "<p>an openwork cane basket ( for fowls).</p>खाेङ्गी ।"
+    },
+    "01539": {
+      "dId": "ᤂ᤺ᤱᤍᤢ/ᤂᤅ᤻ᤍᤢ",
+      "desc": "/खःङ्दु/",
+      "group": "AM",
+      "mean": "<p>a kind of thatch-grass.</p>एक जातकाे सिरू ।"
+    },
+    "01540": {
+      "dId": "ᤂ᤺ᤱᤘᤠ/ᤂᤅ᤻ᤘᤠ",
+      "desc": "/खःङ्वा/",
+      "group": "AM",
+      "mean": "<p>pool.</p>आहाल ।"
+    },
+    "01541": {
+      "dId": "ᤂ᤺ᤔᤠ",
+      "desc": "/खःमा/",
+      "group": "AM",
+      "mean": "<p>1. to worship. 2. to recite; to chant; to intone; to utter incantations. 3. [Phedape] to pick up sth from below.</p>१. पूजा गर्नु । २. मन्त्र, पाठ, स्तुति, स्ताेत्र आदि पढ्नु (फलाक्नु) । ३. [फेदापे] तलतिरकाे वा भुइँकाे टिप्नु ।"
+    },
+    "01542": {
+      "dId": "ᤂ᤺ᤶᤒᤢ/ᤂᤔ᤻ᤒᤢ",
+      "desc": "/खःम्बु/",
+      "group": "AM",
+      "mean": "<p>the Kirat Rai tribes.</p>किराँत राई जाति ।"
+    },
+    "01543": {
+      "dId": "ᤂ᤺ᤶᤒᤪᤧ᤺ᤰ/ᤂᤔ᤻ᤒᤪᤧᤁ᤻",
+      "desc": "/खःम्ब्रेःक्/",
+      "group": "AM",
+      "mean": "<p>peach. Persica vulgaris.</p>आरू ।"
+    }
+  }
+}

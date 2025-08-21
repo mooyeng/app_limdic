@@ -1,0 +1,1708 @@
+{
+  "Dic": {
+    "01024": {
+      "dId": "ᤁᤢ",
+      "desc": "/कु/",
+      "group": "AK",
+      "mean": "<p>1. a prefix joined with the noun denoting various grammatical categories relating to third person singular personal pronoun; eg. kuhim {ku+him}=his house. 2. a prefix with a verb root in order to form a noun; eg. kujo:k{ku+cho:k}.</p>१. नाम शब्दकाे अगाडि जाेडिएर तृतीय पुरुष ‘ऊ’,  ‘उहाँ’, ‘त्याे’, ‘तिनी’ आदिसित सम्बद्ध विभिन्न सार्वनामिक व्याकरणिक काेटि बुझाउने उपसर्ग; जस्तै:- कुहिम {कु +हिम} = उस्काे घर । २. धातुकाे अगाडि जाेडिएर धातुबाट नामशब्दकाे निर्माण गर्ने उपसर्ग; जस्तै:- कुजाेःक् {कु +चाेःक्} ।"
+    },
+    "01025": {
+      "dId": "ᤁᤢᤀᤳ",
+      "desc": "/कुअत्/",
+      "group": "AK",
+      "mean": "<p>obstruction; hindrance; obstacle.</p>बाधा; अड्काउ ।"
+    },
+    "01026": {
+      "dId": "ᤁᤢᤀᤶᤗᤠ",
+      "desc": "/कुअम्ला/",
+      "group": "AK",
+      "mean": "<p>yallowness.</p>पहेंलाेपन ।"
+    },
+    "01027": {
+      "dId": "ᤁᤢᤀᤠᤎᤡᤰ",
+      "desc": "/कुआधिक्/",
+      "group": "AK",
+      "mean": "<p>a measurement of eight hands (measuring from the elbow to the tip of the middle finger); a lmeanth of this measurement.</p>आठ हातकाे नापाे ।"
+    },
+    "01028": {
+      "dId": "ᤁᤢᤀᤡᤰ",
+      "desc": "/कुइक्/",
+      "group": "AK",
+      "mean": "<p>turn; turning (in the road).</p>माेड; माेडिएकाे ठाँउ ।"
+    },
+    "01029": {
+      "dId": "ᤁᤢᤀᤡᤋ᤻/ᤁᤀᤡ᤹ ",
+      "desc": "/कुइःत्/कुइ?/",
+      "group": "AK",
+      "mean": "<p>shape; pattern; design.</p>छाँट; बान्की; ढाँचा ।"
+    },
+    "01030": {
+      "dId": "ᤁᤢᤀᤡ᤺ᤳᤇᤡ᤺ᤱ/ᤁᤢᤀᤡᤋ᤻ᤇᤡᤅ᤻",
+      "desc": "/कुइःत्छिङ्/",
+      "group": "AK",
+      "mean": "<p>1. conjecture; imagination. 2. feeling; emotion. 3. ambition; longing; aspiration.</p>१. अनुमान; कल्पना । २. भावना; भाव । ३. आकाङ्क्षा; अभिलाषा ।"
+    },
+    "01031": {
+      "dId": "ᤁᤢᤀ᤺ᤣᤵ/ᤁᤢᤀᤣᤐ᤻",
+      "desc": "/कुएःप्/",
+      "group": "AK",
+      "mean": "<p>1. suppression; oppression. 2. exploitation.</p>१. दबाब । २. शाेषण ।"
+    },
+    "01032": {
+      "dId": "ᤁᤢ᤹ᤀᤡ ",
+      "desc": "/कु?इ/",
+      "group": "AK",
+      "mean": "<p>conduct; manners; character.</p>शीलीवभाव; चरित्र ।"
+    },
+    "01033": {
+      "dId": "ᤁᤢ᤹ᤏᤠᤶ",
+      "desc": "/कु?नाम्/",
+      "group": "AK",
+      "mean": "<p>libra, sign of zodiac.</p>तुला राशि ।"
+    },
+    "01034": {
+      "dId": "ᤁᤢᤰᤁᤢ ᤐᤢ",
+      "desc": "/कुक्कु पु/",
+      "group": "AK",
+      "mean": "<p>cuckoo. <i>Cuculidae</i>.</p>कुक्कु चरा ।"
+    },
+    "01035": {
+      "dId": "ᤁᤢᤰᤔᤠ",
+      "desc": "/कुक्मा/",
+      "group": "AK",
+      "mean": "<p>to cause the milk to flow (into the teat or udder) .</p>पगार्नु ।"
+    },
+    "01036": {
+      "dId": "ᤁᤢᤁᤩᤘᤠ",
+      "desc": "/कुक्यवा/",
+      "group": "AK",
+      "mean": "<p>a kind of bird.</p>खेलचराे ।"
+    },
+    "01037": {
+      "dId": "ᤁᤢᤁᤫᤠ᤹",
+      "desc": "/कुक्वा?/",
+      "group": "AK",
+      "mean": "<p>a term of address (in third person) for the maternal uncle.</p>मामालाई सम्बाेधन गरेर तृतिय पुरुषमा भनिने शब्द ।"
+    },
+    "01038": {
+      "dId": "ᤁᤢᤃᤵ",
+      "desc": "/कुगप्/",
+      "group": "AK",
+      "mean": "<p>circle.</p>वृत्त; गाेलाकार परिधि; बाटुलाे वस्तु, घेरा आदि ।"
+    },
+    "01039": {
+      "dId": "ᤁᤢᤃᤒᤠ",
+      "desc": "/कुगबा/",
+      "group": "AK",
+      "mean": "<p>bruise; contusion; small black spot or spots on one’s body dut ot beating.</p>नीलडाम ।"
+    },
+    "01040": {
+      "dId": "ᤁᤢᤃᤠᤵ",
+      "desc": "/कुगाप्/",
+      "group": "AK",
+      "mean": "<p>1. couple; pair. 2. appendix.</p>१. युगल; जाेडा । २. परपिशिष्ट ।"
+    },
+    "01041": {
+      "dId": "ᤁᤢᤃᤣ",
+      "desc": "/कुगे/",
+      "group": "AK",
+      "mean": "<p>web (of spider) .</p>जालाे (माकुराकाे जालाे) ।"
+    },
+    "01042": {
+      "dId": "ᤁᤢᤃ᤺ᤣᤴ/ᤁᤢᤃᤣᤏ᤻",
+      "desc": "/कुगेःन्/",
+      "group": "AK",
+      "mean": "<p>lmeanth.</p>लम्बाइ ।"
+    },
+    "01043": {
+      "dId": "ᤁᤢᤃᤠᤣ",
+      "desc": "/कुगाे/",
+      "group": "AK",
+      "mean": "<p>rules; regulations.</p>नियम ।"
+    },
+    "01044": {
+      "dId": "ᤁᤢᤃᤠ᤺ᤣᤰᤔᤠ/ᤁᤢᤃᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/कुगाेःक्मा/",
+      "group": "AK",
+      "mean": "<p>support; thing used for supporting sth.</p>अडेसा; अडेस लगाइने वस्तु ।"
+    },
+    "01045": {
+      "dId": "ᤁᤢᤄᤰ",
+      "desc": "/कुघक्/",
+      "group": "AK",
+      "mean": "<p>cancellation.</p>खारेजी; रद्द; रद्द गर्ने काम ।"
+    },
+    "01046": {
+      "dId": "ᤁᤢᤄᤰᤔᤠ",
+      "desc": "/कुघक्मा/",
+      "group": "AK",
+      "mean": "<p>grain; a piece of grain.</p>अन्नकाे दाना; अन्न ।"
+    },
+    "01047": {
+      "dId": "ᤁᤢᤄ᤺ᤰ/ᤁᤢᤄᤁ᤻",
+      "desc": "/कुघःक्/",
+      "group": "AK",
+      "mean": "<p>spot.</p>दाग; टाटा ।"
+    },
+    "01048": {
+      "dId": "ᤁᤢᤄᤠᤶᤗᤠ",
+      "desc": "/कुघाम्ला/",
+      "group": "AK",
+      "mean": "<p>gray.</p>फुस्राे ।"
+    },
+    "01049": {
+      "dId": "ᤁᤢᤄᤠᤗᤧᤵ",
+      "desc": "/कुघालेप्/",
+      "group": "AK",
+      "mean": "<p>gap; blank.</p>खाली ठाउँ; रिक्त स्थान ।"
+    },
+    "01050": {
+      "dId": "ᤁᤢᤄᤠᤛᤠᤵ",
+      "desc": "/कुघासाप्/",
+      "group": "AK",
+      "mean": "<p>खाता ।exercise book; register."
+    },
+    "01051": {
+      "dId": "ᤁᤢᤄᤡᤵ",
+      "desc": "/कुघिप्/",
+      "group": "AK",
+      "mean": "<p>1. stress; emphasis; accent. 2. tension; mental repression; anxiety.</p>१. झाेंक्का; जाेड; बलाघात । २. तनाव; (मानसिक) चिन्ता ।"
+    },
+    "01052": {
+      "dId": "ᤁᤢᤄᤡᤘᤧᤳ",
+      "desc": "/कुघिवेत्/",
+      "group": "AK",
+      "mean": "<p>resin; gum.</p>चाेप ।"
+    },
+    "01053": {
+      "dId": "ᤁᤢᤄ᤺ᤣᤱ/ᤁᤢᤄᤣᤅ᤻",
+      "desc": "/कुघेःङ्/",
+      "group": "AK",
+      "mean": "<p>1. bracket marks, eg. ( ), { }, [ ]. 2. bond; bondage.</p>१. काेष्ठकचिन्ह; ‘[ ]’; { } र ( )’ यस्ता चिन्ह वा गरु बन्धनी । २. बन्धन । "
+    },
+    "01054": {
+      "dId": "ᤁᤢᤄᤠᤣ",
+      "desc": "/कुघाे/",
+      "group": "AK",
+      "mean": "<p>achievement.</p>उपलब्धि ।"
+    },
+    "01055": {
+      "dId": "ᤁᤢᤄᤠ᤺ᤣᤰ/ᤁᤢᤄᤠᤣᤁ᤻",
+      "desc": "/कुघाेःक्/",
+      "group": "AK",
+      "mean": "<p>crust (of bread, cooked rice, etc).</p>माम्री ।"
+    },
+    "01056": {
+      "dId": "ᤁᤢᤄᤧᤶᤛᤡᤱ",
+      "desc": "/कुघेम्सिङ्/",
+      "group": "AK",
+      "mean": "<p>grandeur; splendour; brilliance.</p>राैनक; झिलिमिली; चमकदमक ।"
+    },
+    "01057": {
+      "dId": "ᤁᤢᤄᤧᤸᤗᤧᤰ",
+      "desc": "/कुघेल्लेक्/",
+      "group": "AK",
+      "mean": "<p>half; one of the tow halved pieces.</p>आधा; आधा फग्ल्याँटाे ।"
+    },
+    "01058": {
+      "dId": "ᤁᤢᤄᤧ᤺ᤰ/ᤁᤢᤄᤧᤁ᤻",
+      "desc": "/कुघेःक्/",
+      "group": "AK",
+      "mean": "<p>splinter; a piece; slice. 2. piece; part.</p>१. चाेइटा २. टुक्रा; अंश ।"
+    },
+    "01059": {
+      "dId": "ᤁᤢᤅᤠᤗᤧᤰ",
+      "desc": "/कुङालेक्/",
+      "group": "AK",
+      "mean": "<p>morphophonology; morphophonemic sandhi.</p>रुप परिवर्तन; सन्धि ।"
+    },
+    "01060": {
+      "dId": "ᤁᤢᤱᤒᤠ",
+      "desc": "/कुङ्बा/",
+      "group": "AK",
+      "mean": "<p>1. wife’s younger brother. 2. wife’s elder brother. 3. elder sister’s husband (word used by male) . 4. younger sister’s husband ( word used by male).</p>१. सालाे । २. जेठान ।३. भिनाजु (पुरुषले प्रयाेग गर्ने शब्द) । ४. बहिनिज्वाइँ (पुरुषले प्रयाेग गर्ने शब्द) ।"
+    },
+    "01061": {
+      "dId": "ᤁᤢᤱᤔᤠ",
+      "desc": "/कुङ्मा/",
+      "group": "AK",
+      "mean": "<p>1. to overflow/ flood; to surge (waves). 2. [Tamor] to become solid.</p>१. भेल/ बाढी आउनु; छाल उठ्नु/ उर्लनु । २. [तमर] जम्नु ।"
+    },
+    "01062": {
+      "dId": "ᤁᤢᤱᤘᤠ",
+      "desc": "/कुङ्वा/",
+      "group": "AK",
+      "mean": "<p>name of a constellation.</p>आर्द्रा (नक्षत्र) ।"
+    },
+    "01063": {
+      "dId": "ᤁᤢᤆᤠ᤹",
+      "desc": "/कुचा?/",
+      "group": "AK",
+      "mean": "<p>(adj.) [Phedape] true; real. (adv.) really; truly; actually; verily.</p>(वि.) [फेदापे] सत्य; साँचाे । (क्रिवि.) साँच्चै ।"
+    },
+    "01064": {
+      "dId": "ᤁᤢᤇᤠᤵ",
+      "desc": "/कुछाप्/",
+      "group": "AK",
+      "mean": "<p>deputy; representative.</p>वारिस; प्रतिनिधि ।"
+    },
+    "01065": {
+      "dId": "ᤁᤢᤇᤡᤰ",
+      "desc": "/कुछिक्/",
+      "group": "AK",
+      "mean": "<p>sharpness; bitterness; enmity; hostility; unpleasantness.</p>कटुता ।"
+    },
+    "01066": {
+      "dId": "ᤁᤢᤈᤰ",
+      "desc": "/कुजक्/",
+      "group": "AK",
+      "mean": "<p>extra; something additional.</p>अतिरिक्त ।"
+    },
+    "01067": {
+      "dId": "ᤁᤢᤈᤰᤗᤠ",
+      "desc": "/कुजक्ला/",
+      "group": "AK",
+      "mean": "<p>appendix.</p>परिशिष्ट ।"
+    },
+    "01068": {
+      "dId": "ᤁᤢᤈᤱ",
+      "desc": "/कुजङ्/",
+      "group": "AK",
+      "mean": "<p>top; summit.</p>टुप्पाे; शिखर ।"
+    },
+    "01069": {
+      "dId": "ᤁᤢᤈᤶ",
+      "desc": "/कुजम्/",
+      "group": "AK",
+      "mean": "<p>height; altitude.</p>उँचाइ; अग्लाइ ।"
+    },
+    "01070": {
+      "dId": "ᤁᤢᤈᤵᤕᤠ",
+      "desc": "/कुजप्या/",
+      "group": "AK",
+      "mean": "<p>dried food, eg. dried meat, etc.</p>सुकेकाे खानेकुराे; सुकुटी ।"
+    },
+    "01071": {
+      "dId": "ᤁᤢᤈᤠ᤹",
+      "desc": "/कुजा?/",
+      "group": "AK",
+      "mean": "<p>fact.</p>यथार्थ; वास्तविकता ।"
+    },
+    "01072": {
+      "dId": "ᤁᤢᤈᤠ",
+      "desc": "/कुजा/",
+      "group": "AK",
+      "mean": "<p>1. food; food stuff. 2. pieces of (meat, etc). 3. fruits, seeds of a fruit. 4. substance, core, kernel.</p>१. खानेकुरा; खाद्यपदार्थ । २. चाैटा । ३. फलफुल; फलफुलका दाना, गेडा । ४. सार-तत्त्व; गुदी ।"
+    },
+    "01073": {
+      "dId": "ᤁᤢᤈᤠᤄᤩᤠ",
+      "desc": "/कुजाघ्या/",
+      "group": "AK",
+      "mean": "<p>gultton.</p>खन्चुवा; खन्चुराे ।"
+    },
+    "01074": {
+      "dId": "ᤁᤢᤈᤠ᤹ᤀᤡ ",
+      "desc": "/कुजा?इ/",
+      "group": "AK",
+      "mean": "<p>1. solid; substantial. 2. [Phedape] real; accurate.</p>१. खँदिलाे; पाेटिलाे; सारयुक्त । २. [फेदापे] खास; साँच्चैकाे; यथार्थ ।"
+    },
+    "01075": {
+      "dId": "ᤁᤢᤈᤠᤰ",
+      "desc": "/कुजाक्/",
+      "group": "AK",
+      "mean": "<p>bunch (of maize).</p>झुत्ता (मकैकाे) ।"
+    },
+    "01076": {
+      "dId": "ᤁᤢᤈᤠᤃᤩᤠᤰᤔᤠ",
+      "desc": "/कुजाग्याक्मा/",
+      "group": "AK",
+      "mean": "<p>craw; crop.</p>कुखुरा आदि चराचुरुङ्गीकाे गाँड ।"
+    },
+    "01077": {
+      "dId": "ᤁᤢᤈᤡ ",
+      "desc": "/कुजि/",
+      "group": "AK",
+      "mean": "<p>dregs; sediment; grounds; residue; remnant.</p>थिग्राे; थिग्रेनी ।"
+    },
+    "01078": {
+      "dId": "ᤁᤢᤈᤡᤕᤠ᤺ᤴ/ᤁᤢᤈᤡᤕᤠᤏ᤻",
+      "desc": "/कुजियाःन्/",
+      "group": "AK",
+      "mean": "<p>a kind of weed resembling a bell.</p>घण्टीझार ।"
+    },
+    "01079": {
+      "dId": "ᤁᤢᤈᤢᤵ",
+      "desc": "/कुजुप्/",
+      "group": "AK",
+      "mean": "<p>chance; opportunity.</p>अवसर; माैका ।"
+    },
+    "01080": {
+      "dId": "ᤁᤢᤈ᤺ᤢᤳᤇᤡᤱ/ᤁᤢᤈᤢᤋ᤻ᤇᤡᤱ",
+      "desc": "/कुजुःत्छिङ्/",
+      "group": "AK",
+      "mean": "<p>conclusion; postscript.</p>उपसंहार; लेख, पुस्तक आदि टेङ्ग्याउनुभन्दा अघि लेखिने निष्कर्ष, अंश आदि ।"
+    },
+    "01081": {
+      "dId": "ᤁᤢᤈᤠᤣ",
+      "desc": "/कुजाे/",
+      "group": "AK",
+      "mean": "<p>feather.</p>प्वाँख ।"
+    },
+    "01082": {
+      "dId": "ᤁᤢᤈᤠ᤺ᤣᤰ/ᤁᤢᤈᤠᤣᤁ᤻",
+      "desc": "/कुजाेःक्/",
+      "group": "AK",
+      "mean": "<p>1. creation. 2. construction.</p>१. सृष्टि; सृजना । २. निर्माण ।"
+    },
+    "01083": {
+      "dId": "ᤁᤢᤈᤠ᤺ᤣᤰᤛᤡᤱ/ᤁᤢᤈᤠᤣᤁ᤻ᤛᤡᤱ",
+      "desc": "/कुजाेःक्सिङ्/",
+      "group": "AK",
+      "mean": "<p>providence; destiny; creator.</p>विधाता; सृष्टिकर्ता ।"
+    },
+    "01084": {
+      "dId": "ᤁᤢᤈᤠ᤺ᤣᤸᤗᤠᤰᤐᤠ/ᤁᤢᤈᤠᤣᤗ᤻ᤗᤠᤰᤐᤠ",
+      "desc": "/कुजाेःल्लाक्पा/",
+      "group": "AK",
+      "mean": "<p>unreliable.</p>अविश्वसनीय ।"
+    },
+    "01085": {
+      "dId": "ᤁᤢᤈᤧ᤹ᤗᤢᤱᤒᤠ",
+      "desc": "/कुजे?लुङ्बा/",
+      "group": "AK",
+      "mean": "<p>1. clear; distinct; obvious; lucid. 2. pure; guileless; innocent.</p>१. स्पष्ट; प्रस्ट; छर्लङ्ग । २. शुद्ध; निश्छल ।"
+    },
+    "01086": {
+      "dId": "ᤁᤢᤈᤧᤰ",
+      "desc": "/कुजेक्/",
+      "group": "AK",
+      "mean": "<p>[Tamor] surety; certainty; definiteness.</p>[तमर] पक्का; निश्चय ।"
+    },
+    "01087": {
+      "dId": "ᤁᤢᤈᤧᤴ",
+      "desc": "/कुजेन्/",
+      "group": "AK",
+      "mean": "<p>wage.</p>पारिश्रमिक ।"
+    },
+    "01088": {
+      "dId": "ᤁᤢᤈᤧᤖᤧᤰ",
+      "desc": "/कुजेरेक्/",
+      "group": "AK",
+      "mean": "<p>necessary; requisite; urgent. </p>आवश्यक; जरुरी ।"
+    },
+    "01089": {
+      "dId": "ᤁᤢᤳᤆᤡ ",
+      "desc": "/कुत्चि/",
+      "group": "AK",
+      "mean": "<p>1. a kind of small brush made of hair of bristles of pig, fastened in a silver rim, often used to clean ornaments. 2. brush. 3. special; particular.</p>१. चाँदिकाे बिट राखी बनाइएकाे, गरगहना, दाँत आदि सफा गर्न प्रयाेग गरिने साँचाेकाे झुप्पाे; तुनाे आदिमा झुण्ड्याउन हुनेखालकाे जगरकाे बुरुस विशेष । २. ब्रुस ३. विशेष ।"
+    },
+    "01090": {
+      "dId": "ᤁᤢᤳᤆᤡᤘᤠ",
+      "desc": "/कुत्चिवा/",
+      "group": "AK",
+      "mean": "<p>tickle; titillation.</p>कुतकुती; काउकुती ।"
+    },
+    "01091": {
+      "dId": "ᤁᤢᤳᤇᤡᤱ",
+      "desc": "/कुत्छिङ्/",
+      "group": "AK",
+      "mean": "<p>outright; wholly.</p>एकदमै; ड्याम्मै ।"
+    },
+    "01092": {
+      "dId": "ᤁᤢᤳᤋᤡᤒᤠ",
+      "desc": "/कुत्तिबा/",
+      "group": "AK",
+      "mean": "<p>1. puppy. 2. a variety of small weed (or plant). Muelhenbergia varidissima.</p>१. छाउराे (कुकुरकाे) । २. घाेगे बन्साे (झार) ।"
+    },
+    "01093": {
+      "dId": "ᤁᤢᤳᤋᤡᤔᤠ",
+      "desc": "/कुत्तिमा/",
+      "group": "AK",
+      "mean": "<p>1. puppy. 2. a kind of grass. Muelhenbergia viridissima.</p>१. छाउरी (कुकुरकाे) । २. सानाे खालकाे बन्साे झार ।"
+    },
+    "01094": {
+      "dId": "ᤁᤢᤳᤋᤪᤢᤰᤐᤠ",
+      "desc": "/कुत्त्रुक्पा/",
+      "group": "AK",
+      "mean": "<p>a kind of bird.</p>टकटके चराे ।"
+    },
+    "01095": {
+      "dId": "ᤁᤢᤍᤱ",
+      "desc": "/कुदङ्/",
+      "group": "AK",
+      "mean": "<p>with; together.</p>सँग; सँगै ।"
+    },
+    "01096": {
+      "dId": "ᤁᤢᤍᤱᤍᤱᤒᤠ",
+      "desc": "/कुदङ्दङ्बा/",
+      "group": "AK",
+      "mean": "<p>equal; tantamount; at par with.</p>समानसमान; बराबरबराबर ।"
+    },
+    "01097": {
+      "dId": "ᤁᤢᤍᤱᤒᤠ",
+      "desc": "/कुदङ्बा/",
+      "group": "AK",
+      "mean": "<p>1. equal; equivalent. 2. equation.</p>१. समान वा बराबर पार्ने काम; समिकरण । २. समिकरण ।"
+    },
+    "01098": {
+      "dId": "ᤁᤢᤍᤠᤱ",
+      "desc": "/कुदाङ्/",
+      "group": "AK",
+      "mean": "<p>1. piece; part. 2. horn.</p>१. टुक्रा; खण्ड । २. सिङ ।"
+    },
+    "01099": {
+      "dId": "ᤁᤢᤍᤠᤵ",
+      "desc": "/कुदाप्/",
+      "group": "AK",
+      "mean": "<p>1. forest deities; deities residing in a forest. 2. jungle hunter deity. 3. earth deity. 4. expansion.</p>१. जङ्गलका देवी देवताहरु । २. वनशिकारी । ३. संसारेनी देवी । ४. फिंजाइ; व्याप्ति; विस्तृति ।"
+    },
+    "01100": {
+      "dId": "ᤁᤢᤍᤠᤵᤐᤠ",
+      "desc": "/कुदाप्मा/",
+      "group": "AK",
+      "mean": "<p>the name of a constellation.</p>भ्रामरी ।"
+    },
+    "01101": {
+      "dId": "ᤁᤢᤍᤠᤵᤔᤠ᤺",
+      "desc": "/कुदाप्माः/",
+      "group": "AK",
+      "mean": "<p>ear of paddy.</p>बाला ।"
+    },
+    "01102": {
+      "dId": "ᤁᤢᤍᤡᤶ",
+      "desc": "/कुदिम्/",
+      "group": "AK",
+      "mean": "<p>(n.) absolute; perfection; fullness; wholeness; full. (adv.) absolutely; perfectly; fully; wholly.</p>(नाा.) पूर्णता; पूर्णत्व । (क्रिवि.) भरि; भरिपूर्ण; पूर्णरुपले ।"
+    },
+    "01103": {
+      "dId": "ᤁᤢᤍᤡ᤺ᤰ/ᤁᤢᤍᤡᤁ᤻",
+      "desc": "/कुदिःक्/",
+      "group": "AK",
+      "mean": "<p>row; line; queue; a long retinue.</p>ताँती; लर्काे; पङ्क्ति ।"
+    },
+    "01104": {
+      "dId": "ᤁᤢᤍᤢ",
+      "desc": "/कुदु/",
+      "group": "AK",
+      "mean": "<p>sap; sticky substance obtained from a tree.</p>चाेप ।"
+    },
+    "01105": {
+      "dId": "ᤁᤢᤍᤢᤶᤒᤣ",
+      "desc": "/कुदुम्बे/",
+      "group": "AK",
+      "mean": "<p>1. seam. 2. join; joint.</p>१. सिउनी; सिएकाे डाेब; सिलाइका टाँकाहरू । २. जाेर्नी; दुई वा त्यसभन्दा बढी वस्तु जाेडीएकाे ठाँउ; गाँस; गाँसिएकाे ठाँउ ।"
+    },
+    "01106": {
+      "dId": "ᤁᤢᤍ᤺ᤢᤵᤐᤠ/ᤁᤢᤍᤢᤐ᤻ᤐᤠ",
+      "desc": "/कुदुःप्पा/",
+      "group": "AK",
+      "mean": "<p>large intestine.</p>बाेसे आन्द्रा ।"
+    },
+    "01107": {
+      "dId": "ᤁᤢᤍᤠᤣ᤹",
+      "desc": "/कुदाे?/",
+      "group": "AK",
+      "mean": "<p>kidney.</p>मिर्गाैला ।"
+    },
+    "01108": {
+      "dId": "ᤁᤢᤍᤠ᤺ᤣᤰ/ᤁᤢᤍᤠᤣᤁ᤻",
+      "desc": "/कुदाेःक्/",
+      "group": "AK",
+      "mean": "<p>decision; sanction.</p>निर्धारण; ठह;र ताेक ।"
+    },
+    "01109": {
+      "dId": "ᤁᤢᤍᤠ᤺ᤣᤰᤏᤧᤳ/ᤁᤢᤍᤠᤣᤁ᤻ᤏᤧᤳ",
+      "desc": "/कुदेःक्नेत्/",
+      "group": "AK",
+      "mean": "<p>ritual-pollution; prohibition ritual to be observed after death of a relative.</p>जुठाे; आशाेच; मराेपराेमा जुठाे बार्ने काम ।"
+    },
+    "01110": {
+      "dId": "ᤁᤢᤍᤠ᤺ᤣᤰᤐᤠ/ᤁᤢᤍᤠᤣᤁ᤻ᤐᤠ",
+      "desc": "/कुदाेःक्पा/",
+      "group": "AK",
+      "mean": "<p>straight; guileless; naive; simple.</p>(वि.) साधारण; सीधा; साेझाे; सरल (लप्पन छप्पन नभएका वा नजान्ने ) । (क्रिवि.) हाकाहाकी; ठाडै; खुल्लमखुल्ला ।"
+    },
+    "01111": {
+      "dId": "ᤁᤢᤍᤠ᤺ᤣᤴᤍᤠ᤺ᤣᤰᤐᤠ/ᤁᤢᤍᤠᤣᤏ᤻ᤍᤠᤣᤁ᤻ᤐᤠ",
+      "desc": "/कुदाेःन्दाेःक्पा/",
+      "group": "AK",
+      "mean": "<p>right below; beneath.</p>सीधा वा ठीक मुनिकाे; साेझै मुनिकाे ।"
+    },
+    "01112": {
+      "dId": "ᤁᤢᤍᤠ᤺ᤣᤶᤒᤠ/ᤁᤢᤍᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/कुदाेःम्बा/",
+      "group": "AK",
+      "mean": "<p>right; right side up.</p>साेझाे; सुल्टाे; सब्ल्याँटाे ।"
+    },
+    "01113": {
+      "dId": "ᤁᤢᤍᤧᤵᤔᤠ",
+      "desc": "/कुदेप्मा/",
+      "group": "AK",
+      "mean": "<p>cover, eg. lid, etc.</p>छाेपेने वस्तु, जस्तै- ढकनी इत्यादी ।"
+    },
+    "01114": {
+      "dId": "ᤁᤢᤍᤧᤶᤔᤠ",
+      "desc": "/कुदेम्मा/",
+      "group": "AK",
+      "mean": "<p>holding materials, eg. handle, etc.</p>समात्ने वस्तु, जस्तै- बीँड इत्यादी ।"
+    },
+    "01115": {
+      "dId": "ᤁᤢᤎᤰ ᤛᤰ",
+      "desc": "/कुधक् सक्/",
+      "group": "AK",
+      "mean": "<p>consonant.</p>व्यन्जनवर्ण ।"
+    },
+    "01116": {
+      "dId": "ᤁᤢᤎᤠᤰ-ᤛᤢᤎᤠᤰ",
+      "desc": "/कुधाक् सुधाक्/",
+      "group": "AK",
+      "mean": "<p>1. forefathers; ancestors; remote ancestors. 2. progenitors; remote ancestors.</p>१. जिज्यू-च्याप्ज्यू; धेरै पुस्ताअघिका बाजे-बराज्यूहरू । २. पुर्खा ।"
+    },
+    "01117": {
+      "dId": "ᤁᤢᤎᤠᤏᤠ",
+      "desc": "/कुधाना/",
+      "group": "AK",
+      "mean": "<p>a measure of thirty-two hands.</p>बत्तिस हातकाे नापाे ।"
+    },
+    "01118": {
+      "dId": "ᤁᤢᤎᤠᤱ",
+      "desc": "/कुधाङ्/",
+      "group": "AK",
+      "mean": "<p>the act of weighing; weighing.</p>ताैलने काम ।"
+    },
+    "01119": {
+      "dId": "ᤁᤢᤎᤠᤱᤃᤇᤰ",
+      "desc": "/कुधाङ्गेक्/",
+      "group": "AK",
+      "mean": "<p>1. a measure of weight; a weight. 2. a unit (of measurement).</p>१. ढक । २. ताैलकाे एकाइ ।"
+    },
+    "01120": {
+      "dId": "ᤁᤢᤎᤠᤱᤒᤠᤣ",
+      "desc": "/कुधाङ्बाे/",
+      "group": "AK",
+      "mean": "<p>handle of physical balance.</p>तुलाे वा तराजुकाे डण्डी ।"
+    },
+    "01121": {
+      "dId": "ᤁᤢᤎᤠᤱᤗᤢᤱ",
+      "desc": "/कुधाङ्लुङ्/",
+      "group": "AK",
+      "mean": "<p>balance; scales; weighing machine.</p>तराजु ।"
+    },
+    "01122": {
+      "dId": "ᤁᤢᤎᤢᤱ",
+      "desc": "/कुधुङ्/",
+      "group": "AK",
+      "mean": "<p>1. corner of a house. 2. corner.</p>१. घरकाे कुनाे । २. कुनाे ।"
+    },
+    "01123": {
+      "dId": "ᤁᤢᤎᤢ᤺ᤶ/ᤁᤢᤎᤢᤔ᤻",
+      "desc": "/कुधुःम्/",
+      "group": "AK",
+      "mean": "<p>half husked (grain/ rice, etc) .</p>फलिएकाे नफलिएकाे छ्यासमिस भएकाे अन्न (धान, काेदाे, इत्यादि ) ।"
+    },
+    "01124": {
+      "dId": "ᤁᤢᤎᤠᤣ᤺ᤰ/ᤁᤢᤎᤠᤣᤁ᤻",
+      "desc": "/कुधाेःक्/",
+      "group": "AK",
+      "mean": "<p>produce; yield of crops.</p>फलाइ; उब्जानी ।"
+    },
+    "01125": {
+      "dId": "ᤁᤢᤎᤠᤣ᤺ᤳ/ᤁᤢᤎᤠᤣᤋ᤻",
+      "desc": "/कुधाेःत्/",
+      "group": "AK",
+      "mean": "<p>carving more for sth.</p>पल्काइ (पल्कने काम) ।"
+    },
+    "01126": {
+      "dId": "ᤁᤢᤏᤰ ᤛᤡᤱ",
+      "desc": "/कुनक् सिङ्/",
+      "group": "AK",
+      "mean": "<p>a kind of tree.</p>तुसारेकाे रुख ।"
+    },
+    "01127": {
+      "dId": "ᤁᤢᤏᤱᤘᤧᤳ",
+      "desc": "/कुनङ्वेत्/",
+      "group": "AK",
+      "mean": "<p>unriped; immatured.</p>कलिलाे; अपरिपक्व ।"
+    },
+    "01128": {
+      "dId": "ᤁᤢᤏᤴ",
+      "desc": "/कुनन्/",
+      "group": "AK",
+      "mean": "<p>remainder.(math)</p>भागशेष ।"
+    },
+    "01129": {
+      "dId": "ᤁᤢᤏᤴᤍᤠᤱ",
+      "desc": "/कुनन्दाङ्/",
+      "group": "AK",
+      "mean": "<p>1. one who is quarrelsome or offensive. 2. unusual; irrelevant; absurd.</p>१. अर्घेलाे; अमिल्दाे । २. अस्वाभाविक; हुन नसक्ने प्रकारकाे ।"
+    },
+    "01130": {
+      "dId": "ᤁᤢᤏ᤺ᤴᤍᤢ᤹/ᤁᤢᤏᤏ᤻ᤍᤢ",
+      "desc": "/कुनःन्दु?/",
+      "group": "AK",
+      "mean": "<p>unripe.</p>कलिलाे ।"
+    },
+    "01131": {
+      "dId": "ᤁᤢᤏᤠ-ᤁᤢᤀᤡ᤺ᤳ/ᤁᤢᤀᤡᤋ᤻",
+      "desc": "/कुना-कुइत्/",
+      "group": "AK",
+      "mean": "<p>1. draft; rough; preliminary form. 2. format; outline; profile.</p>१. मस्याैदा; खेस्रा; प्रलेख । २. रुपरेखा; खाका; पूर्व याेजना ।"
+    },
+    "01132": {
+      "dId": "ᤁᤢᤏᤠᤃᤧᤎᤠᤰᤐᤠ",
+      "desc": "/कुनागेधाक्पा/",
+      "group": "AK",
+      "mean": "<p>deaf.</p>बहिराे ।"
+    },
+    "01133": {
+      "dId": "ᤁᤢᤏᤠᤔᤧ",
+      "desc": "/कुनामे/",
+      "group": "AK",
+      "mean": "<p>role; part played (by sb, sth); contribution.</p>भूमिका; कुनै वस्तु वा व्याक्तिकाे याेगदान ।"
+    },
+    "01134": {
+      "dId": "ᤁᤢᤏᤠᤔᤧᤴᤇᤠ",
+      "desc": "/कुनामेन्छा?/",
+      "group": "AK",
+      "mean": "<p>unbelief; insult; neglect; looking sb down.</p>अनपत्यार; अपहेलना; उपेक्षा ।"
+    },
+    "01135": {
+      "dId": "ᤁᤢᤏᤠᤶᤛᤡᤱ",
+      "desc": "/कुनाम्सिङ्/",
+      "group": "AK",
+      "mean": "<p>a tree whose wood is used for making religious marks to be put on the forehead. Sandal wood.</p>चन्दन रुख ।"
+    },
+    "01136": {
+      "dId": "ᤁᤢᤏᤠᤗᤧᤰ",
+      "desc": "/कुनालेक्/",
+      "group": "AK",
+      "mean": "<p>morphophonology; sandhi.</p>रुपपरिवर्तन; ध्वनिरुप-परिवर्तन; सन्धि ।"
+    },
+    "01137": {
+      "dId": "ᤁᤢᤏᤠᤛᤠ᤹ᤔᤠ",
+      "desc": "/कुनासा?मा/",
+      "group": "AK",
+      "mean": "<p>trust; trustworthiness.</p>पत्यार; पत्याउने काम ।"
+    },
+    "01138": {
+      "dId": "ᤁᤢᤏᤠᤁᤧᤛᤠ᤹ᤒᤠ",
+      "desc": "/कुनाकेसा?बा/",
+      "group": "AK",
+      "mean": "<p>trustworthy.</p>पत्यारिलाे ।"
+    },
+    "01139": {
+      "dId": "ᤁᤢᤏᤡᤱᤗᤡᤱ",
+      "desc": "/कुनिङ्लिङ्/",
+      "group": "AK",
+      "mean": "<p>psychology.</p>मनाेविज्ञान ।"
+    },
+    "01140": {
+      "dId": "ᤁᤢᤏᤢᤶ",
+      "desc": "/कुनुम्/",
+      "group": "AK",
+      "mean": "<p>1. last; ending. 2. conclusion; final.</p>१. अन्त; समाप्ति । २. उपसंहार ।"
+    },
+    "01141": {
+      "dId": "ᤁᤢᤏᤠᤣ᤹ᤁᤢᤍᤠ",
+      "desc": "/कुनाे?कुदा/",
+      "group": "AK",
+      "mean": "<p>1. welfare; sound health; the state of being well and healthy. 2. obligation; gratefulness.</p>१. भलाे; सन्चाे । २. आभार; कृतज्ञता ।"
+    },
+    "01142": {
+      "dId": "ᤁᤢᤏᤠᤣ-ᤁᤢᤒᤡ᤹ ",
+      "desc": "/कुनाे-कुबि?/",
+      "group": "AK",
+      "mean": "<p>speciality; characteristic; salient feature.</p>विशेषता ।"
+    },
+    "01143": {
+      "dId": "ᤁᤢᤏᤠᤣᤔᤧᤴ",
+      "desc": "/कुनाेमेन्/",
+      "group": "AK",
+      "mean": "<p>splendour; brilliance; grandeur.</p>राैनक; चमकदमक ।"
+    },
+    "01144": {
+      "dId": "ᤁᤢᤴᤈᤠᤣ",
+      "desc": "/कुन्जाे/",
+      "group": "AK",
+      "mean": "<p>a kind of hammer.</p>कुन्जाे; चुच्चाे भएकाे फलामकाे ढुङ्गा आदि कुट्ने बीँडसहितकाे एक प्रकारकाे हतियार । "
+    },
+    "01145": {
+      "dId": "ᤁᤢᤴᤍᤪᤡ ",
+      "desc": "/कुन्द्रि/",
+      "group": "AK",
+      "mean": "<p>a kind of straw mat.</p>गुन्द्री ।"
+    },
+    "01146": {
+      "dId": "ᤁᤢᤴᤎᤠ᤺ᤰᤔᤠ/ᤁᤢᤴᤎᤠᤁ᤻ᤔᤠ",
+      "desc": "/कुन्धाःक्मा/",
+      "group": "AK",
+      "mean": "<p>(fem.) head of a family; head or chief of a household; the seniormost person in a family, clan, group, etc.</p>(स्त्री) मूली; घरकाे मुख्य मानिस; थकाली ।"
+    },
+    "01147": {
+      "dId": "ᤁᤢᤴᤎᤣ",
+      "desc": "/कुन्धे/",
+      "group": "AK",
+      "mean": "<p>1. wealth and property;  opulence; possessions; richness. 2. money.</p>१. सम्पत्ति; दाैलत; ऐश्वर्य; श्रीसम्पति । २. पैसा; द्रव्य; अर्थ ।"
+    },
+    "01148": {
+      "dId": "ᤁᤢᤴᤎᤣᤍᤠᤱᤘᤠ",
+      "desc": "/कुन्धेदाङ्वा/",
+      "group": "AK",
+      "mean": "<p>prosperity; richness.</p>सम्पन्नता ।"
+    },
+    "01149": {
+      "dId": "ᤁᤢᤴᤎᤣᤗᤡ ",
+      "desc": "/कुन्धेलि/",
+      "group": "AK",
+      "mean": "<p>financial; fiscal.</p>आर्थिक ।"
+    },
+    "01150": {
+      "dId": "ᤁᤢᤵ",
+      "desc": "/कुप्/",
+      "group": "AK",
+      "mean": "<p>place for hatching egg; incubator.</p>ओथाराे ।"
+    },
+    "01151": {
+      "dId": "ᤁᤢᤵᤐᤡ ",
+      "desc": "/कुप्पि/",
+      "group": "AK",
+      "mean": "<p>a kind of small kerosene lamp.</p>टुकी ।"
+    },
+    "01152": {
+      "dId": "ᤁᤢᤵᤑᤠ",
+      "desc": "/कुप्फा/",
+      "group": "AK",
+      "mean": "<p>rack (for keeping books).</p>पुस्तक राख्ने ताक, दराज ।"
+    },
+    "01153": {
+      "dId": "ᤁᤢᤵᤔᤠ",
+      "desc": "/कुप्मा/",
+      "group": "AK",
+      "mean": "<p>to hatch eggs; to incubate.</p>ओथाराे बस्नु ।"
+    },
+    "01154": {
+      "dId": "ᤁᤢᤵᤛᤡᤱᤔᤠ",
+      "desc": "/कुप्सिङ्मा/",
+      "group": "AK",
+      "mean": "<p>to lie in coils (like snake).</p>गुटमुटिनु; डल्लाे पर्नु ।"
+    },
+    "01155": {
+      "dId": "ᤁᤢᤒᤰ",
+      "desc": "/कुबक्/",
+      "group": "AK",
+      "mean": "<p>bulb (of garlic, etc.).</p>पाेटी (लसुन आदिकाे) ।"
+    },
+    "01156": {
+      "dId": "ᤁᤢᤒᤴ",
+      "desc": "/कुबन्/",
+      "group": "AK",
+      "mean": "<p>volume (of a book, periodical, newspaper, etc).</p>खण्ड वा भाग (पत्रिका वा पुस्तककाे) ।"
+    },
+    "01157": {
+      "dId": "ᤁᤢᤒᤠ᤺ᤳᤇᤡᤱ/ᤁᤢᤒᤠᤋ᤻ᤇᤱ",
+      "desc": "/कुबाःत्छिङ्/",
+      "group": "AK",
+      "mean": "<p>1. theme; subject-matter. 2. theme; subject matter.</p>१. पेटबाेली । २. बिषयवस्तु ।"
+    },
+    "01158": {
+      "dId": "ᤁᤢᤒᤠ᤺ᤵᤐᤠ᤺ᤳ/ᤁᤢᤒᤠᤐ᤻ᤐᤠᤋ᤻",
+      "desc": "/कुबाःप्पाःत्/",
+      "group": "AK",
+      "mean": "<p>at one’s own will; arbitrarily; at random.</p>मनलागी; मनमानी ।"
+    },
+    "01159": {
+      "dId": "ᤁᤢᤒᤡ᤹ᤛᤠᤶ",
+      "desc": "/कुबि?साम्/",
+      "group": "AK",
+      "mean": "<p>skill; talent.</p>सीप; प्रतिभा ।"
+    },
+    "01160": {
+      "dId": "ᤁᤢᤒᤢ",
+      "desc": "/कुबु/",
+      "group": "AK",
+      "mean": "<p>1. hump. 2. germs. 3. a worm which eats wood or tree; a wood-worm. 4. germs which infect teeth.</p>१. जुराे; साँढे आदि गाईबस्तुकाे काँधमा भुक्क उठेकाे भाग । २. कीटाणु । ३. रुखकाे भित्री भागमा लाग्ने कीराेविशेष । ४. दाँतमा लाग्न् कीरा । "
+    },
+    "01161": {
+      "dId": "ᤁᤢᤒᤢᤱ",
+      "desc": "/कुबुङ्/",
+      "group": "AK",
+      "mean": "<p>1. tree-trunk; stem. 2.  bottom; base; basis; foundation. 3. origin.</p>१. बाेट । २. फेद; आधार; आधारभुमि; आधारशिला । ३. प्रारम्भ; उत्पत्ति ।"
+    },
+    "01162": {
+      "dId": "ᤁᤢᤒᤢᤱᤛᤡᤱ",
+      "desc": "/कुबुङ्सिङ्/",
+      "group": "AK",
+      "mean": "<p>base; foundation; primary.</p>आधार; प्राथमिकता ।"
+    },
+    "01163": {
+      "dId": "ᤁᤢᤒᤢᤱᤛᤡᤱᤒᤠ",
+      "desc": "/कुबुङ्सिङ्बा/",
+      "group": "AK",
+      "mean": "<p>base; fundamental; primary.</p>आरम्भिक; आधारभुत; प्राथमिक ।"
+    },
+    "01164": {
+      "dId": "ᤁᤢᤒᤢᤱ ᤛᤰ",
+      "desc": "/कुबुङ् सक्/",
+      "group": "AK",
+      "mean": "<p>vowel; vowel letters.</p>स्वरवर्ण; स्वरवर्ण चिन्ह ।"
+    },
+    "01165": {
+      "dId": "ᤁᤢᤒᤣ",
+      "desc": "/कुबे/",
+      "group": "AK",
+      "mean": "<p>1. meaning. 2. order of work; secret. 3. example; model.</p>१. अर्थ । २. मेलाेमेसाे; भेउ; रहस्य । ३. नमुना ।"
+    },
+    "01166": {
+      "dId": "ᤁᤢᤒᤣᤛᤡᤱ",
+      "desc": "/कुबेसिङ्/",
+      "group": "AK",
+      "mean": "<p>evaluation; appraisal; assessment.</p>मुल्याङ्कन ।"
+    },
+    "01167": {
+      "dId": "ᤁᤢᤒᤠ᤺ᤣᤰ/ᤁᤢᤒᤠᤣᤁ᤻",
+      "desc": "/कुबाेःक्/",
+      "group": "AK",
+      "mean": "<p>1. a lot of ; heap; pile. 2. about 60 kg in weight. </p>१. धेरै; थुप्राे; राश । २. मुरी ।"
+    },
+    "01168": {
+      "dId": "ᤁᤢᤒᤠ᤺ᤣᤱ/ᤁᤢᤒᤠᤣᤅ᤻",
+      "desc": "/कुबाेःङ्/",
+      "group": "AK",
+      "mean": "<p>1. birth; creation; source; origin. 2. construction; structure.</p>१. जन्म; उत्पत्ति । २. संरचना ।"
+    },
+    "01169": {
+      "dId": "ᤁᤢᤒᤠ᤺ᤣᤴ/ᤁᤢᤒᤠᤣᤏ᤻",
+      "desc": "/कुबाेःन्/",
+      "group": "AK",
+      "mean": "<p>increase; increment.</p>वृद्धि; वढ्ने काम ।"
+    },
+    "01170": {
+      "dId": "ᤁᤢᤒᤧᤴ",
+      "desc": "/कुबेन्/",
+      "group": "AK",
+      "mean": "<p>1. of the same age; contemporary. 2. status.</p>१. दाैतार । २. स्तर । "
+    },
+    "01171": {
+      "dId": "ᤁᤢᤒᤧᤶᤒᤠ",
+      "desc": "/कुबेम्बा/",
+      "group": "AK",
+      "mean": "<p>contemporary.</p>दाैंतरी; समवयस्क ।"
+    },
+    "01172": {
+      "dId": "ᤁᤢᤒᤪᤧᤶᤒᤠ",
+      "desc": "/कुब्रेम्बा/",
+      "group": "AK",
+      "mean": "<p>1. lintel. 2. weaving.</p>१. काेपु; झ्याल वा ढाेकाकाे  चाैकाेसकाे माथि राखिने काठ वा त्यसकाे चाैकाेसकाे माथि राखिने काठ वा त्यसके सट्टा राखिने ढलान । २. बुनाैटाे (कपडाकाे) ।"
+    },
+    "01173": {
+      "dId": "ᤁᤢᤓᤖᤠ",
+      "desc": "/कुभरा/",
+      "group": "AK",
+      "mean": "<p>white.</p>सेताे ।"
+    },
+    "01174": {
+      "dId": "ᤁᤢᤓᤠ᤹",
+      "desc": "/कुभा?/",
+      "group": "AK",
+      "mean": "<p>cooperation; help.</p>सहयाेग; मद्दत ।"
+    },
+    "01175": {
+      "dId": "ᤁᤢᤓᤠ",
+      "desc": "/कुभा/",
+      "group": "AK",
+      "mean": "<p>(adj.) a number of; some; a few; a good number of. (pro.) somebody; a certain person.</p>(वि.) कतिपय; कति; केहि । (सर्व.) काेहि; कुनै (व्याक्ति) ।"
+    },
+    "01176": {
+      "dId": "ᤁᤢᤓᤠᤰ",
+      "desc": "/कुभाक्/",
+      "group": "AK",
+      "mean": "<p>heaps; piles; stocks; big piles or heaps.</p>थुप्राे; राश; थाक ।"
+    },
+    "01177": {
+      "dId": "ᤁᤢᤓᤠᤱ",
+      "desc": "/कुभाङ्/",
+      "group": "AK",
+      "mean": "<p>law (legal regulations) .</p>ऐन; कानुन ।"
+    },
+    "01178": {
+      "dId": "ᤁᤢᤓᤠᤱᤃᤡ ",
+      "desc": "/कुभाङ्गि/",
+      "group": "AK",
+      "mean": "<p>legal.</p>कानुनि ।"
+    },
+    "01179": {
+      "dId": "ᤁᤢᤓᤠᤱᤛᤧᤶᤒᤠ",
+      "desc": "/कुभाङ्सेम्बा/",
+      "group": "AK",
+      "mean": "<p>pleader; a lawyer in court; barrister.</p>वकिल ।"
+    },
+    "01180": {
+      "dId": "ᤁᤢᤓᤠᤱ-ᤜᤡᤶ",
+      "desc": "/कुभाङ्-हिम्/",
+      "group": "AK",
+      "mean": "<p>court.</p>अदालत ।"
+    },
+    "01181": {
+      "dId": "ᤁᤢᤓᤠ(ᤑᤠ)ᤕᤠᤰ",
+      "desc": "/कुभा(फा)याक्/",
+      "group": "AK",
+      "mean": "<p>cocoon.</p>रेशमकीराकाे काेष; रेशमकीट काेष ।"
+    },
+    "01182": {
+      "dId": "ᤁᤢᤓᤡᤱᤗᤠ",
+      "desc": "/कुभिङ्ला/",
+      "group": "AK",
+      "mean": "<p>blue.</p>निलाे ।"
+    },
+    "01183": {
+      "dId": "ᤁᤢᤓᤡᤱᤗᤢᤱ",
+      "desc": "/कुभिङ्लुङ्/",
+      "group": "AK",
+      "mean": "<p>ruby; sapphire; precious stone of blue color.</p>नीलमणि; नीर; नीलम ।"
+    },
+    "01184": {
+      "dId": "ᤁᤢᤓᤢᤱ-ᤁᤢᤑᤧᤰᤘᤠ",
+      "desc": "/कुभुङ्-कुफेक्वा/",
+      "group": "AK",
+      "mean": "<p>figure of speech.</p>अलङ्कार ।"
+    },
+    "01185": {
+      "dId": "ᤁᤢᤓᤢᤴ",
+      "desc": "/कुभुन्/",
+      "group": "AK",
+      "mean": "<p>whole; entire; all complete.</p>सिङ्गाे; साेलाेडाेलै; जम्मै; समग्र; सबै ।"
+    },
+    "01186": {
+      "dId": "ᤁᤢᤓᤢᤸᤗᤠ",
+      "desc": "/कुभुल्ला/",
+      "group": "AK",
+      "mean": "<p>1. gray; of ash color. 2. wanting in brightness; pale; colorless.</p>१. फुस्राे; खरानी रङ्ग । २. फुस्राे; फुङ्ग उडेकाे; चमक नभएकाे । "
+    },
+    "01187": {
+      "dId": "ᤁᤢᤓᤣᤁ᤺ᤰ/ᤁᤢᤓᤣᤁᤁ᤻",
+      "desc": "/कुभेकःक्/",
+      "group": "AK",
+      "mean": "<p>a kind of magnolia flower. Michelia champaca.</p>घाेगे चाँप ।"
+    },
+    "01188": {
+      "dId": "ᤁᤢᤓᤧᤰᤔᤣᤳ",
+      "desc": "/कुभेक्मेत्/",
+      "group": "AK",
+      "mean": "<p>bud. </p>काेपिला ।"
+    },
+    "01189": {
+      "dId": "ᤁᤢᤓᤧᤖᤧ",
+      "desc": "/कुभेरे/",
+      "group": "AK",
+      "mean": "<p>breadth; width.</p>चाैडाइ ।"
+    },
+    "01190": {
+      "dId": "ᤁᤢᤓᤧ᤺ᤳ/ᤁᤢᤓᤧᤋ᤻",
+      "desc": "/कुभेःत्/",
+      "group": "AK",
+      "mean": "<p>flat.</p>च्याप्टाे ।"
+    },
+    "01191": {
+      "dId": "ᤁᤢᤓᤪᤧ᤺ᤱ/ᤁᤢᤓᤪᤧᤅ᤻",
+      "desc": "/कुभ्रेःङ्/",
+      "group": "AK",
+      "mean": "<p>half.</p>आधा ।"
+    },
+    "01192": {
+      "dId": "ᤁᤢᤔᤠᤰᤗᤠ",
+      "desc": "/कुमाक्ला/",
+      "group": "AK",
+      "mean": "<p>1. black. 2. of black complexion, shape or form.</p>१. कालाे । २. कालाे अनुहार, आकार वा रूपकाे ।"
+    },
+    "01193": {
+      "dId": "ᤁᤢᤔᤠᤱ",
+      "desc": "/कुमाङ्/",
+      "group": "AK",
+      "mean": "<p>an evil effect of the evil or greedy look of a person who covets another person’s eating food; stomach trouble, popularly believed to have been caused by such an evil look.</p>चाेखे; चाेखे लागेकाे खानेकुरा खाएर (दुख्ने वा देखेकाे भनिने लाेकधारणा भएकाे ) पेट दुख्ने व्याथा ।"
+    },
+    "01194": {
+      "dId": "ᤁᤢᤔᤠᤱᤘᤧᤳ",
+      "desc": "/कुमाङ्वेत्/",
+      "group": "AK",
+      "mean": "<p>uncooked.</p>काँचाे ( पकाउँदा नपाकेकाे ) ।"
+    },
+    "01195": {
+      "dId": "ᤁᤢᤔᤢᤰ",
+      "desc": "/कुमुक्/",
+      "group": "AK",
+      "mean": "<p>1. hour. 2. power.</p>१. घण्टा । २. शक्ति ।"
+    },
+    "01196": {
+      "dId": "ᤁᤢᤔᤢᤰ-ᤁᤢᤎᤠᤶ",
+      "desc": "/कुमुक् कुधाम्/",
+      "group": "AK",
+      "mean": "<p>genesis; origin; creation; birth.</p>उत्पत्ति; सृष्टि; जन्म ।"
+    },
+    "01197": {
+      "dId": "ᤁᤢᤔᤢᤴ",
+      "desc": "/कुमुन्/",
+      "group": "AK",
+      "mean": "<p>motion; movement.</p>गति; चलायमानता ।"
+    },
+    "01198": {
+      "dId": "ᤁᤢᤔᤢᤸᤗᤠ",
+      "desc": "/कुमुल्ला/",
+      "group": "AK",
+      "mean": "<p>piece (of meat).</p>(मासुकाे) चाेक्टा, टुक्रा ।"
+    },
+    "01199": {
+      "dId": "ᤁᤢᤔᤣ",
+      "desc": "/कुमे/",
+      "group": "AK",
+      "mean": "<p>1. tail. 2. last; final.</p>१. पुच्छर । २. अन्त ।"
+    },
+    "01200": {
+      "dId": "ᤁᤢᤔᤣᤗᤡ ",
+      "desc": "/कुमेलि/",
+      "group": "AK",
+      "mean": "<p>ostrich.</p>सुतुरमुर्ग ।"
+    },
+    "01201": {
+      "dId": "ᤁᤢᤔᤧᤸᤗᤢᤱ",
+      "desc": "/कुमेल्लुङ्/",
+      "group": "AK",
+      "mean": "<p>1. price; value. 2. value; quality; importance.</p>१. मुल्य; दाम; माेल; भाउ । २. मूल्य; गुण; महिमा; महत्व ।"
+    },
+    "01202": {
+      "dId": "ᤁᤢᤶᤒᤠ",
+      "desc": "/कुम्बा/",
+      "group": "AK",
+      "mean": "<p>1. father. 2. his/ her father.</p>१. पिता । २. उसकाे पिता, बाबु ।"
+    },
+    "01203": {
+      "dId": "ᤁᤢᤶᤒᤠ᤺ᤒᤠ᤹",
+      "desc": "/कुम्बाःबा?/",
+      "group": "AK",
+      "mean": "<p>a male animal or bird; uncastrated animal.</p>भाले पशु वा पन्छी ।"
+    },
+    "01204": {
+      "dId": "ᤁᤢᤶᤔᤠ",
+      "desc": "/कुम्मा/",
+      "group": "AK",
+      "mean": "<p>1. to make sth heated/ warm (for want of fresh air). 2. mother. 3. his/ her mother. 4. female animals or birds. 5. principal amount.</p>१. गुम्साउनु । २. आमा; जननी; माता । ३. उसकी आमा । ४. पाेथी पशु वा पन्छी ५.मूलधन; साउँ ।"
+    },
+    "01205": {
+      "dId": "ᤁᤢᤶᤔᤠ᤺ᤔᤠ᤹",
+      "desc": "/कुम्माःमा?/",
+      "group": "AK",
+      "mean": "<p>female (animal or birds).</p>पाेथी (जनावर वा पन्छी) ।"
+    },
+    "01206": {
+      "dId": "ᤁᤢᤔᤪᤧᤰ",
+      "desc": "/कुम्रेक्/",
+      "group": "AK",
+      "mean": "<p>jaundice.</p>कमलपित्त ।"
+    },
+    "01207": {
+      "dId": "ᤁᤢᤶᤗᤠᤣ",
+      "desc": "/कुम्लाे/",
+      "group": "AK",
+      "mean": "<p>bundle; packet; parcel.</p>पाेकाे; पन्तराे; कुटुराे ।"
+    },
+    "01208": {
+      "dId": "ᤁᤢᤕᤠᤱᤔᤠ",
+      "desc": "/कुयाङ्मा/",
+      "group": "AK",
+      "mean": "<p>pot; vessel; pail.</p>कुनै पदार्थ हाल्ने पात्र, भाँडाे इत्यादि ।"
+    },
+    "01209": {
+      "dId": "ᤁᤢᤕᤠ᤺ᤳ/ᤁᤢᤕᤠᤋ᤻",
+      "desc": "/कुयाःत्/",
+      "group": "AK",
+      "mean": "<p>area.</p>क्षेत्रफल ।"
+    },
+    "01210": {
+      "dId": "ᤁᤢᤕᤢᤰᤛᤡᤱ",
+      "desc": "/कुयुक्सिङ्/",
+      "group": "AK",
+      "mean": "<p>1. establishment. 2. foundation stone.</p>१. स्थापना । २. शिलान्यास ।"
+    },
+    "01211": {
+      "dId": "ᤁᤢᤕᤢᤱ",
+      "desc": "/कुयुङ्/",
+      "group": "AK",
+      "mean": "<p>handle.</p>बीँड; हत्था ।"
+    },
+    "01212": {
+      "dId": "ᤁᤢᤕᤠᤣ᤹",
+      "desc": "/कुयाे?/",
+      "group": "AK",
+      "mean": "<p>(n.) extra; something added to what already exists; in addition to something. (adv.) extra; in addition to.</p>(ना.) अतिरिक्त; भएकाेमा अरु थप । (क्रिवि.) थपथाप (चीजबीज) ।"
+    },
+    "01213": {
+      "dId": "ᤁᤢᤕᤧᤰ(ᤐᤠ)",
+      "desc": "/कुयेक्(पा)/",
+      "group": "AK",
+      "mean": "<p>1. important. 2. distinguished.</p>१. महत्वपूर्ण । २. विशिष्ट ।"
+    },
+    "01214": {
+      "dId": "ᤁᤢᤕᤧᤴᤎᤰ",
+      "desc": "/कुयेन्धक्/",
+      "group": "AK",
+      "mean": "<p>daily.</p>दैनिक ।"
+    },
+    "01215": {
+      "dId": "ᤁᤢᤕᤧ᤺ᤰ/ᤁᤢᤕᤧᤁ᤻",
+      "desc": "/कुयेःक्/",
+      "group": "AK",
+      "mean": "<p>ruins. </p>खण्डहर; ध्वंसावशेष ।"
+    },
+    "01216": {
+      "dId": "ᤁᤢᤖᤠ᤹ᤛᤡᤱ",
+      "desc": "/कुरा?सिङ्/",
+      "group": "AK",
+      "mean": "<p>qualification. </p>गुण; विशेषता ।"
+    },
+    "01217": {
+      "dId": "ᤁᤢᤖᤠᤒᤠᤛᤡᤱ",
+      "desc": "/कुराबासिङ्/",
+      "group": "AK",
+      "mean": "<p>a kind of long-leafed tree. Duabanga sonneratiods.</p>लामपाते रुख; एक प्रकारकाे रुख ।"
+    },
+    "01218": {
+      "dId": "ᤁᤢᤖᤡᤁᤡᤰ ᤐᤢ",
+      "desc": "/कुरिकिक् पु/",
+      "group": "AK",
+      "mean": "<p>a kind of flower bird.</p>फुलचरी; एक प्रकारकाे चराे ।"
+    },
+    "01219": {
+      "dId": "ᤁᤢᤖᤡᤁᤢᤖᤡ ",
+      "desc": "/कुरिकुरि/",
+      "group": "AK",
+      "mean": "<p>a term denoting the generative organ of a child while teasing the child.</p>सानाे बच्चालाई उसकाे जननेन्द्रिय देखाएर जिस्क्याउदै भनिने शब्द ।"
+    },
+    "01220": {
+      "dId": "ᤁᤢᤖᤡᤱᤏᤠ",
+      "desc": "/कुरिङ्ना/",
+      "group": "AK",
+      "mean": "<p>bulbul; a kind of crested bird. Pycnonotidae.</p>जुरेली चरा ।"
+    },
+    "01221": {
+      "dId": "ᤁᤢᤖᤡᤱᤗᤢᤱ",
+      "desc": "/कुरिङ्लुङ्/",
+      "group": "AK",
+      "mean": "<p>jewels; precious stones.</p>मणिमाणिक्य; कीम्ती पत्थर ।"
+    },
+    "01222": {
+      "dId": "ᤁᤢᤖᤡᤱᤘᤠᤒᤠ",
+      "desc": "/कुरिङ्वाबा/",
+      "group": "AK",
+      "mean": "<p>informal; non-formal.</p>अनाैपचारिक ।"
+    },
+    "01223": {
+      "dId": "ᤁᤢᤖᤢᤶ",
+      "desc": "/कुरुम्/",
+      "group": "AK",
+      "mean": "<p>centre; middle; in between.</p>माझ; केन्द्र; बीच ।"
+    },
+    "01224": {
+      "dId": "ᤁᤢᤖᤢᤛᤡᤱ",
+      "desc": "/कुरुसिङ्/",
+      "group": "AK",
+      "mean": "<p>the main bamboo sticks/ poles used in a handloom.</p>तान बुन्नलाई राखिएकाे धागाे तन्काउने मूल बाँस ।"
+    },
+    "01225": {
+      "dId": "ᤁᤢᤖᤢ᤺ᤵᤐᤠ/ᤁᤢᤖᤢᤐ᤻ᤐᤠ",
+      "desc": "/कुरुःप्पा/",
+      "group": "AK",
+      "mean": "<p>1. the planet Jupiter. 2. Thursday.</p>१. वृहस्पति ग्रह । २. बिहीबार ।"
+    },
+    "01226": {
+      "dId": "ᤁᤢᤖᤣ᤺ᤳᤗᤠ/ᤁᤢᤖᤣᤋ᤻ᤗᤠ",
+      "desc": "/कुरेःत्ला/",
+      "group": "AK",
+      "mean": "<p>unripe; raw (fruits, corns, etc).</p>काँचाे; कचिलाे (फलफुल, अन्न आदि प्राकृतिक रुपमा बाेटेमा पाक्ने वस्तु नपाकेकाे ) ।"
+    },
+    "01227": {
+      "dId": "ᤁᤢᤖᤧ᤹ᤗᤠ",
+      "desc": "/कुरे?ला/",
+      "group": "AK",
+      "mean": "<p>knowingly; jocularly; in vain; good for nothing.</p>जानीजानीकन; ख्यालख्याल; व्यर्थमा ।"
+    },
+    "01228": {
+      "dId": "ᤁᤢᤖᤧᤰᤗᤧᤰ",
+      "desc": "/कुरेक्लेक्/",
+      "group": "AK",
+      "mean": "<p>status quo; the same as before.</p>यथावत; पूर्ववत् ।"
+    },
+    "01229": {
+      "dId": "ᤁᤢᤖᤧᤱ",
+      "desc": "/कुरेङ्/",
+      "group": "AK",
+      "mean": "<p>slanted.</p>छड्के; टेडाे ।"
+    },
+    "01230": {
+      "dId": "ᤁᤢᤖᤧᤴ",
+      "desc": "/कुरेन्/",
+      "group": "AK",
+      "mean": "<p>(n.) day; (adv.) all day long; for the whole day.</p>(ना.) दिन । (क्रिवि.) दिनभर ।"
+    },
+    "01231": {
+      "dId": "ᤁᤢᤖᤧ᤺ᤶ/ᤁᤢᤖᤧᤔ᤻",
+      "desc": "/कुरेःम्/",
+      "group": "AK",
+      "mean": "<p>brimful; filled to the brim; up to the level.</p>निम्ठाे; निम्ठाे वरावरकाे; भरी; टम्म; टन्न ।"
+    },
+    "01232": {
+      "dId": "ᤁᤢᤷᤌᤠ",
+      "desc": "/कुर् था/",
+      "group": "AK",
+      "mean": "<p>clay pellets.</p>मटेङ्ग्राे ।"
+    },
+    "01233": {
+      "dId": "ᤁᤢᤖᤩᤠᤶᤒᤠ",
+      "desc": "/कुर्याम्बा/",
+      "group": "AK",
+      "mean": "<p>seedling bed.</p>बियाड ।"
+    },
+    "01234": {
+      "dId": "ᤁᤢᤗ᤺ᤵᤗᤠ/ᤁᤢᤗᤐ᤻ᤗᤠ",
+      "desc": "/कुलःप्ला/",
+      "group": "AK",
+      "mean": "<p>cylindrical; long and cylindrical.</p>डाेलाे र लामाे (कप्टेराे नपारिएकाे) ।"
+    },
+    "01235": {
+      "dId": "ᤁᤢᤗᤠ᤹-ᤁᤢᤄᤧᤶ",
+      "desc": "/कुला?-कुघेम्/",
+      "group": "AK",
+      "mean": "<p>decoration; adornment.</p>साजसजावट; सजावट; साजशृङ्गार ।"
+    },
+    "01236": {
+      "dId": "ᤁᤢᤗᤠ᤹ᤗᤠ",
+      "desc": "/कुला?ला/",
+      "group": "AK",
+      "mean": "<p>jokingly.</p>ख्यालख्याल; ठट्टा गर्ने चालाले ।"
+    },
+    "01237": {
+      "dId": "ᤁᤢᤗᤠ",
+      "desc": "/कुला/",
+      "group": "AK",
+      "mean": "<p>handle; haft; shaft.</p>बीँड ।"
+    },
+    "01238": {
+      "dId": "ᤁᤢᤗᤠᤱ",
+      "desc": "/कुलाङ्/",
+      "group": "AK",
+      "mean": "<p>1. let; foot. 2. his foot.</p>१. खुट्टाे; पाउ । २. उसकाे खुट्टाे ।"
+    },
+    "01239": {
+      "dId": "ᤗᤠᤱᤋᤠᤰᤔᤠ",
+      "desc": "/लाङ्ताक्मा/",
+      "group": "AK",
+      "mean": "<p>(n.) welcome; reception; hospitality; address of felicitations. (vt.) to welcome; to greet; to felicitate; to present an address of felicitation.</p>(ना.) स्वागत; अभिनन्दन । (सक्रि.) स्वागत गर्नु; अभिनन्दन गर्नु ।"
+    },
+    "01240": {
+      "dId": "ᤁᤢᤗᤡᤰᤏᤠ",
+      "desc": "/कुलिक्ना/",
+      "group": "AK",
+      "mean": "<p>cuckoo, a kind of green bird.</p>ढाेंडे काेइली, एक प्रकारकाे हरियाे चराे ।"
+    },
+    "01241": {
+      "dId": "ᤁᤢᤗᤡᤱᤎᤠᤣ",
+      "desc": "/कुलिङ्धाे/",
+      "group": "AK",
+      "mean": "<p>1. ascent. 2. prosperity.</p>१. चढाइ; आराेहण । २. समृद्धि ।"
+    },
+    "01242": {
+      "dId": "ᤁᤢᤗᤡ᤺ᤴ/ᤁᤢᤗᤡᤏ᤻",
+      "desc": "/कुलिःन्/",
+      "group": "AK",
+      "mean": "<p>sprout; a new shoot of a plant.</p>टुसाे; भर्खर उम्रेकाे बिजन (बिरुवा) ।"
+    },
+    "01243": {
+      "dId": "ᤁᤢᤗᤡ᤺ᤵ/ᤁᤢᤗᤡᤐ᤻",
+      "desc": "/कुलिःप्/",
+      "group": "AK",
+      "mean": "<p>a complete piece ( bundle of cloth); a quire (of paper).</p>थान्; जिस्ता ।"
+    },
+    "01244": {
+      "dId": "ᤁᤢᤗᤢᤶ/ᤖᤢᤶ",
+      "desc": "/कुलुम्/",
+      "group": "AK",
+      "mean": "<p>centre; middle.</p>माझ ।"
+    },
+    "01245": {
+      "dId": "ᤁᤢᤗᤢᤶᤒᤡ ",
+      "desc": "/कुलुम्बि/",
+      "group": "AK",
+      "mean": "<p>a kind of sickle with no teeth.</p>खुर्मि; हँसिया जस्ताे तर दाँत नभएकाे एक प्रकारकाे हतियार ।"
+    },
+    "01246": {
+      "dId": "ᤁᤢᤗᤠ᤺ᤣᤵᤔᤠ/ᤁᤢᤗᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/कुलाेःप्मा/",
+      "group": "AK",
+      "mean": "<p>materials used as floor coverings (carpets, mats, etc).</p>बिछ्याउना; बिछ्याैना; ओछ्यान (राडी, गुन्द्री, दरी इत्यादि) ।"
+    },
+    "01247": {
+      "dId": "ᤁᤢᤗᤧᤰ(ᤖᤧᤰ)ᤘᤠ",
+      "desc": "/कुलेक्(रेक्)वा/",
+      "group": "AK",
+      "mean": "<p>instead of.</p>सट्टामा ।"
+    },
+    "01248": {
+      "dId": "ᤁᤢᤗᤣ᤺ᤴᤍᤠ/ᤁᤢᤗᤣᤏ᤻ᤍᤠ",
+      "desc": "/कुलेःन्दा/",
+      "group": "AK",
+      "mean": "<p>1. unripe fruit. 2. breast-fed baby; a suckling.</p>१. चिचिला । २. दूधे बालक ।"
+    },
+    "01249": {
+      "dId": "ᤁᤢᤗᤧ᤺ᤵ/ᤁᤢᤗᤧᤐ᤻",
+      "desc": "/कुलेःप्/",
+      "group": "AK",
+      "mean": "<p>chip or slice; any small piece that falls off the ladle or spoon when some food is scooped with it.</p>चाेइली; चाना ।"
+    },
+    "01250": {
+      "dId": "ᤁᤢᤘᤠ᤹",
+      "desc": "/कुवा?/",
+      "group": "AK",
+      "mean": "<p>maternal uncle.</p>मामा ।"
+    },
+    "01251": {
+      "dId": "ᤁᤢᤘᤠ",
+      "desc": "/कुवा/",
+      "group": "AK",
+      "mean": "<p>1. liquid; soup. 2. soup; broth. 3. man-made water-whole on the ground for drinking-water; well.</p>१. तरल; झाेल । २. झाेल; तिहुनकाे झाेल (सुरुवा वा सुप आदि) । ३ कुवा; इनार ।"
+    },
+    "01252": {
+      "dId": "ᤁᤢᤘᤠᤛᤣ᤹",
+      "desc": "/कुवासे?/",
+      "group": "AK",
+      "mean": "<p>Areca nut; betel nut;. Areca catechu.</p>सुपारी ।"
+    },
+    "01253": {
+      "dId": "ᤁᤢᤘᤧᤱ-ᤁᤢᤘᤧᤱ",
+      "desc": "/कुवेङ्-कुवेङ्/",
+      "group": "AK",
+      "mean": "<p>twister as serpent.</p>काङलाङ कुङलुङ; नागबेली ।"
+    },
+    "01254": {
+      "dId": "ᤁᤢᤘᤧᤴ",
+      "desc": "/कुवेन्/",
+      "group": "AK",
+      "mean": "<p>youth; youthful age.</p>याैवन; युवावस्था ।"
+    },
+    "01255": {
+      "dId": "ᤁᤢᤛ᤹ᤀᤡ ",
+      "desc": "/कुस?इ/",
+      "group": "AK",
+      "mean": "<p>1. not porperly ripened (grown). 2. moisturous; humid.</p>१. नसप्रेकाे । २. आर्द्र ।"
+    },
+    "01256": {
+      "dId": "ᤁᤢᤛᤱ",
+      "desc": "/कुसङ्/",
+      "group": "AK",
+      "mean": "<p>new.</p>नयाँ ।"
+    },
+    "01257": {
+      "dId": "ᤁᤢᤛᤖᤰᤐᤠ",
+      "desc": "/कुसरक्पा/",
+      "group": "AK",
+      "mean": "<p>the common beating in the Limbu dance ( Paddy dance or Chyabrubg dance).</p>लिम्बूजातिकाे नृत्य (धाननाच/ च्याब्रुङ्नाच) काे साधारण वा सामान्य ताल/ पारा ।"
+    },
+    "01258": {
+      "dId": "ᤁᤢᤛᤖᤧᤰ",
+      "desc": "/कुसरेक्/ ",
+      "group": "AK",
+      "mean": "<p>dry honey-comb.</p>रस नभएकाे चाकाकाे खाेस्टा ।"
+    },
+    "01259": {
+      "dId": "ᤁᤢᤛᤖᤧᤰᤐᤠ",
+      "desc": "/कुसरेक्पा/ ",
+      "group": "AK",
+      "mean": "<p>juiceless; emptied.</p>रसहीन; रस रित्तिएकाे ।"
+    },
+    "01260": {
+      "dId": "ᤁᤢᤛᤗᤠᤶ",
+      "desc": "/कुसलाम्/",
+      "group": "AK",
+      "mean": "<p>normalcy; nature.</p>स्वभाविकता; प्राकृति ।"
+    },
+    "01261": {
+      "dId": "ᤁᤢᤛᤗᤠᤶᤒᤠ",
+      "desc": "/कुसलाम्बा/",
+      "group": "AK",
+      "mean": "<p>normal; natural.</p>स्वभाविक; प्राकृतिक ।"
+    },
+    "01262": {
+      "dId": "ᤁᤢᤛᤠ",
+      "desc": "/कुसा/",
+      "group": "AK",
+      "mean": "<p>taste ( of speech an dwork, not food).</p>स्वाद (काम कुराकाे ) ।"
+    },
+    "01263": {
+      "dId": "ᤁᤢᤛᤠᤏᤢ᤺",
+      "desc": "/कुसानुः/",
+      "group": "AK",
+      "mean": "<p>(n.) pleasantness; cheerfulness; joy; delight. (adj.) interesting; attractive; pleasant; enjoyable; delightful (talk, etc).</p>(ना.) आननद; प्रसन्नता; हर्ष । (वि.) घतलाग्दाे; मजाकाे; रसिलाे; सुनूँसुनूँलाग्दाे; रमाइलाे (कुरा इत्यादि) ।"
+    },
+    "01264": {
+      "dId": "ᤁᤢᤛᤠᤑᤧ᤹ᤒᤠ",
+      "desc": "/कुसाफे?बा/",
+      "group": "AK",
+      "mean": "<p>unpleasant; tasteless (speech but not food).</p>बेमज्जाकाे; स्वादहीन ।"
+    },
+    "01265": {
+      "dId": "ᤁᤢᤛᤠᤱ",
+      "desc": "/कुसाङ्/",
+      "group": "AK",
+      "mean": "<p>1. summit; peak. 2. success.</p>१. टुप्पा । २. सफलता ।"
+    },
+    "01266": {
+      "dId": "ᤁᤢᤛᤠᤵ",
+      "desc": "/कुसाप्/",
+      "group": "AK",
+      "mean": "<p>1. line; a long, slender mark on a surface. 2. writing.</p>१. रेखा; धर्साे । २. लेखन । "
+    },
+    "01267": {
+      "dId": "ᤁᤢᤛᤠ᤺ᤵ/ᤁᤢᤛᤠᤐ᤻",
+      "desc": "/कुसाःप्/",
+      "group": "AK",
+      "mean": "<p>1. root. 2. its root.</p>१. जरा । २. उसकाे जरा ।"
+    },
+    "01268": {
+      "dId": "ᤁᤢᤛᤡᤰᤋᤠᤣ",
+      "desc": "/कुसिक्ताे?/",
+      "group": "AK",
+      "mean": "<p>[Phedape] below; beneath; down.</p>[फेदापे] मुनितिर ।"
+    },
+    "01269": {
+      "dId": "ᤁᤢᤛᤡᤃᤣ᤺ᤰ/ᤁᤢᤛᤡᤃᤣᤁ᤻",
+      "desc": "/कुसिगेःक्/",
+      "group": "AK",
+      "mean": "<p>ordinal .</p>क्रमबाेधक ।"
+    },
+    "01270": {
+      "dId": "ᤁᤢᤛᤡᤃᤧᤰ",
+      "desc": "/कुसिगेक्/",
+      "group": "AK",
+      "mean": "<p>broken piece of grain/ rice.</p>कनिका ।"
+    },
+    "01271": {
+      "dId": "ᤁᤢᤛᤡᤱ",
+      "desc": "/कुसिङ्/",
+      "group": "AK",
+      "mean": "<p>1. according to. 2. understanding.</p>१. अनुसार । २. समझ; बुझ; बुझाइ; थाहा ।"
+    },
+    "01272": {
+      "dId": "ᤁᤢᤛᤡᤘᤘᤧᤳ",
+      "desc": "/कुसिवेत्/",
+      "group": "AK",
+      "mean": "<p>1. dead; sth that is not living. 2. dried ( condition of trees, etc).</p>१. मरेकाे/मृत; मृतावस्था । २. सुकेकाे अवस्था (रुख, बिरुवा आदिकाे) ।"
+    },
+    "01273": {
+      "dId": "ᤁᤢᤛᤡ᤺ ",
+      "desc": "/कुसिः/",
+      "group": "AK",
+      "mean": "<p>1. marrow. 2. element; essence. 3. kernel.</p>१. मासी । २. सारतत्त्व; मर्म । ३. गुदी ।"
+    },
+    "01274": {
+      "dId": "ᤁᤢᤛᤡ᤺ᤰ/ᤁᤢᤛᤡᤁ᤻",
+      "desc": "/कुसिः/",
+      "group": "AK",
+      "mean": "<p>like; according to.</p>जस्तै; झैं;अनुसार ।"
+    },
+    "01275": {
+      "dId": "ᤁᤢᤛᤡ᤺ᤰᤐᤠ/ᤁᤢᤛᤡᤁ᤻ᤐᤠ",
+      "desc": "/कुसिःक्पा/",
+      "group": "AK",
+      "mean": "<p>unit of measurement.</p>ताैल; नापकाे एकाइ ।"
+    },
+    "01276": {
+      "dId": "ᤁᤢᤛᤡ᤺ᤰᤔᤠ/ᤁᤛᤡᤁ᤻ᤔᤠ",
+      "desc": "/कुसिःक्मा/",
+      "group": "AK",
+      "mean": "<p>measure; a pot or pail used as a unit of measure of capacity.</p>नापाे; नाप्ने भाँडाे (माना, पाथी आदि); नाप्ने साधन ।"
+    },
+    "01277": {
+      "dId": "ᤁᤢᤛᤡ᤺ᤵ/ᤁᤢᤛᤡᤐ᤻",
+      "desc": "/कुसिःप्/",
+      "group": "AK",
+      "mean": "<p>whiff; puff ( of tobacco or cigarettes).</p>सर्काे (चुराेट आदिकाे) ।"
+    },
+    "01278": {
+      "dId": "ᤁᤢᤛᤪᤡᤱᤒᤠ",
+      "desc": "/कुस्रिङ्बा/",
+      "group": "AK",
+      "mean": "<p>mourning of death; mourning on the eighth or ninth day after the death.</p>आशाैच; मृत्यु भएकाे आठाैं वा नवाैं दिन पालना गरिने आशाैच ।"
+    },
+    "01279": {
+      "dId": "ᤁᤢᤛᤢ᤹",
+      "desc": "/कुसु?/",
+      "group": "AK",
+      "mean": "<p>mildew; mould.</p>ढुसी ।"
+    },
+    "01280": {
+      "dId": "ᤁᤢᤛᤢᤰ",
+      "desc": "/कुसुक्/",
+      "group": "AK",
+      "mean": "<p>side; edge; (of river) bank; shore.</p>छेउ; किनार; तीर । "
+    },
+    "01281": {
+      "dId": "ᤁᤢᤛᤢᤰᤘᤠ",
+      "desc": "/कुसुक्वा/",
+      "group": "AK",
+      "mean": "<p>1. one fourth; one quarter. 2. one fourth of a rupee.</p>१. चाैथाइ । २. एक सुका ।"
+    },
+    "01282": {
+      "dId": "ᤁᤢᤛᤢᤵᤏᤠ",
+      "desc": "/कुसुप्ना/",
+      "group": "AK",
+      "mean": "<p>lid; cap.</p>बिर्काे; छाेप्ने पात्र ।"
+    },
+    "01283": {
+      "dId": "ᤁᤢᤛᤢᤶ",
+      "desc": "/कुसुम्/",
+      "group": "AK",
+      "mean": "<p>1. essence; core. 2. substance; meaning. 3. manner.</p>१. सार । २. अर्थ । ३. ढङ्ग; रङ्गढङ्ग; पारा ।"
+    },
+    "01284": {
+      "dId": "ᤁᤢᤛᤢᤶᤗᤠ",
+      "desc": "/कुसुम्ला/",
+      "group": "AK",
+      "mean": "<p>(n.) bruise; contusion; small black spot or spots on one’s body due to beating. (adj.) purple.</p>(ना.) नीलडाम । (वि.) बैजनी; प्याजी ।"
+    },
+    "01285": {
+      "dId": "ᤁᤢᤛᤢ᤺ᤰ/ᤁᤢᤛᤢᤁ᤻",
+      "desc": "/कुसुःक्/",
+      "group": "AK",
+      "mean": "<p>speed.</p>वेग ।"
+    },
+    "01286": {
+      "dId": "ᤁᤢᤛᤣ᤹",
+      "desc": "/कुसे?/",
+      "group": "AK",
+      "mean": "<p>1. seed. 2. seed (fruit).</p>१. दाना (बियाँ) । २. दाना (फल) ।"
+    },
+    "01287": {
+      "dId": "ᤁᤢᤛᤣ᤺ᤰ/ᤁᤢᤛᤣᤁ᤻",
+      "desc": "/कुसेःक्/",
+      "group": "AK",
+      "mean": "<p>1. a minute particle; grain. 2. slice; chip; piece.</p>१. कण । २. टुक्रा । ३. चाेइटा; छेस्का ।"
+    },
+    "01288": {
+      "dId": "ᤁᤢᤛᤣ᤺ᤰ/ᤁᤢᤛᤣᤁ᤻ ᤛᤰ",
+      "desc": "/कुसेःक् सक्/",
+      "group": "AK",
+      "mean": "<p>a diacritical mark or sign representing a sound.</p>ध्वनिकाे चिन्ह ।"
+    },
+    "01289": {
+      "dId": "ᤁᤢᤛᤠᤣ᤺ᤷ/ᤁᤢᤛᤠᤣᤖ᤻",
+      "desc": "/कुसाेःर्/",
+      "group": "AK",
+      "mean": "<p>a measurement of 16 hands.</p>साेह्र हातबराबरकाे नापाे ।"
+    },
+    "01290": {
+      "dId": "ᤁᤢᤛᤧᤱᤗᤠ",
+      "desc": "/कुसेङ्ला/",
+      "group": "AK",
+      "mean": "<p>dry.</p>ओबाने; फुकाे; सुख्खा ।"
+    },
+    "01291": {
+      "dId": "ᤁᤢᤛᤧᤴ",
+      "desc": "/कुसेन्/",
+      "group": "AK",
+      "mean": "<p>distribution; division; separation.</p>विभाजन; भाग छुट्याउने काम; बन्डा ।"
+    },
+    "01292": {
+      "dId": "ᤁᤢᤛᤧ᤺ᤵ/ᤁᤢᤛᤧᤐ᤻",
+      "desc": "/कुसेःप्/",
+      "group": "AK",
+      "mean": "<p>care; protection; preservation.</p>जतन; संरक्षण; रक्षा ।"
+    },
+    "01293": {
+      "dId": "ᤁᤢᤛᤫᤠᤒᤠ",
+      "desc": "/कुस्वाबा/",
+      "group": "AK",
+      "mean": "<p>of bad manner.</p>बेढङ्गकाे ।"
+    },
+    "01294": {
+      "dId": "ᤁᤢᤜᤶ",
+      "desc": "/कुहम्/",
+      "group": "AK",
+      "mean": "<p>obstruction; hindrance.</p>अड्चन; कठिनाइ ।"
+    },
+    "01295": {
+      "dId": "ᤁᤢᤜᤠ᤺",
+      "desc": "/कुहाः/",
+      "group": "AK",
+      "mean": "<p>division; part; share; portion.</p>भाग; खण्ड; हिस्सा; अंश ।"
+    },
+    "01296": {
+      "dId": "ᤁᤢᤜᤡᤱᤘᤧᤳ",
+      "desc": "/कुहिङ्वेत्/",
+      "group": "AK",
+      "mean": "<p>alive; sth that is not dead.</p>जीवनकाल; जीवितावस्था ।"
+    },
+    "01297": {
+      "dId": "ᤁᤢᤜᤡ᤺ᤰᤗᤠ/ᤁᤢᤜᤡᤁ᤻ᤗᤠ",
+      "desc": "/कुहिःक्ला/",
+      "group": "AK",
+      "mean": "<p>yellow.</p>पहेंलाे ।"
+    },
+    "01298": {
+      "dId": "ᤁᤢᤜᤢᤵ",
+      "desc": "/कुहुप्/",
+      "group": "AK",
+      "mean": "<p>knot; riddle.</p>अड्काे; बन्धन्; गाँठा । "
+    },
+    "01299": {
+      "dId": "ᤁᤢᤜᤢᤵᤛᤧᤴ",
+      "desc": "/कुहुप्सेन्/",
+      "group": "AK",
+      "mean": "<p>analysis; explanation with reference to the context.</p>विवेचना; सप्रसङ्ग व्याख्या ।"
+    },
+    "01300": {
+      "dId": "ᤁᤢᤜᤧ᤹ᤗᤢᤱ",
+      "desc": "/कुहे?लुङ्/",
+      "group": "AK",
+      "mean": "<p>ruby; precious stones.</p>मणिमाणिक्य ।"
+    },
+    "01301": {
+      "dId": "ᤁᤢᤜᤧ᤺ᤳᤗᤠ/ᤁᤢᤜᤧᤋ᤻ᤗᤠ",
+      "desc": "/कुहेःत्ला/",
+      "group": "AK",
+      "mean": "<p>red.</p>रातो ।"
+    },
+    "01302": {
+      "dId": "ᤁᤢ᤺ᤔᤠ",
+      "desc": "/कुःमा/",
+      "group": "AK",
+      "mean": "<p>1. to carry; to take away by carrying. 2. to carry on the back.</p>१. बाेक्नु; बाेकेर लानु । २. पिठ्युमा बाेक्नु ।"
+    },
+    "01303": {
+      "dId": "ᤁᤢ᤺ᤳᤇᤡᤱᤔᤠ/ᤁᤢᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/कुःत्छिङ्मा/",
+      "group": "AK",
+      "mean": "<p>to carry sth on the back by oneself.</p>भारी बाेक्नु ( आफैं) ।"
+    },
+    "01304": {
+      "dId": "ᤁᤢ᤺ᤴᤍᤠᤍᤠ/ᤁᤢᤏ᤻ᤍᤠ",
+      "desc": "/कुःन्दा/",
+      "group": "AK",
+      "mean": "<p>earthen water jar/ vassel.</p>माटाेकाे गाग्राे्; घैला ।"
+    },
+    "01305": {
+      "dId": "ᤁᤢ᤺ᤵᤔᤠ/ᤁᤢᤐ᤻ᤔᤠ",
+      "desc": "/कुःप्मा/",
+      "group": "AK",
+      "mean": "<p>1. to help sb in getting his load on his back. 2. to make (or let) someone carry the load.</p>१. पिठ्यु वा कुम आदिमा भारी बाेक्नलाई भारी उठाउन मद्दत गर्नु । २. भारी बाेकाउनु ।"
+    },
+    "01306": {
+      "dId": "ᤁᤢᤛ᤻ᤛᤠ᤺",
+      "desc": "/कुःस्साः/",
+      "group": "AK",
+      "mean": "<p>1. interest. 2. his/ her children; descendants.</p>१. ब्याज । २. उसका छाेराछाेरी; सन्तान; सन्तति; बच्चाबच्ची; केटाकेटी ।"
+    },
+    "01307": {
+      "dId": "ᤁᤢ᤺ᤛᤡᤱᤔᤠ",
+      "desc": "/कुःसिङ्मा/",
+      "group": "AK",
+      "mean": "<p>to carry each other on one’s back.</p>बाेकाबाेक गर्नु ।"
+    }
+  }
+}

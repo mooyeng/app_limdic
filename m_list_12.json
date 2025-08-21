@@ -1,0 +1,844 @@
+{
+  "Dic": {
+    "01308": {
+      "dId": "ᤁᤣ",
+      "desc": "/के/",
+      "group": "AL",
+      "mean": "<p>Chyabrung drum of the Limbus.</p>लिम्बुजातिकाे प्रमुख बाजा च्याब्रुङ् ।"
+    },
+    "01309": {
+      "dId": "ᤁᤣ᤹ᤔᤠ",
+      "desc": "/के?मा/",
+      "group": "AL",
+      "mean": "<p>to tease; to taunt; to provoke.</p>जिस्क्याउनु ।"
+    },
+    "01310": {
+      "dId": "ᤁᤣ᤹ᤛᤡᤱ",
+      "desc": "/के?सिङ्/",
+      "group": "AL",
+      "mean": "<p>joke; fun; jest.</p>ठट्टा; ठट्याैली; दिल्लगी ।"
+    },
+    "01311": {
+      "dId": "ᤁᤣ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/के?सिङ्मा/",
+      "group": "AL",
+      "mean": "<p>to joke with each other.</p>परस्परमा चल्नु/ जिस्कनु/ छिल्लिनु ।"
+    },
+    "01312": {
+      "dId": "ᤁᤣᤁᤠ/ᤁᤣ᤺ᤰᤁᤠ",
+      "desc": "/केका/ केःक्का/",
+      "group": "AL",
+      "mean": "<p>spinning wheel; wheel.</p>चर्खा; चक्र ।"
+    },
+    "01313": {
+      "dId": "ᤁᤣᤈᤱ",
+      "desc": "/केजङ्/",
+      "group": "AL",
+      "mean": "<p>hurricane; cyclone; storm; tempest.</p>आँधि; हुरी ।"
+    },
+    "01314": {
+      "dId": "ᤁᤣᤒᤠ/ᤁᤣ᤺ᤒᤠ",
+      "desc": "/केबा/ केःबा/",
+      "group": "AL",
+      "mean": "<p>tiger.</p>बाघ ।"
+    },
+    "01315": {
+      "dId": "ᤁᤣᤓᤢ/ᤑᤢ-ᤗᤠᤈᤣ᤹",
+      "desc": "/केभु/फु-लाजे/",
+      "group": "AL",
+      "mean": "<p>north-eastern region.</p>ईशानकाेण वा उत्तरपूर्व काेण स्थित क्षेत्र वा देश ।"
+    },
+    "01316": {
+      "dId": "ᤁᤣᤓᤠᤣ",
+      "desc": "/केभाे/",
+      "group": "AL",
+      "mean": "<p>shelter.</p>आश्रय ।"
+    },
+    "01317": {
+      "dId": "ᤁᤣᤗᤠᤴᤍᤢ ᤑᤢᤱ",
+      "desc": "/केलान्दु फुङ्/",
+      "group": "AL",
+      "mean": "<p>tree-jasmin. Jasminum arborescens.</p>पहेंलाे चमेलीकाे फूल ।"
+    },
+    "01318": {
+      "dId": "ᤁᤣᤗᤠᤒᤠ",
+      "desc": "/केलाबा/",
+      "group": "AL",
+      "mean": "<p>adulterer.</p>भडुँवा ।"
+    },
+    "01319": {
+      "dId": "ᤁᤣᤘᤠᤗᤢᤱ(ᤔᤠ)",
+      "desc": "/केवालुङ्(मा)/",
+      "group": "AL",
+      "mean": "<p>Mt. Narasimha (lit. Man-lion), the easternmost peak among the five peaks in the Kanchanjungha Himal.</p>नरसिंहशिखर; कञ्चनजङ्घा हिमालका पाँच शिखर मध्ये पूर्वतर्फकाे शिखर ।"
+    },
+    "01320": {
+      "dId": "ᤁᤣᤛᤖᤡ ",
+      "desc": "/केसरि/",
+      "group": "AL",
+      "mean": "<p>a kind of small tree with yellow wood.</p>केसरी; पहेँलाे चन्दन; पहेँलाे काठ हुने एक प्रकारकाे बाेट ।"
+    },
+    "01321": {
+      "dId": "ᤁᤣᤛᤠᤱ-ᤐᤡᤛᤠᤱ",
+      "desc": "/केसाङ् पिसाङ्/",
+      "group": "AL",
+      "mean": "<p>the north-eastern quarter (or sub-direction).</p>ईशानकाेण वा उत्तरपूर्व काेण स्थित क्षेत्र वा देश ।"
+    },
+    "01322": {
+      "dId": "ᤁᤣᤛᤡᤱᤍᤡᤱ",
+      "desc": "/केसिङ्दिङ्/",
+      "group": "AL",
+      "mean": "<p>revered venerable father; an honorific term of address for one’s father.</p>पूजनिय जन्मदाता; बाबुलाई सम्बाेधन गरिने आदरार्थी शब्द ।"
+    },
+    "01323": {
+      "dId": "ᤁᤣᤛᤪᤡ ",
+      "desc": "/केस्रि/",
+      "group": "AL",
+      "mean": "<p>name of one of the constellations.</p>हस्ता नक्षत्र ।"
+    },
+    "01324": {
+      "dId": "ᤁᤣ᤺ᤰᤑᤴ/ᤁᤣᤁ᤻ᤑᤴ",
+      "desc": "/केःक्फन्/",
+      "group": "AL",
+      "mean": "<p>a kind of herb; herbal plant.</p>तमर्के; एक प्रकारकाे जडीबुटी ।"
+    },
+    "01325": {
+      "dId": "ᤁᤣ᤺ᤰᤘᤠ/ᤁᤣᤁ᤻ᤘᤠ",
+      "desc": "/केःक्वा/",
+      "group": "AL",
+      "mean": "<p>toy; play-thing.</p>खेलाैना ।"
+    },
+    "01326": {
+      "dId": "ᤁᤣ᤺ᤱ/ᤁᤣᤅ᤻",
+      "desc": "/केःङ्/",
+      "group": "AL",
+      "mean": "<p>1. tusk; canine; fang; eyetooth. 2. linseed. 3. canine teeth.</p>१. दाह्रा । २. आलस । ३. कुकुरदाँत ।"
+    },
+    "01327": {
+      "dId": "ᤁᤣ᤺ᤱᤒᤠᤖᤡ/ᤁᤣᤅ᤻ᤒᤠᤖᤡ ᤑᤢᤱ",
+      "desc": "/केःङ्बारि फुङ्/",
+      "group": "AL",
+      "mean": "<p>pandanus flower. Hedychium flower.</p>केंवराकाे फूल ।"
+    },
+    "01328": {
+      "dId": "ᤁᤣ᤺ᤱᤔᤠ/ᤁᤣᤅ᤻ᤔᤠ",
+      "desc": "/केःङ्मा/",
+      "group": "AL",
+      "mean": "<p>(vi.) to be entangle. (vt.) to entangle sth; to trap or snare (animals, etc).</p>(अक्रि.) अल्झनु । (सक्रि.) अल्झाउनु; पासाेमा पार्नु ।"
+    },
+    "01329": {
+      "dId": "ᤁᤣ᤺ᤵᤔᤠ/ᤁᤣᤐ᤻ᤔᤠ",
+      "desc": "/केःप्मा/",
+      "group": "AL",
+      "mean": "<p>1. to thrust; to thrust in; to put in; to insert; to cause to enter. 2. to put on the lid (cork, stopper, etc).</p>१. घुसार्नु; भित्र हाल्नु; पसाल्नु । २. लगाउनु (बिर्काे, बुजाे आदि); प्वालमा हाल्नु । "
+    },
+    "01330": {
+      "dId": "ᤁᤣ᤺ᤔᤠ",
+      "desc": "/केःमा/",
+      "group": "AL",
+      "mean": "<p>1. common babbler, a kind of laughing thrush. Timaliidae. 2. to joke by means of tickling.</p>१. भ्याकुराे चरा । २. जिस्कनु ।"
+    },
+    "01331": {
+      "dId": "ᤁᤣ᤺ᤶᤒᤠ/ᤁᤣᤔ᤻ᤒᤠ",
+      "desc": "/केःम्बा/",
+      "group": "AL",
+      "mean": "<p>1. long. 2. high; tall. 3. deep.</p>१. लामाे २. अग्लाे ३. गहिराे ।"
+    },
+    "01332": {
+      "dId": "ᤁᤣ᤺ᤶᤔᤠ/ᤁᤣᤔ᤻ᤔᤠ",
+      "desc": "/केःम्मा/",
+      "group": "AL",
+      "mean": "<p>1. (fem.) tall. 2. to be high; to be tall. 3. to be long.</p>१. अग्ली । २. अग्लाे हुनु । ३. लामाे हुनु ।"
+    },
+    "01333": {
+      "dId": "ᤁᤣ᤺ᤸᤗᤡᤰ/ᤁᤣᤗ᤻ᤗᤡᤰ",
+      "desc": "/केःल्लिक्/",
+      "group": "AL",
+      "mean": "<p>[Phedape] at lmeanth; a long period of time; after a long period of time.</p>[फेदापे] निकैबेर; लामाे समय; बिस्तार; निकै समय लगाएर । "
+    },
+    "01334": {
+      "dId": "ᤁᤠᤣ/ᤁᤠᤣ᤺",
+      "desc": "/काे/काेः/",
+      "group": "AL",
+      "mean": "<p>1. hot. 2. warm; cosy.</p>१. ताताे; उष्ण । २. न्यानाे ।"
+    },
+    "01335": {
+      "dId": "ᤁᤠᤣᤀᤡ ",
+      "desc": "/काेइ/",
+      "group": "AL",
+      "mean": "<p>hill; mountain.</p>डाँडा; पहाड ।"
+    },
+    "01336": {
+      "dId": "ᤁᤠᤣᤀᤡᤱᤃᤣ᤺ᤒᤠ/ᤁᤠᤣᤀᤡᤃᤣᤔ᤻ᤒᤠ",
+      "desc": "/काेइगेःम्बा/",
+      "group": "AL",
+      "mean": "<p>1. high and long hill or peak. 2. the Mahabharat hill (range).</p>१. अग्लाे लामाे डाँडा । २. महाभारत डाँडा (शृङ्खला) ।"
+    },
+    "01337": {
+      "dId": "ᤁᤠᤣᤰᤋᤩᤧ",
+      "desc": "/काेक्त्ये/",
+      "group": "AL",
+      "mean": "<p>obstinate; stubborn; headstrong.</p>ढिपीवाल; जिद्दीवाल ।"
+    },
+    "01338": {
+      "dId": "ᤁᤠᤣᤄᤠᤶ",
+      "desc": "/काेघाम्/",
+      "group": "AL",
+      "mean": "<p>blister (in the palm of hand) due to hard work.</p>ठेलाे; हत्केलामा उठ्ने ठेलाे ।"
+    },
+    "01339": {
+      "dId": "ᤁᤠᤣᤈᤠᤏᤡ ",
+      "desc": "/काेजानि/",
+      "group": "AL",
+      "mean": "<p>1. an indeclinable word giving a negative sense; don’t know. 2. perhaps; possibly.</p>१. कुन्नि, काे जान्ने, के जान्नु, आदि नकारात्मक भाव जनाउने शब्द । २. शायद; सम्भवतः ।"
+    },
+    "01340": {
+      "dId": "ᤁᤠᤣᤈᤠ᤺ᤒᤠ",
+      "desc": "/काेजाःबा/",
+      "group": "AL",
+      "mean": "<p>(n.) fresh/ prepared instantly (food etc). (adj.) new; recent; fresh.</p>(ना.) ताजा/ भर्खरै तयार भएकाे (खाना इत्यादि) । (वि.) नवीनतम; नयाँ; ताजा ।"
+    },
+    "01341": {
+      "dId": "ᤁᤠᤣᤈᤡᤖᤡ ᤑᤢᤱ",
+      "desc": "/काेजिरि फुङ्/",
+      "group": "AL",
+      "mean": "<p>a variety of jasmine flower.</p>जुही फुल ।"
+    },
+    "01342": {
+      "dId": "ᤁᤠᤣᤍᤡᤶ",
+      "desc": "/काेदिम्/",
+      "group": "AL",
+      "mean": "<p>inquisitiveness; anxiousness; eagerness.</p>उत्सुकता; उत्कण्ठा; सकसकी; खसखसी ।"
+    },
+    "01343": {
+      "dId": "ᤁᤠᤣᤍᤡᤶᤒᤠ",
+      "desc": "/काेदिम्बा/",
+      "group": "AL",
+      "mean": "<p>inquisitive; eagger.</p>उत्सुकतापूर्ण;  उत्सुक ।"
+    },
+    "01344": {
+      "dId": "ᤁᤠᤣᤍᤢᤶᤒᤠ",
+      "desc": "/काेदुम्बा/",
+      "group": "AL",
+      "mean": "<p>a person who sleeps a lot; who always feels sleepy.</p>कुम्भकर्ण; सुताहा ।"
+    },
+    "01345": {
+      "dId": "ᤁᤠᤣᤍᤠᤣ᤺ᤰ/ᤁᤠᤣᤍᤁᤠᤣᤁ᤻",
+      "desc": "/काेदाेःक्/",
+      "group": "AL",
+      "mean": "<p>a kind of bird (which eats  cats).</p>हाेङ्रायाे चरा ।"
+    },
+    "01346": {
+      "dId": "ᤁᤠᤣᤎᤡ ",
+      "desc": "/काेधि/",
+      "group": "AL",
+      "mean": "<p>inattentive; disobedient; headless.</p>अटेरी; भनेकाे कुराे नमान्ने ।"
+    },
+    "01347": {
+      "dId": "ᤁᤠᤣᤐᤪᤠ",
+      "desc": "/काेप्रा/",
+      "group": "AL",
+      "mean": "<p>basin; slop-basin.</p>चुठुवा; चुठ्ने भाँडाे ।"
+    },
+    "01348": {
+      "dId": "ᤁᤠᤣᤶᤓᤠᤣ",
+      "desc": "/काेम्भाे/",
+      "group": "AL",
+      "mean": "<p>research; search; investigation.</p>अनुसन्धान; खाेज ।"
+    },
+    "01349": {
+      "dId": "ᤁᤠᤣᤶᤓᤠᤣᤍᤡᤶᤒᤠ",
+      "desc": "/काेम्भाेदिम्बा/",
+      "group": "AL",
+      "mean": "<p>research oriented.</p>अनुसन्धानमुलक; खाेजपूर्ण ।"
+    },
+    "01350": {
+      "dId": "ᤒᤠᤣᤕᤧᤶ",
+      "desc": "/काेयेम्/",
+      "group": "AL",
+      "mean": "<p>the present tense.</p>वर्तमान काल ।"
+    },
+    "01351": {
+      "dId": "ᤁᤠᤣᤕᤧᤶᤒᤠ",
+      "desc": "/काेयेम्बा/",
+      "group": "AL",
+      "mean": "<p>modern; current; up-dated; fo the current time.</p>आधुनिक; आजकालकाे ।"
+    },
+    "01352": {
+      "dId": "ᤁᤠᤣᤖᤠ ᤐᤢ",
+      "desc": "/काेरा पु/",
+      "group": "AL",
+      "mean": "<p>a kind of thrush. Turdidae.</p>चाँचर चराे ।"
+    },
+    "01353": {
+      "dId": "ᤁᤠᤣᤖᤢᤶ",
+      "desc": "/काेरुम्/",
+      "group": "AL",
+      "mean": "<p>the rotten condition of fermented rice or millet while brewing beer.</p>जाँड बनाउनकाे लागि पकाएर राखेकाे वस्तु ढुसी परेर वा कुहेर गजगज पुतपुतिन लागेकाे अवस्था ।"
+    },
+    "01354": {
+      "dId": "ᤁᤠᤣᤖᤩᤠ/ᤁᤢᤖᤩᤠ",
+      "desc": "/काेर्या/कुर्या/",
+      "group": "AL",
+      "mean": "<p>1. clay-pellet. 2. bullet; shell; cartridge.</p>१. मट्याङ्ग्राे । २. गाेली (पीस्ताेल, बन्दुक आदिमा हालेर प्रहार गरिने अस्न्त्रविशेष)"
+    },
+    "01355": {
+      "dId": "ᤁᤠᤣᤗᤡᤏᤠᤶᤒᤠ",
+      "desc": "/काेलिनाम्बा/",
+      "group": "AL",
+      "mean": "<p>camphor (ball).</p>कुपुर (गाेली, डल्लाे) ।"
+    },
+    "01356": {
+      "dId": "ᤒᤠᤣᤘᤠ",
+      "desc": "/काेवा/",
+      "group": "AL",
+      "mean": "<p>temperature.</p>तापक्रम ।"
+    },
+    "01357": {
+      "dId": "ᤁᤠᤣ᤺ᤰᤑᤣ/ᤁᤠᤣᤁ᤻ᤑᤣ",
+      "desc": "/काेःक्फे/",
+      "group": "AL",
+      "mean": "<p>a kind of non pointed sward or scimitar used by the Lepcha tribe.</p>बाम्फक; टुप्पा चुच्चाे नभएकाे, प्रायः लाप्चा जातिले प्रयाेग गर्ने, खड्ग वा खुँडा जस्ता एक प्रकारकाे हतियार ।"
+    },
+    "01358": {
+      "dId": "ᤁᤠᤣ᤺ᤰᤔᤠ/ᤁᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/काेःक्मा/",
+      "group": "AL",
+      "mean": "<p>1. hill. 2. [Phadape] to lean on or against sth; to rest against sth. 3. to support sb with a pillow, to put pillow or sth underneath as support for sth/ sb.</p>१. डाँडा; पहाड ।२. [फेदापे] अडेसाे हाल्नु; सिरानी हाल्नु । ३. सिरानी हालिदिनु; अडेसा लाइदिनु  (अरुका लागि) ।"
+    },
+    "01359": {
+      "dId": "ᤁᤠᤣ᤺ᤰᤔᤠᤒᤠ/ᤁᤠᤣᤁ᤻ᤔᤠᤒᤠ",
+      "desc": "/काेःक्माबा/",
+      "group": "AL",
+      "mean": "<p>belonging to highland; highlander.</p>पहाडकाे; पहाडे; पहाडिया; पहाडी ।"
+    },
+    "01360": {
+      "dId": "ᤁᤠᤣ᤺ᤰᤛᤡᤱ/ᤁᤠᤣᤁ᤻ᤛᤡᤱ",
+      "desc": "/काेःक्सिङ्/",
+      "group": "AL",
+      "mean": "<p>1. door bolt. 2. plough implement.</p>१. आग्लाे । २. पाटी; हलाेकाे एउटा सामान ।"
+    },
+    "01361": {
+      "dId": "ᤁᤠᤣ᤺ᤱᤃᤠᤣᤑᤱ/ᤁᤠᤣᤅ᤻ᤃᤠᤣᤅ᤻ ᤗᤢᤱᤔᤠ",
+      "desc": "/काेःङ्गाेःङ्लुङ्मा/",
+      "group": "AL",
+      "mean": "<p>one of the mountains in the Kanchanjungha ranges.</p>कञ्चनजङ्घा पर्वतमालाकाे एक पर्वत ।"
+    },
+    "01362": {
+      "dId": "ᤁᤠᤣ᤺ᤱᤛᤡᤱᤔᤠ/ᤁᤠᤣᤅ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/काेःङ्सिङ्मा/",
+      "group": "AL",
+      "mean": "<p>to lean on or against a support by oneself.</p>अडेसाे लाउनु; आफैले तकिया आदि अडेसाे लगाउनु ।"
+    },
+    "01363": {
+      "dId": "ᤁᤠᤣ᤺ᤳᤆᤠᤣ/ᤁᤠᤣᤋ᤻ᤆᤠᤣ",
+      "desc": "/काेःत्चाे/",
+      "group": "AL",
+      "mean": "<p>dog.</p>कुकुर ।"
+    },
+    "01364": {
+      "dId": "ᤁᤠᤣ᤺ᤳᤇᤡᤱᤔᤠ/ᤁᤠᤣᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/काेःत्छिङ्मा/",
+      "group": "AL",
+      "mean": "<p>to look (or search) for each other; to search out each other.</p>एकले अर्काेलाई खाेज्नु; खाेजाखाेज गर्नु ।"
+    },
+    "01365": {
+      "dId": "ᤁᤠᤣ᤺ᤳᤋᤠ/ᤁᤠᤣᤋ᤻ᤋᤠ",
+      "desc": "/काेःत्ता/",
+      "group": "AL",
+      "mean": "<p>1. the space of time equal to 1/ 60 of a minute. 2. a wink; the twinkling of an eye. 3. a moment; a very short time.</p>१. पला । २. निमेष । ३. क्षण; छिन ।"
+    },
+    "01366": {
+      "dId": "ᤁᤠᤣ᤺ᤴᤍᤣ᤹/ᤁᤠᤣᤏ᤻ᤍᤣ᤹",
+      "desc": "/काेःन्दे?/",
+      "group": "AL",
+      "mean": "<p>the lower lip.</p>तल्लाे ओँठ ।"
+    },
+    "01367": {
+      "dId": "ᤁᤠᤣ᤺ᤵᤔᤠ/ᤁᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/काेःप्मा/",
+      "group": "AL",
+      "mean": "<p>to search for; to look for.</p>खाेज्नु; खाेजी गर्नु ।"
+    },
+    "01368": {
+      "dId": "ᤁᤠᤣ᤺ᤔᤠ",
+      "desc": "/काेःमा/",
+      "group": "AL",
+      "mean": "<p>1. (vi.) to be hot. 2. (vt.) to wait upon; to watch; to guard. 3. (vt.) to wait; to wait for.</p>१. (अक्रि.) तात्नु; ताताे हुनु । २. (सक्रि.) रुङ्नु; साथै बसेर कुर्नु; हेरचाह गरेनु; रेखदेख गर्नु । ३. (सक्रि.) रुङ्नु; पर्खनु; कुर्नु ।"
+    },
+    "01369": {
+      "dId": "ᤁᤠᤣ᤺ᤶ/ᤁᤠᤣᤔ᤻",
+      "desc": "/काेःम्/",
+      "group": "AL",
+      "mean": "<p>a kind of harp made of reed.</p>बिनायाे ।"
+    },
+    "01370": {
+      "dId": "ᤁᤠᤣ᤺ᤛᤡ ",
+      "desc": "/काेःसि/",
+      "group": "AL",
+      "mean": "<p>1. river; the river. 2. the Kosi river.</p>१. नदी । २. काेसी (काैशिकी) नदी ।"
+    },
+    "01371": {
+      "dId": "ᤁᤠᤣ᤺ᤛᤡᤱᤔᤠ",
+      "desc": "/काेःसिङ्मा/",
+      "group": "AL",
+      "mean": "<p>to wait for each other.</p>रुङारुङ गर्नु; एकले अर्काेलाई रुङ्नु ।"
+    },
+    "01372": {
+      "dId": "ᤁᤠᤤ",
+      "desc": "/काै/",
+      "group": "AL",
+      "mean": "<p>gold necklace.</p>घाँटीमा लगाउने सुनकाे सिक्री ।"
+    },
+    "01373": {
+      "dId": "ᤁᤠᤤᤛᤡ᤹ ",
+      "desc": "/काैसि?/",
+      "group": "AL",
+      "mean": "<p>verandah.</p>बरन्डा ।"
+    },
+    "01374": {
+      "dId": "ᤁᤧ",
+      "desc": "/के/",
+      "group": "AL",
+      "mean": "<p>sesame. Seasamum indicum.</p>तिल ।"
+    },
+    "01375": {
+      "dId": "ᤁᤧᤀᤰ",
+      "desc": "/केअक्/",
+      "group": "AL",
+      "mean": "<p>maggot.</p>औंसा ।"
+    },
+    "01376": {
+      "dId": "ᤁᤧᤰᤁᤠ",
+      "desc": "/केक्का/",
+      "group": "AL",
+      "mean": "<p>1. cotton-gin made of wood. 2. quoit; wheel.</p>१. ओइटाे; कपासबाट बियाँ छुट्याउने काठकाे यन्त्र । २. चक्र; चक्का; पाङ्ग्राे ।"
+    },
+    "01377": {
+      "dId": "ᤁᤧᤰᤁᤠ ᤛᤡᤱ",
+      "desc": "/केक्का सिङ्/",
+      "group": "AL",
+      "mean": "<p>a kind of tree. <i>Boehemeria rugulosa.</i></p>दार (रुख) ।"
+    },
+    "01378": {
+      "dId": "ᤁᤧᤰᤆᤢ",
+      "desc": "/केक्चु/",
+      "group": "AL",
+      "mean": "<p>(n.) plough. (adv.) in curved or hunchbacked manner.</p>(ना.) हलाे । (क्रिवि.) कुप्राे पर्ने किसिमले ।"
+    },
+    "01379": {
+      "dId": "ᤁᤧᤰᤋᤖ᤺ᤱ/ᤁᤧᤰᤋᤖᤅ᤻",
+      "desc": "/केक्तरःङ्/",
+      "group": "AL",
+      "mean": "<p>suspension bridge.</p>झाेलुङ्गे पुल ।"
+    },
+    "01380": {
+      "dId": "ᤁᤧᤰᤑᤧᤳᤗᤠ",
+      "desc": "/केक्फेत्ला/",
+      "group": "AL",
+      "mean": "<p>a variety of white-flowering rhododendron. <i>Rhododendron arboreum.</i></p>चिमल (रुख ) ।"
+    },
+    "01381": {
+      "dId": "ᤁᤧᤰᤘᤠ",
+      "desc": "/केक्वा/",
+      "group": "AL",
+      "mean": "<p>talking maina.</p>मैना ।"
+    },
+    "01382": {
+      "dId": "ᤁᤧᤰᤗᤧᤰᤘᤠ",
+      "desc": "/केक्लेक्वा/",
+      "group": "AL",
+      "mean": "<p>cheating; deceit; deception.</p>धाेका; ठगाइ ।"
+    },
+    "01383": {
+      "dId": "ᤁᤧᤱ",
+      "desc": "/केङ्/",
+      "group": "AL",
+      "mean": "<p>buttocks; rump.</p>नितम्ब ।"
+    },
+    "01384": {
+      "dId": "ᤁᤧᤱᤃᤧᤱ",
+      "desc": "/केङ्गेङ्/",
+      "group": "AL",
+      "mean": "<p>in a manner of bowing, bending, tilting.</p>ढल्केकाे पाराले; काेल्टे परेकाे पाराले/ चालाले ।"
+    },
+    "01385": {
+      "dId": "ᤁᤧᤱᤒᤠ",
+      "desc": "/केङ्बा/",
+      "group": "AL",
+      "mean": "<p>round.</p>डल्लाे ।"
+    },
+    "01386": {
+      "dId": "ᤁᤧᤱᤔᤠ",
+      "desc": "/केङ्मा/",
+      "group": "AL",
+      "mean": "<p>to fall down; to roll down; to be knocked down.</p>लड्नु; ढल्नु; गिर्नु ।"
+    },
+    "01387": {
+      "dId": "ᤁᤧᤱᤕᤠ᤺ᤰ/ᤁᤧᤱᤕᤠᤁ᤻",
+      "desc": "/केङ्याःक्/",
+      "group": "AL",
+      "mean": "<p>the manner of lying or sleeping on the right or the left side.</p>काेल्टाे; दायाँ वा बायाँ काेखाले टेकेर सुत्ने, ढल्कने वा बस्ने तरीका ।"
+    },
+    "01388": {
+      "dId": "ᤁᤧᤱᤗᤠᤣ᤺ᤒᤠ ᤂᤣ",
+      "desc": "/केङ्लाेःबा खे/",
+      "group": "AL",
+      "mean": "<p>a variety of yam.</p>लडुवा तरुल ।"
+    },
+    "01389": {
+      "dId": "ᤁᤧᤱᤛᤡᤱᤔᤠ",
+      "desc": "/केङ्सिङ्मा/",
+      "group": "AL",
+      "mean": "<p>1. to lie down; to lean over or against sth (to have some rest) . 2. to fall down with a dashing sound ( children). 3. to cause each other to fall down.</p>१. ढल्कनु । २. लडीबुडी गर्नु (नानीहरुले) । ३. एकअर्कालाई लडाउनु ।"
+    },
+    "01390": {
+      "dId": "ᤁᤧᤈᤠ",
+      "desc": "/केजा/",
+      "group": "AL",
+      "mean": "<p>pod of pea, bean, etc or fruit of a pod-like form as banana.</p>काेसाे; (जस्तै- मटर काेसा) ; काेसा आकारकाे फल (जस्तै केरा) । "
+    },
+    "01391": {
+      "dId": "ᤁᤧᤈᤠᤰᤐᤠ",
+      "desc": "/केजाक्पा/",
+      "group": "AL",
+      "mean": "<p>deceitful; treacherous.</p>कपटी; मनमा कपट भएकाे; छली; धाेकेबाज ।"
+    },
+    "01392": {
+      "dId": "ᤁᤧᤈᤡ ",
+      "desc": "/केजि/",
+      "group": "AL",
+      "mean": "<p>1. quarrel; brawl (esp of children). 2. grumble; murmur; complaint. 3. of weeping nature; inclined to weep easily. 4. agitation; movement; strike.</p>१. झगडा; कलह; कलझगडा (केटाकेटीहरुकाे) । २. गनगन; कचकच । ३. रुन्चे/ पिन्चे स्वभावकाे । ४. आन्दाेलन; हड्ताल । "
+    },
+    "01393": {
+      "dId": "ᤁᤧᤈᤪᤢᤱᤒᤠ",
+      "desc": "/केज्रुङ्बा/",
+      "group": "AL",
+      "mean": "<p>autumn season.</p>शरद ऋतु ।"
+    },
+    "01394": {
+      "dId": "ᤁᤧᤳᤋᤰ",
+      "desc": "/केत्तक्/",
+      "group": "AL",
+      "mean": "<p>earth.</p>धरती ।"
+    },
+    "01395": {
+      "dId": "ᤁᤧᤳᤋᤰᤘᤠ",
+      "desc": "/केत्तक्बा/",
+      "group": "AL",
+      "mean": "<p>elephant.</p>हात्ती ।"
+    },
+    "01396": {
+      "dId": "ᤁᤧᤳᤋᤪᤧᤰ",
+      "desc": "/केत्त्रेक/",
+      "group": "AL",
+      "mean": "<p>caromboard, a play.</p>क्यारमखेल ।"
+    },
+    "01397": {
+      "dId": "ᤁᤧᤳᤏᤡᤒᤠ",
+      "desc": "/केत्निबा/",
+      "group": "AL",
+      "mean": "<p>adulterer.</p>रण्डाे; भडुवा ।"
+    },
+    "01398": {
+      "dId": "ᤁᤧᤳᤏᤡᤔᤠ",
+      "desc": "/केत्निमा/",
+      "group": "AL",
+      "mean": "<p>harlot; prostitute.</p>पतर्नी; वेश्या ।"
+    },
+    "01399": {
+      "dId": "ᤁᤧᤳᤔᤧᤱᤃᤧᤳ",
+      "desc": "/केत्मेङ्गेत्/",
+      "group": "AL",
+      "mean": "<p>nearly; approximately; near about.</p>पुग-नपुग ।"
+    },
+    "01400": {
+      "dId": "ᤁᤧᤍᤠᤶᤒᤠ",
+      "desc": "/केदाम्बा/",
+      "group": "AL",
+      "mean": "<p>1. wise; knowledgeable; intelligent; mature. 2. sage; saint.</p>१. बुझक्कड; बुझाकी; पाकेकाे (परिपक्व) । २. सन्त; साधु; ज्ञानी । "
+    },
+    "01401": {
+      "dId": "ᤁᤧᤍᤡᤍᤡ᤹ᤒᤠ",
+      "desc": "/केदिदि?बा/",
+      "group": "AL",
+      "mean": "<p>pot-bellied; paunchy.</p>ठुलाे भुँडी भएकाे; घ्याम्पे; पित्तलभुँडे; लम्बाेदर ।"
+    },
+    "01402": {
+      "dId": "ᤁᤧᤍᤢᤶᤒᤠ",
+      "desc": "/केदुम्बा/",
+      "group": "AL",
+      "mean": "<p>joint.</p>संयुक्त ।"
+    },
+    "01403": {
+      "dId": "ᤁᤧᤎᤠ᤺ᤰ/ᤁᤧᤎᤠᤁ᤻",
+      "desc": "/केधाःक्/",
+      "group": "AL",
+      "mean": "<p>lifetime; span of life.</p>आयु ।"
+    },
+    "01404": {
+      "dId": "ᤁᤧᤎᤢᤰ-ᤏᤠᤶᤎᤢᤰ",
+      "desc": "/केधुक्-नाम्धुक्/",
+      "group": "AL",
+      "mean": "<p>evil spirit caused as a result of an accidental death.</p>सिंहे-सिन्डी; अगति परेका मृतात्माहरु ।"
+    },
+    "01405": {
+      "dId": "ᤁᤧᤎᤢᤰᤐᤠ",
+      "desc": "/केधुक्पा/",
+      "group": "AL",
+      "mean": "<p>naughty.</p>बदमास ।"
+    },
+    "01406": {
+      "dId": "ᤁᤢᤎᤢ᤺ᤰᤐᤠ/ᤁᤧᤎᤢᤁ᤻ᤐᤠ",
+      "desc": "/केधुःक्पा/",
+      "group": "AL",
+      "mean": "<p>crooked man; hunch backed.</p>कुप्रे ।"
+    },
+    "01407": {
+      "dId": "ᤁᤧᤎᤧᤰᤐᤠ",
+      "desc": "/केधेक्पा/",
+      "group": "AL",
+      "mean": "<p>consumer.</p>उपभाेक्ता ।"
+    },
+    "01408": {
+      "dId": "ᤁᤧᤏᤠᤱᤒᤠ",
+      "desc": "/केनाङ्बा/",
+      "group": "AL",
+      "mean": "<p>mad; insane.</p>बाैलाहा; पागल ।"
+    },
+    "01409": {
+      "dId": "ᤁᤧᤏᤠᤔᤠ",
+      "desc": "/केनामा/",
+      "group": "AL",
+      "mean": "<p>a cow which has not mixed with male cow.</p>काेरली (गाई) ।"
+    },
+    "01410": {
+      "dId": "ᤁᤧᤴᤈᤠᤣ",
+      "desc": "/केन्जाे/",
+      "group": "AL",
+      "mean": "<p>a kind of herbal plant and its root. Rheum emodi.</p>पदमचाल; पदमचारिणी (जडिबुटी) ।"
+    },
+    "01411": {
+      "dId": "ᤁᤧᤴᤍᤠᤱ",
+      "desc": "/केन्दाङ्/",
+      "group": "AL",
+      "mean": "<p>a variety of bamboo grass ( of which horse are very fond).</p>खरुकी ।"
+    },
+    "01412": {
+      "dId": "ᤁᤧᤴᤏᤠ",
+      "desc": "/केन्ना/",
+      "group": "AL",
+      "mean": "<p>Canna.</p>सर्वदा ।"
+    },
+    "01413": {
+      "dId": "ᤁᤧᤵᤔᤠ",
+      "desc": "/केप्मा/",
+      "group": "AL",
+      "mean": "<p>1. to topple and press on; to run over; to fall on sth/ sb and run over it. 2. to lean down and press on; to lean upon. 3. to knock down and press on with one’s body. 4. to arrive at; to reach. 5. to arrive.</p>१. केहि चिज ढलेर वा खसेर थिच्नु/ मिच्नु । २. ढल्केर थिच्नु/ मिच्नु । ३. पछारेर जीउले थिचिराख्नु; पछारेर जीउले थिच्नु । ४. पुग्नु । ५. आइपुग्नु ।"
+    },
+    "01414": {
+      "dId": "ᤁᤧᤵᤛᤡᤱᤔᤠ",
+      "desc": "/केप्सिङ्मा/",
+      "group": "AL",
+      "mean": "<p>to press each other.</p>थिचाथिच गर्नु ।"
+    },
+    "01415": {
+      "dId": "ᤁᤧᤒᤠ/ᤁᤧ᤺ᤒᤠ",
+      "desc": "/केबा/ केःबा/",
+      "group": "AL",
+      "mean": "<p>1. dumb; mute. 2. stammering; mentally retarded; foolish; stupid; blockhead.</p>१. लाटाे । २. लठेब्राे; मूर्ख; लट्ठक ।"
+    },
+    "01416": {
+      "dId": "ᤁᤧᤒᤡᤶᤒᤠ",
+      "desc": "/केबिम्बा/",
+      "group": "AL",
+      "mean": "<p>monkey (who jumps).</p>बाँदर (उफ्री हिड्ने) ।"
+    },
+    "01417": {
+      "dId": "ᤁᤧᤓᤢᤵᤐᤠ",
+      "desc": "/केभुप्पा/",
+      "group": "AL",
+      "mean": "<p>(n.) chemical compound. (adj.) mixed; mixture.</p>(ना.) याैगिक मिश्रण । (वि.) मिसिएकाे; छ्यासमिसे; मिश्रण ।"
+    },
+    "01418": {
+      "dId": "ᤁᤧᤓᤡᤶᤒᤠ",
+      "desc": "/केभिम्बा/",
+      "group": "AL",
+      "mean": "<p>multiplier. </p>गुणक ।"
+    },
+    "01419": {
+      "dId": "ᤁᤧᤔᤠ/ᤁᤧ᤺ᤔᤠ",
+      "desc": "/केमा/केःमा/",
+      "group": "AL",
+      "mean": "<p>(fem.) dumb.</p>लाटी ।"
+    },
+    "01420": {
+      "dId": "ᤁᤧᤔᤢᤵᤐᤠ",
+      "desc": "/केमुप्पा/",
+      "group": "AL",
+      "mean": "<p>sorcerer; diviner; exorcist.</p>झारफुक गर्ने मान्छे (धामी, झाँक्री आदि) ।"
+    },
+    "01421": {
+      "dId": "ᤁᤧᤔᤣᤘᤧᤖ᤺ᤱ/ᤁᤧᤔᤣᤘᤧᤖᤅ᤻",
+      "desc": "/केमेवेरःङ्/",
+      "group": "AL",
+      "mean": "<p>forktail, a kind of bird found by the riverside.</p>धाेबिनी चराे ।"
+    },
+    "01422": {
+      "dId": "ᤁᤧᤔᤠᤣᤏᤠ",
+      "desc": "/केमाेना/",
+      "group": "AL",
+      "mean": "<p>camelia.</p>केमेलिया फुल ।"
+    },
+    "01423": {
+      "dId": "ᤁᤧᤖᤧ᤹/ᤁᤧ᤺ᤖᤧ᤹",
+      "desc": "/केरे?/केःरे?/",
+      "group": "AL",
+      "mean": "<p>sweet buckwheat. Fagopurum esculatum.</p>फापर ।"
+    },
+    "01424": {
+      "dId": "ᤁᤧᤖᤧᤰ",
+      "desc": "/केरेक्/",
+      "group": "AL",
+      "mean": "<p>all; entire; whole.</p>जम्मै; सबै; समग्र ।"
+    },
+    "01425": {
+      "dId": "ᤁᤧᤖᤧᤱ",
+      "desc": "/केरेङ्/",
+      "group": "AL",
+      "mean": "<p>incarnation.</p>अवतार ।"
+    },
+    "01426": {
+      "dId": "ᤁᤧᤖᤧᤱᤘᤠ",
+      "desc": "/केरेङ्वा/",
+      "group": "AL",
+      "mean": "<p>1. starling. Sturniidae. 2. talking maina. Gracula religiosa.</p>१. रुपी; साराैँटे । २. मैना ।"
+    },
+    "01427": {
+      "dId": "ᤁᤧᤗᤡᤶ(ᤖᤡᤶ)ᤒᤠ",
+      "desc": "/केलिम्(रिम्)बा/",
+      "group": "AL",
+      "mean": "<p>(n.) sweets; (adj.) sweet.</p>मिठाई; गुलियाे ।"
+    },
+    "01428": {
+      "dId": "ᤁᤧᤗᤧ᤺ᤶ(ᤖᤧ᤺ᤶ)ᤒᤠ/ᤁᤧᤗᤧᤔ᤻(ᤖᤧᤔ᤻)ᤒᤠ",
+      "desc": "/केलेःम्(रेःम्)बा/",
+      "group": "AL",
+      "mean": "<p>oily; greasy; slippery substance; eg. ghee, oil etc.</p>चिल्लाे-चिप्लाे बस्तु, जस्तै -घिउ, तेल इत्यादि ।"
+    },
+    "01429": {
+      "dId": "ᤁᤧᤘᤠ",
+      "desc": "/केवा/",
+      "group": "AL",
+      "mean": "<p>a kind of red-legged and black patridge. Francolinus francolinus.</p>च्याखुराे चराे ।"
+    },
+    "01430": {
+      "dId": "ᤁᤧᤘᤧᤰᤐᤠ",
+      "desc": "/केवेक्पा/",
+      "group": "AL",
+      "mean": "<p>ladle.</p>डाडु ।"
+    },
+    "01431": {
+      "dId": "ᤁᤧᤛ᤺ᤶᤒᤠ/ᤁᤧᤛᤔ᤻ᤒᤠ",
+      "desc": "/केसःम्बा/",
+      "group": "AL",
+      "mean": "<p>1. a creature that slides, creeps, crawls. 2. snake.</p>१. घस्रने जीव । २. साँप । "
+    },
+    "01432": {
+      "dId": "ᤁᤧᤛᤪᤢᤱ",
+      "desc": "/केस्रुङ्/",
+      "group": "AL",
+      "mean": "<p>character.</p>चरित्र ।"
+    },
+    "01433": {
+      "dId": "ᤁᤧᤛᤧ᤹ᤒᤠ",
+      "desc": "/केसे?बा/",
+      "group": "AL",
+      "mean": "<p>1. gray-hair at one spot on the head; of black and white hair or feather. 2. piebald; dappled; variegated in color; spotted.</p>१. कपालकाे एक मात्र ठाउँ वा कुनै कुनै भाग सेतै फुलेकाे । २. छिरबिरे (राैं वा प्वाँख); झालेमाले; टाटेपाङ्ग्रे । "
+    },
+    "01434": {
+      "dId": "ᤁᤧᤜᤠ᤺ᤒᤠ",
+      "desc": "/केहाःबा/",
+      "group": "AL",
+      "mean": "<p>dividend.</p>भाज्य ।"
+    },
+    "01435": {
+      "dId": "ᤁᤧ᤺ᤰᤁᤠ/ᤁᤧᤁ᤻ᤁᤠ",
+      "desc": "/केःक्का/",
+      "group": "AL",
+      "mean": "<p>parrot, a kind of parakeet. Psittacidae.</p>सुगा ।"
+    },
+    "01436": {
+      "dId": "ᤁᤧ᤺ᤰᤕᤰᤏᤠ/ᤁᤧ᤺ᤰᤕᤏᤠ",
+      "desc": "/केःक्यक्ना/केःक्यना/",
+      "group": "AL",
+      "mean": "<p>a kind of wild turmeric-like plant.</p>फच्चेङ्; वनबेसार; सराे ।"
+    },
+    "01437": {
+      "dId": "ᤁᤧ᤺ᤴᤍᤠ/ᤁᤧᤏ᤻ᤍᤠ",
+      "desc": "/केःन्दा/",
+      "group": "AL",
+      "mean": "<p>rhinoceros.</p>गैंडा ।"
+    },
+    "01438": {
+      "dId": "ᤁᤧ᤺ᤔᤠ",
+      "desc": "/केःमा/",
+      "group": "AL",
+      "mean": "<p>to fix/ install a loom.</p>(तान) लगाउनु ।"
+    },
+    "01439": {
+      "dId": "ᤁᤩᤠᤱ",
+      "desc": "/क्याङ्/",
+      "group": "AL",
+      "mean": "<p>pestle; pounder; husking pestle.</p>मुसली ।"
+    },
+    "01440": {
+      "dId": "ᤁᤪᤒᤠ/ᤁᤪᤠᤣᤒᤠ",
+      "desc": "/क्रबा/क्राेबा/",
+      "group": "AL",
+      "mean": "<p>as like as , alike in color.</p>जस्तै रङ्गकाे ।"
+    },
+    "01441": {
+      "dId": "ᤁᤪᤕᤱᤒᤠ",
+      "desc": "/क्रयङ्बा/",
+      "group": "AL",
+      "mean": "<p>koel. Eudynamys scolopacea.</p>एक जातकाे काेइली ।"
+    },
+    "01442": {
+      "dId": "ᤁᤫᤠ᤹",
+      "desc": "/क्वा?/",
+      "group": "AL",
+      "mean": "<p>1. uncle; maternal uncle. 2. father’s sister’s husband.</p>१. मामा । २. फुपाजु । "
+    },
+    "01443": {
+      "dId": "ᤁᤫᤠ᤹ᤆᤠ",
+      "desc": "/क्वा?चा/",
+      "group": "AL",
+      "mean": "<p>the custom of paying a sum in cash of kind to maternal uncle of the child born before completing the wedding ceremony.</p>विवाहकाे रीत नछिनी जन्मेका छाेराछारीउपर मामाकाे लाग्ने हकबापतकाे दस्तुर ।"
+    },
+    "01444": {
+      "dId": "ᤁᤫᤠ᤹ ᤋᤖᤣ᤺",
+      "desc": "/क्वा? तरेः/",
+      "group": "AL",
+      "mean": "<p>[Tamor] father’s sister’s husband.</p>[तमाेर] फुपाजु ।"
+    },
+    "01445": {
+      "dId": "ᤁᤫᤠ",
+      "desc": "/क्वा/",
+      "group": "AL",
+      "mean": "<p>liquid; soup.</p>तरल; झाेल ।"
+    },
+    "01446": {
+      "dId": "ᤁᤫᤠᤱ",
+      "desc": "/क्वाङ्/",
+      "group": "AL",
+      "mean": "<p>a particular kind of wooden vessel to hold liquor, etc.</p>कठुवा; चाैंठा ।"
+    },
+    "01447": {
+      "dId": "ᤁᤫᤧ",
+      "desc": "/क्वे/",
+      "group": "AL",
+      "mean": "<p>a term meaning ‘hold it’ or ‘take it’ often used by a person when he or she hands over or gives something to somebody.</p>केहि चीज दिदा त्याे चीज लिने व्याक्तिलाई दिने व्याक्तिले भन्ने ‘लाऊ’; ‘लाै थाप’; ‘लेउ’; ‘समाउ’ आदि अर्थ बुझाउने शब्द ।"
+    }
+  }
+}
