@@ -1,0 +1,519 @@
+{
+  "Dic": {
+    "00783": {
+      "dId": "ᤁ",
+      "desc": "/क/",
+      "group": "AH",
+      "mean": "<p>1. the first consonant of letter of the Sirijunga alphabet; this sound is represented by the letter /ᤁ/ in the SIrijunga script. 2. a particle of emphasis.</p>१. सिरिजङ्गा वर्णमालाकाे पहिलाे व्यञ्जनवर्ण; उक्त वर्णकाे प्रतिनिधित्व गर्ने यस्ताे /ᤁ / सिरिजङ्गा लिपि । २. त; चाँहि ।"
+    },
+    "00784": {
+      "dId": "ᤁ᤹ᤏᤠ/ᤁᤳᤏᤠ",
+      "desc": "/क?ना/कत्ना/",
+      "group": "AH",
+      "mean": "<p>here ( on the same level ).</p>यता; यहाँ (समतलमा) ।"
+    },
+    "00785": {
+      "dId": "ᤁ᤹ᤏᤠᤶ",
+      "desc": "/क?नाम्/",
+      "group": "AH",
+      "mean": "<p>Gemini; sign of zodiac.</p>मिथुन राशि ।"
+    },
+    "00786": {
+      "dId": "ᤁ᤹ᤕᤠᤣ",
+      "desc": "/क?याे/",
+      "group": "AH",
+      "mean": "<p>here (below the level of the speaker) .</p>यहाँ (तल); यहाँ (वक्ताकाे सतहभन्दा तल) ।"
+    },
+    "00787": {
+      "dId": "ᤁᤰ",
+      "desc": "/कक्/",
+      "group": "AH",
+      "mean": "<p>load; burden.</p>भारी ।"
+    },
+    "00789": {
+      "dId": "ᤁᤰᤁᤓᤡᤰᤏᤠ",
+      "desc": "/कक्कभिक्ना/",
+      "group": "AH",
+      "mean": "<p>a kind of bird resembling a kite (which is said to drink only rain water).</p>काकाकुल (चराे) ।"
+    },
+    "00790": {
+      "dId": "ᤁᤰᤁᤧᤒᤠ",
+      "desc": "/कक्केबा/",
+      "group": "AH",
+      "mean": "<p>like this; of this type.</p>यस्ताे; यस्ताे खालकाे ।"
+    },
+    "00791": {
+      "dId": "ᤁᤰᤁᤣᤖᤡᤰ",
+      "desc": "/कक्केरिक्/",
+      "group": "AH",
+      "mean": "<p>like this; thus; in this way.</p>यसरी ।"
+    },
+    "00792": {
+      "dId": "ᤁᤰᤁ᤺ᤣᤰ/ᤁᤰᤁᤣᤁ᤻",
+      "desc": "/कक्केःक्/",
+      "group": "AH",
+      "mean": "<p>like this; in this way.</p>यसरी ।"
+    },
+    "00793": {
+      "dId": "ᤁᤰᤋᤱᤒᤠ",
+      "desc": "/कक्तङ्बा/",
+      "mean": "<p>such; like this; of this kind.</p>यस्ताे; याे जस्ताे; यस किसिमकाे ।"
+    },
+    "00794": {
+      "dId": "ᤁᤰᤑᤠ",
+      "desc": "/कक्फा/",
+      "group": "AH",
+      "mean": "<p>a variety of wild bamboo.</p>आकार प्रकारमा चाेयाबाँससित मिल्दाेन्जुल्दाे एक प्रकारकाे जङ्गली बाँस ।"
+    },
+    "00795": {
+      "dId": "ᤁᤰᤑᤣ᤹",
+      "desc": "/कक्फे?/",
+      "group": "AH",
+      "mean": "<p>a large knife.</p>बाम्फक ।"
+    },
+    "00796": {
+      "dId": "ᤁᤰᤔᤠ",
+      "desc": "/कक्मा/",
+      "group": "AH",
+      "mean": "<p>to cower; to curl up; to become numb, stiff or rigid with cold.</p>कक्रनु; कठ्याङ्ग्रिनु; डल्लाे पर्नु (राेग वा जाडाेले ) । "
+    },
+    "00797": {
+      "dId": "ᤁᤰᤋᤢᤒᤠ",
+      "desc": "/कक्तुबा/",
+      "group": "AH",
+      "mean": "<p>1. stiff; curled up. 2. crooked; twisted. 3. (Phedape) (ofbirds) to hatch young ones. 4. (Phedape) to yield interest.</p>१. कक्रक्क परेकाे । २. बाङ्गाेटिङ्गाे । ३. (फेदापे) बच्चा काढ्नु; बचेरा निकाल्नु । ४. (फेदापे) ब्याज कमाउनु; ब्याज पाक्नु ।"
+    },
+    "00798": {
+      "dId": "ᤁᤰᤗᤠ",
+      "desc": "/कक्ला/",
+      "group": "AH",
+      "mean": "<p>bush.</p>झाडी ।"
+    },
+    "00799": {
+      "dId": "ᤁᤰᤗᤡᤰᤔᤢᤕᤠ",
+      "desc": "/कक्लिक् मुया/",
+      "group": "AH",
+      "mean": "<p>vulture. Gyps.</p>गरूड; गिद्द ।"
+    },
+    "00800": {
+      "dId": "ᤁᤰᤗᤡᤰᤘᤠ",
+      "desc": "/कक्लिक्वा/",
+      "group": "AH",
+      "mean": "<p>a kind of vulture. Gyps.</p>गरूड; एक प्रकारकाे ठूलाेखाले  गिद्द ।"
+    },
+    "00801": {
+      "dId": "ᤁᤰᤗᤡᤎᤡ᤺ᤶᤒᤠ/ᤁᤰᤗᤡᤓᤡᤔ᤻ᤒᤠ",
+      "desc": "/कक्लिधिःम्बा/",
+      "group": "AH",
+      "mean": "<p>a kind of bird.</p>तुलेगाँडाे चराे ।"
+    },
+    "00802": {
+      "dId": "ᤁᤰᤗᤧᤰᤂᤣ",
+      "desc": "/कक्लेक्खे/",
+      "group": "AH",
+      "mean": "<p>a variety of cultivated yam.</p>एक प्रकारकाे घरतरूल ।"
+    },
+    "00803": {
+      "dId": "ᤁᤰᤗᤧᤱ",
+      "desc": "/कक्लेङ्/",
+      "group": "AH",
+      "mean": "<p>to sell in stock.</p>थाेक व्यापार ( दुद्रा बिक्री नगरी डक्कै वा एकमुष्ट गरीने सुक्रिबिक्री/ किनबेच) ।"
+    },
+    "00804": {
+      "dId": "ᤁᤱᤃᤱᤗᤢᤱᤔᤠ",
+      "desc": "/कङ्गङ्लुङ्मा/",
+      "group": "AH",
+      "mean": "<p>one of the peaks of the Kanchanjungha range.</p>कञ्चनजङ्घा पर्वत शृङ्खलाकाे एक पर्वत ।"
+    },
+    "00805": {
+      "dId": "ᤁᤱᤃᤠ",
+      "desc": "/कङ्गा/",
+      "group": "AH",
+      "mean": "<p>vulture. Gyps.</p>गिद्द ।"
+    },
+    "00806": {
+      "dId": "ᤁᤱᤄᤠᤳᤋᤡ",
+      "desc": "/कङ्घात्ति/",
+      "group": "AH",
+      "mean": "<p>somewhere here; near here.</p>यहिँकहिँ; यताउति ।"
+    },
+    "00807": {
+      "dId": "ᤁᤱᤔᤠ",
+      "desc": "/कङ्मा/",
+      "group": "AH",
+      "mean": "<p>to feel sharp/ dull pain; to separate (filtering) small stones from husked rice.</p>बिझाउनु; केलाउनु वा चाल्नु ( चामल आदिबाट ढुङ्गाहरू ) ।"
+    },
+    "00808": {
+      "dId": "ᤁᤈᤢᤛᤣ᤹",
+      "desc": "/कजुसे?/",
+      "group": "AH",
+      "mean": "<p>melon. <i>Cucumis melo.</i></p>खरबुजा ।"
+    },
+    "00809": {
+      "dId": "ᤁᤋᤷᤏᤠ",
+      "desc": "/कतर्ना/",
+      "group": "AH",
+      "mean": "<p>scissors.</p>कैंची ।"
+    },
+    "00810": {
+      "dId": "ᤁᤳᤋᤢᤰᤘᤠ",
+      "desc": "/कत्तुक्वा/",
+      "group": "AH",
+      "mean": "<p>a kind of bird.</p>कुथुर्के चरा ।"
+    },
+    "00811": {
+      "dId": "ᤁᤳᤌᤱ",
+      "desc": "/कत्थाङ्/",
+      "group": "AH",
+      "mean": "<p>up here ( above the level of the  speaker).</p>याँ माथि ( वक्ताकाे सतहभन्दा माथि ) ।"
+    },
+    "00812": {
+      "dId": "ᤁᤳᤌᤠ᤺ᤣ",
+      "desc": "/कत्थाेः/",
+      "group": "AH",
+      "mean": "<p>up here (above the level of the speaker).</p>यता (माथि/ उँभाे ); यता (वक्ताकाे सतह भन्दा माथि ) ।"
+    },
+    "00813": {
+      "dId": "ᤁᤳᤏᤠ",
+      "desc": "/कत्ना/",
+      "group": "AH",
+      "mean": "<p>sickle.</p>कचिया ।"
+    },
+    "00814": {
+      "dId": "ᤁᤍᤰᤋᤰ",
+      "desc": "/कदक्तक्/",
+      "group": "AH",
+      "mean": "<p>laughing noisily and simultaneously; laughing all together, laughing in chorus.</p>गललल हाँस्ने किसिमले ।"
+    },
+    "00815": {
+      "dId": "ᤁᤍᤠᤒᤠ",
+      "desc": "/कदाबा/",
+      "group": "AH",
+      "mean": "<p>Iguana; Pangolin.</p>सालक ।"
+    },
+    "00816": {
+      "dId": "ᤁᤍᤠ᤺ᤣᤰ/ᤁᤍᤠᤣᤁ᤻",
+      "desc": "/कदाेःक्/",
+      "group": "AH",
+      "mean": "<p>a kind of bird, the great hornbill.</p>हाेङ्रायाे (चरा) ।"
+    },
+    "00817": {
+      "dId": "ᤁᤍᤩ᤺ᤰᤔᤠ/ᤁᤍᤩᤁ᤻ᤔᤠ",
+      "desc": "/कद्यःक्मा/",
+      "group": "AH",
+      "mean": "<p>remnant; remainder.</p>रहलपहल ।"
+    },
+    "00818": {
+      "dId": "ᤁᤏ᤺ᤰᤐᤠ/ᤁᤗᤁ᤻ᤐᤠ",
+      "desc": "/कनःक्पा/",
+      "group": "AH",
+      "mean": "<p>nasal consonant sound, eg:- /ng/; /n/; /m/ .</p>आनुनासिक वा नाके ध्वनि बुझाउने व्यञ्जनवर्ण; जस्तै:- /ङ/; /न/; /म/ ।"
+    },
+    "00819": {
+      "dId": "ᤁᤏ᤺ᤰᤏ᤺ᤰᤐᤠ/ᤁᤏᤁ᤻ᤏᤁ᤻ᤐᤠ",
+      "desc": "/कनःक्नःक्पा/",
+      "group": "AH",
+      "mean": "<p>one heaving a nasal voice (or twang).</p>नाके स्वर भएकाे मान्छे ।"
+    },
+    "00820": {
+      "dId": "ᤁᤴ",
+      "desc": "/कन्/",
+      "group": "AH",
+      "mean": "<p>he; she; it.</p>याे; यिनी ।"
+    },
+    "00821": {
+      "dId": "ᤁᤴᤇᤡᤃᤩᤠ᤺ᤵᤐᤠ/ᤁᤴᤇᤡᤃᤩᤠᤐ᤻ᤐᤠ",
+      "desc": "/कन्छिग्याःप्पा/",
+      "group": "AH",
+      "mean": "<p>as small as; very small ( in size, form).</p>यत्राे (सानाे) मात्रै; सारै सानाे; कद र आकारमा सारै सानाे भन्ने अर्थ बुझाउने ।"
+    },
+    "00822": {
+      "dId": "ᤁᤴᤍᤱᤒᤠ/ᤁᤴᤍᤠᤱᤒᤠ",
+      "desc": "/कन्दङ्बा/कन्दाङ्बा/",
+      "group": "AH",
+      "mean": "<p>so much; so many; as much as; as many as.</p>यति धेरै; यत्तिक ।"
+    },
+    "00823": {
+      "dId": "ᤁᤵ",
+      "desc": "/कप्/",
+      "group": "AH",
+      "mean": "<p>1. roundness; circumference; circle. 2. round; circular. 3. eating suddenly and abruptly.</p>१. गाेलाइ; परिधि; फेराे । २. गाेलाे; बाटुलाे; वृत्ताकार । ३. क्वाप्प खाने किसिमले ।"
+    },
+    "00824": {
+      "dId": "ᤁᤵᤋᤠᤣᤕᤠᤣᤒᤠ",
+      "desc": "/कप्ताेयाेबा/",
+      "group": "AH",
+      "mean": "<p>earth; world.</p>पृथ्वी; संसार ।"
+    },
+    "00825": {
+      "dId": "ᤁᤵᤐᤠᤱᤗᤢᤱᤔᤣ᤹",
+      "desc": "/कप्पाङ्लुमे?/",
+      "group": "AH",
+      "mean": "<p>a husband, residing in his father-in-law’s house.</p>घरज्वाइँ ।"
+    },
+    "00826": {
+      "dId": "ᤁᤵᤐᤧᤴ",
+      "desc": "/कप्पेन/",
+      "group": "AH",
+      "mean": "<p>pen; fountain pen.</p>कलम ।"
+    },
+    "00827": {
+      "dId": "ᤁᤵᤑᤠ",
+      "desc": "/कप्फा/",
+      "group": "AH",
+      "mean": "<p>gossip; chit-chat; tittle-tattle.</p>गफ ।"
+    },
+    "00828": {
+      "dId": "ᤁᤵᤔᤠ",
+      "desc": "/कप्मा/",
+      "group": "AH",
+      "mean": "<p>1. to give birth to. 2. to have; to possess; to won. 3. to possess; to own. 3. to go around; to circumambulate.</p>१. जन्माउनु । २. साथमा राख्नु । ३. अधिकार भित्र राख्नु । ४. वरिपरि घुम्नु; प्रदक्षिणा गर्नु; चक्कर लाउनु ।"
+    },
+    "00829": {
+      "dId": "ᤁᤵᤔᤡ ",
+      "desc": "/कप्मि/",
+      "group": "AH",
+      "mean": "<p>concern.</p>सराेकार; सम्बन्ध ।"
+    },
+    "00830": {
+      "dId": "ᤁᤵᤔᤢᤍᤡᤱ",
+      "desc": "/कप्मुदिङ्/",
+      "group": "AH",
+      "mean": "<p>attraction.</p>आकर्षण ।"
+    },
+    "00831": {
+      "dId": "ᤁᤵᤔᤢᤍᤡᤱᤒᤠ",
+      "desc": "/कप्मुदिङ्बा/",
+      "group": "AH",
+      "mean": "<p>attractive; charming; arresting; alluring.</p>आकर्षक; मन लाेभ्याउने; चित्ताकर्षक ।"
+    },
+    "00832": {
+      "dId": "ᤔᤵᤔ᤺ᤣᤳ/ᤁᤵᤔᤣᤋ᤻",
+      "desc": "/कप्मेत्/",
+      "group": "AH",
+      "mean": "<p>keptwife; concubine.</p>रखाैटी; भित्रिनी ।"
+    },
+    "00833": {
+      "dId": "ᤁᤵᤔᤠᤣ/ᤁᤵᤔᤢ",
+      "desc": "/कप्माे/कप्मु/",
+      "group": "AH",
+      "mean": "<p>here; here below/ under.</p>यहाँ; यहाँ तल/मुनि ।"
+    },
+    "00834": {
+      "dId": "ᤁᤵ-ᤕᤠᤰᤐᤱᤃᤣᤒᤠ",
+      "desc": "/कप-याक्पङ्गेबा/",
+      "group": "AH",
+      "mean": "<p>international.</p>अन्तर्राष्ट्रिय ।"
+    },
+    "00835": {
+      "dId": "ᤁᤵᤗᤡᤰ",
+      "desc": "/कप्लिक्/",
+      "group": "AH",
+      "mean": "<p>1. a diagram of the horoscope showing the position of the planets at the time o fa child’s birth. 2. circle; circular enclosure; circular line; spherical.</p>१. जन्मकुण्डली । २. वृत्त; बाटुलाे घेरा; वर्तुलाकार; गाेलाकार । "
+    },
+    "00836": {
+      "dId": "ᤁᤵᤗᤠ᤺ᤣᤰ/ᤁᤵᤗᤠᤣᤁ᤻",
+      "desc": "/कप्लाेक्/",
+      "group": "AH",
+      "mean": "<p>wheel.</p>पाङ्ग्रा; चक्र; चक्का ।"
+    },
+    "00837": {
+      "dId": "ᤁᤵᤛᤠ",
+      "desc": "/कप्सा/",
+      "group": "AH",
+      "mean": "<p>a custom of mutual exchange of labour prevalent among the peasants.</p>परेली; पर्म; आफूले लिएकाे खेतालाकाे परेकाे बेला खेतालाकै रूपमा तिर्ने कृषि-प्रचलन ।"
+    },
+    "00838": {
+      "dId": "ᤁᤵᤛᤠᤱ",
+      "desc": "/कप्साङ्/",
+      "group": "AH",
+      "mean": "<p>1. protection. 2. walking. 3. all round.</p>१. संरक्षण । २. घुमफिर; घुम्नेडुल्ने काम । ३. वरिपरि; चारैतिर; चाैतर्फी ।"
+    },
+    "00839": {
+      "dId": "ᤁᤵᤛᤡᤱᤔᤠ",
+      "desc": "/कप्सिङ्मा/",
+      "group": "AH",
+      "mean": "<p>1. to be surrounded/ enclosed/ encircled. 2. to be surrounded by each other.</p>१. घेरिनु । २. परस्पर घेरिनु  ।"
+    },
+    "00840": {
+      "dId": "ᤁᤵᤛᤡᤱᤃᤛᤣ᤹",
+      "desc": "/कप्सिङ्से?/",
+      "group": "AH",
+      "mean": "<p>a kind of tree.</p>माला रूख; एक प्रकारकाे रूख ।"
+    },
+    "00841": {
+      "dId": "ᤁᤒᤰᤆᤠᤣ",
+      "desc": "/कबक्चाे/",
+      "group": "AH",
+      "mean": "<p>the complete male generative organ including penis, scrotum of testicles, etc.</p>लिङ्ग र अण्डकाेश दुवै संयुक्त रहेकाे सिङ्गाे ढिक्काे वा खण्ड ।"
+    },
+    "00842": {
+      "dId": "ᤁᤒᤪᤡᤱ",
+      "desc": "/कब्रिङ्/",
+      "group": "AH",
+      "mean": "<p>around.</p>वरिपरि ।"
+    },
+    "00843": {
+      "dId": "ᤁᤒᤢ",
+      "desc": "/कबु/",
+      "group": "AH",
+      "mean": "<p>1. village. 2. the neighbourhood; the vicinity.</p>१. गाउँ । २. सेराेफेराे ।"
+    },
+    "00844": {
+      "dId": "ᤁᤓᤪᤡᤱ",
+      "desc": "/कभ्रिङ्/",
+      "group": "AH",
+      "mean": "<p>everywhere; here and there; all over.</p>जताततै; सबै ठाउँमा ।"
+    },
+    "00845": {
+      "dId": "ᤁᤶᤒᤪᤠᤱ",
+      "desc": "/कम्ब्राङ्/",
+      "group": "AH",
+      "mean": "<p>protection.</p>संरक्षण ।"
+    },
+    "00846": {
+      "dId": "ᤁᤶᤓᤪᤰ",
+      "desc": "/कम्भ्रक/",
+      "group": "AH",
+      "mean": "<p>only this much; as much as this only.</p>यति मात्र; यति नै ।"
+    },
+    "00847": {
+      "dId": "ᤁᤶᤓᤠ",
+      "desc": "/कम्भा/",
+      "group": "AH",
+      "mean": "<p>this much.</p>यति ।"
+    },
+    "00848": {
+      "dId": "ᤁᤶᤓᤧᤸᤗᤧ",
+      "desc": "/कम्भेल्ले/",
+      "group": "AH",
+      "mean": "<p>nowadays; at present.</p>हिजाेआज ।"
+    },
+    "00849": {
+      "dId": "ᤁᤶᤓᤩᤠᤰ",
+      "desc": "/कम्भ्याक/",
+      "group": "AH",
+      "mean": "<p>this much.</p>यति ।"
+    },
+    "00850": {
+      "dId": "ᤁᤶᤔᤠ",
+      "desc": "/कम्मा/",
+      "group": "AH",
+      "mean": "<p>to roam about; to take a walk; to stroll.</p>डुल्नु; घुम्नु ।"
+    },
+    "00851": {
+      "dId": "ᤁᤶᤔᤩᤠᤰ",
+      "desc": "/कम्म्याक्/",
+      "group": "AH",
+      "mean": "<p>this much; as much as this; as little as these.</p>यति; याे जति; यत्ति ।"
+    },
+    "00852": {
+      "dId": "ᤁᤖ",
+      "desc": "/कर/",
+      "group": "AH",
+      "mean": "<p>if; but.</p>भने; तर ।"
+    },
+    "00853": {
+      "dId": "ᤁᤖᤰ",
+      "desc": "/करक्/",
+      "group": "AH",
+      "mean": "<p>divination; forecast of good/ bad omen.</p>जाेखना ।"
+    },
+    "00854": {
+      "dId": "ᤁᤖᤰᤐᤠ",
+      "desc": "/करक्पा/",
+      "group": "AH",
+      "mean": "<p>a kind of weed. Equisetum debile.</p>आँख्लेझार; कुरकुरे घाँस ।"
+    },
+    "00855": {
+      "dId": "ᤁᤖᤰᤘᤠ",
+      "desc": "/करक्वा/",
+      "group": "AH",
+      "mean": "<p>male chicken.</p>नबासेकाे भाले; काेरलाे भाले ।"
+    },
+    "00856": {
+      "dId": "ᤁᤖ᤺ᤱᤐᤡᤳ/ᤁᤖᤅ᤻ᤐᤡᤳ",
+      "desc": "/करःङ्पित्/",
+      "group": "AH",
+      "mean": "<p>1. heifer. 2. cow found in terai.</p>१. काेरली; बाछी । २. तराईमा पाइने गाईकाे जात ।"
+    },
+    "00857": {
+      "dId": "ᤁᤷᤃᤢᤘᤠ",
+      "desc": "/कर्गुवा/",
+      "group": "AH",
+      "mean": "<p>a kind of bird.</p>कुल्लु चराे ।"
+    },
+    "00858": {
+      "dId": "ᤁᤷᤓᤧ᤺ᤳ/ᤁᤷᤓᤧᤋ᤻",
+      "desc": "/कर्भेःत्/",
+      "group": "AH",
+      "mean": "<p>a king of plant with bitter edible fruit. <i>Tupistra clarkei.</i></p>नाकिमा ।"
+    },
+    "00859": {
+      "dId": "ᤁᤷᤓᤧᤶᤒᤠ",
+      "desc": "/कर्भेम्बा/",
+      "group": "AH",
+      "mean": "<p>house swallow.</p>गाैंथली ।"
+    },
+    "00860": {
+      "dId": "ᤁᤗᤡᤏᤠᤣ",
+      "desc": "/कलिनाे/",
+      "group": "AH",
+      "mean": "<p>chisel for stone cutting.</p>छिनाे ।"
+    },
+    "00861": {
+      "dId": "ᤁᤛᤶᤒᤠ",
+      "desc": "/कसम्बा/",
+      "group": "AH",
+      "mean": "<p>plough share.</p>फाली ।"
+    },
+    "00862": {
+      "dId": "ᤁ᤺ᤰ/ᤁᤁ᤻",
+      "desc": "/कःक्/",
+      "group": "AH",
+      "mean": "<p>magnolia, a tree of Michelia champaca.</p>चाँप ।"
+    },
+    "00863": {
+      "dId": "ᤁ᤺ᤰᤐᤠ/ᤁᤁ᤻ᤐᤠ",
+      "desc": "/कःक्पा/",
+      "group": "AH",
+      "mean": "<p>onion. Alium sepa.</p>प्याज ।"
+    },
+    "00864": {
+      "dId": "ᤁ᤺ᤰᤑᤧᤰᤘᤠ/ᤁᤁ᤻ᤑᤧᤰᤘᤠ",
+      "desc": "/कःक्फेक्वा/",
+      "group": "AH",
+      "mean": "<p>Magh; tenth Nepalese month (Jan-Feb) .</p>माध महीना ।"
+    },
+    "00865": {
+      "dId": "ᤁ᤺ᤰᤔᤠ/ᤁᤁ᤻ᤔᤠ",
+      "desc": "/कःक्मा/",
+      "group": "AH",
+      "mean": "<p>1. to be a spinster; to remain an old maid. 2. to grow ( or become) tough; stiff. 3. to feel discomfort, irritation, pain due to irregular/ rough surface.</p>१. स्वास्नी मानिसले विवह नगरी बस्नु; बूढिकन्या बस्नु । २. जर्खरीनु; खस्राे हुनु । ३. बिझाउनु ।"
+    },
+    "00866": {
+      "dId": "ᤁ᤺ᤱᤕᤠ/ᤁᤅ᤻ᤕᤠ",
+      "desc": "/कःङ्या/",
+      "group": "AH",
+      "mean": "<p>the back of a lade ( of knife, etc) .</p>बीट; धारकाे उल्टाेपट्टि ।"
+    },
+    "00867": {
+      "dId": "ᤁᤴᤍᤪᤧ᤺ᤰᤔᤠ/ᤁᤴᤍᤪᤧᤁ᤻ᤔᤠ ᤛᤡᤱ",
+      "desc": "/कःन्द्रेःक्मा सिङ्/",
+      "group": "AH",
+      "mean": "<p>a kind of plant whose twigs are often used for brushing the teeth.</p>दतिवनकाे बाेट ।"
+    },
+    "00868": {
+      "dId": "ᤁᤴᤍᤪᤧ᤺ᤰ/ᤁᤴᤍᤪᤧᤁ᤻",
+      "desc": "/कःन्द्रेःक्/",
+      "group": "AH",
+      "mean": "<p>a kind of thorn.</p>बिब्ल्याँटे काँडा ।"
+    },
+    "00869": {
+      "dId": "ᤁ᤺ᤶᤒᤢ/ᤁᤔ᤻ᤒᤢ",
+      "desc": "/कःम्बु/",
+      "group": "AH",
+      "mean": "<p>male cat.</p>ढाडे बिरालाे ।"
+    }
+  }
+}

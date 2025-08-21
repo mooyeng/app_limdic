@@ -1,0 +1,634 @@
+{
+  "Dic": {
+    "00870": {
+      "dId": "ᤁᤠ᤹ᤀᤡ ",
+      "desc": "/का?इ/",
+      "group": "AI",
+      "mean": "<p>1. relation; connection. 2. relationship; kinship.</p>१. सम्बन्ध । २. नाता ।"
+    },
+    "00871": {
+      "dId": "ᤁᤠ᤹ᤀᤡ᤺ᤳ/ᤁᤠᤀᤡᤋ᤻",
+      "desc": "/का?इत्/",
+      "group": "AI",
+      "mean": "<p>relatives by marriage.</p>कुटुम्ब; नाताकुटुम्ब; विवाहद्वारा सम्बन्ध हुनेहरू ।"
+    },
+    "00872": {
+      "dId": "ᤁᤠ᤹ᤀᤡᤒᤠ",
+      "desc": "/का?इबा/",
+      "group": "AI",
+      "mean": "<p>1. related ( bu kinship) . 2. related; connected; concerned. </p>१. नाता परेकाे । २. सम्बन्ध भएकाे; सम्बद्ध; सम्बन्धी । "
+    },
+    "00873": {
+      "dId": "ᤁᤠ᤹ᤀᤡᤓᤧᤰᤐᤠ",
+      "desc": "/का?इभेक्पा/",
+      "group": "AI",
+      "mean": "<p>incestuous.</p>हाडफाेरा; हाडनाता- सम्बन्ध ताेड्ने अनैतिक ।"
+    },
+    "00874": {
+      "dId": "ᤁᤠ᤹ᤀᤡᤓᤧᤰᤛᤠ",
+      "desc": "/का?इभेक्सा/",
+      "group": "AI",
+      "mean": "<p>a child born of incestuous relationship.</p>अनैतिक सम्बन्ध (हाडनाता) बाट जन्मेकाे सन्तान ।"
+    },
+    "00875": {
+      "dId": "ᤁᤠ᤹ᤀᤡᤖᤠᤣᤒᤠ",
+      "desc": "/का?इराेबा/",
+      "group": "AI",
+      "mean": "<p>relating; connecting.</p>सम्पर्क गराउने; सम्पर्ककाे ।"
+    },
+    "00876": {
+      "dId": "ᤁᤠ᤹ᤀᤡᤘᤠ᤺ᤴ/ᤁᤠ᤹ᤀᤡᤘᤠᤏ᤻",
+      "desc": "/का?इवाःन्/",
+      "group": "AI",
+      "mean": "<p>1. relationship; affiliation. 2. kinship; relation.</p>१. सम्बन्धन; सम्बन्ध हुने वा राख्ने काम । २. नातागाेता ।"
+    },
+    "00877": {
+      "dId": "ᤁᤠ᤹ᤔᤠ",
+      "desc": "/का?मा/",
+      "group": "AI",
+      "mean": "<p>1. to crack. 2. to break into fissures; to cleave.</p>१. चर्कनु । २. धाँजा फाट्नु ।"
+    },
+    "00878": {
+      "dId": "ᤁᤠᤰ",
+      "desc": "/काक्/",
+      "group": "AI",
+      "mean": "<p>all; whole; total; entire.</p>सबै; समग्र ।"
+    },
+    "00879": {
+      "dId": "ᤁᤠᤰᤁᤠᤣᤒᤠ",
+      "desc": "/काक्काेबा/",
+      "group": "AI",
+      "mean": "<p>kidney.</p>मिर्गाैला ।"
+    },
+    "00880": {
+      "dId": "ᤁᤠᤰᤁᤪᤠ᤺ᤣᤰᤐᤠ/ᤁᤠᤰᤁᤪᤠᤣᤁ᤻ᤐᤠ",
+      "desc": "/कक्क्राेःक्पा/",
+      "group": "AI",
+      "mean": "<p>elliptical.</p>अण्डाकार ।"
+    },
+    "00881": {
+      "dId": "ᤁᤠᤰᤁᤪᤠ᤺ᤣᤰᤔᤠ/ᤁᤠᤰᤁᤪᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/कक्क्राेःक्मा/",
+      "group": "AI",
+      "mean": "<p>a variety of rough lemon. Citrus junos Tanaka.</p>नाइटे ज्यामिर ।"
+    },
+    "00882": {
+      "dId": "ᤁᤠᤰᤁᤪᤠ᤺ᤣᤰᤗᤠ᤺ᤣᤰᤐᤠ/ᤁᤠᤰᤁᤪᤠᤣᤁ᤻ᤗᤠᤣᤁ᤻ᤐᤠ",
+      "desc": "/कक्क्राेःक्लाःक्पा/",
+      "group": "AI",
+      "mean": "<p>round, circular, spherical.</p>गाेलाकार ।"
+    },
+    "00883": {
+      "dId": "ᤁᤠᤰᤐᤗᤠ",
+      "desc": "/काक्पला/",
+      "group": "AI",
+      "mean": "<p>skeleton.</p>कङ्काल ।"
+    },
+    "00884": {
+      "dId": "ᤁᤠᤰᤐᤧᤳᤋᤠ",
+      "desc": "/काक्पेत्ता/",
+      "group": "AI",
+      "mean": "<p>[Phedape]  round; spherical.</p>[फेदापे] डल्लाे; गाेलाे ।"
+    },
+    "00885": {
+      "dId": "ᤁᤠᤰᤔᤠ",
+      "desc": "/काक्मा/",
+      "group": "AI",
+      "mean": "<p>lump.</p>डल्लाे; थुप्राे ।"
+    },
+    "00886": {
+      "dId": "ᤁᤠᤰᤕᤢᤰᤛᤧ᤺ᤵ/ᤛᤧᤐ᤻",
+      "desc": "/काक्युक्सेःप्/",
+      "group": "AI",
+      "mean": "<p>plenipotentiary; all rights.</p>सर्वाधिकार ।"
+    },
+    "00887": {
+      "dId": "ᤁᤠᤰᤗᤡᤰᤏᤠ",
+      "desc": "/काक्लिक्ना/",
+      "group": "AI",
+      "mean": "<p>a round lump.</p>डल्ले; डल्लाे परेकाे ।"
+    },
+    "00888": {
+      "dId": "ᤁᤠᤰᤘᤠ",
+      "desc": "/काक्वा/",
+      "group": "AI",
+      "mean": "<p>1. [Sikkim] potato. 2. percentage (%) .</p>१. [सिक्किम] आलु । २. प्रतिशत; सयकडा ।"
+    },
+    "00889": {
+      "dId": "ᤁᤠᤰᤛᤧ᤹",
+      "desc": "/काक्से?/",
+      "group": "AI",
+      "mean": "<p>papaya, papaw. Carica papaya.</p>मेवा ।"
+    },
+    "00890": {
+      "dId": "ᤁᤠᤱᤈᤠᤣᤛᤡᤱ",
+      "desc": "/काङ्जाेसिङ्/",
+      "group": "AI",
+      "mean": "<p>a kind of tree.</p>फुस्रे (घाँसे) रूख ।"
+    },
+    "00891": {
+      "dId": "ᤁᤠᤱᤍᤠᤱ",
+      "desc": "/काङ्दाङ्/",
+      "group": "AI",
+      "mean": "<p>the whole.</p>सिङ्गै; पूरै; डल्लै ।"
+    },
+    "00892": {
+      "dId": "ᤁᤠᤱᤍᤠᤱᤔᤠ",
+      "desc": "/काङ्दाङ्मा/",
+      "group": "AI",
+      "mean": "<p>a kind of wood.</p>बाहुनी काठ ।"
+    },
+    "00893": {
+      "dId": "ᤁᤠᤱᤍᤢᤱᤛᤡᤱ",
+      "desc": "/काङ्दुङ् सिङ्/",
+      "group": "AI",
+      "mean": "<p>a kind of tree.</p>फिर्केकाे रूख ।"
+    },
+    "00894": {
+      "dId": "ᤁᤠᤱᤏᤠᤱᤒᤠ",
+      "desc": "/काङ्नाङ्बा/",
+      "group": "AI",
+      "mean": "<p>a kind of insect.</p>खेत-बिराली; घुर्घुरे ।"
+    },
+    "00895": {
+      "dId": "ᤁᤠᤱᤔᤠ",
+      "desc": "/काङ्मा/",
+      "group": "AI",
+      "mean": "<p>1. to make round. 2. to warm; to heat.</p>१. डल्लाे पार्नु; कल्ल्याउनु । २. सेक्नु; सेकाउनु; ताताे पार्नु ।"
+    },
+    "00896": {
+      "dId": "ᤁᤠᤱᤔᤢᤜᤠᤱ",
+      "desc": "/काङ्मुहाङ्/",
+      "group": "AI",
+      "mean": "<p>vulture, bird of prey. Gyps.</p>गरुड (चराे) ।"
+    },
+    "00897": {
+      "dId": "ᤁᤠᤱᤗᤠ ᤛᤡᤱ",
+      "desc": "/काङ्ला सिङ्/",
+      "group": "AI",
+      "mean": "<p>a kind of tree.</p>असारेकाे बाेट ।"
+    },
+    "00898": {
+      "dId": "ᤁᤠᤱᤗᤡ ",
+      "desc": "/काङ्लि/",
+      "group": "AI",
+      "mean": "<p>cabbage.</p>बन्दा; बन्दाकाेभी ।"
+    },
+    "00899": {
+      "dId": "ᤁᤠᤱᤛᤠ",
+      "desc": "/काङ्सा/",
+      "group": "AI",
+      "mean": "<p>bronze.</p>काँस ।"
+    },
+    "00900": {
+      "dId": "ᤁᤠᤱᤛᤡᤱᤔᤠ",
+      "desc": "/काङ्सिङ्मा/",
+      "group": "AI",
+      "mean": "<p>1. [Phedape] to warmed by fire or sunlight; to warm oneself by a fire-place or sunlight. 2. to be a lump; to be solid and rough.</p>१. [फेदापे] सेकिनु; सेक्ने प्रकृयाद्वारा आफु तात्नु वा सुख्खा हुनु ।२. डल्लाे पर्नु; जमेर कडा हुनु (माटाे इत्यादि ) ।"
+    },
+    "00901": {
+      "dId": "ᤁᤠᤈᤡᤐᤠ᤺ᤣᤳᤆᤡ/ᤁᤠᤈᤡᤐᤠᤣᤋ᤻ᤆᤡ ",
+      "desc": "/काजिपाेःत्चि/",
+      "group": "AI",
+      "mean": "<p>disorder; disarrangements; topsy-turvy.</p>लथालिङ्ग; जथाभावी ।"
+    },
+    "00902": {
+      "dId": "ᤁᤠᤋᤠ᤺ᤰᤘᤠ/ᤁᤠᤋᤠᤁ᤻ᤘᤠ",
+      "desc": "/काताःक्वा/",
+      "group": "AI",
+      "mean": "<p>fern.</p>उन्यूँ ।"
+    },
+    "00903": {
+      "dId": "ᤁᤠᤳᤆᤩᤠ",
+      "desc": "/कात्च्या/",
+      "group": "AI",
+      "mean": "<p>sickle.</p>कचिया; हँसिया ।"
+    },
+    "00904": {
+      "dId": "ᤁᤠᤳᤋᤡ ",
+      "desc": "/कात्ति/",
+      "group": "AI",
+      "mean": "<p>sward.</p>कत्ती; तलबार झैं तर टुप्पा तिखाे नभएकाे हतियार ।"
+    },
+    "00905": {
+      "dId": "ᤁᤠᤴᤍᤡ ",
+      "desc": "/कान्दि/",
+      "group": "AI",
+      "mean": "<p>a large cooking pan, cauldron.</p>कराही ।"
+    },
+    "00906": {
+      "dId": "ᤁᤠᤴᤍᤪᤢᤰ/ᤁᤠ᤺ᤴᤍᤪᤢᤰ",
+      "desc": "/कान्द्रुक/",
+      "group": "AI",
+      "mean": "<p>fermented and dried leaves of vegetables ( ulmic ) .</p>गुन्द्रुक ।"
+    },
+    "00907": {
+      "dId": "ᤁᤠᤴᤍᤩᤠ",
+      "desc": "/कान्द्या/",
+      "group": "AI",
+      "mean": "<p>a vessel/ container made of the hollow stem of a bamboo or log and used for holding water or milk.</p>मुख बाटुलाे भएकाे बाँसकाे वा काठकाे दुधेराे; ढुङ्ग्राे ।"
+    },
+    "00908": {
+      "dId": "ᤁᤠᤴᤎᤡ ",
+      "desc": "/कान्धि/",
+      "group": "AI",
+      "mean": "<p>1. a big pail made of the hollow stem of bamboo. 2. bucket; pail. 3. a gold necklace. 4. necklace made of red coral beads; wreath of red clay.</p>१. बाँस वा काठकाे ठूलाे खालकाे ढुङ्ग्राे । २. बाल्टी; बाल्टिन । ३. कण्ठा; गलामा लगाउने सुनकाे एक प्रकारकाे गहाना । ४. प्वाँलाे ।"
+    },
+    "00909": {
+      "dId": "ᤁᤠᤵᤂ᤺ᤣᤱ/ᤁᤠᤵᤂᤣᤅ᤻",
+      "desc": "/काप्खेःङ्/",
+      "group": "AI",
+      "mean": "<p>possession; occupation.</p>अधिकार; स्वामित्व ।"
+    },
+    "00910": {
+      "dId": "ᤁᤠᤵᤋᤇᤴ",
+      "desc": "/काप्तेन्/",
+      "group": "AI",
+      "mean": "<p>frame.</p>चाैखट ।"
+    },
+    "00911": {
+      "dId": "ᤁᤠᤵᤌᤧᤒᤠ",
+      "desc": "/काप्थेबा/",
+      "group": "AI",
+      "mean": "<p>paternal grandfather’s grandfather.</p>बाबुकाे नातापट्टिबाट बाजेकाे बाजे ।"
+    },
+    "00912": {
+      "dId": "ᤁᤠᤵᤐᤠᤍᤡᤱ",
+      "desc": "/काप्पादिङ्/",
+      "group": "AI",
+      "mean": "<p>joined together; pair; couple.</p>जाेडिएकाे; युगल; जाेडा ।"
+    },
+    "00913": {
+      "dId": "ᤁᤠᤵᤐᤣ",
+      "desc": "/काप्पे/",
+      "group": "AI",
+      "mean": "<p>hyphen; a mark used to join two parts of a compound word.</p>याेजक चिन्ह; दुई शब्दकाे बिचमा आउने “-“  यस्ताे चिन्ह ।"
+    },
+    "00914": {
+      "dId": "ᤁᤠᤵᤐᤠᤣᤒᤠ",
+      "desc": "/काप्पाेबा/",
+      "group": "AI",
+      "mean": "<p>1. old (man) . 2. husband; spouse.</p>१. बूढाे; वृद्ध । २. पति; पाेई । "
+    },
+    "00915": {
+      "dId": "ᤁᤠᤵᤐᤠᤣ(ᤒᤠ) ᤛᤠᤶᤔᤠᤱ",
+      "desc": "/काप्पाे(बा) साम्माङ्/",
+      "group": "AI",
+      "mean": "<p>the god who watches the house; one name of the Limbu deity Him Sammang also called Bhimsen.</p>घर रुङ्ने देवता विशेष; लिम्बूजातिकाे हिम् साम्माङ् वा घर देवताकाे अर्काे नाम जस्लाई भीमसेन पनि भनिन्छ ।"
+    },
+    "00916": {
+      "dId": "ᤁᤠᤵᤔᤠ",
+      "desc": "/काप्मा/",
+      "group": "AI",
+      "mean": "<p>to get paired (bullocks); to make a pair (human).</p>जाेडी बनाउनु; जाेडी बाँध्नु; हल मिलाउनु । "
+    },
+    "00917": {
+      "dId": "ᤁᤠᤵᤔᤢᤔᤠ/ᤁᤠᤵᤔᤠᤣᤔᤠ",
+      "desc": "/काप्मुमा/काप्माेमा/",
+      "group": "AI",
+      "mean": "<p>1. (woman) old. 2. wife; spouse.</p>१. बूढी; वृद्धा । २. स्वास्नी ।"
+    },
+    "00918": {
+      "dId": "ᤁᤠᤵᤔ᤺ᤣᤵᤐᤠ/ᤁᤠᤵᤔᤣᤐ᤻ᤐᤠ",
+      "desc": "/काप्मेःप्पा/",
+      "group": "AI",
+      "mean": "<p>Jestha; secong Nepalese month (May-June).</p>जेठ महिना ।"
+    },
+    "00919": {
+      "dId": "ᤁᤠᤵᤕᤢᤔᤠ",
+      "desc": "/काप्युमा/",
+      "group": "AI",
+      "mean": "<p>maternal grandmother’s grandmother.</p>आमाकाे मातापट्टिबाट बज्यैकी बज्यै ।"
+    },
+    "00920": {
+      "dId": "ᤁᤠᤵᤗᤠ",
+      "desc": "/काप्ला/",
+      "group": "AI",
+      "mean": "<p>couple.</p>/काप्ला/"
+    },
+    "00921": {
+      "dId": "ᤁᤠᤵᤗᤠᤰ",
+      "desc": "/काप्लाक्/",
+      "group": "AI",
+      "mean": "<p>1. cowry shells. 2. together; in pairs ;in tows.</p>१. काैडी । २. सँगसँगै; साथसाथै; जाेडी मिलेर (भएर ) ।"
+    },
+    "00922": {
+      "dId": "ᤁᤠᤵᤘᤠ",
+      "desc": "/काप्वा/",
+      "group": "AI",
+      "mean": "<p>a compound word.</p>समास; समस्त पद । "
+    },
+    "00923": {
+      "dId": "ᤁᤠᤵᤛᤠ",
+      "desc": "/काप्सा/",
+      "group": "AI",
+      "mean": "<p>twins.</p>जुम्ल्याहा ।"
+    },
+    "00924": {
+      "dId": "ᤁᤠᤵᤛᤠᤒᤠ",
+      "desc": "/काप्साबा/",
+      "group": "AI",
+      "mean": "<p>twin (brothers).</p>(पु.) जुम्ल्याहा ।"
+    },
+    "00925": {
+      "dId": "ᤁᤠᤵᤛᤠᤔᤠ",
+      "desc": "/काप्सामा/",
+      "group": "AI",
+      "mean": "<p>twin (sisters).</p>(स्त्री) जुम्ल्याहा ।"
+    },
+    "00926": {
+      "dId": "ᤁᤠᤵᤛᤡᤱᤒᤠ",
+      "desc": "/काप्सिङ्बा/",
+      "group": "AI",
+      "mean": "<p>related; relative.</p>सम्वद्ध; सम्बन्धवाचक ।"
+    },
+    "00927": {
+      "dId": "ᤁᤠᤵᤛᤡᤱᤔᤠ",
+      "desc": "/काप्सिङ्मा/",
+      "group": "AI",
+      "mean": "<p>to take under one’s control; to take possession of.</p>अधिकारमा लिनु; मुठ्ठीभित्र पार्नु ।"
+    },
+    "00928": {
+      "dId": "ᤁᤠᤵᤛᤠ᤺ᤣᤰ/ᤁᤠᤵᤛᤠᤣᤁ᤻",
+      "desc": "/काप्साे:क्/",
+      "group": "AI",
+      "mean": "<p>the genitive ( or possessive) case, it’s case marker, eg. in, illen, len/ren (of, ’s, etc).</p>सम्बन्धकारक, यिनका विभक्ति चिन्हहरू, जस्तै- इन्, इल्लेन्, लेन्/रेन् (काे, का, की; राे, रा, री) ।"
+    },
+    "00929": {
+      "dId": "ᤁᤠᤵᤛᤠ᤺ᤣᤰᤍᤡᤱ/ᤁᤠᤵᤛᤠᤣᤁ᤻ᤍᤡᤱ",
+      "desc": "/काप्साे:क्दिङ्/",
+      "group": "AI",
+      "mean": "<p>intimacy.</p>घनिष्ठता ।"
+    },
+    "00930": {
+      "dId": "ᤁᤠᤵᤛᤠ᤺ᤣᤰᤍᤡᤱᤒᤠ/ᤁᤠᤵᤛᤠᤣᤁ᤻ᤍᤡᤱᤒᤠ",
+      "desc": "/काप्साे:क्दिङ्बा/",
+      "group": "AI",
+      "mean": "<p>intimate.</p>घनिष्ठ ।"
+    },
+    "00931": {
+      "dId": "ᤁᤠᤔᤡᤐᤢ",
+      "desc": "/कामिपु/",
+      "group": "AI",
+      "mean": "<p>A kind of black bird.</p>काली चराे ।"
+    },
+    "00932": {
+      "dId": "ᤁᤠᤶᤇᤠ",
+      "desc": "/काम्छा/",
+      "group": "AI",
+      "mean": "<p>a piece of cloth used to wrap round the loin ( of a man); towel napkin.</p>गाम्छा; रूमाल ।"
+    },
+    "00933": {
+      "dId": "ᤁᤠᤶᤈᤡᤏᤠ",
+      "desc": "/काम्जिना/",
+      "group": "AI",
+      "mean": "<p>a kind of bird.</p>तुलेगाँडाे चराे ।"
+    },
+    "00934": {
+      "dId": "ᤁᤠᤶᤍ᤺ᤣᤳ/ᤁᤠᤶᤍᤣᤋ᤻",
+      "desc": "/काम्देःत्/",
+      "group": "AI",
+      "mean": "<p>formal dress; uniform.</p>उर्दी पाेशाक; युनिफर्म ।"
+    },
+    "00935": {
+      "dId": "ᤁᤠᤶᤑᤢᤖᤠ ᤔᤠᤱ",
+      "desc": "/काम्फुरा माङ्/",
+      "group": "AI",
+      "mean": "<p>one of the Limbu gods/ deities.</p>लिम्बूजातिका देवताहरूमा एक ।"
+    },
+    "00936": {
+      "dId": "ᤁᤠᤶᤒᤠ",
+      "desc": "/काम्बा/",
+      "group": "AI",
+      "mean": "<p>carpenter; artisan; mason.</p>कर्मी; कालिगढ; मिस्त्री ।"
+    },
+    "00937": {
+      "dId": "ᤛᤡᤱᤃᤠᤶᤒᤠ",
+      "desc": "/सिङ्गाम्बा/",
+      "group": "AI",
+      "mean": "<p>carpenter; artisan at wood works.</p>सिकर्मी; काष्ठकर्मी; काठमिस्त्री ।"
+    },
+    "00938": {
+      "dId": "ᤗᤢᤱᤃᤠᤶᤒᤠ",
+      "desc": "/लुङ्गाम्बा/",
+      "group": "AI",
+      "mean": "<p>mason; artisan at stone works.</p>डकर्मी; ढुङ्गामिस्त्री ।"
+    },
+    "00939": {
+      "dId": "ᤁᤠᤶᤒᤠᤱ",
+      "desc": "/काम्बाङ्/",
+      "group": "AI",
+      "mean": "<p>1. adjoined house; a house adjacent (connected) to the other one. 2. a Limbu clan/ family name.</p>१. जाेडी घर; जाेर घर । २. लिम्बू जातिकाे एउटा थर ।"
+    },
+    "00940": {
+      "dId": "ᤁᤠᤶᤔᤠ",
+      "desc": "/काम्मा/",
+      "group": "AI",
+      "mean": "<p>1. to fit in. 2. to be joined; to be mixed. 3. to be attached to; to get a carving for. 4. to fit sth; to make sth fit. 5. to connect sth; to join sth; to fix together. 6. to cause to be attached to 7.  to tame or domesticate.</p>१. ठिक्क हुनु; मिल्नु । २. जाेडिनु; मिसिनु । ३. पल्कनु । ४. ठिक्ककाे पार्नु; मिलाउनु । ५. जाेड्नु; जाेडजाड पार्नु; मिसाउनु । ६. पल्काउनु । ७. रत्याउनु ।"
+    },
+    "00941": {
+      "dId": "ᤁᤠᤶᤔᤠᤍᤡᤰ",
+      "desc": "/काम्मादिक्/",
+      "group": "AI",
+      "mean": "<p>comparison.</p>तुलना; दँजाइ ।"
+    },
+    "00942": {
+      "dId": "ᤁᤠᤶᤔᤢᤕᤠ",
+      "desc": "/कुम्मुया/",
+      "group": "AI",
+      "mean": "<p>hawk, a kind of harriers. Circus.</p>बाज ।"
+    },
+    "00943": {
+      "dId": "ᤁᤠᤶᤛᤡᤱ",
+      "desc": "/काम्सिङ्/",
+      "group": "AI",
+      "mean": "<p>1. yoke. 2. chemical substance.</p>१. जुवा; गाेरू नार्ने जुवा । २. रासायनिक ।"
+    },
+    "00944": {
+      "dId": "ᤁᤠᤶᤛᤡᤱᤘᤠ",
+      "desc": "/काम्सिङ्वा/",
+      "group": "AI",
+      "mean": "<p>a chemical substance for joining metal, metalic substances.</p>रासायन ।"
+    },
+    "00945": {
+      "dId": "ᤁᤠᤶᤛᤠᤣᤖᤡ ",
+      "desc": "/काम्साेरि/",
+      "group": "AI",
+      "mean": "<p>Amaranthus white. Amaranthus leucocarpus S.W.S.</p>सेताे लट्टे (साग) ।"
+    },
+    "00946": {
+      "dId": "ᤁᤠᤕᤠᤣ",
+      "desc": "/कायाे/",
+      "group": "AI",
+      "mean": "<p>pigments used to color metal plates.</p>कलाई; तामचिन आदि भाँडामा लगाइने राेगन ।"
+    },
+    "00947": {
+      "dId": "ᤁᤠᤖᤠ᤺ᤱᤘᤠ᤹/ᤁᤠᤖᤠᤅ᤻ᤘᤠ",
+      "desc": "/काराःङ्वा/",
+      "group": "AI",
+      "mean": "<p>crane, a kind of migratory bird. Grus Grus.</p>कर्याङकुरूङ् (चराे) ।"
+    },
+    "00948": {
+      "dId": "ᤁᤠᤖᤡ᤹ ",
+      "desc": "/कारि?/",
+      "group": "AI",
+      "mean": "<p>pulse, (black) lentils.</p>मास; कालाे दाल ।"
+    },
+    "00949": {
+      "dId": "ᤁᤠᤖᤡᤱᤗᤡᤱᤒᤠ",
+      "desc": "/कारिङ्लिङ्बा/",
+      "group": "AI",
+      "mean": "<p>having big eyes.</p>ठूलाठूला आँखा भएकाे ।"
+    },
+    "00950": {
+      "dId": "ᤁᤠᤖᤡᤱᤗᤡᤱᤔᤠ",
+      "desc": "/कारिङ्लिङ्मा/",
+      "group": "AI",
+      "mean": "<p>(fem.) having big eyes.</p>ठूलाठूला आँखा भएकी ।"
+    },
+    "00951": {
+      "dId": "ᤁᤠᤖᤧᤱ ᤐᤢ",
+      "desc": "/कारेङ् पु/",
+      "group": "AI",
+      "mean": "<p>a kind of bird.</p>बइल चराे; एक प्रकारकाे चराे ।"
+    },
+    "00952": {
+      "dId": "ᤁᤠᤷᤒᤠᤣᤒᤠ",
+      "desc": "/कार्बाेबा/",
+      "group": "AI",
+      "mean": "<p>goldsmith.</p>सुन चाँदिकाे काम गर्ने मान्छे; सुनार; सराफी ।"
+    },
+    "00953": {
+      "dId": "ᤁᤠᤖᤩᤠᤣ",
+      "desc": "/कार्याे/",
+      "group": "AI",
+      "mean": "<p>a small container or box made of wood, cardboard, etc.</p>प्यकिङ्काे लागि प्रयाेग गरिने काठ वा बाक्लाे कागतकाे बट्टा वा बाकस ।"
+    },
+    "00954": {
+      "dId": "ᤁᤠᤸᤗᤠᤱᤔᤠ᤹",
+      "desc": "/काल्लाङ्मा?/",
+      "group": "AI",
+      "mean": "<p>a flat basket of split canes used to dry food stuff in the heat of smoke or fire.</p>साराङ; अन्न आदि खाद्य वस्तु आगाे वा धूवाँकाे रापले सुकाउन चुल्हाेमाथि झुन्ड्याइने दुइ तीन इन्च जति बिट उठाएर बुनिने चाेयाकाे एक प्रकारकाे पात्रविशेष । "
+    },
+    "00955": {
+      "dId": "ᤁᤠᤛᤠᤷ",
+      "desc": "/कासार्/",
+      "group": "AI",
+      "mean": "<p>affliction.</p>विपद् ।"
+    },
+    "00956": {
+      "dId": "ᤁᤠᤛᤢᤶᤒᤠᤶ",
+      "desc": "/कासुम्बाक्/",
+      "group": "AI",
+      "mean": "<p>a kind of edible wild vegetable also used for making medicine. Phytolaccia acinosa.</p>जरिङ्गाे; खान हुने जङ्गली साग ।"
+    },
+    "00957": {
+      "dId": "ᤁᤠᤜᤡ ",
+      "desc": "/काहि/",
+      "group": "AI",
+      "mean": "<p>scurf; scale; dried dirt marks that look like scurf or scale on skin.</p>मानिसकाे शरीरमा पर्ने सेताे फुस्राे मयल; कत्ला ।"
+    },
+    "00958": {
+      "dId": "ᤁᤠ᤺ᤰᤐᤠ/ᤁᤠᤁ᤻ᤐᤠ",
+      "desc": "/काःक्पा/",
+      "group": "AI",
+      "mean": "<p>skeleton.</p>कङ्काल; अस्थिपञ्जर ।"
+    },
+    "00959": {
+      "dId": "ᤁᤠ᤺ᤰᤔᤠ/ᤁᤠᤁ᤻ᤔᤠ",
+      "desc": "/काःक्मा/",
+      "group": "AI",
+      "mean": "<p>to jump over; to step over; to overtake.</p>नाघ्नु (उफ्रेर नाघ्नु); उछिन्नु; (हिडेर) टाढा पुग्नु ।"
+    },
+    "00960": {
+      "dId": "ᤁᤠ᤺ᤰᤗᤡᤃᤠ᤺ᤰ/ᤁᤠᤁ᤻ᤗᤡᤃᤠᤁ᤻",
+      "desc": "/काःक्लिगाःक्/",
+      "group": "AI",
+      "mean": "<p>tree pie, a kind of bird. Dendrocitta.</p>काेकले चराे ।"
+    },
+    "00961": {
+      "dId": "ᤁᤠ᤺ᤰᤘᤠ/ᤁᤠᤁ᤻ᤘᤠ",
+      "desc": "/काःक्वा/",
+      "group": "AI",
+      "mean": "<p>crow.</p>काग ।"
+    },
+    "00962": {
+      "dId": "ᤁᤠ᤺ᤱ/ᤁᤠᤅ᤻",
+      "desc": "/काःङ्/",
+      "group": "AI",
+      "mean": "<p>spade.</p>काेदालाे ।"
+    },
+    "00963": {
+      "dId": "ᤁᤠ᤺ᤱᤓᤠ/ᤁᤠᤅ᤻ᤓᤠ",
+      "desc": "/काःङ्भा/",
+      "group": "AI",
+      "mean": "<p>pole/ rafter of the roof.</p>डाँडा; छाना छाँउदा धुरीबाटा ठाडाे बाँधिने डाेलाे बाँस जसमाथि भाटा बाँधिन्छन् ।"
+    },
+    "00964": {
+      "dId": "ᤁᤠ᤺ᤱᤓᤣ/ᤁᤠᤅ᤻ᤓᤣ",
+      "desc": "/काःङ्भे/",
+      "group": "AI",
+      "mean": "<p>a particular instrument used by the carpenter.</p>बसिला, काठ ताछ्ने औजार ।"
+    },
+    "00965": {
+      "dId": "ᤁᤠ᤺ᤱᤗᤡᤔᤠ/ᤁᤠᤅ᤻ᤗᤡᤔᤠ",
+      "desc": "/काःङ्लिमा/",
+      "group": "AI",
+      "mean": "<p>a particular type of spade (smaller than the common spade).</p>काेदाली, एक प्रकारकाे सानाे काेदालाे ।"
+    },
+    "00966": {
+      "dId": "ᤁᤠ᤺ᤳᤆᤠᤣ᤹/ᤁᤠᤋ᤻ᤆᤠᤣ",
+      "desc": "/काःत्चाे/",
+      "group": "AI",
+      "mean": "<p>a variety of long tobacco leaf (green).</p>लाम्पाते सुर्ती; एक प्रकारकाे सुर्ती ।"
+    },
+    "00967": {
+      "dId": "ᤁᤠ᤺ᤴ/ᤁᤠᤏ᤻",
+      "desc": "/काःन्/",
+      "group": "AI",
+      "mean": "<p>hurt; bruise; injury caused by  a hurt.</p>चाेटपटकद्वारा लागेकाे घाउ; चाेटपटक ।"
+    },
+    "00968": {
+      "dId": "ᤁᤠ᤺ᤴᤍᤣᤒᤠ/ᤁᤠᤏ᤻ᤍᤣᤒᤠ",
+      "desc": "/काःन्देबा/",
+      "group": "AI",
+      "mean": "<p>injured; wounded.</p>घाइते ।"
+    },
+    "00969": {
+      "dId": "ᤁᤠ᤺ᤴᤗᤠ/ᤁᤠᤏ᤻ᤗᤠ",
+      "desc": "/काःन्ला/",
+      "group": "AI",
+      "mean": "<p>terrace (of a field).</p>कान्लाे; खेत/बारी आदिकाे डील ।"
+    },
+    "00970": {
+      "dId": "ᤁᤠ᤺ᤵᤔᤠ/ᤁᤠᤐ᤻ᤔᤠ",
+      "desc": "/काःप्मा/",
+      "group": "AI",
+      "mean": "<p>to carry from one place to another, to transport.</p>ओसार्नु ।"
+    },
+    "00971": {
+      "dId": "ᤁᤠ᤺ᤔᤠ",
+      "desc": "/काःमा/",
+      "group": "AI",
+      "mean": "<p>to crow.</p>बास्नु ।"
+    },
+    "00972": {
+      "dId": "ᤁᤠ᤺ᤶᤔᤠ/ᤁᤠᤔ᤻ᤔᤠ",
+      "desc": "/काःम्मा/",
+      "group": "AI",
+      "mean": "<p>to be hurt; to be wounded.</p>चाेट लाग्नु ।"
+    },
+    "00973": {
+      "dId": "ᤁᤧᤃᤠ᤺ᤶᤒᤠ/ᤁᤧᤃᤠᤔ᤻ᤒᤠ",
+      "desc": "/केगाःम्बा/",
+      "group": "AI",
+      "mean": "<p>wounded; hurt.</p>घायल; घाइते ।"
+    },
+    "00974": {
+      "dId": "ᤁᤠᤸᤗᤣ",
+      "desc": "/काःल्ले/",
+      "group": "AI",
+      "mean": "<p>[Sikkim]  nowadays.</p>[सिक्किम]  आजकाल ।"
+    }
+  }
+}
