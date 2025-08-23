@@ -1,0 +1,562 @@
+{
+  "Dic": {
+    "04427": {
+      "dId": "ᤐᤡ᤹ᤔᤠ",
+      "desc": "/पि?मा/",
+      "group": "BO",
+      "mean": "<p>to be crushed; to get dented (pot etc).</p>कुच्चिनु ।"
+    },
+    "04428": {
+      "dId": "ᤐᤡ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/पि?सिङ्मा/",
+      "group": "BO",
+      "mean": "<p>to exchange/barter; to give and take mutually.</p>साटासाट गर्नु; परस्परमा लिनेदिने काम गर्नु ।"
+    },
+    "04429": {
+      "dId": "ᤐᤡᤱᤒᤡᤱ",
+      "desc": "/पिङ्बिङ्/",
+      "group": "BO",
+      "mean": "<p>in a manner of hiting/beating/banging repeatedly.</p>ड्याम्ड्याम् पिट्ने वा हिर्काउने चालाले ।"
+    },
+    "04430": {
+      "dId": "ᤐᤡᤳ",
+      "desc": "/पित्/",
+      "group": "BO",
+      "mean": "<p>1. cow. 2. cattle.</p>१. गाई । २. गाईगोरू; बस्तुभाउ ।"
+    },
+    "04431": {
+      "dId": "ᤐᤡᤳᤆᤠᤰ",
+      "desc": "/पित्चाक्/",
+      "group": "BO",
+      "mean": "<p>high; right up.</p>बुरुक्क ।"
+    },
+    "04432": {
+      "dId": "ᤐᤡᤳᤆᤠᤔᤠ",
+      "desc": "/पित्चामा/",
+      "group": "BO",
+      "mean": "<p>a kind of tree or its fruit.</p>सजिवन; सजना; त्यसको बोट वा कोसो । "
+    },
+    "04433": {
+      "dId": "ᤐᤡᤳᤆᤡᤰᤏᤡ ",
+      "desc": "/पित्चिक्नि/",
+      "group": "BO",
+      "mean": "<p>small golden rings hung through pierced holes along the helix (the rim of the external ear) above the lobe.</p>कानको बाहिरी घेरामा लहरै प्वाल पारेर लगाइने ससाना सुनकन मुन्द्री ।"
+    },
+    "04434": {
+      "dId": "ᤐᤡᤳᤇᤢ",
+      "desc": "/पित्छु/",
+      "group": "BO",
+      "mean": "<p>(little) children; kids.</p>लालाबाला; साना केटाकेटी ।"
+    },
+    "04435": {
+      "dId": "ᤐᤡᤳᤋᤠ",
+      "desc": "/पित्ता/",
+      "group": "BO",
+      "mean": "<p>span of hand; span/distance between the point of the thumb and the forefinger.</p>बित्ता; कुरेत ।"
+    },
+    "04436": {
+      "dId": "ᤐᤡᤳᤋᤠᤱᤍᤠᤣᤖᤠ",
+      "desc": "/पित्ताङ्दोरा/",
+      "group": "BO",
+      "mean": "<p>a state of irregularity; randomness; mess; disorder; chaos; tumult.</p>अस्तव्यस्तता; अव्यवस्स्था; गोलमाल; दुर्दशा; अराजकता; क्रमभङ्गको अवस्था; विशृङ्खलता ।"
+    },
+    "04437": {
+      "dId": "ᤐᤡᤳᤋᤢᤱᤃᤣ᤹",
+      "desc": "/पित्तुङ्गे?/",
+      "group": "BO",
+      "mean": "<p>rubber.</p>रबर; लाबर ।"
+    },
+    "04438": {
+      "dId": "ᤐᤡᤳᤋᤠᤣ᤺ᤰᤏᤠ/ᤐᤡᤳᤋᤠᤣᤁ᤻ᤏᤠ",
+      "desc": "/पित्तोःक्ना/",
+      "group": "BO",
+      "mean": "<p>frog; toad.</p>भ्यागुतो ।"
+    },
+    "04439": {
+      "dId": "ᤐᤡᤳᤋᤠᤣᤗᤡ ",
+      "desc": "/पित्तोलि/",
+      "group": "BO",
+      "mean": "<p>brass.</p>पित्तल ।"
+    },
+    "04440": {
+      "dId": "ᤐᤡᤳᤔᤢᤖᤡᤰᤐᤠ",
+      "desc": "/पित्मुरिक्पा/",
+      "group": "BO",
+      "mean": "<p>a Limbu word denoting the Tamang tribe.</p>तामाङ्; तामाङ् जाति बुझाउने लिम्बूशब्द ।"
+    },
+    "04441": {
+      "dId": "ᤐᤡᤍᤢ᤹ᤋᤢ᤹ᤒᤠ",
+      "desc": "/पिदु?तु?बा/",
+      "group": "BO",
+      "mean": "<p>1. flexible; bendy; easily bent; bending easily. 2. shrunken; shriveled (up); easily bent.</p>१. लच्कने खालको; सजिलै बाङ्गिने-मर्कने । २. खुम्चेको; लच्केको; बाङ्गिएको ो"
+    },
+    "04442": {
+      "dId": "ᤐᤡᤴᤈᤠᤣᤗᤡᤒᤠ᤹",
+      "desc": "/पिन्जोलिबा?/",
+      "group": "BO",
+      "mean": "<p>lean and thin; emaciated; thin-bodied; skeletal; skinny.</p>दुब्लो; पातलो; सिकुटे; लिखुरे; मरन्च्याँसे ।"
+    },
+    "04443": {
+      "dId": "ᤐᤡᤴᤈᤠᤣᤗᤡᤔᤠ᤹",
+      "desc": "/पिन्जोलिमा?/",
+      "group": "BO",
+      "mean": "<p>(fem.) lean and thin; emaciated; thin-bodied; skeletal; skinny.</p>(स्त्री) दुब्ली; पातली; सिकुटी; लिखुरी; मरन्च्याँसी ।"
+    },
+    "04444": {
+      "dId": "ᤐᤡᤴᤈᤧᤰ",
+      "desc": "/पिन्जेक्/",
+      "group": "BO",
+      "mean": "<p>1. in a manner of growing straightly and suddenly. 2. hand of a clock (to show seconds).</p>१. ह्वात्तै, ठाडै बढ्ने किसिमले । २. काँटा; सुई; घडीको काँटा ।"
+    },
+    "04445": {
+      "dId": "ᤐᤡᤴᤍ᤺ᤒᤠ᤹",
+      "desc": "/पिन्दःबा?/",
+      "group": "BO",
+      "mean": "<p>strange.</p>अर्घेलो; अनौठो ।"
+    },
+    "04446": {
+      "dId": "ᤐᤡᤴᤍᤠᤱ",
+      "desc": "/पिन्दाङ्/",
+      "group": "BO",
+      "mean": "<p>see-saw.</p>चाकाचुली ।"
+    },
+    "04447": {
+      "dId": "ᤐᤡᤴᤍᤪᤢᤰᤘᤠ",
+      "desc": "/पिन्द्रुक्वा/",
+      "group": "BO",
+      "mean": "<p>hog-plum; a kind of sour tasting wild fruit used for make pickles. <i>CHoerospondias axillaris.</i></p>लप्सी ।"
+    },
+    "04448": {
+      "dId": "ᤐᤡᤵᤐᤡᤖᤡ ",
+      "desc": "/पिप्पिरि/",
+      "group": "BO",
+      "mean": "<p>acitous; sour; acidic; acidity.</p>अम्ल ।"
+    },
+    "04449": {
+      "dId": "ᤐᤡᤵᤐᤡᤖᤡᤘᤠ",
+      "desc": "/पिप्पिरिवा/",
+      "group": "BO",
+      "mean": "<p>acid; acidic substances; acidity; sourness.</p>अम्लीय पदार्थ; अम्लता ।"
+    },
+    "04450": {
+      "dId": "ᤐᤡᤵᤑᤩᤢᤱ",
+      "desc": "/पिप्फ्युङ्/",
+      "group": "BO",
+      "mean": "<p>rebellion; revolt; treason; treachery.</p>बिद्रोह; राजद्रोह; देशद्रोह ।"
+    },
+    "04451": {
+      "dId": "ᤐᤡᤵᤔᤠ",
+      "desc": "/पिप्मा/",
+      "group": "BO",
+      "mean": "<p>to jump over sth.</p>उफ्रेर नाघ्नु ।"
+    },
+    "04452": {
+      "dId": "ᤐᤡᤔᤠ",
+      "desc": "/पिमा/",
+      "group": "BO",
+      "mean": "<p>1. to give. 2. a helping verb meaning to do sth for the benefit of the others.</p>१. दिनु । २. अन्य क्रियाको पछि आई अरूको भलाइको लागि केहि गरिदिनु भन्ने अर्थ बुझाउने ।"
+    },
+    "04453": {
+      "dId": "ᤐᤡᤶᤒᤠ",
+      "desc": "/पिम्बा/",
+      "group": "BO",
+      "mean": "<p>rib.</p>करङ् ।"
+    },
+    "04454": {
+      "dId": "ᤐᤡᤶᤔᤠ",
+      "desc": "/पिम्मा/",
+      "group": "BO",
+      "mean": "<p>1. to jump. 2. (of sun) to rise; (sunshine) to appear.</p>१. उफ्रनु । २. (सुर्य) उदाउनु; झुल्कनु ।"
+    },
+    "04455": {
+      "dId": "ᤐᤡᤶᤔᤢᤰ",
+      "desc": "/पिम्मुक्",
+      "group": "BO",
+      "mean": "<p>rocket.</p>रकेट ।"
+    },
+    "04456": {
+      "dId": "ᤐᤡᤕᤠᤵᤔᤠ",
+      "desc": "/पियाप्पा/",
+      "group": "BO",
+      "mean": "<p>grasshopper.</p>फटेङ्ग्रो ।"
+    },
+    "04457": {
+      "dId": "ᤐᤡᤕᤠᤣ",
+      "desc": "/पियो/",
+      "group": "BO",
+      "mean": "<p>Polygonum molle.</p>ठोट्ने ।"
+    },
+    "04458": {
+      "dId": "ᤐᤡᤖᤡ ",
+      "desc": "/पिरि/",
+      "group": "BO",
+      "mean": "<p>pear-tree. <i>Pyrus communis.</i></p>नस्पाती ।"
+    },
+    "04459": {
+      "dId": "ᤐᤡᤖᤡᤵ",
+      "desc": "/पिरिप्/",
+      "group": "BO",
+      "mean": "<p>manner of ejecting/emitting/coming out suddenly and swiftly.</p>प्लुत्त निस्कने किसिमले ।"
+    },
+    "04460": {
+      "dId": "ᤐᤡᤖᤡᤔᤠ ᤑᤢᤱ",
+      "desc": "/पिरिमा फुङ्/",
+      "group": "BO",
+      "mean": "<p>a kind of flower-plant used by women as a myrtle for coloring nails). <i>Convolvulus turpethum (I. turpethum).</i></p>तिउरी फूल ।"
+    },
+    "04461": {
+      "dId": "ᤐᤡᤖᤡᤔᤠ ᤛᤡᤱ",
+      "desc": "/पिरिमा सिङ्/",
+      "group": "BO",
+      "mean": "<p>a king of bush. <i>Berbeiris nepalensis.</i></p>चुथ्रोको बोट ।"
+    },
+    "04462": {
+      "dId": "ᤐᤡᤖᤡᤶ ᤛᤡᤱ",
+      "desc": "/पिरिम् सिङ्/",
+      "group": "BO",
+      "mean": "<p>pipal; peepul; holy fig tree. <i>Ficus religiosa.</i></p>पिपलको रूख ।"
+    },
+    "04463": {
+      "dId": "ᤐᤡᤷᤎᤠᤵ",
+      "desc": "/पिर्धाप्/",
+      "group": "BO",
+      "mean": "<p>in an overturning (or rolling over) manner.</p>बल्ड्याङ्ग; बल्ड्याङ्ग लड्ने/लडाउने वा पछारिने/पछार्ने किसिमले ।"
+    },
+    "04464": {
+      "dId": "ᤐᤡᤷᤒᤣ᤺ᤴ/ᤐᤡᤷᤒᤣᤏ᤻",
+      "desc": "/पिर्बेःन्/",
+      "group": "BO",
+      "mean": "<p>illusion; error; mistake.</p>भ्रम; भूल; भूलचुक ।"
+    },
+    "04465": {
+      "dId": "ᤐᤡᤷᤒᤣ᤺ᤶᤔᤠ/ᤐᤡᤷᤒᤣᤔ᤻ᤔᤠ",
+      "desc": "/पिर्बेःम्मा/",
+      "group": "BO",
+      "mean": "<p>to err; to fail; to make a mistake/lapse.</p>भूल गर्नु; चुक्नु;  बिराउनु ।"
+    },
+    "04466": {
+      "dId": "ᤐᤡᤷᤒᤣ᤺ᤶᤒᤠ/ᤐᤡᤷᤒᤣᤔ᤻ᤒᤠ",
+      "desc": "/पिर्बेःम्बा/",
+      "group": "BO",
+      "mean": "<p>illusory; erring; mistaken.</p>भ्रमपूर्ण; भूलचुकपूर्ण ।"
+    },
+    "04467": {
+      "dId": "ᤐᤡᤗᤠ",
+      "desc": "/पिला/",
+      "group": "BO",
+      "mean": "<p>a suffix expressing supicion, doubt or possibility; eg: ‘so’, ‘it may be so’.</p>क्रियापदको पछाडि आई “शायद”, “होला झै” आदि शङ्का वा सम्भावना जनाउने प्रत्यय ।"
+    },
+    "04468": {
+      "dId": "ᤐᤡᤛᤢᤘᤠ",
+      "desc": "/पिसुवा/",
+      "group": "BO",
+      "mean": "<p>cave grotto; cavern.</p>ओडार; गुफा ।"
+    },
+    "04469": {
+      "dId": "ᤐᤡᤜᤡ ",
+      "desc": "/पिहि/",
+      "group": "BO",
+      "mean": "<p>cow dong.</p>गोबर ।"
+    },
+    "04470": {
+      "dId": "ᤐᤡᤜᤡᤛᤡᤱᤔᤠ",
+      "desc": "/पिहिसिङ्मा/",
+      "group": "BO",
+      "mean": "<p>a variety of pine tree. <i>Echinocarpus dasycarpus.</i></p>गोब्रे सल्ला ।"
+    },
+    "04471": {
+      "dId": "ᤐᤡ᤺ ",
+      "desc": "/पिः/",
+      "group": "BO",
+      "mean": "<p>“o, ah, alash, is that so”, an indeclinable exclamatory word used together or independent of a word to express suspicion, doubt, possibility, wonder, sympathy, inquisitiveness or interrogation.</p>अन्य शब्दको पछाडि जोडिएर वा वाक्यमा स्वतन्त्र रूपमा आएर शायद, होला, कठै, अहो, ला, पो, के आदि शङ्का, सम्भावना, आश्चार्य वा सहानुभुतिपूर्ण भाव व्यक्त गर्ने निपात ।"
+    },
+    "04472": {
+      "dId": "ᤐᤡ᤺ᤱᤔᤠ/ᤐᤡᤅ᤻ᤔᤠ",
+      "desc": "/पिःङ्मा/",
+      "group": "BO",
+      "mean": "<p>(of the hilt/handle) to slip out; to come out (as khukuri from its sheath).</p>बीँड खुस्क्नु/ निस्कनु ।"
+    },
+    "04473": {
+      "dId": "ᤐᤡ᤺ᤳᤇᤡᤱ/ᤐᤡᤋ᤻ᤇᤡᤱ",
+      "desc": "/पिःत्छिङ्/",
+      "group": "BO",
+      "mean": "<p>a pipe to drink/sip tongba.</p>तोङ्बा चुस्ने नली; पिपा ।"
+    },
+    "04474": {
+      "dId": "ᤐᤡ᤺ᤴᤍᤠ/ᤐᤡᤏ᤻ᤍᤠ",
+      "desc": "/पिःन्दा/",
+      "group": "BO",
+      "mean": "<p>floor; earthen floor.</p>(माटोको) भुइँ ।"
+    },
+    "04475": {
+      "dId": "ᤐᤡ᤺ᤴᤍᤡ/ᤐᤡᤏ᤻ᤍᤡ ",
+      "desc": "/पिःन्दि/",
+      "group": "BO",
+      "mean": "<p>the earthen elevation inside or outside of a Nepali house.</p>पिँडी; चौका वा सिकुवाको डिल ।"
+    },
+    "04476": {
+      "dId": "ᤐᤡ᤺ᤵᤔᤠ/ᤐᤡᤐ᤻ᤔᤠ",
+      "desc": "/पिःप्मा/",
+      "group": "BO",
+      "mean": "<p>to suck; to absorb; to soak up.</p>चुस्नु; सोस्नु ।"
+    },
+    "04477": {
+      "dId": "ᤐᤡ᤺ᤒᤠ",
+      "desc": "/पिःबा/",
+      "group": "BO",
+      "mean": "<p>direction.</p>दिशा ।"
+    },
+    "04478": {
+      "dId": "ᤐᤡ᤺ᤶᤒᤠ/ᤐᤡᤔ᤻ᤒᤠ",
+      "desc": "/पिःम्बा/",
+      "group": "BO",
+      "mean": "<p>[Tamor] silver fice, a paper eating worm.</p>[तमर] धुले किरा ।"
+    },
+    "04479": {
+      "dId": "ᤐᤡ᤺ᤶᤔᤠ/ᤐᤡᤔ᤻ᤔᤠ",
+      "desc": "/पिःम्मा/",
+      "group": "BO",
+      "mean": "<p>to be snapped off.</p>खुल्कनु ।"
+    },
+    "04480": {
+      "dId": "ᤐᤡ᤺ᤖᤡᤳ",
+      "desc": "/पिःरित्/",
+      "group": "BO",
+      "mean": "<p>manner of being thoroughly wet.</p>निथ्रुक्क (भिज्ने चाला) ।"
+    },
+    "04481": {
+      "dId": "ᤐᤡ᤺ᤛᤠᤱ",
+      "desc": "/पिःसाङ्/",
+      "group": "BO",
+      "mean": "<p>(n.) direction. (adv.) towards.</p>(ना.) दिशा । (क्रिवि.) पट्टि; तिर ।"
+    },
+    "04482": {
+      "dId": "ᤐᤡ᤺ᤛᤠᤱᤆᤧᤴ",
+      "desc": "/पिःसाङ्चेन्/",
+      "group": "BO",
+      "mean": "<p>compass.</p>कम्पास ।"
+    },
+    "04483": {
+      "dId": "ᤐᤢ᤹ᤔᤠ",
+      "desc": "/पु?मा/",
+      "group": "BO",
+      "mean": "<p>to break apart; to get severed; to be snapped off.</p>चुँडिनु; छिनिनु ।"
+    },
+    "04484": {
+      "dId": "ᤐᤢ",
+      "desc": "/पु/",
+      "group": "BO",
+      "mean": "<p>bird.</p>चरा ।"
+    },
+    "04485": {
+      "dId": "ᤐᤢᤰ",
+      "desc": "/पुक्/",
+      "group": "BO",
+      "mean": "<p>in a dumb-fonded (or perplexed) way.</p>ट्वाल्ल; अक्कनबक्क; ट्वाँ, जिल्ल वा छक्क पर्ने किसिमले ।"
+    },
+    "04486": {
+      "dId": "ᤐᤢᤰᤔᤠ",
+      "desc": "/पुक्मा/",
+      "group": "BO",
+      "mean": "<p>(one’s mind, heart, hope) to break/shatter; to be touched to the quick.</p>(मन, आशा) चुँडिनु/भाँचिनु/कुँडिनु/मर्नु/गल्नु; थाक्नु (मानसिक हिसाबले) ।"
+    },
+    "04487": {
+      "dId": "ᤐᤢᤱ",
+      "desc": "/पुङ्/",
+      "group": "BO",
+      "mean": "<p>1. allotted task; work in a farm. 2. place of work; farm; cultivated field. 3. trunk (of a tree). 4. base; foundation. 5. root; verb-root.</p>१. मेलो; खेतीपातीको काम । २. खेती गर्ने जग्गा; खेत । ३. धड; काण्ड । ४. आधार; जग । ५. मूल; धातुमूल (क्रियापदको) ।"
+    },
+    "04488": {
+      "dId": "ᤐᤢᤱᤀᤡᤰ",
+      "desc": "/पुङ्इक्/",
+      "group": "BO",
+      "mean": "<p>name of one of the constellatios.</p>श्रवण (नक्षत्र) ।"
+    },
+    "04489": {
+      "dId": "ᤐᤢᤱᤈᤢᤶ",
+      "desc": "/पुङ्जुम्/",
+      "group": "BO",
+      "mean": "<p>farming/agriculture implement.</p>कृषी औजार ।"
+    },
+    "04490": {
+      "dId": "ᤐᤢᤱᤔᤡᤔᤠ",
+      "desc": "/पुङ्मिमा/",
+      "group": "BO",
+      "mean": "<p>comet; one of the Yoginis or evil stars.</p>उल्का; योगिनी ।"
+    },
+    "04491": {
+      "dId": "ᤐᤢᤱᤕᤢᤰᤐᤠ",
+      "desc": "/पुङ्युक्पा/",
+      "group": "BO",
+      "mean": "<p>citizen.</p>नागरिक ।"
+    },
+    "04492": {
+      "dId": "ᤐᤢᤱᤕᤢᤱᤒᤠ",
+      "desc": "/पुङ्युङ्बा/",
+      "group": "BO",
+      "mean": "<p>tribal people; aborigines; indigenous people.</p>आदिवासी ।"
+    },
+    "04493": {
+      "dId": "ᤐᤢᤱᤗᤠ",
+      "desc": "/पुङ्ला/",
+      "group": "BO",
+      "mean": "<p>stocks; pillory; shackles; fetters; handcuff.</p>ठिङ्गुरो; हतकडी ।"
+    },
+    "04494": {
+      "dId": "ᤐᤢᤱᤗᤰᤔᤠ",
+      "desc": "/पुङ्लक्मा/",
+      "group": "BO",
+      "mean": "<p>to let out/set to work in mutual exchange of labour.</p>पर्म लगाउनु ।"
+    },
+    "04495": {
+      "dId": "ᤐᤢᤱᤘᤠ᤺ᤴ/ᤐᤢᤱᤘᤠᤏ᤻",
+      "desc": "/पुङ्वाःन्/",
+      "group": "BO",
+      "mean": "<p>structure.</p>संरचना ।"
+    },
+    "04496": {
+      "dId": "ᤐᤢᤱᤛᤠᤵ",
+      "desc": "/पुङ्साप्/",
+      "group": "BO",
+      "mean": "<p>manuscript.</p>पाण्डुलिपि ।"
+    },
+    "04497": {
+      "dId": "ᤐᤢᤱᤛᤠᤶ",
+      "desc": "/पुङ्साम्/",
+      "group": "BO",
+      "mean": "<p>Saturn; an evil star.</p>शनि (ग्रह) ।"
+    },
+    "04498": {
+      "dId": "ᤐᤢᤱᤛᤠᤶᤔᤠᤱ",
+      "desc": "/पुङ्साम्माङ्/",
+      "group": "BO",
+      "mean": "<p>1. the chief deity among the hunting deities whom the hunters offer blood or inner parts (heart, lung etc) of the prey after the hunt. 2. deity of jungle which causes ailments like heart-ache, etc.</p>१. शिकारी देवतामध्ये प्रमुख देवता; शिकार मारेपछि शिकारीले रगत वा भित्र्याँस चढाउने देवता । २. वनको देवता (मुटु चसचस घोच्ने र सोला हान्ने बेथा गराउने) ।"
+    },
+    "04499": {
+      "dId": "ᤐᤢᤱᤛᤡᤱ",
+      "desc": "/पुङ्सिङ्/",
+      "group": "BO",
+      "mean": "<p>a peg/nail used to keep the loom tight and straight.</p>तानको धागोलाई डोरीले तानेर राख्ने कीलो ।"
+    },
+    "04500": {
+      "dId": "ᤐᤢᤳᤋᤢᤱᤃᤣ",
+      "desc": "/पुत्तुङ्गे/",
+      "group": "BO",
+      "mean": "<p>a kind of small drum shaped like an hour-glass and played by a hand; one used by Lord Shiva and sages.</p>डमरु ।"
+    },
+    "04501": {
+      "dId": "ᤐᤢᤳᤋᤢᤱᤃᤪᤠ",
+      "desc": "/पुत्तुङ्ग्रा/",
+      "group": "BO",
+      "mean": "<p>a small kind of drum.</p>ट्याम्को (बाजा) ।"
+    },
+    "04502": {
+      "dId": "ᤐᤢᤳᤋᤢᤱᤍᤢᤱᤒᤠ",
+      "desc": "/पुत्तुङ्दुङ्बा/",
+      "group": "BO",
+      "mean": "<p>a kind of folk-musical instrument call tungna resembling violin.</p>टुङ्ना ।"
+    },
+    "04503": {
+      "dId": "ᤐᤢᤳᤋᤢ᤺ᤰᤁᤣ/ᤐᤢᤳᤋᤢᤁ᤻ᤁᤣ",
+      "desc": "/पुत्तुःक्के/",
+      "group": "BO",
+      "mean": "<p>dove. <i>Streptopelia orientialis.</i></p>ढुकुर ।"
+    },
+    "04504": {
+      "dId": "ᤐᤢᤳᤗᤢᤱ",
+      "desc": "/पुत्लुङ्/",
+      "group": "BO",
+      "mean": "<p>greed.</p>लोभ ।"
+    },
+    "04505": {
+      "dId": "ᤐᤢᤳᤗᤢᤱᤒᤠ",
+      "desc": "/पुत्लुङ्बा/",
+      "group": "BO",
+      "mean": "<p>greedy.</p>लोभी ।"
+    },
+    "04506": {
+      "dId": "ᤐᤢᤳᤌᤢᤱᤘᤠ",
+      "desc": "/पुत्थुङ्वा/",
+      "group": "BO",
+      "mean": "<p>foam; forth; lather.</p>फीँज ।"
+    },
+    "04507": {
+      "dId": "ᤐᤢᤍᤢ",
+      "desc": "/पुदु/",
+      "group": "BO",
+      "mean": "<p>a kind of brinjal. <i>Solanum melongena.</i></p>एक प्रकारको बैगन। (भन्टा) ।"
+    },
+    "04508": {
+      "dId": "ᤐᤢᤍᤢᤶᤒᤠ",
+      "desc": "/पुदुम्बा/",
+      "group": "BO",
+      "mean": "<p>a kind of herb plant; casia leaf; Indian cassia. <i>Cinnamomum tamala.</i></p>सिन्कौली; तेजपात ।"
+    },
+    "04509": {
+      "dId": "ᤐᤢᤎᤠᤶ",
+      "desc": "/पुधाम्/",
+      "group": "BO",
+      "mean": "<p>origin (creation) of birds.</p>चराको उत्पत्ति (सृष्टि) ।"
+    },
+    "04510": {
+      "dId": "ᤐᤢᤎᤢ᤺ᤰ/ᤐᤢᤎᤢᤁ᤻",
+      "desc": "/पुधुःक्/",
+      "group": "BO",
+      "mean": "<p>naked.</p>नाङ्गो ।"
+    },
+    "04511": {
+      "dId": "ᤐᤢᤏᤠᤔᤠ",
+      "desc": "/पुनामा/",
+      "group": "BO",
+      "mean": "<p>boa ( constrictor); python.</p>अजिङ्गर ।"
+    },
+    "04512": {
+      "dId": "ᤐᤢᤴᤍᤢᤏᤠ",
+      "desc": "/पुन्दुना/",
+      "group": "BO",
+      "mean": "<p>1. brinjal; egg-plant (US). 2. a kind of small fishes. </p>१. बैगन; भन्टा । २. बुदुना माछा ।"
+    },
+    "04513": {
+      "dId": "ᤐᤢᤵ",
+      "desc": "/पुप्/",
+      "group": "BO",
+      "mean": "<p>fist.</p>मुड्की ।"
+    },
+    "04514": {
+      "dId": "ᤐᤢᤵᤔᤠ",
+      "desc": "/पुप्मा/",
+      "group": "BO",
+      "mean": "<p>1. to be mingled; get mixed. 2. to squeeze/wrench/wring/press out; to clutch/throttle/choke/strangle.</p>१. मिसिनु; छ्यासमिस हुनु । २. निचोर्नु; निमोठ्नु; अँठ्याउनु । "
+    },
+    "04515": {
+      "dId": "ᤐᤢᤶᤔᤠ",
+      "desc": "/पुम्मा/",
+      "group": "BO",
+      "mean": "<p>1. (water, spring) to burst out/issue forth. 2. to shake/become dislodged. 3. to be uprooted.</p>१. मुल फुट्नु; पानी उम्रनु । २. जड वा पकड हल्लनु । ३. उखेलिनु; उप्कनु ।"
+    },
+    "04516": {
+      "dId": "ᤐᤢᤷᤏᤡᤗᤠ ᤘᤠᤖ᤺ᤱ/ᤘᤠᤖᤅ᤻",
+      "desc": "/पुर्निला वारःङ्/",
+      "group": "BO",
+      "mean": "<p>the Atlantic Ocean.</p>एट्लान्टिक महासागर ।"
+    },
+    "04517": {
+      "dId": "ᤐᤢᤛᤠ",
+      "desc": "/पुसा/",
+      "group": "BO",
+      "mean": "<p>birds; young birds.</p>चराचुरुङ्गी; चराको सानो बच्चा ।"
+    },
+    "04518": {
+      "dId": "ᤐᤢᤛᤡᤱ",
+      "desc": "/पुसिङ्/",
+      "group": "BO",
+      "mean": "<p>a bird-shaped wooden appliance used in a loom.</p>तानमा प्रयोग हुने चरा आकारको एक सामान ।"
+    },
+    "04519": {
+      "dId": "ᤐᤢ᤺ᤵᤔᤠ/ᤐᤢᤐ᤻ᤔᤠ",
+      "desc": "/पुःप्मा/",
+      "group": "BO",
+      "mean": "<p>(liquid) to effervesce/fizz/bubble up; to rise or release bubbles while boiling(milk, water etc).</p>(तरल पदार्थ) फतफत उम्लेर माथि आउनु ।"
+    }
+  }
+}

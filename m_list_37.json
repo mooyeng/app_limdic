@@ -1,0 +1,304 @@
+{
+  "Dic": {
+    "03943": {
+      "dId": "ᤏᤢᤀᤡᤱ",
+      "desc": "/नुइङ्/",
+      "group": "BK",
+      "mean": "<p>recommendation.</p>सिफारिस ।"
+    },
+    "03944": {
+      "dId": "ᤏᤢ-ᤀᤡ᤺ᤶᤘᤠ/ᤀᤡᤔ᤻ᤘᤠ",
+      "desc": "/नु-इःम्वा/",
+      "group": "BK",
+      "mean": "<p>whey.</p>मही ।"
+    },
+    "03945": {
+      "dId": "ᤏᤢ᤹ᤔᤠ",
+      "desc": "/नु?मा/",
+      "group": "BK",
+      "mean": "<p>1. to become well; to recover (from sickness); to be in good health. 2. to be all right; to be ok; to have better days. 3. to sprain.</p>१. (बिमारीबाट) जाती हुनु; निको हुनु; सन्चो हुनु । २. दिन फिर्नु; सुदिन आउनु; समृद्ध हुनु । ३. मड्कनु; सड्कनु ।"
+    },
+    "03946": {
+      "dId": "ᤏᤢ",
+      "desc": "/नु/",
+      "group": "BK",
+      "mean": "<p>1. seven; the number and figure 7. 2. with; and; than. 3. from; ablative case maker. 4. attitude particle which express speaker’s strong belief in the truth of the sentence, corresponding to Nepali “ni”, “nai”, “na”.</p>१. अङ्क सात । २. साथ; सँग; साथमा; र; तथा; भन्दा । ३. देखि; बाट; भन्दा । ४. नि; नै; न । ५. दुध ।"
+    },
+    "03947": {
+      "dId": "ᤏᤢᤰᤔᤠ",
+      "desc": "/नुक्मा/",
+      "group": "BK",
+      "mean": "<p>to thrash by treading; squeeze.</p>माड्नु; दल्नु ।"
+    },
+    "03948": {
+      "dId": "ᤏᤢᤰᤛᤡᤱᤔᤠ",
+      "desc": "/नुक्सिङ्मा/",
+      "group": "BK",
+      "mean": "<p>1. to be rubbed or treaded over. 2. to clutch by the hair of each other.</p>१. माडिनु । २. परस्परमा माडामाड गर्नु; जगल्टा उखेलाउखेल गर्नु ।"
+    },
+    "03949": {
+      "dId": "ᤏᤢᤰᤛᤢ᤺ᤶᤒᤠ/ᤏᤢᤰᤛᤢᤔ᤻ᤒᤠ",
+      "desc": "/नुक्सुःम्बा/",
+      "group": "BK",
+      "mean": "<p>[Tamor] elblw.</p>[तमर] कुहिना ।"
+    },
+    "03950": {
+      "dId": "ᤏᤢᤰᤛᤧ᤺ᤴ/ᤏᤢᤰᤛᤧᤏ᤻",
+      "desc": "/नुक्सेःन्/",
+      "group": "BK",
+      "mean": "<p>1. degree. 2. degree (of) temperature.</p>१. अंश; मात्राक्रम । २. तापक्रम; तापमान ।"
+    },
+    "03951": {
+      "dId": "ᤏᤢᤱᤜᤡᤵ",
+      "desc": "/नुङ्हिप्/",
+      "group": "BK",
+      "mean": "<p>big iron-hammer used by blacksmiths.</p>घन; फलामे मुङ्ग्रो ।"
+    },
+    "03952": {
+      "dId": "ᤏᤢᤍ᤺ᤰ/ᤏᤢᤍᤁ᤻",
+      "desc": "/नुदःक्/",
+      "group": "BK",
+      "mean": "<p>khir; rice cooked with milk.</p>खीर ।"
+    },
+    "03953": {
+      "dId": "ᤏᤢᤍᤠᤰ(ᤘᤠ)",
+      "desc": "/नुदाक्(वा)/",
+      "group": "BK",
+      "mean": "<p>curd; yogurt.</p>दही ।"
+    },
+    "03954": {
+      "dId": "ᤏᤢᤎ᤹",
+      "desc": "/नुध?/",
+      "group": "BK",
+      "mean": "<p>cream (of milk).</p>तर (दुधको) ।"
+    },
+    "03955": {
+      "dId": "ᤏᤢᤎᤣᤃᤠᤰ",
+      "desc": "/नुधेगाक्/",
+      "group": "BK",
+      "mean": "<p>etcetera (etc).</p>इत्यादि; आदि; प्रभृति ।"
+    },
+    "03956": {
+      "dId": "ᤏᤢᤏᤠᤶ",
+      "desc": "/नुनाम्/",
+      "group": "BK",
+      "mean": "<p>fragrance; sweet smell.</p>सुगन्ध ।"
+    },
+    "03957": {
+      "dId": "ᤏᤢᤵᤔᤠ",
+      "desc": "/नुप्मा/",
+      "group": "BK",
+      "mean": "<p>1. to end; to be finished. 2. to be immersed (in water or mud); to be drowned.</p>१. टुङ्गिनु; सकिनु; समाप्त हुनु । २. डुब्नु । "
+    },
+    "03958": {
+      "dId": "ᤏᤢᤵᤔᤧᤴᤍᤡᤱ",
+      "desc": "/नुप्मेन्दिङ्/",
+      "group": "BK",
+      "mean": "<p>endless; boundless; eternal.</p>अनन्त ।"
+    },
+    "03959": {
+      "dId": "ᤏᤢᤵᤗᤠᤈᤱ",
+      "desc": "/नुप्लाजङ्/",
+      "group": "BK",
+      "mean": "<p>1. west horizon where the sun sets. 2. horizon.</p>१. अस्ताचल; सूर्य अस्ताउने पर्वत । २. क्षितिज ।"
+    },
+    "03960": {
+      "dId": "ᤏᤢᤑᤪᤠ",
+      "desc": "/नुप्फ्रा/",
+      "group": "BK",
+      "mean": "<p>horizon.</p>क्षितिज ।"
+    },
+    "03961": {
+      "dId": "ᤏᤢᤒᤰ",
+      "desc": "/नुबक्/",
+      "group": "BK",
+      "mean": "<p>breast.</p>स्तन; फाँचो (दूधको); सिङ्गो स्तन ।"
+    },
+    "03962": {
+      "dId": "ᤏᤢᤒᤡ᤹ᤒᤠ",
+      "desc": "/नुबि?बा/",
+      "group": "BK",
+      "mean": "<p>mammal.</p>स्तनपायी; दुध पिउने ।"
+    },
+    "03963": {
+      "dId": "ᤏᤢᤒᤣ",
+      "desc": "/नुबे/",
+      "group": "BK",
+      "mean": "<p>precious stone.</p>रत्न ।"
+    },
+    "03964": {
+      "dId": "ᤏᤢᤓᤢᤱᤘᤠ",
+      "desc": "/नुभुङ्वा/",
+      "group": "BK",
+      "mean": "<p>fortune; good fortune.</p>भाग्य; सौभाग्य ।"
+    },
+    "03965": {
+      "dId": "ᤏᤢᤶ",
+      "desc": "/नुम्/",
+      "group": "BK",
+      "mean": "<p>1. end. 2. conclusion.</p>१. अन्त; समाप्ति । २. उपसंहार ।"
+    },
+    "03966": {
+      "dId": "ᤏᤢᤶᤏᤢᤒᤠ",
+      "desc": "/नुम्नुबा/",
+      "group": "BK",
+      "mean": "<p>tolerant.</p>सहनशील ।"
+    },
+    "03967": {
+      "dId": "ᤏᤢᤶᤔᤠ",
+      "desc": "/नुम्मा/",
+      "group": "BK",
+      "mean": "<p>to finish/ end sth.</p>टुङ्ग्याउनु; सक्नु; सिद्ध्याउनु । "
+    },
+    "03968": {
+      "dId": "ᤏᤢᤶᤔᤪᤠᤣ᤺ᤰ/ᤏᤢᤶᤔᤪᤠᤣᤁ᤻",
+      "desc": "/नुम्म्रोःक्/",
+      "group": "BK",
+      "mean": "<p>[Phedape] fontanelle; crown of the head.</p>[फेदापे] तालु ।"
+    },
+    "03969": {
+      "dId": "ᤏᤢᤶᤔᤪᤠᤣ᤺ᤵᤐᤠ/ᤏᤢᤶᤔᤪᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/नुम्म्रोःप्पा/",
+      "group": "BK",
+      "mean": "<p>fontanelle.</p>तालु ।"
+    },
+    "03970": {
+      "dId": "ᤏᤢᤶᤔᤪᤠᤣᤜᤠ",
+      "desc": "/नुम्म्रोःहा/",
+      "group": "BK",
+      "mean": "<p>a parting place of hair (on the head).</p>सिउँदो ।"
+    },
+    "03971": {
+      "dId": "ᤏᤢᤕᤠᤶᤎᤠᤣᤱ",
+      "desc": "/नुयाम्धोङ्/",
+      "group": "BK",
+      "mean": "<p>the child/ offspring of former husband who goes along with her mother to the house of step-father.</p>आमा पोइल जाँदा आमाको साथमा गएको झड्केलो सन्तान ।"
+    },
+    "03972": {
+      "dId": "ᤏᤢᤕᤠᤣ᤺ᤶᤒᤠ/ᤏᤢᤕᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/नुयोःम्बा/",
+      "group": "BK",
+      "mean": "<p>proper.</p>उचित ।"
+    },
+    "03973": {
+      "dId": "ᤏᤢᤖᤡᤰ",
+      "desc": "/नुरिक्/",
+      "group": "BK",
+      "mean": "<p>in a good or well manner.</p>राम्ररी; राम्रो गरी; राम्रोसित ।"
+    },
+    "03975": {
+      "dId": "-ᤏᤢᤸᤗᤧ",
+      "desc": "/-नुल्ले/",
+      "group": "BK",
+      "mean": "<p>than (comparative maker).</p>भन्दा ।"
+    },
+    "03976": {
+      "dId": "ᤏᤢᤘᤧᤴᤍᤡᤱᤘᤠ",
+      "desc": "/नुवेन्दिङ्वा/",
+      "group": "BK",
+      "mean": "<p>beauty.</p>सुन्दरता; सौन्दर्य ।"
+    },
+    "03977": {
+      "dId": "ᤏᤢᤛᤠ᤹",
+      "desc": "/नुसा?/",
+      "group": "BK",
+      "mean": "<p>brother/ sister; brothers and sister.</p>भाइ वा बहिनी ।"
+    },
+    "03978": {
+      "dId": "ᤏᤢᤛᤠ᤹ᤒᤠ",
+      "desc": "/नुसा?बा/",
+      "group": "BK",
+      "mean": "<p>younger brother.</p>भाइ ।"
+    },
+    "03979": {
+      "dId": "ᤏᤢᤛᤠ᤹ᤔᤠ",
+      "desc": "/नुसा?मा/",
+      "group": "BK",
+      "mean": "<p>younger sister.</p>बहिनी ।"
+    },
+    "03980": {
+      "dId": "ᤏᤢᤛᤣ᤹",
+      "desc": "/नुसे?/",
+      "group": "BK",
+      "mean": "<p>teat of the female breast.</p>दुधको थुन; कोसो ।"
+    },
+    "03981": {
+      "dId": "ᤏᤢᤛᤣ᤹-ᤑᤢ᤹ᤔᤠ",
+      "desc": "/नुसे?-फु?मा/",
+      "group": "BK",
+      "mean": "<p>the custom of relating (mixing) the clan of the newly wed bride to the bridegroom’s.</p>नव वधुलाई वरको कुलमा मिसाउन वा कुलान्तरण गरिने रीति ।"
+    },
+    "03982": {
+      "dId": "ᤏᤢᤜᤡ᤺ᤰ/ᤏᤢᤜᤡᤁ᤻",
+      "desc": "/नुहिःक्/",
+      "group": "BK",
+      "mean": "<p>powder milk.</p>धुलो दुध ।"
+    },
+    "03983": {
+      "dId": "ᤏᤢ᤺ᤰ/ᤏᤢᤁ᤻",
+      "desc": "/नुःक्/",
+      "group": "BK",
+      "mean": "<p>nice; fair.</p>राम्रो ।"
+    },
+    "03984": {
+      "dId": "ᤏᤢ᤺ᤰᤔᤠ/ᤏᤢᤁ᤻ᤔᤠ",
+      "desc": "/नुःक्मा/",
+      "group": "BK",
+      "mean": "<p>1. (of pig etc) to grunt. 2. to return/ give sth back; to bring back.</p>१. (सुगुर आदि) घुँकघुँक गर्नु । २. फर्काउनु; फर्काइ दिनु; फिर्ता लिनु; फिर्ता दिनु । "
+    },
+    "03985": {
+      "dId": "ᤏᤢ᤺ᤱᤔᤠ/ᤏᤢᤅ᤻ᤔᤠ",
+      "desc": "/नुःङ्मा/",
+      "group": "BK",
+      "mean": "<p>to return; to go or come back.</p>फर्कनु; फर्किआउनु ।"
+    },
+    "03986": {
+      "dId": "ᤏᤢ᤺ᤵᤐᤠ/ᤏᤢᤐ᤻ᤐᤠ",
+      "desc": "/नुःप्पा/",
+      "group": "BK",
+      "mean": "<p>father-in-law.</p>ससुरा ।"
+    },
+    "03987": {
+      "dId": "ᤏᤢ᤺ᤵᤔᤠ/ᤏᤢᤐ᤻ᤔᤠ",
+      "desc": "/नुःप्मा/",
+      "group": "BK",
+      "mean": "<p>mother-in-law.</p>सासू ।"
+    },
+    "03988": {
+      "dId": "ᤏᤢ᤺ᤒᤠ",
+      "desc": "/नुःबा/",
+      "group": "BK",
+      "mean": "<p>1. fine; good(in behaviour). 2. handsome.</p>१. राम्रो; असल । २. सुन्दर ।"
+    },
+    "03989": {
+      "dId": "ᤏᤢ᤺ᤔᤠ",
+      "desc": "/नुःमा/",
+      "group": "BK",
+      "mean": "<p>1. (fem.) beautiful. 2. (fem.) good in behaviour. 3. to be fine; to look fine; to be good.</p>१. राम्री; सुन्दरी । २. राम्रो स्वभावकी । ३. राम्रो हुनु ।"
+    },
+    "03990": {
+      "dId": "ᤏᤢ᤺ᤶ/ᤏᤢᤔ᤻",
+      "desc": "/नुःम्/",
+      "group": "BK",
+      "mean": "<p>algae.</p>सिमसारमा जमेको बाक्लो रातो लेउ जस्तो लेदो, पानीको खार ।"
+    },
+    "03991": {
+      "dId": "ᤏᤢ᤺ᤶᤔᤠ/ᤏᤢᤔ᤻ᤔᤠ",
+      "desc": "/नुःम्मा/",
+      "group": "BK",
+      "mean": "<p>to feel shy (in front of sb).</p>लजाउनु (अरुका अगाडि); लाज मान्नु ।"
+    },
+    "03992": {
+      "dId": "ᤏᤣ/ᤏᤣᤜᤣ",
+      "desc": "/ने/नेहे/",
+      "group": "BK",
+      "mean": "<p>enemy.</p>शत्रु ।"
+    },
+    "03993": {
+      "dId": "ᤏᤣᤕᤱᤒᤠ",
+      "desc": "/नेयङ्बा/",
+      "group": "BK",
+      "mean": "<p>a person employed to move an elephant; driver of an elephant.</p>माहुते ।"
+    }
+  }
+}

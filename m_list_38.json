@@ -1,0 +1,640 @@
+{
+  "Dic": {
+    "03994": {
+      "dId": "ᤏᤠᤣ",
+      "desc": "/नो/",
+      "group": "BL",
+      "mean": "<p>right; good; okay.</p>ठीक; राम्रो; दुरुस्त ।"
+    },
+    "03995": {
+      "dId": "ᤏᤠᤣᤛᤢᤶᤒᤠᤣ",
+      "desc": "/नोसुम्बो/",
+      "group": "BL",
+      "mean": "<p>good character/ habit.</p>असल शील/स्वभाव/बानी; सच्चरित्र ।"
+    },
+    "03996": {
+      "dId": "ᤏᤠᤣᤀᤡ᤺ᤳᤇᤠᤣ/ᤏᤠᤣᤀᤡᤋ᤻ᤇᤠᤣ",
+      "desc": "/नोइःत्छो/",
+      "group": "BL",
+      "mean": "<p>good wishes.</p>शुभकामना ।"
+    },
+    "03997": {
+      "dId": "ᤏᤠᤣᤃᤵ",
+      "desc": "/नोगप्/",
+      "group": "BL",
+      "mean": "<p>answer; reply.</p>उत्तर; जवाफ ।"
+    },
+    "03998": {
+      "dId": "ᤏᤠᤣᤃᤧᤴ",
+      "desc": "/नोगेन्/",
+      "group": "BL",
+      "mean": "<p>thanks.</p>धन्यबाद ।"
+    },
+    "03999": {
+      "dId": "ᤏᤠᤣᤅᤧ᤺ᤰ/ᤏᤠᤣᤅᤧᤁ᤻",
+      "desc": "/नोङे:क्/",
+      "group": "BL",
+      "mean": "<p>slowly.</p>बिस्तारै; सुस्तसुस्त चालले ।"
+    },
+    "04002": {
+      "dId": "ᤏᤠᤣᤍᤠ",
+      "desc": "/नोदा/",
+      "group": "BL",
+      "mean": "<p>well being; happiness.</p>कुशलमङ्गल; सुख ।"
+    },
+    "04003": {
+      "dId": "ᤏᤠᤣᤎᤡᤶ",
+      "desc": "/नोधिम्/",
+      "group": "BL",
+      "mean": "<p>etiquette.</p>शिष्टाचार; राम्रो शीलस्वभाव ।"
+    },
+    "04004": {
+      "dId": "ᤏᤠᤣᤎᤡᤶᤒᤠ",
+      "desc": "/नोधिम्बा/",
+      "group": "BL",
+      "mean": "<p>civilized; (a man) with etiquette.</p>शिष्ट; राम्रो शीलस्वभाव भएको ।"
+    },
+    "04005": {
+      "dId": "ᤏᤠᤣᤏᤡᤱᤘᤠ᤹",
+      "desc": "/नोनिङ्वा?/",
+      "group": "BL",
+      "mean": "<p>1. good will; good thinking. 2. good whishes.</p>१. शुभ विचार; असल विचार । २. शुभकामना ।"
+    },
+    "04006": {
+      "dId": "ᤏᤠᤣᤏᤡᤱᤘᤠ᤹ᤒᤠ",
+      "desc": "/नोनिङ्वा?बा/",
+      "group": "BL",
+      "mean": "<p>benevolent; well wisher.</p>हितैषी; शुभचिन्तक ।"
+    },
+    "04007": {
+      "dId": "ᤏᤠᤣᤔᤡᤱ",
+      "desc": "/नोमिङ्/",
+      "group": "BL",
+      "mean": "<p>good name; surname.</p>शुभनाम; उपनाम; फूलनाउँ । "
+    },
+    "04008": {
+      "dId": "ᤏᤠᤣᤔᤡ᤺ᤶ/ᤏᤠᤣᤔᤡᤔ᤻",
+      "desc": "/नोमिःम्/",
+      "group": "BL",
+      "mean": "<p>love (of lovers).</p>प्रेम/ माया/ प्रीति (प्रेमी प्रेमीकाको) ।"
+    },
+    "04009": {
+      "dId": "ᤏᤠᤣᤔᤡ᤺ᤶᤒᤠ/ᤏᤠᤣᤔᤡᤔ᤻ᤒᤠ",
+      "desc": "/नोमिःम्बा/",
+      "group": "BL",
+      "mean": "<p>lover.</p>प्रियतम; प्रेमी ।"
+    },
+    "04010": {
+      "dId": "ᤏᤠᤣᤔᤡ᤺ᤶᤔᤠ/ᤏᤠᤣᤔᤡᤔ᤻ᤔᤠ",
+      "desc": "/नोमिःम्मा/",
+      "group": "BL",
+      "mean": "<p>(fem.) lover.</p>(स्त्री) प्रेयसी; प्रेमिका ।"
+    },
+    "04011": {
+      "dId": "ᤏᤠᤣᤔᤧᤴ",
+      "desc": "/नोमेन्/",
+      "group": "BL",
+      "mean": "<p>good will.</p>सौजन्य; सहृदयता ।"
+    },
+    "04012": {
+      "dId": "ᤏᤠᤣᤕᤢᤰᤑ᤺",
+      "desc": "/नोयुक्फः/",
+      "group": "BL",
+      "mean": "<p>calcium.</p>क्याल्सियम पदार्थ ।"
+    },
+    "04013": {
+      "dId": "ᤏᤠᤣᤕᤠᤣ",
+      "desc": "/नोयो/",
+      "group": "BL",
+      "mean": "<p>benefit; profit.</p>फाइदा; लाभ ।"
+    },
+    "04014": {
+      "dId": "ᤏᤠᤣᤗᤠᤶ",
+      "desc": "/नोलाम्/",
+      "group": "BL",
+      "mean": "<p>good way; true path.</p>सत्मार्ग; सुमार्ग; असल बाटो ।"
+    },
+    "04015": {
+      "dId": "ᤏᤠᤣᤘᤠ",
+      "desc": "/नोवा/",
+      "group": "BL",
+      "mean": "<p>1. welfare; benevolence. 2. beauty.</p>१. कल्याण । २. सौन्दर्य ।"
+    },
+    "04016": {
+      "dId": "ᤏᤠᤣᤘᤠᤒᤠ",
+      "desc": "/नोवाबा/",
+      "group": "BL",
+      "mean": "<p>benevolent.</p>कल्याणकारी ।"
+    },
+    "04017": {
+      "dId": "ᤏᤠᤣᤛᤠᤱ",
+      "desc": "/नोसाङ/",
+      "group": "BL",
+      "mean": "<p>conscience.</p>विवेक; स्वविवेक ।"
+    },
+    "04018": {
+      "dId": "ᤏᤠᤣ᤺ᤰᤔᤠ/ᤏᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/नोक्मा/",
+      "group": "BL",
+      "mean": "<p>1. to return sth; to give/take back sth. 2. to cause/ make  to come back or go back (animals, human beings etc).</p>१. फिर्ता गर्नु; फिर्ता लिनु । २. फर्काउनु; फर्काउन लगाउनु; फिराउनु (जनावर, मान्छे आदि) ।"
+    },
+    "04019": {
+      "dId": "ᤏᤠᤣ᤺ᤱᤔᤠ/ᤏᤠᤣᤅ᤻ᤔᤠ",
+      "desc": "/नोःङ्मा/",
+      "group": "BL",
+      "mean": "<p>to return; to go or come back.</p>फर्कनु; फर्कि आउनु ।"
+    },
+    "04020": {
+      "dId": "ᤏᤠᤣ᤺ᤱᤛᤡᤱᤔᤠ/ᤏᤠᤣᤅ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/नोःङ्सिङ्मा/",
+      "group": "BL",
+      "mean": "<p>to be back.</p>फर्किनु (आफै) ।"
+    },
+    "04021": {
+      "dId": "ᤏᤠᤣ᤺ᤵᤐᤠ/ᤏᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/नोःप्पा/",
+      "group": "BL",
+      "mean": "<p>father-in-law.</p>ससुरा ।"
+    },
+    "04022": {
+      "dId": "ᤏᤠᤣ᤺ᤵᤔᤠ/ᤏᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/नोःप्मा/",
+      "group": "BL",
+      "mean": "<p>mother-in-law.</p>सासु ।"
+    },
+    "04023": {
+      "dId": "ᤏᤧᤀᤡ ",
+      "desc": "/नेइ/",
+      "group": "BL",
+      "mean": "<p>nerves.</p>स्नायु; नसा ।"
+    },
+    "04024": {
+      "dId": "ᤏᤧ᤹",
+      "desc": "/ने?/",
+      "group": "BL",
+      "mean": "<p>1. elder sister. 2. husband’s elder sister. 3. husband’s elder brother’s wife. 4. wife’s elder sister.</p>१. दिदी । २. आमाज्यू (लोग्नेपट्टिबाट दिदी ) । ३. जेठानी दिदी । ४. जेठी सासु (स्वास्नीको दिदी) ।"
+    },
+    "04025": {
+      "dId": "ᤏᤧ᤹ᤍᤪᤣ᤺",
+      "desc": "/ने?द्रे/",
+      "group": "BL",
+      "mean": "<p>sister-in-law; elder brother’s wife.</p>भाउजू ।"
+    },
+    "04026": {
+      "dId": "ᤏᤧ᤹ᤔᤠ",
+      "desc": "/ने?मा/",
+      "group": "BL",
+      "mean": "<p>1. to squeeze violently. 2. to press down; to squeeze down.</p>१. मर्याकमुरूक पार्नु; किचिकमिचिक पार्नु; दलदाल पार्नु वा गर्नु । २. खँद्नु ।"
+    },
+    "04027": {
+      "dId": "ᤏᤧ᤹ᤕᤠ",
+      "desc": "/ने?या/",
+      "group": "BL",
+      "mean": "<p>scissors.</p>कैंची ।"
+    },
+    "04028": {
+      "dId": "ᤏᤧᤰᤁᤩᤠ",
+      "desc": "/नेक्क्या/",
+      "group": "BL",
+      "mean": "<p>cauldron.</p>कराही (भाँडो) ।"
+    },
+    "04029": {
+      "dId": "ᤏᤧᤰᤂᤠᤣ᤹(ᤒᤠ)",
+      "desc": "/नेक्खो?बा/",
+      "group": "BL",
+      "mean": "<p>ear.</p>कान ।"
+    },
+    "04030": {
+      "dId": "ᤏᤧᤰᤂᤠᤣ᤹-ᤑᤡ᤹ᤏᤠ/ᤑᤡᤋ᤻",
+      "desc": "/नेक्खो?-फिना/फिःत्/",
+      "group": "BL",
+      "mean": "<p>earwig; a kind of insect.</p>कानचेपुवा कीरो; कर्णकीट ।"
+    },
+    "04031": {
+      "dId": "ᤏᤧᤰᤂᤠᤣ᤹-ᤑᤢᤱ",
+      "desc": "/नेक्खो?-फुङ्/",
+      "group": "BL",
+      "mean": "<p>a kind of golden ornament, which is wore in the ear.</p>कानढुङ्ग्री ।"
+    },
+    "04032": {
+      "dId": "ᤏᤧᤰᤛᤠ᤹",
+      "desc": "/नेक्सा?/",
+      "group": "BL",
+      "mean": "<p>1. flesh (alive). 2. muscle.</p>१. (जिउँदो शरीरको) मासु । २. मांशपेशी ।"
+    },
+    "04033": {
+      "dId": "ᤏᤧᤃᤪᤠ",
+      "desc": "/नेग्रा/",
+      "group": "BL",
+      "mean": "<p>kettle drum.</p>नगरा; दमाहा ।"
+    },
+    "04034": {
+      "dId": "ᤏᤧᤄᤰᤁᤪᤡᤱ(ᤒᤠ)",
+      "desc": "/नेघक्क्रिङ्(बा)/",
+      "group": "BL",
+      "mean": "<p>snail.</p>शङ्खेकीरा; चिप्लेकीरा ।"
+    },
+    "04035": {
+      "dId": "ᤏᤧᤄᤠᤣ᤹ᤔᤡᤰ",
+      "desc": "/नेघो?मिक्/",
+      "group": "BL",
+      "mean": "<p>(mundhum) sight.</p>(मुन्धुम) दृष्टि ।"
+    },
+    "04036": {
+      "dId": "ᤏᤧᤄᤧᤰᤐᤠ",
+      "desc": "/नेघेक्पा/",
+      "group": "BL",
+      "mean": "<p>1. a kind of creeper. Entada scandens. 2. coin.</p>१. पाङ्ग्रो; एक प्रकारको अखाद्य लहर् फल । २. सिक्का; टक ।"
+    },
+    "04037": {
+      "dId": "ᤏᤧᤵᤑᤠᤱ",
+      "desc": "/नेप्फाङ्/",
+      "group": "BL",
+      "mean": "<p>both (of them).</p>दुवै ।"
+    },
+    "04038": {
+      "dId": "ᤏᤧᤵᤑᤢ",
+      "desc": "/नेप्फु/",
+      "group": "BL",
+      "mean": "<p>only two (human beings only).</p>दुईजना (मानिस मात्र) ।"
+    },
+    "04039": {
+      "dId": "ᤏᤧᤳᤁᤧᤍ᤺ᤒᤠ",
+      "desc": "/नेत्केदःबा/",
+      "group": "BL",
+      "mean": "<p>tailor.</p>सूचिकार, लुगा सिउने पेसा गर्ने; दमाइँ ।"
+    },
+    "04040": {
+      "dId": "ᤏᤧᤳᤆᤢ",
+      "desc": "/नेत्चु/",
+      "group": "BL",
+      "mean": "<p>common gender.</p>उभय लिङ्ग ।"
+    },
+    "04041": {
+      "dId": "ᤏᤧᤳᤇᤡᤱ",
+      "desc": "/नेत्छिङ्/",
+      "group": "BL",
+      "mean": "<p>(math) tens.</p>(गणित) दहाई ।"
+    },
+    "04042": {
+      "dId": "ᤏᤧᤳᤇᤢᤶᤒᤠ",
+      "desc": "/नेत्छुम्बा/",
+      "group": "BL",
+      "mean": "<p>friendship.</p>मित्रता ।"
+    },
+    "04043": {
+      "dId": "ᤏᤧᤳᤋ᤺ᤔᤠ",
+      "desc": "/नेत्तःमा/",
+      "group": "BL",
+      "mean": "<p>to sew; to stitch.</p>सिउनु; सिलाउनु ।"
+    },
+    "04044": {
+      "dId": "ᤏᤧᤳᤋᤡ ",
+      "desc": "/नेत्ति/",
+      "group": "BL",
+      "mean": "<p>life.</p>जीवन ।"
+    },
+    "04045": {
+      "dId": "ᤏᤧᤳᤋᤡᤱ",
+      "desc": "/नेत्तिङ्/",
+      "group": "BL",
+      "mean": "<p>fasting (for religious of other purposes).</p>उपवास ।"
+    },
+    "04046": {
+      "dId": "ᤏᤧᤳᤌᤠᤰ",
+      "desc": "/नेत्थाक्/",
+      "group": "BL",
+      "mean": "<p>bottom of the ear.</p>कन्सिरी ।"
+    },
+    "04047": {
+      "dId": "ᤏᤧᤳᤏᤠ᤹",
+      "desc": "/नेत्ना?/",
+      "group": "BL",
+      "mean": "<p>1. bed. 2. cot.</p>१. ओछ्यान; बिछ्यौना । २. पलङ्; खाट ।"
+    },
+    "04048": {
+      "dId": "ᤏᤧᤳᤕᤢᤰᤁᤡ ",
+      "desc": "/नेत्युक्कि/",
+      "group": "BL",
+      "mean": "<p>sewing machine.</p>सिउने मेसिन ।"
+    },
+    "04049": {
+      "dId": "ᤏᤧᤳ-ᤕᤢᤰᤔᤠ",
+      "desc": "/नेत्-युक्मा/",
+      "group": "BL",
+      "mean": "<p>(n.) act of mourning. (vt.) to mourn sb’s death.</p>(ना.) मृत्युको आशौच बार्ने काम; जुठो बार्ने काम । (सक्रि.) जुठो बार्नु; आशौच बार्नु; मृत्युको शोकमा छाक छाड्नु ।"
+    },
+    "04050": {
+      "dId": "ᤏᤧᤳ-ᤕᤢᤱᤛᤡᤱᤔᤠ",
+      "desc": "/नेत्-युङ्सिङ्मा/",
+      "group": "BL",
+      "mean": "<p>to mourn sb’s death (by himself/herself).</p>कोरामा बस्नु; जूठो बार्नु ।"
+    },
+    "04051": {
+      "dId": "ᤏᤧᤳᤗᤧᤶᤒᤣ",
+      "desc": "/नेत्लेम्बे/",
+      "group": "BL",
+      "mean": "<p>patch (of clothes).</p>टालो; कपडाको टुक्रो ।"
+    },
+    "04052": {
+      "dId": "ᤏᤧᤍᤡᤰ",
+      "desc": "/नेदिक्/",
+      "group": "BL",
+      "mean": "<p>cheek-bone; the upper part of the side of face.</p>कन्पट; कन्चट ।"
+    },
+    "04053": {
+      "dId": "ᤏᤧᤍᤧᤱᤒᤠ",
+      "desc": "/नेदेङ्बा/",
+      "group": "BL",
+      "mean": "<p>cheek.</p>गाला ।"
+    },
+    "04054": {
+      "dId": "ᤏᤧᤏᤧᤒᤠ",
+      "desc": "/नेनेबा/",
+      "group": "BL",
+      "mean": "<p>flat (esp flat open ground and land).</p>फाँटिलो (टार, मैदान) ।"
+    },
+    "04055": {
+      "dId": "ᤏᤧᤴᤇᤡᤱᤔᤠ",
+      "desc": "/नेन्छिङ्मा/",
+      "group": "BL",
+      "mean": "<p>to lie down (on a bed).</p>ढल्कनु; सुत्नु ।"
+    },
+    "04056": {
+      "dId": "ᤏᤧᤴᤈᤱ",
+      "desc": "/नेन्जङ्/",
+      "group": "BL",
+      "mean": "<p>crest; cock’s comb.</p>सिउर; कुखुराको भालेको सिउर ।"
+    },
+    "04057": {
+      "dId": "ᤏᤧᤴᤍᤰ",
+      "desc": "/नेन्दक्/",
+      "group": "BL",
+      "mean": "<p>format; frame.</p>ढाँचा; चौखट ।"
+    },
+    "04058": {
+      "dId": "ᤏᤧᤴᤍᤢᤖᤡ ",
+      "desc": "/नेन्दुरि/",
+      "group": "BL",
+      "mean": "<p>handle of the weighing balance.</p>तराजुको डाँठ ।"
+    },
+    "04059": {
+      "dId": "ᤏᤧᤴᤎᤰ",
+      "desc": "/नेन्धक्/",
+      "group": "BL",
+      "mean": "<p>physical structure; physique.</p>शारीरिक संरचना; शारीरिक गठन ।"
+    },
+    "04060": {
+      "dId": "ᤏᤧᤴᤎᤱ",
+      "desc": "/नेन्धङ्/",
+      "group": "BL",
+      "mean": "<p>struggle.</p>सङ्घर्ष ।"
+    },
+    "04061": {
+      "dId": "ᤏᤧᤴᤏᤧ᤹",
+      "desc": "/नेन्ने?/",
+      "group": "BL",
+      "mean": "<p>1. elder-sister by age or relation. 2. elder sister of husband. 3. sister-in-law of wife. 4. elder sister of wife. 5. wife of husband’s elder brother.</p>१. दिदी; उमेर वा साइनोमा आफूभन्दा जेठी । २. आमाज्यू । ३. जेठानी दिदी; स्वास्नीकी भाउजु । ४. जेठी सासू । ५. जेठानी; लोग्नेको भाउजू ।"
+    },
+    "04062": {
+      "dId": "ᤏᤧᤴᤏᤧ᤹ᤘᤠ",
+      "desc": "/नेन्नेवा/",
+      "group": "BL",
+      "mean": "<p>topsy-turvy.</p>लथालिङ्ग ।"
+    },
+    "04063": {
+      "dId": "ᤏᤧᤵᤆᤱ",
+      "desc": "/नेप्चङ्/",
+      "group": "BL",
+      "mean": "<p>clitoris.</p>टिसी ।"
+    },
+    "04064": {
+      "dId": "ᤏᤧᤵᤆᤠᤱ",
+      "desc": "/नेप्चाङ्/",
+      "group": "BL",
+      "mean": "<p>both of them together (human beings only).</p>दुवै (मानिस मात्र); दुवैजना (सँगै) ।"
+    },
+    "04065": {
+      "dId": "ᤏᤧᤵᤐᤠ",
+      "desc": "/नेप्पा/",
+      "group": "BL",
+      "mean": "<p>common.</p>सामान्य ।"
+    },
+    "04066": {
+      "dId": "ᤏᤧᤵᤔᤠ",
+      "desc": "/नेप्मा/",
+      "group": "BL",
+      "mean": "<p>1. to fast. 2. to give up eating food or certain items (salt, meat, etc) while mourning; to observe ritual pollution.</p>१. उपवास बस्नु; व्रत बस्नु । २. मृत्यु संस्कारको समयमा वर्जित खानेकुरा  (नुन आदि) नखानु; जुठो बार्नु ।"
+    },
+    "04067": {
+      "dId": "ᤏᤧᤵᤔᤠᤱ",
+      "desc": "/नेप्माङ्/",
+      "group": "BL",
+      "mean": "<p>both of them together.</p>दुवै; दुवैजना (सँगै) ।"
+    },
+    "04068": {
+      "dId": "ᤏᤧᤵᤔᤠᤈᤠᤱ",
+      "desc": "/नेप्माजाङ्/",
+      "group": "BL",
+      "mean": "<p>both of them together.</p>दुवैजना (जोडी) ।"
+    },
+    "04069": {
+      "dId": "ᤏᤧᤵᤗᤧᤶ",
+      "desc": "/नेप्लेम्/",
+      "group": "BL",
+      "mean": "<p>spot.</p>टाटो; दाग ।"
+    },
+    "04070": {
+      "dId": "ᤏᤧᤒᤠᤗᤠ",
+      "desc": "/नेबाला/",
+      "group": "BL",
+      "mean": "<p>valley.</p>उपत्यका ।"
+    },
+    "04071": {
+      "dId": "ᤏᤧᤒᤠᤣ᤹(ᤒᤠ)",
+      "desc": "/नेबो?(बा)/",
+      "group": "BL",
+      "mean": "<p>nose.</p>नाक ।"
+    },
+    "04072": {
+      "dId": "ᤏᤧᤒᤠᤣ᤹ᤍᤧ",
+      "desc": "/नेबो?दे/",
+      "group": "BL",
+      "mean": "<p>insult.</p>अपमान; बेइज्जत ।"
+    },
+    "04073": {
+      "dId": "ᤏᤧᤒᤧᤶᤒᤠ",
+      "desc": "/नेबेम्बा/",
+      "group": "BL",
+      "mean": "<p>simple; common.</p>मामुली; सामान्य; साधारण । "
+    },
+    "04074": {
+      "dId": "ᤏᤧᤓᤠᤰ",
+      "desc": "/नेभाक्/",
+      "group": "BL",
+      "mean": "<p>[Tamor] ear.</p>[तमर] कान ।"
+    },
+    "04075": {
+      "dId": "ᤏᤧᤔᤢᤖᤡᤰ",
+      "desc": "/नेमुरिक्/",
+      "group": "BL",
+      "mean": "<p>hair of the ear.</p>कानको रौं ।"
+    },
+    "04076": {
+      "dId": "ᤏᤧᤶᤏᤧᤶᤒᤠ",
+      "desc": "/नेम्नेम्बा/",
+      "group": "BL",
+      "mean": "<p>soft; gentle; delicate.</p>नरम; मृदु; कोमल ।"
+    },
+    "04077": {
+      "dId": "ᤏᤧᤶᤓᤠᤣ",
+      "desc": "/नेम्भो/",
+      "group": "BL",
+      "mean": "<p>praise; appreciation.</p>सराहना; प्रशंसा ।"
+    },
+    "04078": {
+      "dId": "ᤏᤧᤶᤓᤠᤣ᤺ᤔᤠ",
+      "desc": "/नेम्भोःमा/",
+      "group": "BL",
+      "mean": "<p>to praise/ appreciate sb.</p>सराहना गर्नु; प्रशंसा गर्नु ।"
+    },
+    "04079": {
+      "dId": "ᤏᤧᤖᤡᤰ",
+      "desc": "/नेरिक्/",
+      "group": "BL",
+      "mean": "<p>nearby; close by; near.</p>नजिक; छेउमै; सँगै । "
+    },
+    "04080": {
+      "dId": "ᤏᤧᤖᤡᤱᤄᤱ",
+      "desc": "/नेरिङ्घङ्/",
+      "group": "BL",
+      "mean": "<p>shamelessness; immodesty.</p>लबस्तरोपना ।"
+    },
+    "04081": {
+      "dId": "ᤏᤧᤖᤣᤵᤐᤠ",
+      "desc": "/नेरेप्पा/",
+      "group": "BL",
+      "mean": "<p>heart.</p>मुटु ।"
+    },
+    "04082": {
+      "dId": "ᤏᤧᤖᤧᤱᤗᤧᤱᤒᤠ",
+      "desc": "/नेरेङ्लेङ्बा/",
+      "group": "BL",
+      "mean": "<p>1. obstinate; stubborn. 2. a good for nothing (man); loiterer.</p>१. अटेरी । २. बरालसिङे (मान्छे) ।"
+    },
+    "04083": {
+      "dId": "ᤏᤧᤛᤠᤰᤐᤢ",
+      "desc": "/नेसाक्पु/",
+      "group": "BL",
+      "mean": "<p>navel.</p>नाइटो; नाभि ।"
+    },
+    "04084": {
+      "dId": "ᤏᤧᤛᤣ᤹",
+      "desc": "/नेसे?/",
+      "group": "BL",
+      "mean": "<p>a circular and flat gold ornament worn by Limbu women.</p>चेप्टेसुन; कानमा लगाउने एक प्रकारको गहना विशेष ।"
+    },
+    "04085": {
+      "dId": "ᤏᤧᤛᤡᤶᤒᤠ",
+      "desc": "/नेसिम्बा/",
+      "group": "BL",
+      "mean": "<p>the check-bone at the bottom of a ear.</p>कन्चट; कानको चलनी ।"
+    },
+    "04086": {
+      "dId": "ᤏᤧᤜᤡ ",
+      "desc": "/नेहि/",
+      "group": "BL",
+      "mean": "<p>brain.</p>गिदी ।"
+    },
+    "04087": {
+      "dId": "ᤏᤧᤜᤡ᤺ᤰ/ᤏᤧᤜᤡᤁ᤻(ᤐᤠ)",
+      "desc": "/नेहिःक्(पा)/",
+      "group": "BL",
+      "mean": "<p>mucus; snot.</p>सिँगान ।"
+    },
+    "04088": {
+      "dId": "ᤏᤧᤜᤢᤱ",
+      "desc": "/नेहुङ्/",
+      "group": "BL",
+      "mean": "<p>pretence.</p>निहुँ; बहाना ।"
+    },
+    "04089": {
+      "dId": "ᤏᤧᤜᤧᤱ",
+      "desc": "/नेहेङ्/",
+      "group": "BL",
+      "mean": "<p>state.</p>राज्य ।"
+    },
+    "04090": {
+      "dId": "ᤏᤧ᤺ᤰᤏᤧ᤺ᤰᤐᤠ/ᤏᤧᤁ᤻ᤏᤧᤁ᤻ᤐᤠ",
+      "desc": "/नेःक्नेःक्पा/",
+      "group": "BL",
+      "mean": "<p>1. wet and soft. 2. solid substance.</p>१. गिलो; कमलो । २. खँदिलो ।"
+    },
+    "04091": {
+      "dId": "ᤏᤧ᤺ᤰᤔᤠ/ᤏᤧᤁ᤻ᤔᤠ",
+      "desc": "/नेःक्मा/",
+      "group": "BL",
+      "mean": "<p>1. to be smeared with (mud, earth, etc). 2. to cause (pit) to squeal.</p>१. (मैला) लाग्नु, दलिनु, पोतिनु (हिलो/माटो आदिले) । २. सुँगुरलाई च्वाँच्वाँ गरी कराउने पार्नु ।"
+    },
+    "04092": {
+      "dId": "ᤏᤧ᤺ᤱᤃᤧᤜᤠᤱ/ᤏᤧᤅ᤻ᤃᤧᤜᤠᤱ",
+      "desc": "/नेःङ्गेहाङ्/",
+      "group": "BL",
+      "mean": "<p>ostrich.</p>सुतुरमुर्ग ।"
+    },
+    "04093": {
+      "dId": "ᤏᤧᤱᤔᤠ",
+      "desc": "/नेङ्मा/",
+      "group": "BL",
+      "mean": "<p>[Phedape] to smear sth to sb; to rub sth; to rub on.</p>[फेदापे] दल्नु/ दलिदिनु (कसैलाई); पोत्नु; धस्नु । "
+    },
+    "04094": {
+      "dId": "ᤏᤧ᤺ᤴᤍᤡ/ᤏᤧᤏ᤻ᤍᤡ ",
+      "desc": "/नेःन्दि?/",
+      "group": "BL",
+      "mean": "<p>gums.</p>गिँजा ।"
+    },
+    "04095": {
+      "dId": "ᤏᤧ᤺ᤵᤔᤠ/ᤏᤧᤐ᤻ᤔᤠ",
+      "desc": "/नेःप्मा/",
+      "group": "BL",
+      "mean": "<p>1. to press hard; to squeeze. 2. to press hard; to insert sth.</p>१. अँठ्याएर थिच्नु; माडमुड पार्नु । २. जबरजस्ती घुसार्नु; घुसाउनु; खाँद्नु ।"
+    },
+    "04096": {
+      "dId": "ᤏᤧ᤺ᤔᤠ",
+      "desc": "/नेःमा/",
+      "group": "BL",
+      "mean": "<p>1. to lie down; to lie in leaning position. 2. to put sth  somewhere.</p>१. लेट्नु; ढल्कनु (ढल्के झै बस्नु) । २. (केहि चिजमाथि) राख्नु । "
+    },
+    "04097": {
+      "dId": "ᤏᤧ᤺ᤶᤏᤠ/ᤏᤧᤔ᤻ᤏᤠ",
+      "desc": "/नेःम्ना/",
+      "group": "BL",
+      "mean": "<p>establishment; setting up.</p>स्थापना ।"
+    },
+    "04098": {
+      "dId": "ᤏᤧ᤺ᤛᤡᤱᤔᤠ",
+      "desc": "/नेःसिङ्मा/",
+      "group": "BL",
+      "mean": "<p>to lie in rest by him/her self.</p>(आफै) ढल्किनु (आराम गर्नु) ।"
+    },
+    "04099": {
+      "dId": "ᤏᤧ᤺ᤛᤣᤰᤏᤠ/ᤏᤧᤛᤣᤰᤏᤠ",
+      "desc": "/नेःसेक्ना/नेसेक्ना/",
+      "group": "BL",
+      "mean": "<p>a kind of small dove.</p>कुर्ले ढुकुर ।"
+    },
+    "04100": {
+      "dId": "ᤏᤩᤠ᤹",
+      "desc": "/न्या?/",
+      "group": "BL",
+      "mean": "<p>1. aunt; father’s sister. 2. aunt; maternal uncle’s wife.</p>१. फुपू । २. माइजू ।"
+    },
+    "04101": {
+      "dId": "ᤏᤩᤠᤣ᤺ᤰ/ᤏᤩᤠᤣᤁ᤻",
+      "desc": "/न्योःक्/",
+      "group": "BL",
+      "mean": "<p>prisoner; captive.</p>कैदी ।"
+    }
+  }
+}

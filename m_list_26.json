@@ -1,0 +1,910 @@
+{
+  "Dic": {
+    "02765": {
+      "dId": "ᤋᤠᤀᤡ ᤋᤧᤶᤒᤣ",
+      "desc": "/ताइ तेम्बे/",
+      "group": "AZ",
+      "mean": "<p>an eastern  country; Tai province of China.</p>पूर्वको देश; चिन देशको ताईप्रदेश ।"
+    },
+    "02766": {
+      "dId": "ᤋᤠᤀᤡ ᤘᤠᤖ᤺ᤱ/ᤘᤠᤖᤅ᤻",
+      "desc": "/ताइ वारःङ्/",
+      "group": "AZ",
+      "mean": "<p>the Pacific Ocean.</p>प्रशान्त महासागर ।"
+    },
+    "02767": {
+      "dId": "ᤋᤠ᤹ᤆᤧᤰᤔᤠ",
+      "desc": "/ता?चेक्मा/",
+      "group": "AZ",
+      "mean": "<p>1. to converse (with third person); to speak to. 2. to talk with a third person; to coney/ inform/ tell the message to a third person.</p>१. अर्को (तेस्रो) मान्छेसँग कुराकानी गर्नु । २. तेस्रो व्याक्तिसँग कुरा गर्नु; समाचार सुनाउनु; कुरो सुनाउनु ।"
+    },
+    "02768": {
+      "dId": "ᤋᤠ᤹ᤆᤧᤱ",
+      "desc": "/ता?चेङ्/",
+      "group": "AZ",
+      "mean": "<p>dialogue; conversation; talk; chat.</p>संवाद; कुराकानी ।"
+    },
+    "02769": {
+      "dId": "ᤋᤠ᤹ᤆᤧᤱᤃᤡ ",
+      "desc": "/ता?चेङ्गि/",
+      "group": "AZ",
+      "mean": "<p>custom of presenting liquor and money on the occasion of proposing a marriage to the parents of the would-be bride.</p>लिम्बू परम्पराअनुसार केटाको तर्फबाट विवाहसम्बन्धि कुरा गर्न जाँदा केटीपक्षलाई बुझाइने दस्तुर ।"
+    },
+    "02770": {
+      "dId": "ᤋᤠ᤹ᤆᤧᤱᤔᤠ",
+      "desc": "/ता?चेङ्मा/",
+      "group": "AZ",
+      "mean": "<p>to talk; to converse with sb (second person).</p>कुराकानी गर्नु ।"
+    },
+    "02771": {
+      "dId": "ᤋᤠ᤹ᤌᤰ",
+      "desc": "/ता?थक्/",
+      "group": "AZ",
+      "mean": "<p>debate.</p>तर्क ।"
+    },
+    "02772": {
+      "dId": "ᤋᤠ᤹ᤌᤰᤔᤠ",
+      "desc": "/ता?थक्मा/",
+      "group": "AZ",
+      "mean": "<p>1. to discuse. 2. to explain; to describe. 3. to preform the ritual singing the myths or the Mundhum.</p>१. बहस गर्नु; पक्ष बिपक्षमा तर्क गर्नु । २. व्याख्या वा वर्णन गर्नु । ३. मुन्धुम गाएर अनुष्ठान सहित पूराकथा वर्णन गर्नु ।"
+    },
+    "02773": {
+      "dId": "ᤋᤠ᤹ᤔᤠ",
+      "desc": "/ता?मा/",
+      "group": "AZ",
+      "mean": "<p>1 to fix a ladder. 2. to construct a bamboo or wooden bridge. 3. [Phedape] to bring, fetch, deliver sth.</p>१. सिँढी बनाउनु; भर्याङ् बनाउनु । २. साँघु आदि बनाउनु । ३. [फेदापे] ल्याउनु; ल्याएर दिनु ।"
+    },
+    "02774": {
+      "dId": "ᤋᤠ᤹ᤕᤠᤣ",
+      "desc": "/ता?यो/",
+      "group": "AZ",
+      "mean": "<p>a bamboo or wooden bridge.</p>साँघु; फड्के (काठ वा बाँसको) ।"
+    },
+    "02775": {
+      "dId": "ᤋᤠᤰ",
+      "desc": "/ताक्/",
+      "group": "AZ",
+      "mean": "<p>1. [Tamor] all. 2. [Chhathare] friend. </p>१. [तमर] सबै । २. [छथरे] साथी; मित्र ।"
+    },
+    "02776": {
+      "dId": "ᤋᤠᤰᤁᤶ",
+      "desc": "/ताक्कम्/",
+      "group": "AZ",
+      "mean": "<p>1. roaming; touring; travelling. 2. tour; tourism.</p>१. घुमघाम; भ्रमण । २. पर्यटन ।"
+    },
+    "02777": {
+      "dId": "ᤋᤠᤰᤁᤶᤔᤠ",
+      "desc": "/ताक्कम्मा/",
+      "group": "AZ",
+      "mean": "<p>to take a walk; to roam; to wander about.</p>डुल्नु; घुम्नु ।"
+    },
+    "02778": {
+      "dId": "ᤋᤠᤰᤁᤣ",
+      "desc": "/ताक्के/",
+      "group": "AZ",
+      "mean": "<p>unit.</p>एकाइ ।"
+    },
+    "02779": {
+      "dId": "ᤋᤠᤰᤂᤠᤣ᤺ᤱ/ᤋᤠᤰᤂᤠᤣᤅ᤻",
+      "desc": "/ताक्खोःङ्/",
+      "group": "AZ",
+      "mean": "<p>pillow.</p>सिरानी ।"
+    },
+    "02780": {
+      "dId": "ᤋᤠᤰᤂᤠᤣ᤺ᤱᤔᤠ/ᤋᤠᤰᤂᤠᤣᤅ᤻ᤔᤠ",
+      "desc": "/ताक्खोःङ्मा/",
+      "group": "AZ",
+      "mean": "<p>to put a pillow.</p>सिरानी लाउनु ।"
+    },
+    "02781": {
+      "dId": "ᤋᤠᤰᤋᤧᤴ",
+      "desc": "/ताक्तेन्/",
+      "group": "AZ",
+      "mean": "<p>1. a temporary hut made of wood-branches and leaves. 2. tent. 3. [Sikkim] yard; courtyard.</p>१. स्याउला आदिले अस्थायी रूपमा बनाइएको छाप्रो । २. तम्बु । ३. [सिक्किम] आँगन ।"
+    },
+    "02782": {
+      "dId": "ᤋᤠᤰᤌᤢᤱᤎᤠᤣ",
+      "desc": "/ताक्थुङ्धो/",
+      "group": "AZ",
+      "mean": "<p>reality; state of awakening; opposite of dream.</p>बिपना; जाग्रत् अवस्था; सपनाको विपरीत अवस्था ।"
+    },
+    "02783": {
+      "dId": "ᤋᤠᤰᤌᤧᤒᤠ",
+      "desc": "/ताक्थेबा/",
+      "group": "AZ",
+      "mean": "<p>great grandfather.</p>बाजेको बाजे; जिजुको बाजे ।"
+    },
+    "02784": {
+      "dId": "ᤋᤠᤰᤑᤠ",
+      "desc": "/ताक्फा/",
+      "group": "AZ",
+      "mean": "<p>1. post; rank. 2. standard; class. 3. floor; storey.</p>१. दर्जा; तह; श्रेणी । २. स्तर; तह; श्रेणी । ३. तला ।"
+    },
+    "02785": {
+      "dId": "ᤋᤠᤰᤑᤠᤍᤡᤶ",
+      "desc": "/ताक्फादिम्/",
+      "group": "AZ",
+      "mean": "<p>(n.) standard.</p>मानक; स्तार ।"
+    },
+    "02786": {
+      "dId": "ᤋᤠᤰᤑᤠᤍᤡᤶᤒᤠ",
+      "desc": "/ताक्फादिम्बा/",
+      "group": "AZ",
+      "mean": "<p>(adj.) standard.</p>स्तरीय; स्तर भएको; मानक अनुसारको ।"
+    },
+    "02787": {
+      "dId": "ᤋᤠᤰᤁᤧᤓᤧ᤹ᤒᤠ",
+      "desc": "/ताक्केभे?बा/",
+      "group": "AZ",
+      "mean": "<p>quick-tempered; wicked; of bad manner or temperament.</p>रिसाहा; झोंक्की; नराम्रो बानी भएको ।"
+    },
+    "02788": {
+      "dId": "ᤋᤠᤰᤑᤧ᤹ᤔᤠ",
+      "desc": "/ताक्फे?मा/",
+      "group": "AZ",
+      "mean": "<p>to be ill-natured (bad tempered); furious or cruel.</p>नराम्रो बानीको हुनु; झोंक्की हुनु; अचाडु हुनु ।"
+    },
+    "02789": {
+      "dId": "ᤋᤠᤰᤁᤧᤓᤧ᤹ᤔᤠ",
+      "desc": "/ताक्केभे?मा/",
+      "group": "AZ",
+      "mean": "<p>(fem.) wicked; of bad manner or temperament.</p>रिसाही; झोंक्की; नराम्रो बानी भएकी ।"
+    },
+    "02790": {
+      "dId": "ᤋᤠᤰᤔᤠ",
+      "desc": "/ताक्मा/",
+      "group": "AZ",
+      "mean": "<p>to clot; to coagulate; to freeze.</p>जम्नु ।"
+    },
+    "02791": {
+      "dId": "ᤋᤠᤰᤔᤠᤖᤢ",
+      "desc": "/ताक्मारू/",
+      "group": "AZ",
+      "mean": "<p>a kind of paddy grown in a dry field.</p>घैया; पाखाबारीमा फल्ने एक प्रकारको धान ।"
+    },
+    "02792": {
+      "dId": "ᤋᤠᤰᤔᤧᤴᤇᤠ᤹",
+      "desc": "/ताक्मेन्छा?/",
+      "group": "AZ",
+      "mean": "<p>great-great grandson; son of a grandson.</p>खनाति; नातिको नाति; छोराको पनाति ।"
+    },
+    "02793": {
+      "dId": "ᤋᤠᤰᤁᤪᤢᤰᤗᤢᤰᤐᤠ",
+      "desc": "/ताक्क्रुक्लुक्पा/",
+      "group": "AZ",
+      "mean": "<p>short in physique (human); short and rounded; dwarf and pot-bellied; pigmy; pygmy.</p>पुड्के; डल्ले; भुन्टे (मानिस); गान्टे ।"
+    },
+    "02794": {
+      "dId": "ᤋᤠᤰᤁᤪᤠᤣ᤺ᤰ/ᤋᤠᤰᤁᤪᤠᤣᤁ᤻",
+      "desc": "/ताक्क्रोःक्/",
+      "group": "AZ",
+      "mean": "<p>small pieces of sugarcane (made for chewing).</p>टुक्रा; उखुको लाक्रोलाई खान काटिएको ससाना टुक्रा ।"
+    },
+    "02795": {
+      "dId": "ᤋᤠᤃᤠ᤹ᤒᤠ",
+      "desc": "/तागा?बा/",
+      "group": "AZ",
+      "mean": "<p>a kind of green edible vegetable. Brassia juncea.</p>रायोको साग ।"
+    },
+    "02796": {
+      "dId": "ᤋᤠᤃᤠ",
+      "desc": "/तागा/",
+      "group": "AZ",
+      "mean": "<p>a long male (Limbu) garment.</p>गादो; लिम्बूजातिको प्राचिन वस्त्र (पुरुषले लाउने) ।"
+    },
+    "02797": {
+      "dId": "ᤋᤠᤃᤧᤴ",
+      "desc": "/तागेन्/",
+      "group": "AZ",
+      "mean": "<p>earning; income.</p>आम्दानी; आयस्ता ।"
+    },
+    "02798": {
+      "dId": "ᤋᤠᤃᤧᤖᤠ",
+      "desc": "/तागेरा/",
+      "group": "AZ",
+      "mean": "<p>universal; all-pervasive; omnipresmeant.</p>सर्वव्यापी; सबै ठाउँमा फैलेको, व्याप्त ।"
+    },
+    "02799": {
+      "dId": "ᤋᤠᤱ",
+      "desc": "/ताङ्/",
+      "group": "AZ",
+      "mean": "<p>horn.</p>सिङ् ।"
+    },
+    "02800": {
+      "dId": "ᤋᤠᤱᤃᤧᤴ",
+      "desc": "/ताङ्गेन्/",
+      "group": "AZ",
+      "mean": "<p>1. summary; gist. 2. each; every one.</p>१. निचोड; निष्कर्ष । २. प्रत्येक; हरेक ।"
+    },
+    "02801": {
+      "dId": "ᤋᤠᤱᤄᤢ",
+      "desc": "/ताङ्घु/",
+      "group": "AZ",
+      "mean": "<p>1. prepared tobacco. 2. spiced tobacco.</p>१. तमाखु । २. कक्कड; कङ्कट्; कटुवा ।"
+    },
+    "02802": {
+      "dId": "ᤋᤠᤱᤄᤢ᤺ᤰ/ᤋᤠᤱᤄᤢᤁ᤻",
+      "desc": "/ताङ्घुःक्/",
+      "group": "AZ",
+      "mean": "<p>umbrella.</p>छाता ।"
+    },
+    "02803": {
+      "dId": "ᤋᤠᤱᤒ᤺ᤰᤐᤠ/ᤋᤠᤱ",
+      "desc": "/ताङ्बःक्पा/",
+      "group": "AZ",
+      "mean": "<p>having a large head.</p>घनटाउके; ठूलो टाउको हुने ।"
+    },
+    "02804": {
+      "dId": "ᤋᤠᤱᤒᤠ",
+      "desc": "/ताङ्बा/",
+      "group": "AZ",
+      "mean": "<p>1. short; not tall. 2. short not long. 3. owner; master; proprietor.</p>१. होचो; पुड्को । २. छोटो । ३. मालिक; धनि; स्वामी ।"
+    },
+    "02805": {
+      "dId": "ᤋᤠᤱᤓᤖᤠ",
+      "desc": "/ताङ्भरा/",
+      "group": "AZ",
+      "mean": "<p>white-throated bird.</p>कलकले चरो ।"
+    },
+    "02806": {
+      "dId": "ᤋᤠᤱᤔᤠ",
+      "desc": "/ताङ्मा/",
+      "group": "AZ",
+      "mean": "<p>1. (fem.) owner; mistress; landlady. 2. (fem.) short; not tall. 3. to be short. 4. (of tree) to fell.</p>१. मालिक्नी; धनी; स्वामिनी । २. पुड्की; होची । ३. छोटो हुनु; लम्बाइ नपुग्नु । ४. (रूख) काटेर ढाल्नु ।"
+    },
+    "02807": {
+      "dId": "ᤋᤠᤱᤔᤢᤕᤠ",
+      "desc": "/ताङ्मुया/",
+      "group": "AZ",
+      "mean": "<p>crested hawk-eagle. <i>Spizaetus nipalensis.</i></p>जुरे चिल ।"
+    },
+    "02808": {
+      "dId": "ᤋᤠᤱᤗᤠᤶ",
+      "desc": "/ताङ्लाम्/",
+      "group": "AZ",
+      "mean": "<p>a short cut; bypass.</p>छोटो बाटो; चोर बाटो ।"
+    },
+    "02809": {
+      "dId": "ᤋᤠᤱᤗᤧᤰ",
+      "desc": "/ताङ्लेक्/",
+      "group": "AZ",
+      "mean": "<p>1. palate. 2. antenna; aerial.</p>१. तालु । २. एन्टेना; एरियल ।"
+    },
+    "02810": {
+      "dId": "ᤋᤠᤱᤗᤧᤰᤐᤠ",
+      "desc": "/ताङ्लेःक्पा/",
+      "group": "AZ",
+      "mean": "<p>bald headed.</p>तालु खुइले; तालुचिन्डे ।"
+    },
+    "02811": {
+      "dId": "ᤋᤠᤱᤘᤠ",
+      "desc": "/ताङ्वा/",
+      "group": "AZ",
+      "mean": "<p>cattle egret. Bubulcus ibis.</p>बकुला (चरो) ।"
+    },
+    "02812": {
+      "dId": "ᤋᤠᤱᤘᤠᤍᤰ",
+      "desc": "/ताङ्वादक्/",
+      "group": "AZ",
+      "mean": "<p>palm tree.</p>ताड; ताडको रूख ।"
+    },
+    "02813": {
+      "dId": "ᤋᤠᤱᤘᤠᤗᤡ ",
+      "desc": "/ताङ्वालि/",
+      "group": "AZ",
+      "mean": "<p>a trap for bird.</p>चरा मार्ने धराप; पासो ।"
+    },
+    "02814": {
+      "dId": "ᤋᤠᤱᤛᤠ",
+      "desc": "/ताङ्सा/",
+      "group": "AZ",
+      "mean": "<p>1. short (non living). 2. spotted deer.</p>१. होचो; छोटो । २. चित्तल ।"
+    },
+    "02815": {
+      "dId": "ᤋᤠᤱᤛᤠᤰ(ᤐᤠ)",
+      "desc": "/ताङ्साक्(पा)/",
+      "group": "AZ",
+      "mean": "<p>sky; space.</p>आकाश ।"
+    },
+    "02816": {
+      "dId": "ᤋᤠᤱᤛᤠᤰ-ᤔᤳᤆᤡ ",
+      "desc": "/ताङ्साक्-मत्चि/",
+      "group": "AZ",
+      "mean": "<p>cone pepper. <i>Capsicum frutescens.</i></p>ठाडे खुर्सानी; साइँली खुर्सानी ।"
+    },
+    "02817": {
+      "dId": "ᤋᤠᤱᤛᤠᤱ-ᤂᤧᤒᤰ",
+      "desc": "/ताङ्साङ्-खेबक्/",
+      "group": "AZ",
+      "mean": "<p>scorpion.</p>बिच्छी ।"
+    },
+    "02818": {
+      "dId": "ᤋᤠᤱᤛᤠᤱ-ᤁᤣ᤺ᤰᤏᤠ/ᤁᤣᤁ᤻ᤏᤠ",
+      "desc": "/ताङ्साङ्-केःक्ना/",
+      "group": "AZ",
+      "mean": "<p>a kind of warbler. <i>Sylviidae.</i></p>फिस्टा (चरो); गढतिरमा पाइने एक प्रकारको फिस्टो ।"
+    },
+    "02819": {
+      "dId": "ᤋᤠᤱᤛᤠᤱ-ᤋᤰ",
+      "desc": "/ताङ्साङ्-तक्/",
+      "group": "AZ",
+      "mean": "<p>s kind of shrub.</p>पैनासी; एक प्रकारको पोथ्रा ।"
+    },
+    "02820": {
+      "dId": "ᤋᤠᤱᤛᤠᤱ-ᤋᤰᤏᤠ",
+      "desc": "/ताङ्साङ्-तक्ना/",
+      "group": "AZ",
+      "mean": "<p>sandpiper. <i>Tringa.</i></p>हुटिट्याउँ (चरो) ।"
+    },
+    "02821": {
+      "dId": "ᤋᤠᤱᤛᤠᤱ-ᤗᤠᤒ᤺ᤰ/ᤗᤠᤒᤁ᤻",
+      "desc": "/ताङ्साङ्-लाबःक्/",
+      "group": "AZ",
+      "mean": "<p>curly duck. <i>Rumex crispus.</i></p>हलहले झार ।"
+    },
+    "02822": {
+      "dId": "ᤋᤠᤱᤛᤡᤱ",
+      "desc": "/ताङ्सिङ्/",
+      "group": "AZ",
+      "mean": "<p>1. accumulation. 2. savings (money).</p>१. थेग्रो । २. बचत; सुरक्षण ।"
+    },
+    "02823": {
+      "dId": "ᤋᤠᤱᤛᤡᤱ ᤂᤰᤛᤡᤱ",
+      "desc": "/ताङ्सिङ् खक्सिङ्/",
+      "group": "AZ",
+      "mean": "<p>1. cultivable land after cleaning the forest. 2. first ownership of land. 3. first inhabited land; main land; original land.</p>१. वन फाँडेर आवाद गरिएको जग्गा । २. जग्गाको मुल स्वामित्व । ३. आदिभुमि; जिमी भुमि ।"
+    },
+    "02824": {
+      "dId": "ᤋᤠᤱᤛᤡᤱᤔᤠ",
+      "desc": "/ताङ्सिङ्मा/",
+      "group": "AZ",
+      "mean": "<p>a kind of tree which grows in high mountains. <i>Brassaiopsis hainla.</i></p>लेकाली चुलेत्रो ।"
+    },
+    "02825": {
+      "dId": "ᤋᤠᤱᤛᤢᤖᤧ/ᤋᤠᤱᤛᤠᤣᤖᤧ",
+      "desc": "/ताङ्सुरे/ताङ्सोरे/",
+      "group": "AZ",
+      "mean": "<p>watercress; a kind of edible vegetable.<i> Nasturtium officinale.</i></p>सिमरायो; साइँली साग ।"
+    },
+    "02826": {
+      "dId": "ᤋᤠᤱᤛᤢ᤺ᤰᤘᤠ/ᤋᤠᤱᤛᤢᤁ᤻ᤘᤠ",
+      "desc": "/ताङ्सुःक्वा/",
+      "group": "AZ",
+      "mean": "<p>haversack; a kind of big bag.</p>काँधमा भिरेर पिठ्युँमा बोक्ने झोला ।"
+    },
+    "02827": {
+      "dId": "ᤋᤠᤱᤛᤠᤣ᤺ᤳ/ᤋᤠᤱᤛᤠᤣᤋ᤻",
+      "desc": "/ताङ्सोःत्/",
+      "group": "AZ",
+      "mean": "<p>offerings to God or deity.</p>देवतालाई अर्पण गरिने वस्तु; अर्ध्य ।"
+    },
+    "02828": {
+      "dId": "ᤋᤠᤱᤛᤧ᤺ᤵ/ᤋᤠᤱᤛᤧᤐ᤻",
+      "desc": "/ताङ्सेःप्/",
+      "group": "AZ",
+      "mean": "<p>protection; security.</p>रक्षा; संरक्षण ।"
+    },
+    "02829": {
+      "dId": "ᤋᤠᤱᤛᤧ᤺ᤵᤐᤠ/ᤋᤠᤱᤛᤧᤐ᤻ᤐᤠ",
+      "desc": "/ताङ्सेःप्पा/",
+      "group": "AZ",
+      "mean": "<p>protector; guardian.</p>रक्षक; संरक्षक ।"
+    },
+    "02830": {
+      "dId": "ᤋᤠᤱᤛᤧ᤺ᤵᤔᤠ/ᤋᤠᤱᤛᤧᤐ᤻ᤔᤠ",
+      "desc": "/ताङ्सेःप्मा/",
+      "group": "AZ",
+      "mean": "<p>to protect.</p>रक्षा गर्नु ।"
+    },
+    "02831": {
+      "dId": "ᤋᤠᤈᤡᤰ",
+      "desc": "/ताजिक्/",
+      "group": "AZ",
+      "mean": "<p>ancient times; antiquity.</p>प्राचिनकाल; प्राचिनता ।"
+    },
+    "02832": {
+      "dId": "ᤋᤠᤈᤡᤰᤐᤠ",
+      "desc": "/ताजिक्पा/",
+      "group": "AZ",
+      "mean": "<p>ancient; old; outdated.</p>पुरातन; प्राचीन; पुरानो ।"
+    },
+    "02833": {
+      "dId": "ᤋᤠᤈᤡᤏᤢᤒᤠ",
+      "desc": "/ताजिनुबा/",
+      "group": "AZ",
+      "mean": "<p>special.</p>विशेष; विशिष्ट ।"
+    },
+    "02834": {
+      "dId": "ᤋᤠᤍᤠᤵ",
+      "desc": "/तादाप्/",
+      "group": "AZ",
+      "mean": "<p>awakening after sleep but not fully awake; state of being somnolence; sleepiness; drowsiness.</p>झस्काइ (ब्यूँझाइ); निद्राबाट ब्यूँझेको अवस्था ।"
+    },
+    "02835": {
+      "dId": "ᤋᤠᤍᤠᤶ",
+      "desc": "/तादाम्/",
+      "group": "AZ",
+      "mean": "<p>talking or walking in dream/ sleep.</p>बरबराइ (निद्राको); धताइ; धतुराइ ।"
+    },
+    "02836": {
+      "dId": "ᤋᤠᤍᤠᤶᤗᤠᤣ᤺ᤔᤠ",
+      "desc": "/तादाम्लोःमा/",
+      "group": "AZ",
+      "mean": "<p>1. to rave; to be in delirium. 2. to somnambulate (to talk or walk in sleep).</p>१. धतुराउनु; धताउनु । २. निद्रा वा तन्द्रामा फतफताउनु वा हिँड्नु ।"
+    },
+    "02837": {
+      "dId": "ᤋᤠᤍᤡ ",
+      "desc": "/तादि/",
+      "group": "AZ",
+      "mean": "<p>time long before ancient times.</p>धेरै अगाडीको बेला; प्राचिनकाल ।"
+    },
+    "02838": {
+      "dId": "ᤋᤠᤍᤡᤛᤧᤵᤔᤠᤱ",
+      "desc": "/तादिसेप्माङ्/",
+      "group": "AZ",
+      "mean": "<p>dream.</p>सपना ।"
+    },
+    "02839": {
+      "dId": "ᤋᤠᤏᤠᤶ",
+      "desc": "/तानाम्/",
+      "group": "AZ",
+      "mean": "<p>dawn; (early) morning.</p>प्रभात; बिहान सबेरैको समय; मिर्मिरे बिहान ।"
+    },
+    "02840": {
+      "dId": "ᤋᤠᤴᤎᤠᤱᤒᤠ",
+      "desc": "/तान्धाङ्बा/",
+      "group": "AZ",
+      "mean": "<p>one fourth of seer; weight equivalent to 250 grams.</p>पाउ; एक सेरको चारौं भाग; २५० ग्रामको परिमाण ।"
+    },
+    "02841": {
+      "dId": "ᤋᤠᤴᤎᤠᤱ_ᤛᤠᤣ᤺ᤴ/ᤛᤠᤣᤏ᤻",
+      "desc": "/तान्धाङ्-सोःन्/",
+      "group": "AZ",
+      "mean": "<p>quarterly examination.</p>त्रैमासिक परीक्षा ।"
+    },
+    "02842": {
+      "dId": "ᤋᤠᤐᤧᤳ-ᤋᤠᤐᤧᤋ᤻",
+      "desc": "/तापेत्-तापेत्/",
+      "group": "AZ",
+      "mean": "<p>walking like a toddler.</p>टुकुटुकु; भर्खर हिँड्न जानेका बालकहरू हिँड्ने चालाले ।"
+    },
+    "02843": {
+      "dId": "ᤋᤠᤵᤂᤠᤣ",
+      "desc": "/ताप्खो/",
+      "group": "AZ",
+      "mean": "<p>discovery; invention.</p>आविष्कार ।"
+    },
+    "02844": {
+      "dId": "ᤋᤠᤵᤐᤠ",
+      "desc": "/ताप्पा/",
+      "group": "AZ",
+      "mean": "<p>1. subdivision (of a district). 2. constituency.</p>१. इलाका; महकुमा । २. क्षेत्र; चुनाव-क्षेत्र; कुनै क्षेत्रको उपविभाजित इलाका ।"
+    },
+    "02845": {
+      "dId": "ᤋᤠᤵᤐᤣ",
+      "desc": "/ताप्पे/",
+      "group": "AZ",
+      "mean": "<p>palm or sole.</p>हत्केला वा पैताला ।"
+    },
+    "02846": {
+      "dId": "ᤋᤠᤵᤐᤧ᤹ᤔᤠ",
+      "desc": "/ताप्पे?मा/",
+      "group": "AZ",
+      "mean": "<p>to loiter; to roam.</p>बरालिनु; बरालिएर हराउनु ।"
+    },
+    "02847": {
+      "dId": "ᤋᤠᤵᤑᤣ",
+      "desc": "/ताप्फे/",
+      "group": "AZ",
+      "mean": "<p>one phase of song.</p>गीतको चरण ।"
+    },
+    "02848": {
+      "dId": "ᤋᤠᤵᤑᤧᤰᤗᤠ",
+      "desc": "/ताप्फेक्ला/",
+      "group": "AZ",
+      "mean": "<p>an inland letter.</p>चिट्ठी लेखिने खाम र टिकट सहितको पत्र ।"
+    },
+    "02849": {
+      "dId": "ᤋᤠᤵᤑᤧᤔᤠ",
+      "desc": "/ताप्फेमा/",
+      "group": "AZ",
+      "mean": "<p>to be cruel/ brutal/ furious.</p>निठुरी हुनु; नराम्रो स्वभावको हुनु; रिसाउनु ।"
+    },
+    "02850": {
+      "dId": "ᤋᤠᤵᤔᤠ",
+      "desc": "/ताप्मा/",
+      "group": "AZ",
+      "mean": "<p>1. to loiter; to roam. 2. to grow thickly; expand. 3. crops (of paddy, millet etc). 4. a particular kind of bush, used as a medicine; its leaves are used to make a brush or broom.</p>१. बरालिनु; बरालिएर हराउनु । २. झ्याङ्गिनु; फिंजिनु । ३. धान, कोदो आदि अन्नको बाला वा झुप्पा । ४. थाकल; पातबाट कुच्चो बनाइने, ओखतिको लागी प्रयोग गरीने एक प्रकारको बुट्यान ।"
+    },
+    "02851": {
+      "dId": "ᤋᤠᤵᤗᤠ",
+      "desc": "/ताप्ला/",
+      "group": "AZ",
+      "mean": "<p>a single flower.</p>थुँगा; सिङ्गो फूल । "
+    },
+    "02852": {
+      "dId": "ᤋᤠᤵᤛᤠᤱᤃᤠ",
+      "desc": "/ताप्साङ्गा/",
+      "group": "AZ",
+      "mean": "<p>1. a temporary hut made of split bamboos and twigs. 2. tent; camp.</p>१. थर्पु; अस्थायी छाप्रो; अस्थायी बासका लागी बनाइने कच्ची घर । २. पाल; क्याम्प ।"
+    },
+    "02853": {
+      "dId": "ᤋᤠᤒᤢ",
+      "desc": "/ताबु/",
+      "group": "AZ",
+      "mean": "<p>jungle.</p>वन ।"
+    },
+    "02854": {
+      "dId": "ᤋᤠᤒᤢᤱ",
+      "desc": "/ताबुङ्/",
+      "group": "AZ",
+      "mean": "<p>source; source of income.</p>स्रोत; आम्दानीको आधार/ स्रोत ।"
+    },
+    "02855": {
+      "dId": "ᤋᤠᤒᤢᤐᤠᤣ᤺ᤰᤗᤠ/ᤋᤠᤒᤢᤐᤠᤣᤁ",
+      "desc": "/ताबुपोःक्ला/",
+      "group": "AZ",
+      "mean": "<p>1. (Mundhum) the first forest of the story of creation. 2. plants; vegetation.</p>१. प्रथम सृष्टि भएको जङ्गल । २. रूखपात; वनस्पति ।"
+    },
+    "02856": {
+      "dId": "ᤋᤠᤓᤣ",
+      "desc": "/ताभे/",
+      "group": "AZ",
+      "mean": "<p>sward.</p>तलबार ।"
+    },
+    "02857": {
+      "dId": "ᤋᤠᤓᤧ᤺ᤳ/ᤋᤠᤓᤧᤋ᤻",
+      "desc": "/ताभेःत्/ताभेःप्मा/",
+      "group": "AZ",
+      "mean": "<p>snake-gourd. Trichosanthes sanguina.</p>चिचिण्डो/ चिन्डो ।"
+    },
+    "02858": {
+      "dId": "ᤋᤠᤶ",
+      "desc": "/ताम्/",
+      "group": "AZ",
+      "mean": "<p>dust; dirt; rubbish.</p>धूलो; कसिङ्गर; धूलोमूलो ।"
+    },
+    "02859": {
+      "dId": "ᤋᤠᤶᤈᤓᤧᤰᤏᤠ",
+      "desc": "/ताम्जभेक्ना/",
+      "group": "AZ",
+      "mean": "<p>a kind of wild pigeon.</p>मलेवा (चरो) ।"
+    },
+    "02860": {
+      "dId": "ᤋᤠᤶᤈᤡ ",
+      "desc": "/ताम्जि/",
+      "group": "AZ",
+      "mean": "<p>dust; wast matter.</p>कसिङ्गर; धूलोमूलो; फोहोर-मैला ।"
+    },
+    "02861": {
+      "dId": "ᤋᤠᤶᤍᤠᤶ",
+      "desc": "/ताम्दाम्/",
+      "group": "AZ",
+      "mean": "<p>leisure; free time; spare time.</p>फुर्सदको बेला वा अवस्था; कामको चाप नभएको बेला; होलो समय ।"
+    },
+    "02862": {
+      "dId": "ᤋᤠᤶᤍᤢ᤺ᤰᤂᤣ᤹/ᤋᤠᤶᤍᤢᤁ᤻ᤂᤣ᤹",
+      "desc": "/ताम्दुःक्खे?/",
+      "group": "AZ",
+      "mean": "<p>broom.</p>कूचो ।"
+    },
+    "02863": {
+      "dId": "ᤋᤠᤶᤒᤢᤗᤠ᤺ᤱ/ᤋᤠᤶᤒᤢᤗᤠᤅ᤻",
+      "desc": "/ताम्बुलाःङ्/",
+      "group": "AZ",
+      "mean": "<p>a kind of Limbu religious dance.</p>लिम्बूजातिको एक प्रकारको धार्मिक नाच ।"
+    },
+    "02864": {
+      "dId": "ᤋᤠᤶᤒᤢ᤺ᤳ/ᤋᤠᤶᤒᤢᤋ᤻",
+      "desc": "/ताम्बुःत्/",
+      "group": "AZ",
+      "mean": "<p>cardamom. <i>Amomum subulatum.</i></p>अलैची ।"
+    },
+    "02865": {
+      "dId": "ᤋᤠᤶᤓᤢᤱ",
+      "desc": "/ताम्भुङ्/",
+      "group": "AZ",
+      "mean": "<p>forest; jungle.</p>वन; जङ्गल ।"
+    },
+    "02866": {
+      "dId": "ᤋᤠᤶᤓᤢᤱᤄᤣ",
+      "desc": "/ताम्भुङ्घे/",
+      "group": "AZ",
+      "mean": "<p>wild yam.</p>वन-तरूल ।"
+    },
+    "02867": {
+      "dId": "ᤋᤠᤶᤓᤢᤱᤏᤠ",
+      "desc": "/ताम्भुङ्ना/",
+      "group": "AZ",
+      "mean": "<p>a jungle deity; an evil jungle spirit; a hunting deity of the jungle.</p>वनकी देवी; वनकी सिकारी देवी वा देवता ।"
+    },
+    "02868": {
+      "dId": "ᤋᤠᤶᤔᤩᤠ",
+      "desc": "/ताम्म्या/",
+      "group": "AZ",
+      "mean": "<p>millet. <i>Elusine coracana.</i></p>कोदो ।"
+    },
+    "02869": {
+      "dId": "ᤋᤠᤶᤘᤠ᤹",
+      "desc": "/ताम्वा/",
+      "group": "AZ",
+      "mean": "<p>Tamor river; one of the seven tributaries of Kosi; a tributary of Saptakosi.</p>तमोर नदी; तमर (नदी) ।"
+    },
+    "02870": {
+      "dId": "ᤋᤠᤶᤛᤡᤖᤡ ",
+      "desc": "/ताम्सिरि/",
+      "group": "AZ",
+      "mean": "<p>[Tamor] broom.</p>[तमर] कुचो ।"
+    },
+    "02871": {
+      "dId": "ᤋᤠᤶᤛᤢᤖᤡ/ᤋᤠᤶᤛᤧᤖᤡ ",
+      "desc": "/ताम्सुरि/ताम्सेरि/",
+      "group": "AZ",
+      "mean": "<p>[Phedape] broom.</p>[फेदापे] कुचो ।"
+    },
+    "02872": {
+      "dId": "ᤋᤠᤶᤛᤣ᤹",
+      "desc": "/ताम्से?/",
+      "group": "AZ",
+      "mean": "<p>apple (fruit). <i>Malus sylvestris.</i></p>स्याउ ।"
+    },
+    "02873": {
+      "dId": "ᤋᤠᤶᤔᤪᤠᤱᤃᤣ",
+      "desc": "/ताम्म्राङ्गे/",
+      "group": "AZ",
+      "mean": "<p>a kind of Chyabrung dance or Paddy dance named after Tamor valley (east Nepal).</p>लिम्बूजातिको एक प्रकारको नाच; तमर क्षेत्रमा नाचिने धाननाच तथा च्याब्रुङ नाचको एक प्रकार ।"
+    },
+    "02874": {
+      "dId": "ᤋᤠᤶᤔᤪᤠᤱᤃᤣ᤺ᤰ/ᤋᤠᤶᤔᤪᤠᤱᤃᤣᤁ᤻",
+      "desc": "/ताम्म्राङ्गेःक्/",
+      "group": "AZ",
+      "mean": "<p>a ‘Deusi” song in Limbu ethnic culture; a phrase used at the end of  every sentence/ phase of that song.</p>लिम्बूजातिले खेल्ने देउसी; देउसी गीतको हरेक चरणको अन्तमा प्रयोग हुने एक शब्दावली ।"
+    },
+    "02875": {
+      "dId": "ᤋᤠᤕᤠᤱ",
+      "desc": "/तायाङ्/",
+      "group": "AZ",
+      "mean": "<p>income; gain.</p>आम्दानी ।"
+    },
+    "02876": {
+      "dId": "ᤋᤠᤕᤢᤱᤔᤠ",
+      "desc": "/तायुङ्मा/",
+      "group": "AZ",
+      "mean": "<p>presence; to be present.</p>उपस्थिति; उपस्थिति हुनु ।"
+    },
+    "02877": {
+      "dId": "ᤋᤠᤕᤢᤱᤒᤠ",
+      "desc": "/तायुङ्बा/",
+      "group": "AZ",
+      "mean": "<p>presentee; one in front.</p>उपस्थित (व्याक्ति); नजिक रहेको; सामुन्ने भएको (व्याक्ति) ।"
+    },
+    "02878": {
+      "dId": "ᤋᤠᤕᤧᤶ",
+      "desc": "/तायेम्/",
+      "group": "AZ",
+      "mean": "<p>1. time or days to come; future. 2. future tense.</p>१. आउँदो समय वा दिन; भविष्य । २. भविष्यत काल ।"
+    },
+    "02879": {
+      "dId": "ᤋᤠᤖᤠᤱ ᤛᤡᤱ",
+      "desc": "/ताराङ् सिङ्/",
+      "group": "AZ",
+      "mean": "<p>a kind of tree from which wooden vessels are mane. <i>Boehmeria rugulosa.</i></p>दारको रूख ।"
+    },
+    "02880": {
+      "dId": "ᤋᤠᤖᤠᤵ/ᤋᤠᤖᤵ",
+      "desc": "/ताराप्/तारप्/",
+      "group": "AZ",
+      "mean": "<p>aim; goal; target.</p>लक्ष्य; तारो ।"
+    },
+    "02881": {
+      "dId": "ᤋᤠᤖᤡ ",
+      "desc": "/तारि/",
+      "group": "AZ",
+      "mean": "<p>puzzle; riddle.</p>पहेली; अड्को ।"
+    },
+    "02882": {
+      "dId": "ᤋᤠᤖᤡᤰ",
+      "desc": "/तारिक्/",
+      "group": "AZ",
+      "mean": "<p>till; upto; until (denoting time).</p>तक; सम्म; सम्मन् (समयबोधक) ।"
+    },
+    "02883": {
+      "dId": "ᤋᤠᤖᤡᤔᤢᤖᤡ ",
+      "desc": "/तारिमुरि/",
+      "group": "AZ",
+      "mean": "<p>ina haste; hurriedly; hastily.</p>हतारपतार; हतारो; आतुरी ।"
+    },
+    "02884": {
+      "dId": "ᤋᤠᤖᤡ ᤛᤡᤱ",
+      "desc": "/तारि सिङ्/",
+      "group": "AZ",
+      "mean": "<p>a kind of tree, its wood is used to make ‘Doli”/ palanquin/ palankeen/ hansom.</p>डोली काठ; बाहुनीकाठ ।"
+    },
+    "02885": {
+      "dId": "ᤋᤠᤖᤣᤘᤠ᤺ᤴ/ᤋᤠᤖᤣᤘᤠᤏ᤻",
+      "desc": "/तारेवाःन्/",
+      "group": "AZ",
+      "mean": "<p>a silver chain or necklace worn by Kirat Limbu women/ ladies.</p>चाँदीको सिक्री (गहना) ।"
+    },
+    "02886": {
+      "dId": "ᤋᤠᤷᤈᤧᤶ",
+      "desc": "/तार्जेम्/",
+      "group": "AZ",
+      "mean": "<p>gun or spring bow snare kept to trap wild animals.</p>दर्जन; जनवारलाई समात्न धनुकाँड तीखा भालाहरू राखी निर्माण गरीने एक प्रकारको सोला ।"
+    },
+    "02887": {
+      "dId": "ᤋᤠᤗᤠ",
+      "desc": "/ताला/",
+      "group": "AZ",
+      "mean": "<p>floor; storey.</p>तला ।"
+    },
+    "02888": {
+      "dId": "ᤋᤠᤛᤠᤣ",
+      "desc": "/तासो/",
+      "group": "AZ",
+      "mean": "<p>a short rafter to support the bamboo rafters of the roof.</p>बाहाँ (छानाको); छानाको बलो अडाउने ठाउँ ।"
+    },
+    "02889": {
+      "dId": "ᤋᤠᤛᤩᤠᤒᤠ",
+      "desc": "/तास्वाबा/",
+      "group": "AZ",
+      "mean": "<p>traitor.</p>देशद्रोही; विश्वासघाती ।"
+    },
+    "02890": {
+      "dId": "ᤋᤠᤜᤠ᤹ᤒᤠ",
+      "desc": "/ताहा?बा/",
+      "group": "AZ",
+      "mean": "<p>overwork.</p>लछारो; कामको अत्याधिकता ।"
+    },
+    "02891": {
+      "dId": "ᤋᤠᤜᤠ᤺ᤒᤠ",
+      "desc": "/ताहाःबा/",
+      "group": "AZ",
+      "mean": "<p>a portion of profit; bonus.</p>लाभांश; नाफाको भाग ।"
+    },
+    "02892": {
+      "dId": "ᤋᤠᤜᤠᤣ",
+      "desc": "/ताहो/",
+      "group": "AZ",
+      "mean": "<p>abundance; affluence; plethora; having plenty.</p>सह; छेलोखेलो भएको अवस्था । "
+    },
+    "02893": {
+      "dId": "ᤋᤠᤜᤠᤣ᤺ᤵ/ᤋᤠᤜᤠᤣᤐ᤻",
+      "desc": "/ताहोःप्/",
+      "group": "AZ",
+      "mean": "<p>indirect; not clearly visible.</p>अप्रत्यक्ष; अगाडी स्पष्ट नदेखिएको ।"
+    },
+    "02894": {
+      "dId": "ᤋᤠ᤺",
+      "desc": "/ताः/",
+      "group": "AZ",
+      "mean": "<p>cymbal.</p>झ्याम्टा बाजा; झ्याली ।"
+    },
+    "02895": {
+      "dId": "ᤋᤠ᤺ᤰ/ᤋᤠᤁ᤻",
+      "desc": "/ताःक्/",
+      "group": "AZ",
+      "mean": "<p>saddle-cloth.</p>काठीमुनि ओछ्याउने गद्दी ।"
+    },
+    "02896": {
+      "dId": "ᤋᤠ᤺ᤰᤁᤣ/ᤋᤠᤁ᤻ᤁᤣ",
+      "desc": "/ताःक्के/",
+      "group": "AZ",
+      "mean": "<p>unit.</p>एकाइ ।"
+    },
+    "02897": {
+      "dId": "ᤋᤠ᤺ᤰᤁᤪᤡᤒᤠ/ᤋᤠᤁ᤻ᤁᤪᤡᤒᤠ",
+      "desc": "/ताःक्क्रिबा/",
+      "group": "AZ",
+      "mean": "<p>a kind of small spider.</p>सानो किसिमको माकुरो ।"
+    },
+    "02898": {
+      "dId": "ᤋᤠ᤺ᤰᤌᤡ/ᤋᤠᤁ᤻ᤌᤡ ",
+      "desc": "/ताःक्थि/",
+      "group": "AZ",
+      "mean": "<p>millet beer offered as a welcome.</p>स्वागतको क्रममा दिइने जाँड; स्वागतार्थ टक्र्याइने जाँड ।"
+    },
+    "02899": {
+      "dId": "ᤋᤠ᤺ᤰᤐᤠᤣ/ᤋᤠᤁ᤻ᤐᤠᤣ",
+      "desc": "/ताःक्पो/",
+      "group": "AZ",
+      "mean": "<p>consolation; promise; hope.</p>भरोसा; भर ।"
+    },
+    "02900": {
+      "dId": "ᤋᤠ᤺ᤰᤐᤧᤴ/ᤋᤠᤁ᤻ᤐᤧᤴ",
+      "desc": "/ताःक्पेन्/",
+      "group": "AZ",
+      "mean": "<p>object; predicate.</p>कर्म; विधेय ।"
+    },
+    "02901": {
+      "dId": "ᤋᤠ᤺ᤰᤔᤠ/ᤋᤠᤁ᤻ᤔᤠ",
+      "desc": "/ताःक्मा/",
+      "group": "AZ",
+      "mean": "<p>to get; to receive.</p>थाप्नु; केहि चिज अरूबाट हात, पोल्टा, झोला आदिमा प्राप्त गर्नु ।"
+    },
+    "02902": {
+      "dId": "ᤋᤠ᤺ᤰᤗᤡ᤺/ᤋᤠᤁ᤻ᤗᤡ ",
+      "desc": "/ताःक्लि/",
+      "group": "AZ",
+      "mean": "<p>riddle; puzzle.</p>अल्झो; अड्काउ; बाधा ।"
+    },
+    "02903": {
+      "dId": "ᤋᤠ᤺ᤰᤘᤠ/ᤋᤠᤁ᤻ᤘᤠ",
+      "desc": "/ताःक्वा/",
+      "group": "AZ",
+      "mean": "<p>1. iron spool to fasten the bobbin. 2. an iron-spool used to spin and weave.</p>१. धागो बेर्ने  काममा प्रयोग हुने सुइरो । २. बुन्ने-तुन्ने काममा प्रयोग हुने सुइरो । "
+    },
+    "02904": {
+      "dId": "ᤋᤠ᤺ᤰᤛᤠᤣ᤺ᤰ/ᤋᤠᤁ᤻ᤛᤠᤣᤁ᤻",
+      "desc": "/ताःक्सोःक्/",
+      "group": "AZ",
+      "mean": "<p>accusative case.</p>कर्मकारक ।"
+    },
+    "02905": {
+      "dId": "ᤋᤠ᤺ᤰᤜᤴ/ᤋᤠᤁ᤻ᤜᤴ",
+      "desc": "/ताःक्हन्/",
+      "group": "AZ",
+      "mean": "<p>main gate; archway.</p>घर बाहिरको मुलद्वार; तोरणद्वार ।"
+    },
+    "02906": {
+      "dId": "ᤋᤠ᤺ᤴᤇᤠᤣ/ᤋᤠᤏ᤻ᤇᤠᤣ᤺ᤰ",
+      "desc": "/ताःन्छो/ताःन्छोःक्/",
+      "group": "AZ",
+      "mean": "<p>morning between 6-8 am.</p>बिहान; बिहानको करिब ६ देखि ८ बजेतिरको समय; बिहान उज्यालो भइसकेपछिको समय ।"
+    },
+    "02907": {
+      "dId": "ᤋᤠ᤺ᤴᤇᤠᤣ᤺ᤵᤐᤠ/ᤋᤠᤏ᤻ᤇᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/ताःन्छोःप्पा/",
+      "group": "AZ",
+      "mean": "<p>Venus; the morning star.</p>बिहान देखा पर्ने शुक्र ग्रह ।"
+    },
+    "02908": {
+      "dId": "ᤋᤠ᤺ᤴᤈᤠ/ᤋᤠᤏ᤻ᤈᤠ",
+      "desc": "/ताःन्जा/",
+      "group": "AZ",
+      "mean": "<p>breakfast.</p>बिहानको चमेना; बिहानको नास्ता ।"
+    },
+    "02909": {
+      "dId": "ᤋᤠ᤺ᤴᤍᤡ/ᤋᤠᤏ᤻ᤍᤡ ",
+      "desc": "/ताःन्दि/",
+      "group": "AZ",
+      "mean": "<p>in future; afterwards.</p>पछि; भविष्यमा ।"
+    },
+    "02910": {
+      "dId": "ᤋᤠ᤺ᤴᤍᤡᤰ/ᤋᤠᤏ᤻ᤍᤡᤰ",
+      "desc": "/ताःन्दिक्/",
+      "group": "AZ",
+      "mean": "<p>tomorrow.</p>भोली ।"
+    },
+    "02911": {
+      "dId": "ᤋᤠ᤺ᤵᤐᤣ᤺ᤰ/ᤋᤠᤐ᤻ᤐᤣᤁ᤻",
+      "desc": "/ताःप्पेःक्/",
+      "group": "AZ",
+      "mean": "<p>transportation.</p>आवतजावत; यातायात ।"
+    },
+    "02912": {
+      "dId": "ᤋᤠ᤺ᤵᤔᤠ/ᤋᤠᤐ᤻ᤔᤠ",
+      "desc": "/ताःप्मा/",
+      "group": "AZ",
+      "mean": "<p>to bring; fetch sth from any place (non-directional/ non level verb).</p>ल्याउनु; माथी, तल वा वरपर जताबाट भए पनि ल्याउनु ।"
+    },
+    "02913": {
+      "dId": "ᤋᤠ᤺ᤵᤔᤡᤖᤠ/ᤋᤠᤐ᤻ᤔᤡᤖᤠ",
+      "desc": "/ताःप्मिरा/",
+      "group": "AZ",
+      "mean": "<p>import.</p>आयात ।"
+    },
+    "02914": {
+      "dId": "ᤋᤠ᤺ᤔᤠ",
+      "desc": "/ताःमा/",
+      "group": "AZ",
+      "mean": "<p>1. to come from any direction. 2. to stretch hands and reach jp to sb or sth.</p>१. आउनु (जता वा जुनसुकै ठाउँबाट) । २. भेट्नु; भेट्टाउनु (हात तन्काएर) ।"
+    },
+    "02915": {
+      "dId": "ᤋᤠ᤺ᤔᤠ-ᤐᤣ᤺ᤰᤔᤠ/ᤐᤣᤁ᤻ᤔᤠ",
+      "desc": "/ताःमा-पेःक्मा/",
+      "group": "AZ",
+      "mean": "<p>1. coming and going; communication. 2. transport.</p>१. आउनु-जानु; आउने-जाने काम । २. यातायात ।"
+    }
+  }
+}

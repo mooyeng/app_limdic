@@ -1,0 +1,519 @@
+{
+  "Dic": {
+    "03454": {
+      "dId": "ᤌᤣ",
+      "desc": "/थे/",
+      "group": "BG",
+      "mean": "<p>interrogative pronoun, what.</p>प्रश्नार्थक सर्वनाम, के ।"
+    },
+    "03455": {
+      "dId": "ᤌᤣᤀᤠᤱ",
+      "desc": "/थेआङ्/",
+      "group": "BG",
+      "mean": "<p>(adv.) why. (adj.) everythi ng; anything.</p>(क्रिवि.) किन ।; (वि.) जे पनि; केहि पनि ।"
+    },
+    "03456": {
+      "dId": "ᤌᤣ᤹ᤘᤠ",
+      "desc": "/थे?वा/",
+      "group": "BG",
+      "mean": "<p>saliva.</p>र्याल ।"
+    },
+    "03457": {
+      "dId": "ᤌᤣᤃᤣ᤺ᤰᤀᤡ/ᤌᤣᤃᤣᤁ᤻ᤀᤡ ",
+      "desc": "/थेगेःक्-इ/",
+      "group": "BG",
+      "mean": "<p>hair (of the head).</p>केश; कपाल ।"
+    },
+    "03458": {
+      "dId": "ᤌᤣᤃᤣ᤺ᤰᤐᤠ/ᤌᤣᤃᤣᤁ᤻ᤐᤠ",
+      "desc": "/थेगेःक्(पा)/",
+      "group": "BG",
+      "mean": "<p>head.</p>टाउको; शिर ।"
+    },
+    "03459": {
+      "dId": "ᤌᤣᤏᤠᤎᤣ",
+      "desc": "/थेनाधे/",
+      "group": "BG",
+      "mean": "<p>futile; with out any reason.</p>व्यर्थ; निरर्थक ।"
+    },
+    "03460": {
+      "dId": "ᤌᤣᤔᤠ",
+      "desc": "/थेमा/",
+      "group": "BG",
+      "mean": "<p>what.</p>के ।"
+    },
+    "03461": {
+      "dId": "ᤌᤣᤗᤢᤱ",
+      "desc": "/थेलुङ्/",
+      "group": "BG",
+      "mean": "<p>big stone.</p>ठूलो ढुङ्गा ।"
+    },
+    "03462": {
+      "dId": "ᤌᤣᤛᤣ᤺ᤰᤐᤠ/ᤌᤣᤛᤣᤁ᤻ᤐᤠ",
+      "desc": "/थेसेःक्पा/",
+      "group": "BG",
+      "mean": "<p>Bhadra. fifth Nepalese month (Aug-Sep).</p>भाद्र; भदौ ।"
+    },
+    "03463": {
+      "dId": "ᤌᤣᤛᤣ᤺ᤰᤁᤪᤠᤣ/ᤌᤣᤛᤣᤁ᤻ᤁᤪᤠᤣ",
+      "desc": "/थेसेःक्क्रो/",
+      "group": "BG",
+      "mean": "<p>Kartik. seventh Nepalese month (Oct-Nov).</p>कार्तिक ।"
+    },
+    "03464": {
+      "dId": "ᤌᤣ᤺ᤰ/ᤌᤣᤁ᤻",
+      "desc": "/थेःक्/",
+      "group": "BG",
+      "mean": "<p>hair.</p>कपाल; केश; टाउकोको रौँ ।"
+    },
+    "03465": {
+      "dId": "ᤌᤣ᤺ᤰᤔᤠ/ᤌᤣᤁ᤻ᤔᤠ",
+      "desc": "/थेःक्मा/",
+      "group": "BG",
+      "mean": "<p>1. to obscure; ot overshadow; to cover from views; to cover from someone’s eyes. 2. to defend; to guard; to protect.</p>१. छेक्नु; नदेखिने पार्नु (छेकेर); ओझेल पार्नु । २. जोगाउनु; रक्षा गर्नु । "
+    },
+    "03466": {
+      "dId": "ᤌᤣ᤺ᤰᤛᤡᤱᤔᤠ/ᤌᤣᤁ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/थेःक्सिङ्मा/",
+      "group": "BG",
+      "mean": "<p>1. to be obscured from views of others. 2. to block or obscure from views of each other.</p>१. छेकिनु; छेलिनु । २. परस्परमा छेकाछेक गर्नु; परस्परमा छेकिएर बस्नु ।"
+    },
+    "03467": {
+      "dId": "ᤌᤣ᤺ᤰᤛᤧᤖᤧ/ᤌᤣᤁ᤻ᤛᤧᤖᤧ",
+      "desc": "/थेःक्सेरे/",
+      "group": "BG",
+      "mean": "<p>matted and disheveled hair.</p>झाँक्रो; जगल्टो ।"
+    },
+    "03468": {
+      "dId": "ᤌᤠᤣ᤹ᤔᤠ",
+      "desc": "/थो?मा/",
+      "group": "BG",
+      "mean": "<p>to become bright.</p>उज्यालो हुनु ।"
+    },
+    "03469": {
+      "dId": "ᤌᤠᤣ-ᤌᤠ᤺ᤱᤛᤡᤱ/ᤌᤠᤅ᤻ᤛᤡᤱ",
+      "desc": "/थो-थाःङ्सिङ्/",
+      "group": "BG",
+      "mean": "<p>higher.</p>उच्चतर ।"
+    },
+    "03470": {
+      "dId": "ᤌᤠᤣᤒᤠᤣ",
+      "desc": "/थोबो/",
+      "group": "BG",
+      "mean": "<p>progress; development.</p>प्रगति; उत्थान; विकास ।"
+    },
+    "03471": {
+      "dId": "ᤌᤠᤣᤒᤠᤣᤍᤡᤱ",
+      "desc": "/थोबोदिङ्/",
+      "group": "BG",
+      "mean": "<p>progress; development.</p>प्रगति; विकास ।"
+    },
+    "03472": {
+      "dId": "ᤌᤠᤣᤒᤠᤣᤍᤡᤱᤒᤠ",
+      "desc": "/थोबोदिङ्बा/",
+      "group": "BG",
+      "mean": "<p>progressive.</p>प्रगतिशिल; प्रगतिबादि ।"
+    },
+    "03473": {
+      "dId": "ᤌᤠᤣᤗᤡ ",
+      "desc": "/थोलि/",
+      "group": "BG",
+      "mean": "<p>shuttle.</p>थुरी; तानमा प्रयोग गरिने एक साधन ।"
+    },
+    "03474": {
+      "dId": "ᤌᤠᤣᤛᤡᤱ-ᤔᤢᤰᤔᤠ",
+      "desc": "/थोसिङ्-मुक्मा/",
+      "group": "BG",
+      "mean": "<p>north pole.</p>उत्तरी ध्रुव ।"
+    },
+    "03475": {
+      "dId": "ᤌᤠᤣᤛᤢᤃᤧᤴ",
+      "desc": "/थोसुगेन्/",
+      "group": "BG",
+      "mean": "<p>higher; upper.</p>उच्चतर; माथिल्लो।"
+    },
+    "03476": {
+      "dId": "ᤌᤠᤣᤛᤢᤃᤧᤴ ᤕᤧᤓᤠᤱ",
+      "desc": "/थोसुगेन् येभाङ्/",
+      "group": "BG",
+      "mean": "<p>1. upper house. 2. National Assembly (Nepal).</p>१. माथिल्लो सदन; संसदको माथिल्लो सभा । २. राष्ट्रिय सभा (नेपाल) ।"
+    },
+    "03477": {
+      "dId": "ᤌᤠᤣᤛᤢᤎᤡᤶᤒᤠ",
+      "desc": "/थोसुधिम्बा/",
+      "group": "BG",
+      "mean": "<p>Chairman of Upper House or National Assembly (Nepal).</p>राष्ट्रिय सभाको अध्यक्ष (नेपाल) ।"
+    },
+    "03478": {
+      "dId": "ᤌᤠᤣ᤺",
+      "desc": "/थोः/",
+      "group": "BG",
+      "mean": "<p>above; up.</p>माथि; उँभो ।"
+    },
+    "03479": {
+      "dId": "ᤌᤠᤣ᤺ᤰ/ᤌᤠᤣᤁ᤻",
+      "desc": "/थोःक्/",
+      "group": "BG",
+      "mean": "<p>ear of crops (barley, maize, paddy).</p>अन्नको बाला ।"
+    },
+    "03480": {
+      "dId": "ᤌᤠᤣ᤺ᤰᤏᤠ/ᤌᤠᤣᤁ᤻ᤏᤠ",
+      "desc": "/थोःक्ना/",
+      "group": "BG",
+      "mean": "<p>sprinkling (holy water).</p>अभिषेक ।"
+    },
+    "03481": {
+      "dId": "ᤌᤠᤣ᤺ᤰᤐᤠ᤺ᤴ/ᤌᤠᤣᤁ᤻ᤐᤠᤏ᤻",
+      "desc": "/थोःक्पान/",
+      "group": "BG",
+      "mean": "<p>conversation leading to a quarrel.</p>झोसपोल ।"
+    },
+    "03482": {
+      "dId": "ᤌᤠᤣ᤺ᤰᤐᤡ/ᤌᤠᤣᤁ᤻ᤐᤡ ",
+      "desc": "/थोःक्पि/",
+      "group": "BG",
+      "mean": "<p>subject; theme.</p>विषय ।"
+    },
+    "03483": {
+      "dId": "ᤌᤠᤣ᤺ᤰᤑᤧᤳᤗᤠ/ᤌᤠᤣᤁ᤻ᤑᤧᤳᤗᤠ",
+      "desc": "/थोःक्फेत्ला/",
+      "group": "BG",
+      "mean": "<p>rhododendron.</p>गुराँस ।"
+    },
+    "03484": {
+      "dId": "ᤌᤠᤣ᤺ᤰᤔᤠ/ᤌᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/थोःक्मा/",
+      "group": "BG",
+      "mean": "<p>1. t bear fruit; to yeild. 2. to spit on sb/sth. 3. to cook (food).</p>१. फल लाग्नु; फल्नु । २. अरूतिर थुकिदिनु । ३. पकाउनु ।"
+    },
+    "03485": {
+      "dId": "ᤌᤠᤣ᤺ᤰᤗᤠ/ᤌᤠᤣᤁ᤻ᤗᤠ",
+      "desc": "/थोःक्ला/",
+      "group": "BG",
+      "mean": "<p>presents/ gifts offered (sp by the married sisters) with an intention of financial support.</p>ढोया; विशेष गरी चेलीबेटीले आर्थिक सहयोगको आशा गरी चढाउने कोसेली ।"
+    },
+    "03486": {
+      "dId": "ᤌᤠᤣ᤺ᤰᤘᤠ/ᤌᤠᤣᤁ᤻ᤘᤠ",
+      "desc": "/थोःक्वा/",
+      "group": "BG",
+      "mean": "<p>a long bamboo water vessel.</p>धिरी ।"
+    },
+    "03487": {
+      "dId": "ᤌᤠᤣ᤺ᤱᤔᤠ/ᤌᤠᤣᤅ᤻ᤔᤠ",
+      "desc": "/थोःङ्मा/",
+      "group": "BG",
+      "mean": "<p>1. to spit. 2. to butt/ strike or kick sb/ sth (with horns, head or hind legs by animal).</p>१. थुक्नु । २. जनावरले सिङ् वा खुट्टाले हान्नु ।"
+    },
+    "03488": {
+      "dId": "ᤌᤠᤣ᤺ᤵᤔᤠ/ᤌᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/थोःप्मा/",
+      "group": "BG",
+      "mean": "<p>to craved sth more (and more); to be tempted/ attached to/ attracted toward; to get accustomed.</p>पल्कनु ।"
+    },
+    "03489": {
+      "dId": "ᤌᤠᤣ᤺ᤶᤈᤡ/ᤌᤠᤣᤔ᤻ᤈᤡ ",
+      "desc": "/थोःम्जि/",
+      "group": "BG",
+      "mean": "<p>spying; detective act.</p>गुप्तचरी; गुप्तचरको काम ।"
+    },
+    "03490": {
+      "dId": "ᤌᤠᤣ᤺ᤶᤈᤡᤒᤠ/ᤌᤠᤣᤔ᤻ᤈᤡᤒᤠ",
+      "desc": "/थोःम्जिबा/",
+      "group": "BG",
+      "mean": "<p>spy; detective.</p>गुप्तचर ।"
+    },
+    "03491": {
+      "dId": "ᤌᤠᤣ᤺ᤶᤈᤡᤰ/ᤌᤠᤣᤔ᤻ᤈᤡᤰ",
+      "desc": "/थोःम्जिक्/",
+      "group": "BG",
+      "mean": "<p>manner of walking like a swan.</p>ढल्की ढल्की, लचक लचक गरी वा हाँसको चालले हिँडेने किसिमले ।"
+    },
+    "03492": {
+      "dId": "ᤌᤠᤣ᤺ᤶᤔᤠ/ᤌᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/थोःम्मा/",
+      "group": "BG",
+      "mean": "<p>1. to spy on sb; to lie on wait. 2. to try to get information.</p>१. चियाउनु । २. कुरा कोट्याउनु ।"
+    },
+    "03493": {
+      "dId": "ᤌᤠᤣ᤺ᤶᤛᤡᤱᤔᤠ/ᤌᤠᤣᤔ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/थोःम्सिङ्मा/",
+      "group": "BG",
+      "mean": "<p>to spy on each other.</p>एकले अर्काको चियो गर्नु ।"
+    },
+    "03494": {
+      "dId": "ᤌᤧ",
+      "desc": "/थे/",
+      "group": "BG",
+      "mean": "<p>split bamboo or cane.</p>चोया ।"
+    },
+    "03495": {
+      "dId": "ᤌᤧᤃᤡᤶᤒᤠ",
+      "desc": "/थेगिम्बा/",
+      "group": "BG",
+      "mean": "<p>wicker worker.</p>बाँस/काँसको सामग्री बनाउने कामदार"
+    },
+    "03496": {
+      "dId": "ᤌᤧ᤹ᤔᤠ",
+      "desc": "/थे?मा/",
+      "group": "BG",
+      "mean": "<p>to grow thick.</p>झाङ्गिनु; फैलिनु ।"
+    },
+    "03497": {
+      "dId": "ᤌᤧ᤹ᤕᤠᤣ",
+      "desc": "/थे?यो/",
+      "group": "BG",
+      "mean": "<p>a kind of split bamboo net that is put into the middle of a river to catch fish.</p>टिप; बाँसको टाटी हाली बनाएको माछा मार्ने/ थुन्ने एक प्रकारको जाल ।"
+    },
+    "03498": {
+      "dId": "ᤌᤧ᤹ᤕᤠᤣ᤺ᤰ/ᤌᤧᤕᤠᤣᤁ᤻",
+      "desc": "/थे?योःक्/",
+      "group": "BG",
+      "mean": "<p>phlegm.</p>खकार ।"
+    },
+    "03499": {
+      "dId": "ᤌᤧᤰᤁᤠ᤺ᤵ/ᤌᤧᤰᤁᤠᤐ᤻",
+      "desc": "/थेःक्काप्/",
+      "group": "BG",
+      "mean": "<p>a kind of paper plang.</p>रातो अर्घेली ।"
+    },
+    "03500": {
+      "dId": "ᤌᤧᤰᤔᤠ",
+      "desc": "/थेक्मा/",
+      "group": "BG",
+      "mean": "<p>to throw in; to thrust in; to stuff into (hole, pocket, bag).</p>घुसार्नु; भित्र हाल्नु; कुनै पत्रमा बलपूर्बक हाल्नु ।"
+    },
+    "03501": {
+      "dId": "ᤌᤧᤃᤠ᤺ᤱ/ᤌᤧᤃᤠᤅ᤻",
+      "desc": "/थेगाःङ्/",
+      "group": "BG",
+      "mean": "<p>abdomen.</p>पेट ।"
+    },
+    "03502": {
+      "dId": "ᤌᤧᤃᤢ",
+      "desc": "/थेगु/",
+      "group": "BG",
+      "mean": "<p>hollock; small hill.</p>डाँडा (सानो) ।"
+    },
+    "03503": {
+      "dId": "ᤌᤧᤃᤩᤠᤱ(ᤔᤠ)",
+      "desc": "/थेग्याङ्(मा)/",
+      "group": "BG",
+      "mean": "<p>main entrail.</p>मूल आन्द्रा ।"
+    },
+    "03504": {
+      "dId": "ᤌᤧᤄᤠ᤺ᤵᤔᤡ/ᤌᤧᤄᤠᤐ᤻ᤔᤡ ",
+      "desc": "/थेघाःप्मि/",
+      "group": "BG",
+      "mean": "<p>rain-bearing cloud.</p>बादल; मनसुनी बादल ।"
+    },
+    "03505": {
+      "dId": "ᤌᤧᤈᤡ ",
+      "desc": "/थेजि/",
+      "group": "BG",
+      "mean": "<p>signature.</p>दस्तखत; सही ।"
+    },
+    "03506": {
+      "dId": "ᤌᤧᤳ",
+      "desc": "/थेत्/",
+      "group": "BG",
+      "mean": "<p>spittle; saliva.</p>थुक; र्याल ।"
+    },
+    "03507": {
+      "dId": "ᤌᤧᤳᤌᤧ᤹",
+      "desc": "/थेत्थे?/",
+      "group": "BG",
+      "mean": "<p>grandfather.</p>बाजे ।"
+    },
+    "03508": {
+      "dId": "ᤌᤧᤳᤌᤧ᤹ᤖᤧ ᤌᤧᤖᤧᤱ",
+      "desc": "/थेत्थे?रे थेरेङ्/",
+      "group": "BG",
+      "mean": "<p>the third light in the story of creation.</p>श्रृष्टिको तेस्रो उज्यालो ।"
+    },
+    "03509": {
+      "dId": "ᤌᤧᤳᤗᤠ",
+      "desc": "/थेत्ला/",
+      "group": "BG",
+      "mean": "<p>a small loan or borrowing.</p>पैँचो; सापट ।"
+    },
+    "03510": {
+      "dId": "ᤌᤧᤏᤠᤶᤒᤠ",
+      "desc": "/थनाम्बा/",
+      "group": "BG",
+      "mean": "<p>the act of sun heading to the north.</p>उत्तरायण; सुर्य उत्तरतर्फ लाग्ने काम ।"
+    },
+    "03511": {
+      "dId": "ᤌᤧᤏᤡᤱᤛᤣ",
+      "desc": "/थेनिङ्से/",
+      "group": "BG",
+      "mean": "<p>hydrogen (gas).</p>हाइड्रोजन ।"
+    },
+    "03512": {
+      "dId": "ᤌᤧᤵᤆᤠᤣ",
+      "desc": "/थेप्चे/",
+      "group": "BG",
+      "mean": "<p>thumb impression.</p>बूढी औंठाको छाप ।"
+    },
+    "03513": {
+      "dId": "ᤌᤧᤵᤌᤧᤵ",
+      "desc": "/थेप्थेप्/",
+      "group": "BG",
+      "mean": "<p>serially.</p>लहरै; क्रमश; सिलसिलाबद्ध ।"
+    },
+    "03514": {
+      "dId": "ᤌᤧᤵᤔᤠ",
+      "desc": "/थेप्मा/",
+      "group": "BG",
+      "mean": "<p>1. to drive/ ram (nail, stake). 2. to nail; to fetter/ shackle.</p>१. कीला, काँटी आदि ठोक्नु । २. ठिङ्गुरा ठोक्नु (कस्नु); नेल ठोक्नु ।"
+    },
+    "03515": {
+      "dId": "ᤌᤧᤒᤠ",
+      "desc": "/थेबा/",
+      "group": "BG",
+      "mean": "<p>grandfather.</p>बाजे; बाबुको बाबु; आमाको बाबु ।"
+    },
+    "03516": {
+      "dId": "ᤌᤧᤒᤠᤈᤠ",
+      "desc": "/थेबाजा/",
+      "group": "BG",
+      "mean": "<p>a customary present offered by the bridegroom to the grandfather-in-law in the first meeting.</p>विवाहपछि बाजेससुरोसितको प्रथम भेट/ चिनारीमा ज्वाईँबाट चढाइने ढोगौली दस्तुर ।"
+    },
+    "03517": {
+      "dId": "ᤌᤧᤒᤠᤛᤠᤶ",
+      "desc": "/थेबासाम्/",
+      "group": "BG",
+      "mean": "<p>1. a grandfather-deity who is believed to have been incarnated in the Nembang clan/ family of the Limbus; also call Ke:mba Sammang. 2. God of war; God of might.</p>१. लिम्बू जातिको नेम्बाङ् कुलमा अवतारित ईश्वरको रूप- बाजे देवता; जसलाई केःम्बा साम्माङ् पनि भनिन्छ । २. रण देवता; शक्तिको देवता ।"
+    },
+    "03518": {
+      "dId": "ᤌᤧᤔᤠ",
+      "desc": "/थेमा/",
+      "group": "BG",
+      "mean": "<p>what.</p>के ।"
+    },
+    "03519": {
+      "dId": "ᤌᤧᤔᤠᤱ",
+      "desc": "/थेमाङ्/",
+      "group": "BG",
+      "mean": "<p>ancestor spirit/deity which when pleased bestows the human beings with good health, prosperity and long life; It is believed that one should perform its worship every twelfth year or atleast eight times in his life.</p>पितृ (देवता); मृतकको लोकको मालिक वा राजा जसले प्रसन्न हुदा सुस्वास्थ्य दिर्घायु र समृद्धि प्रदान गर्छन र जसको पूजा बाह्र वर्षमा एकपटक वा एउटा मान्छेको जीवनकालमा आठपटक गर्ने गरिन्छ ।"
+    },
+    "03520": {
+      "dId": "ᤌᤧᤶᤔᤠ",
+      "desc": "/थेम्मा/",
+      "group": "BG",
+      "mean": "<p>to criticise someone in his presince.</p>आलोचना गर्नु; टीकाटिप्पणी गर्नु (सामुन्ने; मुखेन्जी) ।"
+    },
+    "03521": {
+      "dId": "ᤌᤧᤕᤠᤰᤐᤣ",
+      "desc": "/थेयाक्पे/",
+      "group": "BG",
+      "mean": "<p>a cliff or medium size.</p>मझौला भीर; पखेरो ।"
+    },
+    "03522": {
+      "dId": "ᤌᤧᤕᤧ᤺ᤱᤄᤠ/ᤌᤧᤕᤧᤅ᤻ᤄᤠ",
+      "desc": "/थेयेःङ्घा/",
+      "group": "BG",
+      "mean": "<p>coarse sand.</p>खस्रो बालुवा ।"
+    },
+    "03523": {
+      "dId": "ᤌᤧᤛᤡᤱᤒᤠ",
+      "desc": "/थेरिङ्बा/",
+      "group": "BG",
+      "mean": "<p>leopard (brown stripped leopard) .</p>राघे चितुवा ।"
+    },
+    "03524": {
+      "dId": "ᤌᤧᤖᤧᤱᤏᤠᤶ",
+      "desc": "/थेरेङ्नाम्/",
+      "group": "BG",
+      "mean": "<p>Baishakh;  first Nepalese month (Apr-May).</p>बैशाख (महिना) ।"
+    },
+    "03525": {
+      "dId": "ᤌᤧᤷᤘᤠᤏᤠ",
+      "desc": "/थेर्वाना/",
+      "group": "BG",
+      "mean": "<p>roller; a kind of bird. Coracias bmeanhalensis.</p>ठ्यौवा चरो ।"
+    },
+    "03526": {
+      "dId": "ᤌᤧᤗᤢᤱ",
+      "desc": "/थेलुङ्/",
+      "group": "BG",
+      "mean": "<p>stone lodging on river banks/ shore/ beach.</p>खोलाको ढुङ्गा ।"
+    },
+    "03527": {
+      "dId": "ᤌᤧᤛᤠᤰ",
+      "desc": "/थेसाक्/",
+      "group": "BG",
+      "mean": "<p>vanity; arrogance.</p>घमण्ड; अहङ्कार ।"
+    },
+    "03528": {
+      "dId": "ᤌᤧᤛᤢ᤺ᤵ/ᤌᤧᤛᤢᤐ᤻-ᤘᤠ",
+      "desc": "/थेसुप्-वा/",
+      "group": "BG",
+      "mean": "<p>acid.</p>अम्ल ।"
+    },
+    "03529": {
+      "dId": "ᤌᤧ᤺ᤰᤌᤧ᤺ᤰ/ᤌᤧᤁ᤻ᤌᤧᤁ᤻",
+      "desc": "/थेःक्थेःक्/",
+      "mean": "<p>overcrowding; manner of overeating.</p>खाँदाखाँद गरी; खाँदीखाँदी ।"
+    },
+    "03530": {
+      "dId": "ᤌᤧ᤺ᤰᤔᤠ/ᤌᤧᤁ᤻ᤔᤠ",
+      "desc": "/थेःक्मा/",
+      "group": "BG",
+      "mean": "<p>to press hard; to put in forcefully; to stuff.</p>थिच्नु; खाँद्नु ।"
+    },
+    "03531": {
+      "dId": "ᤌᤧ᤺ᤰᤛᤡᤱᤔᤠ/ᤌᤧᤁ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/थेःक्सिङ्मा/",
+      "group": "BG",
+      "mean": "<p>1. to overeat; to stuff oneself with more food; to eat more than required. 2. to be stuffed/  sanwiched with each other.</p>१. घिच्नु; कोचिकोचि खानु । २. खाँदाखाँद गर्नु; कोचाकोच गर्नु ।"
+    },
+    "03532": {
+      "dId": "ᤌᤧ᤺ᤱᤔᤠ/ᤌᤧᤅ᤻ᤔᤠ",
+      "desc": "/थेःङ्मा/",
+      "group": "BG",
+      "mean": "<p>to tear (cloth); to open forcefully (mouth).</p>च्यात्नु (कपडा); बलपूर्वक उघार्नु (मुख) ।"
+    },
+    "03533": {
+      "dId": "ᤌᤧ᤺ᤵᤔᤠ/ᤌᤧᤐ᤻ᤔᤠ",
+      "desc": "/थेःप्मा/",
+      "group": "BG",
+      "mean": "<p>1. to pay off; to redeem/ recover sth (paying off a loan). 2. to get sb free on bail.</p>१. निखन्नु; उकास्नु (बन्दकी माल) । २. जमानतमा छुटाउनु (बन्दि); जमानतमा उकास्नु ।"
+    },
+    "03534": {
+      "dId": "ᤌᤧ᤺ᤔᤠ",
+      "desc": "/थेःमा/",
+      "group": "BG",
+      "mean": "<p>to rip; to dissect.</p>फोर्नु; फ्याक पार्नु ।"
+    },
+    "03535": {
+      "dId": "ᤌᤧ᤺ᤶᤔᤠ/ᤌᤧᤔ᤻ᤔᤠ",
+      "desc": "/थेःम्मा/",
+      "group": "BG",
+      "mean": "<p>to cause sth to fall down; to knock down.</p>ढाल्नु; लडाउनु।"
+    },
+    "03536": {
+      "dId": "ᤌᤩ᤺ᤱ/ᤌᤩᤅ᤻",
+      "desc": "/थ्यःङ्/",
+      "group": "BG",
+      "mean": "<p>1. total. 2. total annihilation; ruination. 3. the sound of a gun fire.</p>१. टाकटुक; सबै; सर्वस्व । २. विनाश; सर्वनास; विध्वंश । ३. बन्दुक पड्केको आवाज ।"
+    },
+    "03537": {
+      "dId": "ᤌᤩᤠ᤺ᤳ/ᤌᤩᤠᤋ᤻",
+      "desc": "/थ्याःत्/",
+      "group": "BG",
+      "mean": "<p>spittle; sputum; saliva.</p>थुक ।"
+    },
+    "03538": {
+      "dId": "ᤌᤩᤧ",
+      "desc": "/थ्ये/",
+      "group": "BG",
+      "mean": "<p>split cane.</p>चोया ।"
+    },
+    "03539": {
+      "dId": "ᤌᤩᤧᤃᤠᤱ",
+      "desc": "/थ्येगाङ्/",
+      "group": "BG",
+      "mean": "<p>abdomen; stomach.</p>ठूलो भूँडी ।"
+    }
+  }
+}

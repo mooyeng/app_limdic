@@ -1,0 +1,418 @@
+{
+  "Dic": {
+    "04594": {
+      "dId": "ᤐᤧ᤹ᤔᤠ᤺ᤳ/ᤐᤧ᤹ᤔᤠᤋ᤻",
+      "desc": "/पे?माःत्/",
+      "group": "BQ",
+      "mean": "<p>vomit.</p>बान्ता;  छाद ।"
+    },
+    "04595": {
+      "dId": "ᤐᤧᤰᤁᤰ",
+      "desc": "/पेक्कक्/",
+      "group": "BQ",
+      "mean": "<p>parcels and baggage; goods.</p>झिटीझाम्टा वा गुन्टा ।"
+    },
+    "04596": {
+      "dId": "ᤐᤧᤃᤰ",
+      "desc": "/पेगक्/",
+      "group": "BQ",
+      "mean": "<p>manner of being twisted/crooked.</p>बाङ्गो चालाले ।"
+    },
+    "04597": {
+      "dId": "ᤐᤧᤃᤧᤱ",
+      "desc": "/पेगेङ्/",
+      "group": "BQ",
+      "mean": "<p>italicized; oblique.</p>छड्के ।"
+    },
+    "04598": {
+      "dId": "ᤐᤧᤱ",
+      "desc": "/पेङ्/",
+      "group": "BQ",
+      "mean": "<p>sitting suddenly/abruptly.</p>थचक्क; थ्याच्च ।"
+    },
+    "04599": {
+      "dId": "ᤐᤧᤈᤧᤰ",
+      "desc": "/पेजेक्/",
+      "group": "BQ",
+      "mean": "<p>1. easily breaking or snapping. 2. breaking wholly/totally.</p>१. पिटिक्क; पिटिक्क भाँचिने चालाले । २. ठनक्क; ठनक्क भाँचिने चालाले ।"
+    },
+    "04600": {
+      "dId": "ᤐᤧᤈᤧᤰᤏᤠ",
+      "desc": "/पेजेक्ना/",
+      "group": "BQ",
+      "mean": "<p>(fem.) garrulous; chattering.</p>फतौरी; फतफत गर्ने (स्त्री) ।"
+    },
+    "04601": {
+      "dId": "ᤐᤧᤈᤧᤰᤆᤧᤰᤏᤠ",
+      "desc": "/पेजेक्चेक्ना/",
+      "group": "BQ",
+      "mean": "<p>(fem.) garrulous; chattering.(fem.) garrulous; chattering.</p>फतौरी; फतफत गर्ने (स्त्री) ।"
+    },
+    "04602": {
+      "dId": "ᤐᤧᤈᤧᤱᤆᤧᤱ",
+      "desc": "/पेजेङ्चेङ्/",
+      "group": "BQ",
+      "mean": "<p>prattle; grumble; garrulity.</p>फतफत; कचकच ।"
+    },
+    "04603": {
+      "dId": "ᤐᤧᤳᤋᤃᤠᤣ",
+      "desc": "/पेत्तगो/",
+      "group": "BQ",
+      "mean": "<p>a measure of weight equivalent to five seers.</p>पाँच सेरको ढक; पन्सेरी; पसेरी ।"
+    },
+    "04604": {
+      "dId": "ᤐᤧᤳᤋ᤺ᤰᤏᤠ/ᤐᤧᤳᤋᤁ᤻ᤏᤠ/ᤐᤠ",
+      "desc": "/पेत्तःक्ना/पा/",
+      "group": "BQ",
+      "mean": "<p>(small) frog; tadpole.</p>(सानो) भ्यागुत्तो ।"
+    },
+    "04605": {
+      "dId": "ᤐᤧᤳᤋᤧᤰᤋᤧᤰ",
+      "desc": "/पेत्तेक्तेक्/",
+      "group": "BQ",
+      "mean": "<p>in a prattling/grumbling/chattering/garrulous way.</p>फतफत बोलिरहने किसिमले; बकबक गरिरहने चालाले ।"
+    },
+    "04606": {
+      "dId": "ᤐᤧᤳᤌᤣᤔᤠ",
+      "desc": "/पेत्थेमा/",
+      "group": "BQ",
+      "mean": "<p>witch; hag; demoness; shrew; termagant.</p>चुँडैल; डङ्किनी; पिशाचनी ।"
+    },
+    "04607": {
+      "dId": "ᤐᤧᤳᤌᤩᤠᤱ",
+      "desc": "/पेत्थ्याङ्/",
+      "group": "BQ",
+      "mean": "<p>umbilical cords.</p>साल; अम्रो ।"
+    },
+    "04608": {
+      "dId": "ᤐᤧᤳᤋᤩᤠᤣᤏᤠᤔᤠ",
+      "desc": "/पेत्त्योनामा/",
+      "group": "BQ",
+      "mean": "<p>carrot. <i>Daucus carota.</i></p>गाजर ।"
+    },
+    "04609": {
+      "dId": "ᤐᤧᤎᤢᤵ",
+      "desc": "/पेधुप्/",
+      "group": "BQ",
+      "mean": "<p>(n.) dagger with a sharp point. (adv.) stabbing suddenly (by a dagger with a sharp point).</p>(ना.) चुपी; टुप्पा चुच्चो भएको घोच्ने तिखो हतियार । (क्रिवि.) घ्वाप्प, घ्वाम्म रोप्ने किसिमले ।"
+    },
+    "04610": {
+      "dId": "ᤐᤧᤍᤰ ᤐᤧᤍᤰ",
+      "desc": "/पेदक् पेदक्/",
+      "group": "BQ",
+      "mean": "<p>in a toddling manner.</p>टुकुटुकु; टुकुटुकु हिँड्ने किसिमले ।"
+    },
+    "04611": {
+      "dId": "ᤐᤧᤍᤧᤴ",
+      "desc": "/पेदेन्/",
+      "group": "BQ",
+      "mean": "<p>mat; sheet; carpet etc; floor-spread.</p>भुइँमा ओछ्याउने वस्तु (गुन्द्री, कार्पेट आदि) ।"
+    },
+    "04612": {
+      "dId": "ᤐᤧᤏᤠ",
+      "desc": "/पेना/",
+      "group": "BQ",
+      "mean": "<p>[Tamor] millet; finger millet. <i>Eleusine coracana.</i></p>[तमर] कोदो ।"
+    },
+    "04613": {
+      "dId": "ᤐᤧᤏᤣᤒᤠ",
+      "desc": "/पेनेबा/",
+      "group": "BQ",
+      "mean": "<p>a Limbu word to denote the Bahun caste.</p>लिम्बूमा बाहुन जाति (जैसी समेत) लाई जनाउने शब्द ।"
+    },
+    "04614": {
+      "dId": "ᤐᤧᤴ",
+      "desc": "/पेन्/",
+      "group": "BQ",
+      "mean": "<p>1. one; a copy/piece/sheet, etc. 2. a diagram showing the positions of planets, constellations, etc, 3. chum; coeval friend; contemporary (friend); colleague.</p>१. थान; प्रति; गोटा; ओटा । २. कुण्डली; ग्रह-नक्षत्रादिको कोष्ठ । ३. दौंतरी; समवयस्क ।"
+    },
+    "04615": {
+      "dId": "ᤐᤧᤴᤀᤡ᤺ᤳ/ᤐᤧᤴᤀᤡᤋ᤻",
+      "desc": "/पेन्इःत्/",
+      "group": "BQ",
+      "mean": "<p>a corrupt clan due to incest/having incestuous relation.</p>बिग्रेको वंशज ।"
+    },
+    "04616": {
+      "dId": "ᤐᤧᤴᤇᤡᤱ",
+      "desc": "/पेन्छिङ्/",
+      "group": "BQ",
+      "mean": "<p>sentence.</p>वाक्य ।"
+    },
+    "04617": {
+      "dId": "ᤐᤧᤴᤇᤡᤱᤔᤠ",
+      "desc": "/पेन्छिङ्मा/",
+      "group": "BQ",
+      "mean": "<p>1. to stand in a line or queue; to line/queue up; to fall in a line; to stand abreast. 2. to estimate oneself as being on a par with sb; to compare oneself with sb.</p>१. लहर/लाम लागेर बस्नु; पङ्तिबद्ध हुनु । २. दाँजिनु ।"
+    },
+    "04618": {
+      "dId": "ᤐᤧᤴᤇᤣ᤹",
+      "desc": "/पेन्छे?/",
+      "group": "BQ",
+      "mean": "<p>a variety of Elaeocarpus; its seeds are used for rosaries. <i>Elaeocarpus ganitrus (Elaeocarpus sphaericus).</i></p>रुद्राक्ष ।"
+    },
+    "04619": {
+      "dId": "ᤐᤧᤴᤈᤡ ",
+      "desc": "/पेन्जि/",
+      "group": "BQ",
+      "mean": "<p>reason; cause.</p>कारण ।"
+    },
+    "04620": {
+      "dId": "ᤐᤧᤴᤈᤡᤖᤡ ",
+      "desc": "/पेन्जिरि/",
+      "group": "BQ",
+      "mean": "<p>a pair.</p>जोडी ।"
+    },
+    "04621": {
+      "dId": "ᤐᤧᤴᤎᤰ",
+      "desc": "/पेन्धक्/",
+      "group": "BQ",
+      "mean": "<p>technique.</p>शिल्प ।"
+    },
+    "04622": {
+      "dId": "ᤐᤧᤴᤏᤠᤱ",
+      "desc": "/पेन्नाङ्/",
+      "group": "BQ",
+      "mean": "<p>[Phedape] third in seniority; third son in order of birth.</p>[फेदापे] साइँलो; साहिँलो ।"
+    },
+    "04623": {
+      "dId": "ᤐᤧᤴᤏᤠᤶ",
+      "desc": "/पेन्नाम्/",
+      "group": "BQ",
+      "mean": "<p>(writing) style.</p>(लेखन) शैली ।"
+    },
+    "04624": {
+      "dId": "ᤐᤧᤴᤕᤠ",
+      "desc": "/पेन्या/",
+      "group": "BQ",
+      "mean": "<p>plane.</p>रन्दा; काठ चिप्लो पार्ने ज्यावल ।"
+    },
+    "04625": {
+      "dId": "ᤐᤧᤴ-ᤛᤠᤵ/ᤐᤧᤴᤇᤠᤵ",
+      "desc": "/पेन्-साप्/पेन्छाप्/",
+      "group": "BQ",
+      "mean": "<p>1. line. 2. straight line.</p>१. धर्को; रेखा । २. सिधा रेखा ।"
+    },
+    "04626": {
+      "dId": "ᤐᤧᤵᤐᤧᤵᤐᤠ",
+      "desc": "/पेप्पेप्पा/",
+      "group": "BQ",
+      "mean": "<p>a carpenter’s adze.</p>बसिला; काठ ताछ्ने ज्यावल ।"
+    },
+    "04627": {
+      "dId": "ᤐᤧᤶᤒᤧᤴ",
+      "desc": "/पेम्बेन्/",
+      "group": "BQ",
+      "mean": "<p>equality; equivalence.</p>बराबरी; समानता ।"
+    },
+    "04628": {
+      "dId": "ᤐᤧᤶᤒᤧᤶᤒᤠ",
+      "desc": "/पेम्बेम्बा/",
+      "group": "BQ",
+      "mean": "<p>1. parallel; horizontal. 2. coeval;  contemporary.</p>१. समानान्तर । २. दौंतर; समकालिन ।"
+    },
+    "04629": {
+      "dId": "ᤐᤧᤵᤔᤠ",
+      "desc": "/पेप्मा/",
+      "group": "BQ",
+      "mean": "<p>to chop off/ to remove the ridge of terraced paddy field by hoe; to plain/smooth.</p>ताछ्नु; ताछेर चिल्लो पार्नु ।"
+    },
+    "04630": {
+      "dId": "ᤐᤧᤔᤠ",
+      "desc": "/पेमा/",
+      "group": "BQ",
+      "mean": "<p>(birds etc) to fly.</p>(चरा आदि) उड्नु ।"
+    },
+    "04631": {
+      "dId": "ᤐᤧᤶᤔᤠ",
+      "desc": "/पेम्मा/",
+      "group": "BQ",
+      "mean": "<p>1. (things stuck on wall etc) to be detached; to be loosened; to slip off; to be united. 2. to plain/level/smooth. 3. to make sb stand in a line; to line up; to make/form a line; to make fall in a line.</p>१. उप्कनु; खुस्कनु; फुक्लनु; फुस्कनु । २. सम्याउनु  । ३. लाइन लाउनु; लर्कोमा मिलाउनु ।"
+    },
+    "04632": {
+      "dId": "ᤐᤧᤶᤈᤡᤰ",
+      "desc": "/पेम्मिक्/",
+      "group": "BQ",
+      "mean": "<p>pimple.</p>डण्डीफोर ।"
+    },
+    "04633": {
+      "dId": "ᤐᤧᤶᤔᤧᤴᤇᤠ",
+      "desc": "/पेम्मेन्छा/",
+      "group": "BQ",
+      "mean": "<p>the great grand-son/grand-daughter.</p>खनाति-खनातिनी ।"
+    },
+    "04634": {
+      "dId": "ᤐᤧᤶᤔᤧᤴᤍᤱ",
+      "desc": "/पेम्मेन्दङ्/",
+      "group": "BQ",
+      "mean": "<p>not leveled or flat; rough and rugged.</p>असमतल; खाल्टाखुल्टी भएको ।"
+    },
+    "04635": {
+      "dId": "ᤐᤧᤖᤠᤱᤄᤧ᤺ᤰ/ᤐᤧᤖᤠᤱᤄᤧᤁ᤻",
+      "desc": "/पेराङ्घेक्/",
+      "group": "BQ",
+      "mean": "<p>sitting (on the ground) with crossed or folded legs.</p>पलेँटी; पलेँटी मारेर बस्ने किसिम ।"
+    },
+    "04636": {
+      "dId": "ᤐᤧᤖᤧᤴᤈᤠᤣ/ᤐᤧᤴᤈᤠᤣ",
+      "desc": "/पेरेन्जो/पेन्जो/",
+      "group": "BQ",
+      "mean": "<p>bow-string.</p>ताँदो (धनु वा गुलेलीको) ।"
+    },
+    "04637": {
+      "dId": "ᤐᤧᤖᤧᤶ",
+      "desc": "/पेरेम्/",
+      "group": "BQ",
+      "mean": "<p>sidelong; plain; level; parallel; horizontal (ground, path etc).</p>सम्म परेको; तेर्सो (सोझो); समानान्तर ।"
+    },
+    "04638": {
+      "dId": "ᤐᤧᤖᤧ᤺ᤱᤃᤠᤣ/ᤐᤧᤖᤧᤅ᤻ᤃᤠᤣ",
+      "desc": "/पेरेःङ्गो/",
+      "group": "BQ",
+      "mean": "<p>a big holed or eyed, long and flat basket ‘parungo’ made of split bamboo or cane (to contain fish, mushroom, bamboo shoots etc, to carry them while taking as a present).</p>पेरुङ्गो; चोयाले बुनेको आँखा वा प्वाल ठूलाठूला भएको लाम्चो र चेप्टो चेप (जसमा तामा, माछा, च्याउ आदि वस्तु राख्ने वा पकाएका चीजबीज राखी कोसेली लाने गरिन्छ) । "
+    },
+    "04639": {
+      "dId": "ᤐᤧᤖᤧ᤺ᤱᤘᤠ/ᤐᤧᤖᤧᤅ᤻ᤘᤠ",
+      "desc": "/पेरेःङ्वा/",
+      "group": "BQ",
+      "mean": "<p>baby; suckling.</p>शिशु; दूधे बालक ।"
+    },
+    "04640": {
+      "dId": "ᤐᤧᤷᤈᤧᤶ",
+      "desc": "/पेर्जेम्/",
+      "group": "BQ",
+      "mean": "<p>pair; couple.</p>जोडी ।"
+    },
+    "04641": {
+      "dId": "ᤐᤧᤷᤒᤧᤴ",
+      "desc": "/पेर्बेन्/",
+      "group": "BQ",
+      "mean": "<p>(n.) equal distance. (adj.) parallel. (adv.) in a line/queue/row; parallel to/with sth.</p>(ना.) समदुरीत्व । (वि.) समानान्तर । (क्रिवि.) लहरै वस्ने, उभिने चालाले; पङ्क्तिबद्ध ।"
+    },
+    "04642": {
+      "dId": "ᤐᤧᤗᤡ᤹ᤔᤠ",
+      "desc": "/पेलि?मा/",
+      "group": "BQ",
+      "mean": "<p>(of the joint) to dislocate; to get dislocated.</p>जोर्नी खुस्कनु ।"
+    },
+    "04643": {
+      "dId": "ᤐᤧᤸᤗᤠ᤺ᤰᤘᤠ/ᤐᤧᤸᤗᤠᤁ᤻ᤘᤠ",
+      "desc": "/पेल्लाःक्वा/",
+      "group": "BQ",
+      "mean": "<p>swan; goose.</p>हाँस ।"
+    },
+    "04644": {
+      "dId": "ᤐᤧᤸᤗᤧᤰ",
+      "desc": "/पेल्लेक्/",
+      "group": "BQ",
+      "mean": "<p>breaking/snapping off unexpectedly/altogether; (of joints) getting dislocated suddenly/unexpectedly.</p>(जोर्नी आदि) अकास्मत वा फिस्स चुँडिने, ठनक्क भाँचिने, स्वात्तै खुस्कने किसिमले ।"
+    },
+    "04645": {
+      "dId": "ᤐᤧᤘᤠ",
+      "desc": "/पेवा/",
+      "group": "BQ",
+      "mean": "<p>1. private property/business. 2. one of the constellations.</p>१. व्यक्तिगत धन सम्पत्ति र व्यापार । २. पूर्वषाडा (नक्षत्र) ।"
+    },
+    "04646": {
+      "dId": "ᤐᤧᤜᤡ ",
+      "desc": "/पेहि/",
+      "group": "BQ",
+      "mean": "<p>placenta together with its umbilical cord; navel string; navel.</p>सालनाल ।"
+    },
+    "04647": {
+      "dId": "ᤐᤧᤜᤡᤰᤗᤠ",
+      "desc": "/पेहिक्ला/",
+      "group": "BQ",
+      "mean": "<p>aviation.</p>उड्ययन; उड्ने काम ।"
+    },
+    "04648": {
+      "dId": "ᤐᤧᤜᤣᤖᤡ-ᤔᤳᤆᤡ ",
+      "desc": "/पेहेरि-मत्चि/",
+      "group": "BQ",
+      "mean": "<p>red cherry pepper (chili). Capsicum frutescens.</p>डल्ले खुर्सानी; अकबरे खुर्सानी ।"
+    },
+    "04649": {
+      "dId": "ᤐᤧᤜᤧ᤺ᤱ/ᤐᤧᤜᤧᤅ᤻",
+      "desc": "/पेहेःङ्/",
+      "group": "BQ",
+      "mean": "<p>a particular kind of little bamboo tumblers (tongba) for offering beer to deities.</p>देवीदेवतालाई चढाउने मुख छड्के काटेको बाँसको तोङ्बा ।"
+    },
+    "04650": {
+      "dId": "ᤐᤧ᤺ᤰᤁᤠᤣ᤹/ᤐᤧᤁ᤻ᤁᤠᤣ᤹",
+      "desc": "/पेःक्को?/",
+      "group": "BQ",
+      "mean": "<p>1. a box of split cane. 2. a girl’s pouch made of split bamboos/cane to keep her personal belongings.</p>१. चोयाको बाकस । २. केटीहरूको सामान राख्ने चोयाको पेटारी, भुने ।"
+    },
+    "04651": {
+      "dId": "ᤐᤧ᤺ᤰᤁᤠᤣ᤹ᤛᤠ᤹ᤔᤠ/ᤐᤧᤁ᤻ᤁᤠᤣ᤹ᤛᤠ᤹ᤔᤠ",
+      "desc": "/पेःक्को?सा?मा/",
+      "group": "BQ",
+      "mean": "<p>1. Limbu custom of putting small bamboo sticks in a “pe:kko” by eloping daughter as an indication of her elopement. 2. one of the many customs preformed during Limbu marriage; a delivery of gifts to the girl’s parents from the groom’s side.</p>१. पोइल जाने छोरीचेलीले आफु भागेर गएको संकेत दिन पेःक्को भित्र सिन्का राखी हिँड्ने रीति । २. लिम्बू विवाहमा केटीको माइती पक्षलाई बुझाइने एक प्रकारको रीत ।"
+    },
+    "04652": {
+      "dId": "ᤐᤧ᤺ᤱᤃᤠ᤺ᤰ/ᤐᤧᤅ᤻ᤃᤠᤁ᤻",
+      "desc": "/पेःङ्गाःक्/",
+      "group": "BQ",
+      "mean": "<p>walking with legs apart (due to wounds, etc).</p>टाङ् फारेर हिंड्ने चालाले ।"
+    },
+    "04653": {
+      "dId": "ᤐᤧᤱᤃᤠᤣ᤹",
+      "desc": "/पेःङ्गो?/",
+      "group": "BQ",
+      "mean": "<p>palms folded together as when greeting or offering flowers, etc.</p>अँजुली ।"
+    },
+    "04654": {
+      "dId": "ᤐᤧ᤺ᤱᤘᤠ/ᤐᤧᤅ᤻ᤘᤠ",
+      "desc": "/पेःङ्वा/",
+      "group": "BQ",
+      "mean": "<p>deer.</p>मृग ।"
+    },
+    "04655": {
+      "dId": "ᤐᤧ᤺ᤳᤆᤠ/ᤐᤧᤋ᤻ᤆᤠ",
+      "desc": "/पेःत्चा/",
+      "group": "BQ",
+      "mean": "<p>a special kind of small basket made of split bamboo or cane to contain ground mustard seed ready to be pressed for extracting oil.</p>कोलबाट तेल निकाल्न तोरी पेल्नका लागि तोरीको फुलो हाली थिचिने चोयाको सानो डालो ।"
+    },
+    "04656": {
+      "dId": "ᤐᤧ᤺ᤳᤆᤠᤗᤠᤶ/ᤐᤧᤋ᤻ᤆᤠᤗᤠᤶ",
+      "desc": "/पेःत्चालाम्/",
+      "group": "BQ",
+      "mean": "<p>naval of a new-born baby.</p>शिशुको नाल ।"
+    },
+    "04657": {
+      "dId": "ᤐᤧ᤺ᤵᤔᤠ/ᤐᤧᤐ᤻ᤔᤠ",
+      "desc": "/पेःप्मा/",
+      "group": "BQ",
+      "mean": "<p>to be flattened; to be pressed; to flatten; to become flat (under pressure).</p>थेप्चनु; चेप्टनु ।"
+    },
+    "04658": {
+      "dId": "ᤐᤧ᤺ᤷᤘᤠ",
+      "desc": "/पेःर्वा/",
+      "group": "BQ",
+      "mean": "<p>pigeon. <i>Columbia Livia.</i></p>परेवा ।"
+    },
+    "04659": {
+      "dId": "ᤐᤩᤱᤗᤩ",
+      "desc": "/प्यङ्लङ्/",
+      "group": "BQ",
+      "mean": "<p>odd; strange; peculiar; wonderful.</p>विचित्र ।"
+    },
+    "04660": {
+      "dId": "ᤐᤩᤠᤱᤛᤡ ",
+      "desc": "/प्याङ्सि/",
+      "group": "BQ",
+      "mean": "<p>wetfield.</p>खेत ।"
+    },
+    "04661": {
+      "dId": "ᤐᤩᤧᤐᤠ",
+      "desc": "/प्येपा/",
+      "group": "BQ",
+      "mean": "<p>pupa.</p>प्युपा ।"
+    },
+    "04662": {
+      "dId": "ᤐᤪᤢᤰ",
+      "desc": "/प्रुक्/",
+      "group": "BQ",
+      "mean": "<p>1. pile; heap; crowd. 2. (of men/beasts) crowd; flock; herd; swarm.</p>१. थुप्रो । २. बगाल । "
+    }
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "Dic": {
+    "01997": {
+      "dId": "ᤆ",
+      "desc": "/च/",
+      "group": "AS",
+      "mean": "<p>1. the sixth consonant letter of Sirijunga alphabet. 2. an intensifying prefix.</p>१. सिरिजङ्गा वर्णमालाकाे छैटाैं व्यञ्जनवर्ण । २. अर्थ गाढा बनाउन अन्य शब्दका अगाडि जाेडिने उपसर्ग ।"
+    },
+    "01998": {
+      "dId": "ᤆᤀᤡ᤺ᤳ/ᤆᤀᤡᤋ᤻",
+      "desc": "/चइःत्/",
+      "group": "AS",
+      "mean": "<p>1. nature. 2. appearance; image. 3. picture; portrait; photo.</p>१. प्रकृति । २. रुप;  आकृति । ३. तस्बीर; चित्र; फाेटाे ।"
+    },
+    "01999": {
+      "dId": "ᤆᤀᤡ᤺ᤳᤜᤠᤱᤒᤠ(ᤔᤠ)/ᤆᤀᤡᤋ᤻ᤜᤠᤱᤒᤠ(ᤔᤠ)",
+      "desc": "/चइःत्हाङ्बा(मा)/",
+      "group": "AS",
+      "mean": "<p>1. creator. 2. God.</p>१. सृष्टिकर्ता । २. ईश्वर ।"
+    },
+    "02000": {
+      "dId": "ᤆᤀᤡ᤺ᤳᤁᤢᤵ/ᤆᤀᤡᤋ᤻ᤁᤢᤵ",
+      "desc": "/चइःत्कुप्/",
+      "group": "AS",
+      "mean": "<p>album.</p>अल्बम ।"
+    },
+    "02001": {
+      "dId": "ᤆᤀᤡ᤺ᤳᤗᤢᤱᤔᤠ/ᤆᤀᤡᤋ᤻ᤗᤢᤱᤔᤠ",
+      "desc": "/चइःत्लुङ्मा/",
+      "group": "AS",
+      "mean": "<p>1. creation. 2. act (of god).</p>१. सृष्टि; सृजना । २. लिला (भगवानकाे) ।"
+    },
+    "02002": {
+      "dId": "ᤆ᤹ᤍᤢᤱ",
+      "desc": "/च?दुङ्/",
+      "group": "AS",
+      "mean": "<p>the churning vessel of wood or bamboo.</p>महि पार्ने बाँस वा काठकाे लामाे ढुङ्ग्राे; टाेलाेङ्।"
+    },
+    "02003": {
+      "dId": "ᤆ᤹ᤔᤠ",
+      "desc": "/च?मा/",
+      "group": "AS",
+      "mean": "<p>to leave sb back (esp in the work field) .</p>छाेडिराख्नु (मेलाेमा मेलाे सहित अरू कसैलाई छाेडिराख्नु) ।"
+    },
+    "02004": {
+      "dId": "ᤆ᤹ᤛᤡᤱ",
+      "desc": "/च?सिङ्/",
+      "group": "AS",
+      "mean": "<p>bud. </p>काेपिला; मुना ।"
+    },
+    "02005": {
+      "dId": "ᤆᤰ",
+      "desc": "/चक्/",
+      "group": "AS",
+      "mean": "<p>1. in drops; in a dripping manner. 2. joint; joining; patching; mending. 3. addition (of sum).</p>१. तप तप वा तप्प तप्प चुहिने गरी ।  २. गाँसिएकाे स्थान; गँसाेट; गँसाइ; जाेड । ३. याेग; जाेड ।"
+    },
+    "02006": {
+      "dId": "ᤆᤰᤁᤠᤗᤢᤱ",
+      "desc": "/चक्कालुङ्/",
+      "group": "AS",
+      "mean": "<p>flint.</p>दल्सिङ् ढुङ्गाे (आगाे पार्न/उत्पन्न गर्न प्रयाेग गरीने ) ।"
+    },
+    "02007": {
+      "dId": "ᤆᤰᤁᤪᤰᤔᤠ",
+      "desc": "/चक्क्रक्मा/",
+      "group": "AS",
+      "mean": "<p>1. Adam’s apple. 2. uvula; tonsil.</p>१. रुद्रघण्टी । २. किलकिले; जिब्राेकाे फेदमा भएकाे मासुकाे डल्लाे ।"
+    },
+    "02008": {
+      "dId": "ᤆᤰᤈᤡᤰᤏᤠ",
+      "desc": "/चक्जिक्ना/",
+      "group": "AS",
+      "mean": "<p>a kind of food; a mixture of rice and lenitls cookded together.</p>खिचडी जस्ताे एक प्रकारकाे खाद्य ।"
+    },
+    "02009": {
+      "dId": "ᤆᤰᤏᤠ",
+      "desc": "/चक्ना/",
+      "group": "AS",
+      "mean": "<p>small pieces.small pieces.</p>चाना; टुक्रा ।"
+    },
+    "02010": {
+      "dId": "ᤆᤰᤏᤠᤱ",
+      "desc": "/चक्नाङ्/",
+      "group": "AS",
+      "mean": "<p>one’s fourth younger sibling of the same sex.</p>आफु भन्दा ठीक दुई तह पछि जन्मेकाे सहाेदर; अनुज (एकै लिङ्ग)।"
+    },
+    "02011": {
+      "dId": "ᤆᤰᤏᤡ᤺ᤳ/ᤆᤰᤏᤡᤋ᤻",
+      "desc": "/चक्निःत्/",
+      "group": "AS",
+      "mean": "<p>rapid reading or joining additional or further readings.</p>अतिरिक्त पाठ; द्रुतपाठ ।"
+    },
+    "02012": {
+      "dId": "ᤆᤰᤐᤧᤴᤇᤡᤱ",
+      "desc": "/चक्पेन्छिङ्/",
+      "group": "AS",
+      "mean": "<p>complex sentence.</p>मिश्रवाक्य ।"
+    },
+    "02013": {
+      "dId": "ᤆᤰᤔᤠ",
+      "desc": "/चक्मा/",
+      "group": "AS",
+      "mean": "<p>1. addition; total. 2. to add; to sum up. 3. to join; to patch. 4. to thread/ weave.</p>१. जाेड; याेग; जम्मा । २. जाेड्नु; याेग गर्नु; जम्मा गर्नु । ३. गाँस्नु (जाेड्नु) । ४. उन्नु ।"
+    },
+    "02014": {
+      "dId": "ᤆᤰᤔᤢᤖᤠ",
+      "desc": "/चक्मुरा/",
+      "group": "AS",
+      "mean": "<p>1. rumour. 2. folk-tale; hearsay; oral tradition.</p>१. हल्ला. हाेल्ला । २. लाेककथन; माैखिक परम्परा ।"
+    },
+    "02015": {
+      "dId": "ᤆᤰᤔᤧᤴᤇᤠ᤹",
+      "desc": "/चक्मेन्छा/",
+      "group": "AS",
+      "mean": "<p>great grand son and great grand daughter.</p>पनाति/ पनातिनी ।"
+    },
+    "02016": {
+      "dId": "ᤆᤰᤗᤠ",
+      "desc": "/चक्ला/",
+      "group": "AS",
+      "mean": "<p>serial; series.</p>क्रमशः (हुने) ।"
+    },
+    "02017": {
+      "dId": "ᤆᤰᤛᤡᤰ",
+      "desc": "/चक्सिक्/",
+      "group": "AS",
+      "mean": "<p>exactly; finely.</p>ठीक; ठीकठीक; एकदम ठीक; दुरुस्त; बिलकुल ठीक ।"
+    },
+    "02018": {
+      "dId": "ᤆᤰᤛᤡᤱᤔᤠ",
+      "desc": "/चक्सिङ्मा/",
+      "group": "AS",
+      "mean": "<p>1. to be joined/ linked with sb or sth. 2. to be entangled (of copulation).</p>१. (कुनै व्याक्ति वा वस्तुसित) गाँसिनु । २. लठारिनु ।"
+    },
+    "02019": {
+      "dId": "ᤆᤄᤵ",
+      "desc": "/चघप्/",
+      "group": "AS",
+      "mean": "<p>abruptly; suddenly; unexpectedly.</p>एक्कासि; अपर्झट ।"
+    },
+    "02020": {
+      "dId": "ᤆᤱ",
+      "desc": "/चङ्/",
+      "group": "AS",
+      "mean": "<p>1. tip; new shoot (of a plant). 2. peak; summit; hilltop.</p>१. टुप्पाे; मुन्टाे । २. शिखर; चुचुराे ।"
+    },
+    "02021": {
+      "dId": "ᤆᤱᤃᤣ",
+      "desc": "/चङ्गे/",
+      "group": "AS",
+      "mean": "<p>a liquid container (vessel) of bamboo tapered at the end.</p>तीखाे भएकाे तरल पदार्थ राख्ने बाँसकाे ढुङ्ग्राे ।"
+    },
+    "02022": {
+      "dId": "ᤆᤱᤃᤪᤱᤏᤠ",
+      "desc": "/चङ्ग्रङ्ना/",
+      "group": "AS",
+      "mean": "<p>sparrow hawk. Acccipiter.</p>बेसाराे (चरा) ।"
+    },
+    "02023": {
+      "dId": "ᤆᤱᤃᤪᤠᤣᤔᤠ",
+      "desc": "/चङ्ग्राेमा/",
+      "group": "AS",
+      "mean": "<p>a bamboo basket for holding utensils.</p>थाल, बटुकाे राख्ने चाेयाकाे पात्र ।"
+    },
+    "02024": {
+      "dId": "ᤆᤱᤈᤡᤱᤃᤪᤠ",
+      "desc": "/चङ्जिङ्ग्रा/",
+      "group": "AS",
+      "mean": "<p>a tree with a sweet smelling red flower are eaten as pickle. Careya herbacea.</p>राताे चुवाकाे फुल ।"
+    },
+    "02025": {
+      "dId": "ᤆᤱᤈᤡ᤺ᤵᤐᤠ/ᤆᤱᤈᤡᤐ᤻ᤐᤠ",
+      "desc": "/चङ्जिःप्पा/",
+      "group": "AS",
+      "mean": "<p>1. a kind of bird. 2. a kind of tree. Leucosaeptrum canum.</p>१. सान चराे । २. घुर्बिस (रुख) ।"
+    },
+    "02026": {
+      "dId": "ᤆᤱᤍᤢᤱᤖᤠ᤺ᤣᤰ/ᤆᤱᤍᤢᤅᤖᤠᤣᤁ᤻",
+      "desc": "/चङ्दुङ्राेःक्/",
+      "group": "AS",
+      "mean": "<p>a kind of medicinal plant.</p>तामार्के (जडीबुटी) ।"
+    },
+    "02027": {
+      "dId": "ᤆᤱᤎᤠᤱ",
+      "desc": "/चङ्धाङ्/",
+      "group": "AS",
+      "mean": "<p>above; over.</p>माथि; उपर ।"
+    },
+    "02028": {
+      "dId": "ᤆᤱᤒᤢᤰᤗᤠ",
+      "desc": "/चङ्बुक्ला/",
+      "group": "AS",
+      "mean": "<p>white variety of fox-tail millet. <i>Panicum italicum.</i></p>सेताे कागुनी (कागुनु) ।"
+    },
+    "02029": {
+      "dId": "ᤆᤱᤔᤠ",
+      "desc": "/चङ्मा/",
+      "group": "AS",
+      "mean": "<p>to push the grains into the power or foot-mill while husking.</p>घान हाल्नु; धान आदि कुट्दा ढिकिमा घान लगाउनु । "
+    },
+    "02030": {
+      "dId": "ᤆᤱᤃᤪᤱ",
+      "desc": "/चङ्ग्रङ्/",
+      "group": "AS",
+      "mean": "<p>a kind of small open work basket ( made of split-bamboos).</p>फुर्लुङ् ।"
+    },
+    "02031": {
+      "dId": "ᤆᤱᤗᤠᤱ",
+      "desc": "/चङ्लाङ्/",
+      "group": "AS",
+      "mean": "<p>tower.</p>बुर्जा; अग्लाे घर ।"
+    },
+    "02032": {
+      "dId": "ᤆᤱᤗᤧᤏᤠ",
+      "desc": "/चङ्लेना/",
+      "group": "AS",
+      "mean": "<p>duck.</p>पानीहाँस ।"
+    },
+    "02033": {
+      "dId": "ᤆᤱᤜᤡᤶ",
+      "desc": "/चङ्हिम्/",
+      "group": "AS",
+      "mean": "<p>1. tower. 2. building.</p>१. धराहरा । २. भवन ।"
+    },
+    "02034": {
+      "dId": "ᤆᤱᤜᤧᤰᤐᤠ",
+      "desc": "/चङ्हेक्पा/",
+      "group": "AS",
+      "mean": "<p>shrub; vegatation.</p>सिन्दुरे पाेथ्रा ।"
+    },
+    "02035": {
+      "dId": "ᤆᤳᤇᤠᤵ",
+      "desc": "/चत्छाप्/",
+      "group": "AS",
+      "mean": "<p>notebook.</p>कापी; टिपाेट पुस्तिका ।"
+    },
+    "02036": {
+      "dId": "ᤆᤳᤇᤡᤱ",
+      "desc": "/चत्छिङ्/",
+      "group": "AS",
+      "mean": "<p>transfer; removal  from one place to another; exchange of places.</p>स्थानान्तरण; एक ठाँउ बाट अर्काे ठाँउमा सराइ; स्थानकाे अदलबदल ।"
+    },
+    "02037": {
+      "dId": "ᤆᤳᤇᤡ᤺ᤱᤔᤠ",
+      "desc": "/चत्छिङ्मा/",
+      "group": "AS",
+      "mean": "<p>1. to move; to move from one place/ country to another. 2. to migrate.</p>१. सर्नु; ठाँउ सर्नु । २. बसाइँ सर्नु ।"
+    },
+    "02038": {
+      "dId": "ᤆᤴᤇᤡᤱᤔᤠ",
+      "desc": "/चन्छिङ्मा/",
+      "group": "AS",
+      "mean": "<p>to push each other up; to jostle or crowd together.</p>एकले अर्कालाई (मास्तिर) ठेलाठेल गर्नु; परस्पर (मास्तिर) ठेल्नु ।"
+    },
+    "02039": {
+      "dId": "ᤆᤳᤋᤠᤁᤠ",
+      "desc": "/चत्ताका/",
+      "group": "AS",
+      "mean": "<p>a toy gun of bamboo.</p>बाँसकाे खेलाैना बन्दुक ।"
+    },
+    "02040": {
+      "dId": "ᤆᤳᤌᤧᤵ",
+      "desc": "/चत्थेप्/",
+      "group": "AS",
+      "mean": "<p>seal; stamp; signet.</p>सिल; सिलछाप; टाँचा ।"
+    },
+    "02041": {
+      "dId": "ᤆᤳᤗᤠ",
+      "desc": "/चत्ला/",
+      "group": "AS",
+      "mean": "<p>transfer.</p>स्थानान्तरण ।"
+    },
+    "02042": {
+      "dId": "ᤆᤴ",
+      "desc": "/चन्/",
+      "group": "AS",
+      "mean": "<p>astringent (taste); pungent.</p>टर्राे (स्वाद) ।"
+    },
+    "02043": {
+      "dId": "ᤆᤴᤛᤪᤢ",
+      "desc": "/चन्सुर्/",
+      "group": "AS",
+      "mean": "<p>garden cress; celery. Lepidium sativum.</p>चम्सुर ।"
+    },
+    "02044": {
+      "dId": "ᤆᤵᤁᤠ᤺ᤱ/ᤆᤵᤁᤠᤅ᤻",
+      "desc": "/चप्काःङ्/",
+      "group": "AS",
+      "mean": "<p>(a variety of ) mattock.</p>चम-काेदाली; सानाे खालकाे काेदालाे ।"
+    },
+    "02045": {
+      "dId": "ᤆᤵᤆᤢᤶ",
+      "desc": "/चप्चुम्/",
+      "group": "AS",
+      "mean": "<p>a variety of mushroom growing in clusters.</p>बगाले च्याउ ।"
+    },
+    "02046": {
+      "dId": "ᤆᤵᤈᤡ ",
+      "desc": "/चप्जि/",
+      "group": "AS",
+      "mean": "<p>doubt; suspicion; apprehension.</p>शङ्का; आशङ्का; सन्देह ।"
+    },
+    "02047": {
+      "dId": "ᤆᤵᤋᤠ᤹",
+      "desc": "/चप्ता?/",
+      "group": "AS",
+      "mean": "<p>character.</p>चरित्र ।"
+    },
+    "02048": {
+      "dId": "ᤆᤵᤋᤧᤴ",
+      "desc": "/चप्तेन्/",
+      "group": "AS",
+      "mean": "<p>table.</p>टेबल ।"
+    },
+    "02049": {
+      "dId": "ᤆᤵᤔᤠ",
+      "desc": "/चप्मा/",
+      "group": "AS",
+      "mean": "<p>1. to shift/ remove/ move sth. 2. to dry out; to dry up (canal, stream, pond).</p>१. सार्नु, पन्साउनु वा हटाउनु; एक ठाउँकाे सामान अर्काे ठाउँमा राख्नु । २. (पानी) सुक्नु; (नदि, नाला, पाेखरी) सुक्खा हुनु ।"
+    },
+    "02050": {
+      "dId": "ᤆᤵᤕᤢᤰᤏᤠ",
+      "desc": "/चप्युक्ना/",
+      "group": "AS",
+      "mean": "<p>a stool made of bamboo sticks (or canes) with the upper round end stitched with lather for a seat.</p>मुढा; बाँसका मसिना डन्डी छड्के ठड्याएर एकातिर छाला वा अन्य पदार्थले माेडी मेच जस्ताे गरि बनाइएकाे वस्ने आसन ।"
+    },
+    "02051": {
+      "dId": "ᤆᤵᤕᤧᤴ",
+      "desc": "/चप्येन्/",
+      "group": "AS",
+      "mean": "<p>[Sikkim] not frequently; seldom.</p>[सिक्किम] बेलाबेला; कुनै समय ।"
+    },
+    "02052": {
+      "dId": "ᤆᤵᤗᤰ",
+      "desc": "/चप्लक्/",
+      "group": "AS",
+      "mean": "<p>manner of wetting thoroughly/ through and through.</p>निथ्रुक्क ।"
+    },
+    "02053": {
+      "dId": "ᤆᤵᤗᤢᤱᤗᤰ",
+      "desc": "/चप्लुङ्लक्/",
+      "group": "AS",
+      "mean": "<p>excitement; sensation; thrill.</p>उत्तेजना; आवेग; उद्वेग ।"
+    },
+    "02054": {
+      "dId": "ᤆᤵᤗᤧᤰ",
+      "desc": "/चप्लेक्/",
+      "group": "AS",
+      "mean": "<p>1. for a moment; a short while; in an instant. 2. unexpectedly; suddenly; in the nick of time.</p>१. एकैछिन; क्षणभर; पलभर । २. टुप्लुक्क; एक्कासि देखा पर्ने किसिम ।"
+    },
+    "02055": {
+      "dId": "ᤆᤵᤗᤧᤱ",
+      "desc": "/चप्लेङ्/",
+      "group": "AS",
+      "mean": "<p>brief; shortcut; non-detailed.</p>छाेटकरी; संक्षिप्त ।"
+    },
+    "02056": {
+      "dId": "ᤆᤵᤜᤢᤱ",
+      "desc": "/चप्हुङ्/",
+      "group": "AS",
+      "mean": "<p>installment.</p>किस्ताबन्दी ।"
+    },
+    "02057": {
+      "dId": "ᤆᤒᤡ᤹ ",
+      "desc": "/चबि?/",
+      "group": "AS",
+      "mean": "<p>wage; remuneration.</p>ज्याला; पारिश्रमिक; मजदुरी ।"
+    },
+    "02058": {
+      "dId": "ᤆᤓᤳ",
+      "desc": "/चभत्/",
+      "group": "AS",
+      "mean": "<p>water.</p>पानी ।"
+    },
+    "02059": {
+      "dId": "ᤆᤓᤠ᤹",
+      "desc": "/चभा?/",
+      "group": "AS",
+      "mean": "<p>1. gift; present. 2. remuneration paid or received in grains for the labour rendered at the time of harvesting or cultivation.</p>१. उपहार । २. खेतीपातीमा खेताला सघाएबापत बाली काट्दा पारिश्रमिककाे रुपमा लिइने वा दिइने अन्न ।"
+    },
+    "02060": {
+      "dId": "ᤆᤓᤧᤰᤏᤠ",
+      "desc": "/चभेक्ना/",
+      "group": "AS",
+      "mean": "<p>pigeon.</p>परेवा ।"
+    },
+    "02061": {
+      "dId": "ᤆᤔᤋᤡᤔᤠ",
+      "desc": "/चमतिमा/",
+      "group": "AS",
+      "mean": "<p>one of the Yoginies or stars.</p>धान्या (याेगिनी) ।"
+    },
+    "02062": {
+      "dId": "ᤆᤔᤠᤏᤡ ",
+      "desc": "/चमानि/",
+      "group": "AS",
+      "mean": "<p>1. bail; surety. 2. security; pledge; bail.</p>१. जमानी । २. जमानत ।"
+    },
+    "02063": {
+      "dId": "ᤆᤔᤧ᤹ᤔᤠ",
+      "desc": "/चमे?मा/",
+      "group": "AS",
+      "mean": "<p>to fatten suddenly.</p>एक्कासि माेटाउनु ।"
+    },
+    "02064": {
+      "dId": "ᤆᤶ",
+      "desc": "/चम्/",
+      "group": "AS",
+      "mean": "<p>height.</p>उँचाइ; अग्लाइ ।"
+    },
+    "02065": {
+      "dId": "ᤆᤶᤈᤶᤗᤢᤱ(ᤔᤠ)",
+      "desc": "/चम्जम्लुङ्(मा)/",
+      "group": "AS",
+      "mean": "<p>Mount Everest; the highest peak (29,102 ft.) in the world.</p>सगरमाथा; संसारकाे सर्वाेच्च शिखर (२९,१०२ फुट) ।"
+    },
+    "02066": {
+      "dId": "ᤆᤶᤏᤡᤱᤘᤠ᤹",
+      "desc": "/चम्निङ्वा?/",
+      "group": "AS",
+      "mean": "<p>boldness; firmness of mind; courage; daring.</p>आँट; ह्याउ; हिम्मत ।"
+    },
+    "02067": {
+      "dId": "ᤆᤶᤒᤢᤍᤡ᤺ᤰ/ᤆᤶᤒᤢᤍᤡᤁ᤻",
+      "desc": "/चम्बुदिःक्/",
+      "group": "AS",
+      "mean": "<p>sandalwood tree. Santalum album.</p>श्रीखण्डकाे रूख ।"
+    },
+    "02068": {
+      "dId": "ᤆᤶᤓᤱᤃᤧᤰᤏᤠ",
+      "desc": "/चम्भङ्गेक्ना/",
+      "group": "AS",
+      "mean": "<p>a small kind of crested bird; bulbul. Picnonotidae.</p>जुरेली; सानाे खालकाे चरा ।"
+    },
+    "02069": {
+      "dId": "ᤆᤶᤓᤠᤗᤡ ",
+      "desc": "/चम्भालि/",
+      "group": "AS",
+      "mean": "<p>white sandalwood.</p>सेताे श्रीखण्ड ।"
+    },
+    "02070": {
+      "dId": "ᤆᤶᤔᤠ",
+      "desc": "/चम्मा/",
+      "group": "AS",
+      "mean": "<p>1. to blow. to be fast; to be smart. 3. to laud, praise/ overpraise or extol; to speak well of someone to flatter.</p>१. बतास चल्नु । २. छिटाे हुनु । ३. सर्काउनु; फुर्काउनु; उल्काउनु ।"
+    },
+    "02071": {
+      "dId": "ᤆᤶᤕᤠᤱ",
+      "desc": "/चम्याङ्/",
+      "group": "AS",
+      "mean": "<p>1. donation; subscription. 2. financial support.</p>१. चन्दा २. आर्थिक सहयाेग ।"
+    },
+    "02072": {
+      "dId": "ᤆᤶᤔᤪᤠ᤺ᤣᤰ/ᤆᤶᤔᤪᤠᤣᤁ᤻",
+      "desc": "/चम्राेःक्/",
+      "group": "AS",
+      "mean": "<p>a variety of citron. Citrus junos.</p>ज्यामिर ।"
+    },
+    "02073": {
+      "dId": "ᤆᤶᤗᤧᤱ",
+      "desc": "/चम्लेङ्/",
+      "group": "AS",
+      "mean": "<p>quickly; immediately; instantly; in a moment.</p>झलक्क; उतिखेरै; तत्क्षण ।"
+    },
+    "02074": {
+      "dId": "ᤆᤶᤘᤠ",
+      "desc": "/चम्वा/",
+      "group": "AS",
+      "mean": "<p>cup; bowl; glass.</p>बटुका; कचाैरा; कप । "
+    },
+    "02075": {
+      "dId": "ᤆᤶᤛᤡᤱ",
+      "desc": "/चम्सिङ्/",
+      "group": "AS",
+      "mean": "<p>lower; junior.</p>मध्यम (मध्यमस्तरकाे) ।"
+    },
+    "02076": {
+      "dId": "ᤆᤶᤛᤡᤱᤒᤣ",
+      "desc": "/चम्सिङ्बे/",
+      "group": "AS",
+      "mean": "<p>a long wooden stick mopped at one end, used to stir up the paddy in the pit of a food-driven rice mill.</p>धान कुट्दा ढिकीकाे प्वालमा धान चलाउन प्रयाेग गरिने टुप्पामा कपडा मुठाे पारी बाँधिएकाे लामाे काठ ।"
+    },
+    "02077": {
+      "dId": "ᤆᤶᤛᤡᤱᤔᤠ",
+      "desc": "/चम्सिङ्मा/",
+      "group": "AS",
+      "mean": "<p>1. to be on the move; to be rife; to be ready to do anything; to be emboldened. 2. to be rash.</p>१ मच्चिनु ;कुनै पनि काम गर्न तयार हुनु;  जे गर्न पनि सुरिनु । २. उरन्ठेउलाे हुनु ।"
+    },
+    "02078": {
+      "dId": "ᤆᤕᤠᤱ ᤛᤡᤱ",
+      "desc": "/चयाङ् सिङ्/",
+      "group": "AS",
+      "mean": "<p>jute. Corchorus capsularis.</p>सन्पाट ।"
+    },
+    "02079": {
+      "dId": "ᤆᤖᤰ",
+      "desc": "/चरक्/",
+      "group": "AS",
+      "mean": "<p>with a tearing or breaking sound or burning feel.</p>चर्र; चर्र च्यात्ने वा फाट्ने गरी वा पाेल्ने गरी ।"
+    },
+    "02080": {
+      "dId": "ᤆᤖ᤺ᤰᤔᤠ/ᤆᤖᤁ᤻ᤔᤠ",
+      "desc": "/चरःक्मा/",
+      "group": "AS",
+      "mean": "<p>a kind of bird; thrushes. Turdidae.</p>चाँचर ।"
+    },
+    "02081": {
+      "dId": "ᤆᤖᤧᤘᤠ",
+      "desc": "/चरेवा/",
+      "group": "AS",
+      "mean": "<p>full of prime youth.</p>मस्त याैवन ।"
+    },
+    "02082": {
+      "dId": "ᤆᤸᤗᤰ",
+      "desc": "/चल्लक्/",
+      "group": "AS",
+      "mean": "<p>a moment; for a moment.</p>निमेषभर; क्षणभर ।"
+    },
+    "02083": {
+      "dId": "ᤆᤸᤗᤧ᤺ᤰᤘᤠ/ᤆᤸᤗᤧᤁ᤻ᤘᤠ",
+      "desc": "/चल्लेःक्वा/",
+      "group": "AS",
+      "mean": "<p>a cardamom-like plant. Alpinia malacemus (?).</p>चुरुम्फा ।"
+    },
+    "02084": {
+      "dId": "ᤆᤜᤡᤵ",
+      "desc": "/चहिप्/",
+      "group": "AS",
+      "mean": "<p>photo; snap; picture.</p>तस्बीर; खिचेकाे फाेटाे ।"
+    },
+    "02085": {
+      "dId": "ᤆᤜᤡᤵᤗᤠ",
+      "desc": "/चहिप्ला/",
+      "group": "AS",
+      "mean": "<p>camera.</p>फोटो खिच्ने यन्त्र; क्यमेरा ।"
+    },
+    "02086": {
+      "dId": "ᤆ᤺ᤰ/ᤆᤁ᤻",
+      "desc": "/चःक्/",
+      "group": "AS",
+      "mean": "<p>in a squatting manner.</p>टुक्रुक्क; टुक्रुक्क बस्ने किसिमले ।"
+    },
+    "02087": {
+      "dId": "ᤆ᤺ᤰᤔᤠ/ᤆᤁ᤻ᤔᤠ",
+      "desc": "/चःक्मा/",
+      "group": "AS",
+      "mean": "<p>to have a feeling of irritation in the throat; to have a sore throat.</p>घाँटी कराउनु/ खसखस गर्नु ।"
+    },
+    "02088": {
+      "dId": "ᤆ᤺ᤰᤁᤩᤠ/ᤆᤁ᤻ᤁᤩᤠ",
+      "desc": "/चःक्क्या/",
+      "group": "AS",
+      "mean": "<p>a bamboo container tapered at the end.</p>चाेङ्गे ।"
+    },
+    "02089": {
+      "dId": "ᤆ᤺ᤰᤗᤠ/ᤆᤁ᤻ᤗᤠ",
+      "desc": "/चःक्ला/",
+      "group": "AS",
+      "mean": "<p>Pisces; the sign of zodiac.</p>मीन (राशि) ।"
+    },
+    "02090": {
+      "dId": "ᤆ᤺ᤵ/ᤆᤐ᤻",
+      "desc": "/चःप्/",
+      "group": "AS",
+      "mean": "<p>a cylindrical basket made of split-bamboo.</p>माेहाेला ।"
+    },
+    "02091": {
+      "dId": "ᤆ᤺ᤵᤔᤠ/ᤆᤐ᤻ᤔᤠ",
+      "desc": "/चःप्मा/",
+      "group": "AS",
+      "mean": "<p>to pile up; to heap up.</p>थुपार्नु; थाक लगाउनु ।"
+    },
+    "02092": {
+      "dId": "ᤆ᤺ᤶᤔᤠ/ᤆᤔ᤻ᤔᤠ",
+      "desc": "/चःम्मा/",
+      "group": "AS",
+      "mean": "<p>to place sth upwards (above its original level).</p>(तलकाे वस्तु माथि) सार्नु वा राख्नु ।"
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "Dic": {
+    "03263": {
+      "dId": "ᤌᤠᤰᤁᤢᤛᤧᤵ",
+      "desc": "/थाक्कुसेप्/",
+      "group": "BE",
+      "mean": "<p>a part of the loom; the woods which press the comb of the loom from both sides.</p>तानको एक अङ्ग; तानको कामियो दुईतिरबाट च्याप्ने काठ ।"
+    },
+    "03264": {
+      "dId": "ᤌᤠᤰᤁᤣ᤺ᤘᤠ",
+      "desc": "/थाक्केःवा/",
+      "group": "BE",
+      "mean": "<p>both beams of loom; the beams or posts which support.</p>तान झुन्ड्याउन दायाँबायाँ गाडिने बाँस वा काठको कीलो ।"
+    },
+    "03265": {
+      "dId": "ᤌᤠᤰᤁᤣ᤺ᤛᤡᤱ",
+      "desc": "/थाक्केःसिङ्/",
+      "group": "BE",
+      "mean": "<p>a piece of wood or bamboo to be used to level the threads of the loom.</p>तान बुन्दा धागो मिलाउन प्रयोग गरिने बाँसको भाटा विशेष ।"
+    },
+    "03266": {
+      "dId": "ᤌᤠᤰᤁᤠᤣᤗᤡ ",
+      "desc": "/थाक्कोलि/",
+      "group": "BE",
+      "mean": "<p>a cone-shaped fishing net.</p>माछा मार्ने (पक्रने) एक प्रकारको जाली ।"
+    },
+    "03267": {
+      "dId": "ᤌᤠᤰᤂᤡ-ᤂᤧᤱᤂᤡ ",
+      "desc": "/थाक्खि-खेङ्खि/",
+      "group": "BE",
+      "mean": "<p>structure/ texture of cloth.</p>तानाबाना; कपडाको तनोट बुनोट ।"
+    },
+    "03268": {
+      "dId": "ᤌᤠᤰᤆᤡᤕᤠ᤺ᤱ/ᤌᤠᤰᤆᤡᤕᤠᤅ᤻ ᤛᤡᤱ",
+      "desc": "/थाक्चियाःङ् सिङ्/",
+      "group": "BE",
+      "mean": "<p>a kind of tree; it’s leaves are used as fodder. <i>Ilex dipyrena.</i></p>हाडे; एक प्रकारको डाले घाँसको रूख ।"
+    },
+    "03269": {
+      "dId": "ᤌᤠᤰᤆᤠᤣ",
+      "desc": "/थाक्चो/",
+      "group": "BE",
+      "mean": "<p>a part fo loom; small bird-shaped wood pieces hung on both sides of the ‘lasi’ of a loom.</p>तानको एक अङ्ग; तानको लासीको दुई सुरमा झण्ड्याइने चरा आकारको काठको यन्त्र ।"
+    },
+    "03270": {
+      "dId": "ᤌᤠᤰᤋᤰᤔᤠ",
+      "desc": "/थाक्तक्मा/",
+      "group": "BE",
+      "mean": "<p>a bamboo string used to keep the weft tight.</p>तानको एक अङ्ग; तानलाई बाँध्ने चोयाको दाम्लो वा डोरी ।"
+    },
+    "03271": {
+      "dId": "ᤌᤠᤰᤏᤠᤶ",
+      "desc": "/थाक्नाम्/",
+      "group": "BE",
+      "mean": "<p>string or rope that holds a weaving loom.</p>तान झुण्ड्याउने डोरी ।"
+    },
+    "03272": {
+      "dId": "ᤌᤠᤰᤐᤠ",
+      "desc": "/थाक्पा/",
+      "group": "BE",
+      "mean": "<p>rope; a long string.</p>मोटो खालको लामो डोरी; दाम्लो; तान फिजाउने डोरी ।"
+    },
+    "03273": {
+      "dId": "ᤌᤠᤰᤐᤠᤒᤢᤱ",
+      "desc": "/थाक्पाबुङ्/",
+      "group": "BE",
+      "mean": "<p>jute; flax. <i>Corchorus capsularis.</i></p>पाट (सनपाट आदि) ।"
+    },
+    "03274": {
+      "dId": "ᤌᤠᤰᤔᤠ",
+      "desc": "/थाक्मा/",
+      "group": "BE",
+      "mean": "<p>1. to wave. 2. to itch; to feel sore itching on the skin.</p>१. (तान) बुन्नु । २. भलायो आदिको चोपले सानासाना बिबिरा उच्छ्रेर) चिलाउनु ।"
+    },
+    "03275": {
+      "dId": "ᤌᤠᤰᤔᤠᤱ",
+      "desc": "/थाक्माङ्/",
+      "group": "BE",
+      "mean": "<p>acclivity; upward slope; ascent; an uphill journey.</p>उकालो; उकाली; चढाइ ।"
+    },
+    "03276": {
+      "dId": "ᤌᤠᤰᤕᤢᤰ",
+      "desc": "/थाक्युक्/",
+      "group": "BE",
+      "mean": "<p>a seat for the weaver (used when weaving a loom).</p>तान बुन्नका लागि बस्ने ठाउँ (आसन) ।"
+    },
+    "03277": {
+      "dId": "ᤌᤠᤰᤘᤠ",
+      "desc": "/थाक्वा/",
+      "group": "BE",
+      "mean": "<p>weaved (in a loom).</p>(तानमा) बुनेको ।"
+    },
+    "03278": {
+      "dId": "ᤌᤠᤰᤛᤠ",
+      "desc": "/थाक्सा/",
+      "group": "BE",
+      "mean": "<p>cell.</p>कोशिका; जीवकोश ।"
+    },
+    "03279": {
+      "dId": "ᤌᤠᤰᤛᤠᤘᤠ",
+      "desc": "/थाक्सावा/",
+      "group": "BE",
+      "mean": "<p>enzyme.</p>इन्जाइम ।"
+    },
+    "03280": {
+      "dId": "/थागेःक्/",
+      "desc": "/थागेःक्/",
+      "group": "BE",
+      "mean": "<p>head.</p>टाउको; शिर "
+    },
+    "03281": {
+      "dId": "ᤌᤠᤃᤣ᤺ᤰᤐᤠ/ᤌᤠᤃᤣᤁ᤻ᤐᤠ",
+      "desc": "/थागेःक्पा/",
+      "group": "BE",
+      "mean": "<p>loom.</p>तान; कपडा बुन्नका लागि फिजाएको तान ।"
+    },
+    "03282": {
+      "dId": "ᤌᤠᤅᤧᤴᤛᤡᤱ",
+      "desc": "/थाङेन्सिङ्/",
+      "group": "BE",
+      "mean": "<p>one million; the number and the figure 10,00,000.</p>दश लाख; दश लाखको सङ्ख्या; १०००००० को अङ्क ।"
+    },
+    "03283": {
+      "dId": "ᤌᤠᤱ",
+      "desc": "/थाङ्/",
+      "group": "BE",
+      "mean": "<p>1. weight measurement. 2. cottage shed usually with cattle downstairs and fodder upstairs.</p>१. तौल । २. मचान; टाँड; कटेरो; खोल्मा ।"
+    },
+    "03284": {
+      "dId": "ᤌᤠᤱᤃᤧᤳ",
+      "desc": "/थाङ्गेत्/",
+      "group": "BE",
+      "mean": "<p>north; north side or direction.</p>उत्तर (दिशा) ।"
+    },
+    "03285": {
+      "dId": "ᤌᤠᤱᤎᤠᤱᤒᤠ",
+      "desc": "/थाङ्धाङ्बा/",
+      "group": "BE",
+      "mean": "<p>quarter; one fourth of sth.</p>एक चौथाइ ।"
+    },
+    "03286": {
+      "dId": "ᤌᤠᤱᤒᤠ",
+      "desc": "/थाङ्बा/",
+      "group": "BE",
+      "mean": "<p>a measure of weight about two and half kg.</p>धार्नी; अढाइ किलो अन्दाजीको तौल ।"
+    },
+    "03287": {
+      "dId": "ᤌᤠᤱᤒᤡᤖᤡ ",
+      "desc": "/थाङ्बिरि/",
+      "group": "BE",
+      "mean": "<p>a pan of pair of scales.</p>तराजुको पल्ला ।"
+    },
+    "03288": {
+      "dId": "ᤌᤠᤱᤒᤧᤴ",
+      "desc": "/थाङ्बेन्/",
+      "group": "BE",
+      "mean": "<p>young (boy) man; adolescent.</p>युवक; जवान केटो ।"
+    },
+    "03289": {
+      "dId": "ᤌᤠᤱᤔᤠ",
+      "desc": "/थाङ्मा/",
+      "group": "BE",
+      "mean": "<p>1. to come up (from below the level of the speaker, a directional verb). 2. to weight. 3. to pass sth up from below. 4. to send sb up from below.</p>१. माथि आउनु । २. तौलनु; जोख्नु । ३. माथि दिनु (तलबाट केहि चिज) । ४. माथितिर कसैलाई पठाउनु ।"
+    },
+    "03290": {
+      "dId": "ᤌᤠᤱᤔᤠᤱ",
+      "desc": "/थाङ्माङ्/",
+      "group": "BE",
+      "mean": "<p>ascent; an upward journey.</p>उकालो ।"
+    },
+    "03291": {
+      "dId": "ᤌᤠᤱᤗᤢᤱ",
+      "desc": "/थाङ्लुङ्/",
+      "group": "BE",
+      "mean": "<p>measuring instrument.</p>काँटा; तराजु; तौलने यन्त्र ।"
+    },
+    "03292": {
+      "dId": "ᤌᤠᤱᤘᤠ᤹",
+      "desc": "/थाङ्वा?/",
+      "group": "BE",
+      "mean": "<p>[Tamor] pigeon. Columbidae.</p>[तमर] परेवा ।"
+    },
+    "03293": {
+      "dId": "ᤌᤠᤱᤘᤠ",
+      "desc": "/थाङ्वा/",
+      "group": "BE",
+      "mean": "<p>one of the constellations.</p>रेवती नक्षत्र ।"
+    },
+    "03294": {
+      "dId": "ᤌᤠᤱ-ᤛᤖᤢᤶᤒᤠ",
+      "desc": "/थाङ्-सरुम्बा/",
+      "group": "BE",
+      "mean": "<p>the fifth elder brother in family.</p>अन्तरे; जेठो देखि गन्दा पाँचौ ।"
+    },
+    "03295": {
+      "dId": "ᤌᤠᤱ-ᤛᤖᤢᤶᤔᤠ",
+      "desc": "/थाङ्-सरुम्मा/",
+      "group": "BE",
+      "mean": "<p>the fifth elder sister in family.</p>अन्तरी; जेठो देखि गन्दा पाँचौ ।"
+    },
+    "03296": {
+      "dId": "ᤌᤠᤱᤛᤡᤱ",
+      "desc": "/थाङ्सिङ्/",
+      "group": "BE",
+      "mean": "<p>1. higher. 2. secondary.</p>१. उच्च; उपल्लो; माथिल्लो । २. माध्यमिक ।"
+    },
+    "03297": {
+      "dId": "ᤌᤠᤵᤔᤠ",
+      "desc": "/थाप्मा/",
+      "group": "BE",
+      "mean": "<p>1. to be related. 2. to scoop; to take cooked food out of the pot and distribute; to serve food. 3. to bear young ones (animal).</p>१. (साइनो) लाग्नु; (नाता) पर्नु । २. पस्कनु; पस्किनु । ३. बियाउनु; जन्माउनु ।"
+    },
+    "03298": {
+      "dId": "ᤌᤠᤵᤔᤣ",
+      "desc": "/थाप्मे/",
+      "group": "BE",
+      "mean": "<p>a flat spoon (used for ladling out rice).</p>पनिउँ ।"
+    },
+    "03299": {
+      "dId": "ᤌᤠᤵᤗᤠ",
+      "desc": "/थाप्ला/",
+      "group": "BE",
+      "mean": "<p>1. floor of a house. 2. installment.</p>१. तला । २. किस्ता ।"
+    },
+    "03300": {
+      "dId": "ᤌᤠᤵᤗᤢᤱ",
+      "desc": "/थाप्लुङ्/",
+      "group": "BE",
+      "mean": "<p>1. the stone used for an altar. 2. a place of worship.</p>१. पूजा गर्दा स्थापना गरिने ढुङ्गाको बेदी । २. वेदी; पूजास्थल ।"
+    },
+    "03301": {
+      "dId": "ᤌᤠᤵᤛᤠ",
+      "desc": "/थाप्सा/",
+      "group": "BE",
+      "mean": "<p>1. bad omen; inauspicious moment. 2. epilepsy.</p>१. कुसाइत; अशुभ । २. छारे रोग ।"
+    },
+    "03302": {
+      "dId": "ᤌᤠᤒᤢ",
+      "desc": "/थाबु/",
+      "group": "BE",
+      "mean": "<p>gun-powder.</p>बारुद ।"
+    },
+    "03303": {
+      "dId": "ᤌᤠᤒᤠᤣ",
+      "desc": "/थाबो/",
+      "group": "BE",
+      "mean": "<p>a plate made of leaves.</p>टपरी ।"
+    },
+    "03304": {
+      "dId": "ᤌᤠᤔᤡᤱ",
+      "desc": "/थामिङ्/",
+      "group": "BE",
+      "mean": "<p>1. subject. 2. index; alphabetical order. 3. contents.</p>१. विषय । २. अनुक्रमणिका । ३. विषयसूची ।"
+    },
+    "03305": {
+      "dId": "ᤌᤠᤔᤣᤗᤡᤱ(ᤔᤠ)",
+      "desc": "/थामेलिङ्(मा)/",
+      "group": "BE",
+      "mean": "<p>1. mother; one who gives birth. 2. Mrs.: lady; honourific address to a married women.</p>१. माता; जननी; आमा । २. श्रीमती; विवाहिता स्त्रीको नामको अगाडी प्रयोग गरिने सम्मानसूचक आदरार्थी शब्द । "
+    },
+    "03306": {
+      "dId": "ᤌᤠᤶᤔᤠ",
+      "desc": "/थाम्मा/",
+      "group": "BE",
+      "mean": "<p>1. to beat (cloth in washing); to smash. 2. to thrash. 3. to knock down.</p>१. पछार्नु । २. टक्टक्याउनु; झार्नु । ३. पछार्नु; लडाउनु (जोडले) ।"
+    },
+    "03307": {
+      "dId": "ᤌᤠᤔᤧᤴᤍᤡᤱ(ᤔᤠ)",
+      "desc": "/थामेन्दिङ्(मा)/",
+      "group": "BE",
+      "mean": "<p>respected/ honourable as a mother.</p>मातातुल्य; पूजनीया ।"
+    },
+    "03308": {
+      "dId": "ᤌᤠᤶᤛᤡᤱᤔᤠ",
+      "desc": "/थाम्सिङ्मा/",
+      "group": "BE",
+      "mean": "<p>1. to be knocked down; to fall down (oneself). 2. to knock down each other.</p>१. पछारिनु (आफै) । २. आपसमा पछारापछार गर्नु ।"
+    },
+    "03309": {
+      "dId": "ᤌᤠᤶᤛᤢ᤺ᤒᤠ",
+      "desc": "/थाम्सुःबा/",
+      "group": "BE",
+      "mean": "<p>wrestler.</p>पहलमान; मल्ल ।"
+    },
+    "03310": {
+      "dId": "ᤌᤠᤖᤠᤶ",
+      "desc": "/थाराम्/",
+      "group": "BE",
+      "mean": "<p>cot (wooden).</p>खाट; पलङ्ग ।"
+    },
+    "03311": {
+      "dId": "ᤌᤠᤖᤡᤰ",
+      "desc": "/थारिक्/",
+      "group": "BE",
+      "mean": "<p>up to (denoting place).</p>तक; सम्म; सम्मन् (स्थानबोधक) । "
+    },
+    "03312": {
+      "dId": "ᤌᤠᤘᤠᤍᤧᤴ",
+      "desc": "/थावादेन्/",
+      "group": "BE",
+      "mean": "<p>eaves.</p>बलेँसी ।"
+    },
+    "03313": {
+      "dId": "ᤌᤠ᤺ᤰ/ᤌᤠᤁ᤻",
+      "desc": "/थाःक्/",
+      "group": "BE",
+      "mean": "<p>1. hair. 2. generation.</p>१. केश । २. पुस्ता; वंश ।"
+    },
+    "03314": {
+      "dId": "ᤌᤠ᤺ᤰᤗᤣ᤺ᤰᤐᤠ/ᤌᤠᤁ᤻ᤗᤣᤁ᤻ᤐᤠ",
+      "desc": "/थाःक्लेःक्पा/",
+      "group": "BE",
+      "mean": "<p>blad.</p>तालुखुइले; चिन्डे ।"
+    },
+    "03315": {
+      "dId": "ᤌᤠ᤺ᤰᤁᤪᤠ/ᤌᤠᤁ᤻ᤁᤪᤠ",
+      "desc": "/थाःक्क्रा/",
+      "group": "BE",
+      "mean": "<p>long toothed split bamboo comb.</p>थाक्रो (कपाल कोर्ने) ।"
+    },
+    "03316": {
+      "dId": "ᤌᤠ᤺ᤰᤂᤢᤔᤣ᤺ᤳ/ᤌᤠᤁ᤻ᤂᤢᤔᤣᤋ᤻",
+      "desc": "/थाःक्खुमेत्/",
+      "group": "BE",
+      "mean": "<p>shawl; women’s head dress.</p>मजेत्रो; बर्को ।"
+    },
+    "03317": {
+      "dId": "ᤌᤠ᤺ᤰᤂᤢ᤺ᤰ/ᤌᤠᤁ᤻ᤂᤢᤁ᤻",
+      "desc": "/थाःक्खुःक्/",
+      "group": "BE",
+      "mean": "<p>cap.</p>टोपी ।"
+    },
+    "03318": {
+      "dId": "ᤌᤠ᤺ᤰᤆᤠ/ᤌᤠᤁ᤻ᤆᤠ",
+      "desc": "/थाःक्चा/",
+      "group": "BE",
+      "mean": "<p>long life; longevity.</p>लामो आयु; दिर्घायु ।"
+    },
+    "03319": {
+      "dId": "ᤌᤠ᤺ᤰᤐᤠ/ᤌᤠᤁ᤻ᤐᤠ",
+      "desc": "/थाःक्पा/",
+      "group": "BE",
+      "mean": "<p>squirrel.</p>लोखर्के ।"
+    },
+    "03320": {
+      "dId": "ᤌᤠ᤺ᤰᤑᤧᤈᤠ/ᤌᤠᤁ᤻ᤑᤧᤈᤠ",
+      "desc": "/थाःक्फेजा/",
+      "group": "BE",
+      "mean": "<p>small knife.</p>चुपी; चक्कु ।"
+    },
+    "03321": {
+      "dId": "ᤌᤠ᤺ᤰᤕᤢ/ᤌᤠᤁ᤻ᤕᤢ-ᤁᤢᤴᤎᤣ",
+      "desc": "/थाःक्यु-कुन्धे/",
+      "group": "BE",
+      "mean": "<p>heritage (natural resources).</p>सम्पदा (प्राकृतिक सम्पदा) ।"
+    },
+    "03322": {
+      "dId": "ᤌᤠ᤺ᤰᤕᤢᤎᤡᤶ/ᤌᤠᤁ᤻ᤕᤢᤎᤡᤶ",
+      "desc": "/थाःक्युधिम्/",
+      "group": "BE",
+      "mean": "<p>tradition.</p>परम्परा ।"
+    },
+    "03323": {
+      "dId": "ᤌᤠ᤺ᤰᤕᤢᤎᤡᤶᤒᤠ/ᤌᤠᤁ᤻ᤕᤢᤎᤡᤶᤒᤠ",
+      "desc": "/थाःक्युधिम्बा/",
+      "group": "BE",
+      "mean": "<p>traditional.</p>परम्परागत ।"
+    },
+    "03324": {
+      "dId": "ᤌᤠ᤺ᤰᤗᤠᤱᤃᤠᤣᤒᤠ/ᤌᤠᤁ᤻ᤗᤠᤱᤃᤠᤣᤒᤠ",
+      "desc": "/थाःक्लाङ्गोबा/",
+      "group": "BE",
+      "mean": "<p>yeti.</p>यती; सोक्पा; हिममानव ।"
+    },
+    "03325": {
+      "dId": "ᤌᤠ᤺ᤰᤛ᤹ᤔᤠ/ᤌᤠᤁ᤻ᤛ᤹ᤔᤠ",
+      "desc": "/थाःक्स?मा/",
+      "group": "BE",
+      "mean": "<p>short life.</p>छोटो आयु; अल्पायु ।"
+    },
+    "03326": {
+      "dId": "ᤌᤠ᤺ᤰᤛᤠᤶ/ᤌᤠᤁ᤻ᤛᤠᤶ",
+      "desc": "/थाःक्साम्/",
+      "group": "BE",
+      "mean": "<p>age; longevity; duration of life.</p>आयु ।"
+    },
+    "03327": {
+      "dId": "ᤌᤠ᤺ᤱ/ᤌᤠᤅ᤻",
+      "desc": "/थाःङ्/",
+      "group": "BE",
+      "mean": "<p>above; up; upwards.</p>माथि; उपर; मास्तिर ।"
+    },
+    "03328": {
+      "dId": "ᤌᤠ᤺ᤱᤃᤣ/ᤌᤠᤅ᤻ᤃᤣ",
+      "desc": "/थाःङ्गे/",
+      "group": "BE",
+      "mean": "<p>sesame (seed). <i>Swsamum indicum.</i></p>तिल ।"
+    },
+    "03329": {
+      "dId": "ᤌᤠ᤺ᤱᤃᤠᤣᤒᤠ/ᤌᤠᤅ᤻ᤃᤠᤣᤒᤠ",
+      "desc": "/थाःङ्गोबा/",
+      "group": "BE",
+      "mean": "<p>cowpea; a kind of beans. <i>Vigna sinensis.</i></p>बोडी; लोरिङ्गे सिमी ।"
+    },
+    "03330": {
+      "dId": "ᤌᤠ᤺ᤱᤃᤪᤠ/ᤌᤠᤅ᤻ᤃᤪᤠ",
+      "desc": "/थाःङ्ग्रा/",
+      "group": "BE",
+      "mean": "<p>1. a dead branch given as support to plants (creeper) to grow. 2. a three-footed prop/ support made up of bamboo to keep corn on it.</p>१. थाँक्रो (काँक्रो आदिलाई दिने टेको) । २. थाङ्ग्रो; मकैको झुत्ता राख्नका लागि बनाइने बाँसको तीन खुट्टे टाँड ।"
+    },
+    "03331": {
+      "dId": "ᤌᤠ᤺ᤱᤈᤱ/ᤌᤠᤅ᤻ᤈᤱ",
+      "desc": "/थाःङ्जङ्/",
+      "group": "BE",
+      "mean": "<p>highest; apex.</p>सर्वोच्च ।"
+    },
+    "03332": {
+      "dId": "ᤌᤠ᤺ᤱᤍᤠᤣ/ᤌᤠᤅ᤻ᤍᤠᤣ",
+      "desc": "/थाःङ्दो/",
+      "group": "BE",
+      "mean": "<p>[Tamor] chine; the meat on both sides of the backbone.</p>[तमर] डँडालो; डँडालोको मांसपेसी ।"
+    },
+    "03333": {
+      "dId": "ᤌᤠ᤺ᤱᤎᤠᤣ᤺ᤰ/ᤌᤠᤅ᤻ᤎᤠᤣᤁ᤻",
+      "desc": "/थाःङ्धोःक्/",
+      "group": "BE",
+      "mean": "<p>[Phedape] mustache.</p>[फेदापे] जुँगा ।"
+    },
+    "03334": {
+      "dId": "ᤌᤠ᤺ᤱᤒᤡᤴ/ᤌᤠᤅ᤻ᤒᤡᤴ",
+      "desc": "/थाःङ्बिन्/",
+      "group": "BE",
+      "mean": "<p>high jump.</p>हाइजम्प ।"
+    },
+    "03335": {
+      "dId": "ᤌᤠ᤺ᤱᤓᤠᤱᤗᤢᤱ/ᤌᤠᤅ᤻ᤓᤠᤱᤗᤢᤱ",
+      "desc": "/थाःङ्भाङ्लुङ्/",
+      "group": "BE",
+      "mean": "<p>high court.</p>उच्च अदालत ।"
+    },
+    "03336": {
+      "dId": "ᤌᤠ᤺ᤱᤔᤠ/ᤌᤠᤅ᤻ᤔᤠ",
+      "desc": "/थाःङ्मा/",
+      "group": "BE",
+      "mean": "<p>to open (doors).</p>(दैलो आदि) उघार्नु ।"
+    },
+    "03337": {
+      "dId": "ᤌᤠ᤺ᤱᤛᤢᤔᤣ/ᤌᤠᤅ᤻ᤛᤢᤔᤣ",
+      "desc": "/थाःङ्सुमे/",
+      "group": "BE",
+      "mean": "<p>[Sikkim] upper.</p>[सिक्किम] माथिल्लो ।"
+    },
+    "03338": {
+      "dId": "ᤌᤠ᤺ᤴᤇᤡᤱᤔᤠ/ᤌᤠᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/थाःन्छिङ्मा/",
+      "group": "BE",
+      "mean": "<p>1. descent of a spirit on human being; spirit possession. 2. to be possessed by a spirit. 3. to speak in a spell (after the spirit has possessed the human body).</p>१. देवता चढ्ने प्रकृया । २. आङ्मा देवता चढ्नु। ३. बक्नु (देवता, बोक्सी आदि आङ्मा चढ्को अवस्था) । "
+    },
+    "03339": {
+      "dId": "ᤌᤠ᤺ᤵᤔᤠ/ᤌᤠᤐ᤻ᤔᤠ",
+      "desc": "/थाःप्मा/",
+      "group": "BE",
+      "mean": "<p>1. to flourish; to be fruitful; to multiply. 2. to be seen; to be visible; to appear.</p>१. फाप्नु; फलिफाप हुनु । २. देखिनु ।"
+    },
+    "03340": {
+      "dId": "ᤌᤠ᤺ᤵᤛᤣᤏᤠ/ᤌᤠᤐ᤻ᤛᤣᤏᤠ",
+      "desc": "/थाःप्सेना/",
+      "group": "BE",
+      "mean": "<p>looking glass.</p>ऐना; दर्पण ।"
+    },
+    "03341": {
+      "dId": "ᤌᤠ᤺ᤔᤠ",
+      "desc": "/थाःमा/",
+      "group": "BE",
+      "mean": "<p>1. to come down. 2. to fall down; to tumble down. 3. to be trapped/ entangled/ snared (as fish in fishing net or fishing rod). 4. to ignited (fire from fire-stone). 5. fall (rain, snow). 6. to run up a fever due to eating unwholesome food.</p>१. ओर्लनु; झ;र्नु माथिबाट तल आउनु । २. खस्नु; झर्नु । ३. पर्नु (जल आदिमा) । ४. पर्नु (आगो आदि) । ५. खानेकुराले बिसाउनु; बिगार गर्नु; रोग उल्टनु ।"
+    },
+    "03342": {
+      "dId": "ᤌᤠ᤺ᤶᤒᤠ/ᤌᤠᤔ᤻ᤒᤠ",
+      "desc": "/थाःम्बा/",
+      "group": "BE",
+      "mean": "<p>1. [Phedape] tall; long. 2. transparent. 3. of near. 4. neighbour.</p>१. [फेदापे] अग्लो; लामो । २. देखिने; पारदर्शी । ३. निकटको; निकटस्थ । ४. छिमेकी ।"
+    },
+    "03343": {
+      "dId": "ᤌᤠ᤺ᤶᤔᤠ/ᤌᤠᤔ᤻ᤔᤠ",
+      "desc": "/थाःम्मा/",
+      "group": "BE",
+      "mean": "<p>1. to divine/ separate/ guess good and bad, past and future. 2. to manage; to be able to. 3. to show to someone.</p>१. खुट्याउनु; (राम्रो- नराम्रो, भाग्य, दशा- ग्रह, भूत- भविष्यत आदि) । २. सक्नु/भ्याउनु; समर्थ हुनु/ सक्षम हुनु । ३. देखाउनु ।"
+    },
+    "03344": {
+      "dId": "ᤌᤠ᤺ᤶᤛᤡᤱᤔᤠ/ᤌᤠᤔ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/थाःम्सिङ्मा/",
+      "group": "BE",
+      "mean": "<p>1. to appear/ to be visible (itself/ oneself). 2. to be visible to each other.</p>१. देखापर्नु/ देखिनु (आफै) । २. परस्परमा देखा पर्नु ।"
+    },
+    "03345": {
+      "dId": "ᤌᤠ᤺ᤖᤠ",
+      "desc": "/थाःरा/",
+      "group": "BE",
+      "mean": "<p>1. barren; unable to product offspring (animal or corn plant). 2. a word used ot address a woman who is unable to give offsprings.</p>१. थारो (गाई, भैंसी) । २. थारी; बच्चा जन्माउन नसक्ने स्त्री (गाली गलोजको रूपमा प्रयुक्त) ।"
+    },
+    "03346": {
+      "dId": "ᤌᤠ᤺ᤗᤠ",
+      "desc": "/थाःला/",
+      "group": "BE",
+      "mean": "<p>plate.</p>थाल ।"
+    },
+    "03347": {
+      "dId": "ᤌᤠ᤺ᤛᤡᤱ",
+      "desc": "/थाःसिङ्/",
+      "group": "BE",
+      "mean": "<p>going forth; departure.</p>प्रस्थान; गमन; सवारी ।"
+    },
+    "03348": {
+      "dId": "ᤌᤠ᤺ᤛᤡᤱᤔᤠ",
+      "desc": "/थाःसिङ्मा/",
+      "group": "BE",
+      "mean": "<p>to depart; to go forth.</p>कतै (यात्रामा) हिँड्नु; बाटो लाग्नु ।"
+    }
+  }
+}

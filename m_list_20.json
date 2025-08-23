@@ -1,0 +1,796 @@
+{
+  "Dic": {
+    "02093": {
+      "dId": "ᤆᤠ᤹ᤔᤠ",
+      "desc": "/चा?मा/",
+      "group": "AT",
+      "mean": "<p>1. to harden or stiffen; to be hard/ stiff; to be difficult/ inconvenient/ useasy. 2. to warm (oneself) up by fire. 3. to be colored or painted. 4. to last/ endured.</p>१. कडा हुनु; साह्राे हुनु; कठिन हुनु; अप्ठेराे हुनु । २. आगाे ताप्नु । ३. रङ्गिनु । ४. खप्नु; टिक्नु । "
+    },
+    "02094": {
+      "dId": "ᤆᤠ᤹ᤛᤠᤣᤁ᤻",
+      "desc": "/चा?साेःक्/",
+      "group": "AT",
+      "mean": "<p>waste; loss; wastage.</p>नाश; खेर; खेर जाने काम ।"
+    },
+    "02095": {
+      "dId": "ᤆᤠ/ᤆᤠ᤺",
+      "desc": "/चा/चाः/",
+      "group": "AT",
+      "mean": "<p>1. food; meal; eatable. 2. fodder (for cattle); feed (for birds). 3. fruit (seed). 4. grain; good grain. 5. crop; harvest.</p>१. खाना; खानेकुराे । २. आहारा; चाराे । ३. फलफुल (दाना) । ४. अन्न; खाद्यान्न । ५. अन्नबाली ।"
+    },
+    "02096": {
+      "dId": "ᤆᤠᤰ",
+      "desc": "/चाक्/",
+      "group": "AT",
+      "mean": "<p>1. speed; motion (speed of small weighty things while falling on the ground). 2. bundle.</p>१. वेग; गति; जाेड (अन्न, काैडा आदि खस्दा छरपष्ट भएर छरिने वेग) । २. झुत्ताे; झुत्ता ।"
+    },
+    "02097": {
+      "dId": "ᤆᤠᤰᤏᤠᤶ",
+      "desc": "/चाक्नाम्/",
+      "group": "AT",
+      "mean": "<p>a lace made of cloth to fasten daura (Nepali upper garment).</p>तुनाे; तुना ।"
+    },
+    "02098": {
+      "dId": "ᤆᤠᤰᤔᤠ",
+      "desc": "/चाक्मा/",
+      "group": "AT",
+      "mean": "<p>to clothe or dress sb; to help sb to wear.</p>लगाइदिनु (जुत्ता, लुगाफाटा आदि ) ।"
+    },
+    "02099": {
+      "dId": "ᤆᤠᤰᤔᤠᤐ᤺ᤳ/ᤐᤋ᤻",
+      "desc": "/चाक्मापःत्/",
+      "group": "AT",
+      "mean": "<p>a kind of mushroom.</p>कन्ने च्याउ ।"
+    },
+    "02100": {
+      "dId": "ᤆᤠᤰᤔᤢᤕᤠ",
+      "desc": "/चाक्मुया/",
+      "group": "AT",
+      "mean": "<p>crested hawk-eagle. Spizaetus.</p>जुरे चील ।"
+    },
+    "02101": {
+      "dId": "ᤆᤠᤰᤛᤡᤱᤔᤠ",
+      "desc": "/चाक्सिङ्मा/",
+      "group": "AT",
+      "mean": "<p>to put on ( cloths, shoes, etc); to wear.</p>(जुत्ता, लुगा आदि) लगाउनु ।"
+    },
+    "02102": {
+      "dId": "ᤆᤠᤃᤠᤱᤒᤠ",
+      "desc": "/चागाङ्बा/",
+      "group": "AT",
+      "mean": "<p>cooked dough.</p>पकाएकाे पीठाेकाे डल्लाे ।"
+    },
+    "02103": {
+      "dId": "ᤆᤠᤃᤠ᤺ᤰᤔᤠ/ᤆᤠᤃᤠᤁ᤻ᤔᤠ",
+      "desc": "/चागाःक्मा/",
+      "group": "AT",
+      "mean": "<p>1. Adam’s apple. 2. uvula. 3. crop/ craw of birds.</p>१. रुद्रघण्टी । २. किलकिले; लिगलिगे । ३ गाँड (चराकाे) ।"
+    },
+    "02104": {
+      "dId": "ᤆᤠᤱ",
+      "desc": "/चाङ्/",
+      "group": "AT",
+      "mean": "<p>clothes; cloak; garment; dress; uniform; attire.</p>लुगा; लुगाफाटाे; वस्त्र; पाेशाक ।"
+    },
+    "02105": {
+      "dId": "ᤆᤠᤱᤃᤠᤣ",
+      "desc": "/चाङ्गाे/",
+      "group": "AT",
+      "mean": "<p>appetizingly.</p>खाऊँखाऊँ लाग्ने चालाले ।"
+    },
+    "02106": {
+      "dId": "ᤆᤠᤱᤃᤠ᤺ᤣᤋᤧ",
+      "desc": "/चाङ्गाेःते/",
+      "group": "AT",
+      "mean": "<p>1. glutton; gourmand; ravenous; greedy for food. 2. one who hankers after food; glutton.</p>१. घिचुवा; खन्चुवा । २. खाना पाउने आसले रुङ्ने; खन्चुराे ।"
+    },
+    "02107": {
+      "dId": "ᤆᤠᤱᤄᤡ ᤐᤠᤣᤔᤠᤱ",
+      "desc": "/चाङ्धि पाेमाङ्/",
+      "group": "AT",
+      "mean": "<p>God of prosperity.</p>समृद्धि प्रदान गर्ने देवता वा शक्ति ।"
+    },
+    "02108": {
+      "dId": "ᤆᤠᤱᤄᤢ",
+      "desc": "/चाङ्घु/",
+      "group": "AT",
+      "mean": "<p>a measure of lmeanth from elbow to finger tips; a measure equal to one cubic.</p>एक हातकाे नापाे ।"
+    },
+    "02109": {
+      "dId": "ᤆᤠᤱᤈᤠᤱ",
+      "desc": "/चाङ्जाङ्/",
+      "group": "AT",
+      "mean": "<p>attention; vigilance; alertness; smartness.</p>चनाखाेपन; सतर्कता ।"
+    },
+    "02110": {
+      "dId": "ᤆᤠᤱᤈᤠᤱᤒᤠ",
+      "desc": "/चाङ्जाङ्बा/",
+      "group": "AT",
+      "mean": "<p>alert; attentive; vigilant; smart.</p>सतर्क; चलाक ।"
+    },
+    "02111": {
+      "dId": "ᤆᤠᤱᤈᤠᤱᤘᤠ",
+      "desc": "/चाङ्जाङ्वा/",
+      "group": "AT",
+      "mean": "<p>vim; vigour; energy; smartness.</p>स्फुर्ति; जाँगर; फुर्ति ।"
+    },
+    "02112": {
+      "dId": "ᤆᤠᤱᤎᤠᤴ ᤛᤡᤱ",
+      "desc": "/चाङ्धान् सिङ्/",
+      "group": "AT",
+      "mean": "<p>a kind of tree. Mahonia nepaulensis.</p>चुत्राेकाे रूख ।"
+    },
+    "02113": {
+      "dId": "ᤆᤠᤱᤔᤠ",
+      "desc": "/चाङ्मा/",
+      "group": "AT",
+      "mean": "<p>1. to put on; to wear (not ornaments). 2. to lift up; to uplift; to cause to spring up (or leap or jump). 3. to keep sth/ sb high.</p>१. (लुगा जुत्ता ) लगाउनु (गहाना आदि हाेइन) । २. उचाल्नु; उफार्नु । ३. उच्चाे पार्नु ।"
+    },
+    "02114": {
+      "dId": "ᤆᤠᤱᤗᤠ",
+      "desc": "/चाङ्ला/",
+      "group": "AT",
+      "mean": "<p>clothes.</p>वस्त्र ।"
+    },
+    "02115": {
+      "dId": "ᤆᤠᤱᤘᤠ",
+      "desc": "/चाङ्वा/",
+      "group": "AT",
+      "mean": "<p>1. repair. 2. reprints/ re-edition.</p>१. मरमत । २. संस्करण (पुनमुद्रण) ।"
+    },
+    "02116": {
+      "dId": "ᤆᤠᤱᤘᤠᤖᤠ᤺ᤣᤰ/ᤆᤠᤱᤘᤠᤠᤠᤖᤠᤣᤁ᤻",
+      "desc": "/चाङ्वाराेःक्/",
+      "group": "AT",
+      "mean": "<p>guava. Psidium guajava.</p>अम्बा, अम्बक, बेलाैती । "
+    },
+    "02117": {
+      "dId": "ᤆᤠᤱᤘᤠ᤺ᤳ/ᤆᤠᤱᤘᤠᤋ᤻",
+      "desc": "/चाङ्वाःत्/",
+      "group": "AT",
+      "mean": "<p>ornamental materials.</p>गरगहना; गहनागुरिया ।"
+    },
+    "02118": {
+      "dId": "ᤆᤠᤱᤛᤡᤱ",
+      "desc": "/चाङ्सिङ्/",
+      "group": "AT",
+      "mean": "<p>a variety of fir-tree.</p>ताले धूपी ।"
+    },
+    "02119": {
+      "dId": "ᤆᤠᤱᤛᤡᤱᤔᤠ",
+      "desc": "/चाङ्सिङ्मा/",
+      "group": "AT",
+      "mean": "<p>to exercise; to be agile; to walk.</p>कसरत गर्नु; चटपट गर्नु; हिडडुल गर्नु ।"
+    },
+    "02120": {
+      "dId": "ᤆᤠᤈᤠ᤺ᤳ/ᤆᤠᤈᤠᤋ᤻",
+      "desc": "/चाजाःत्/",
+      "group": "AT",
+      "mean": "<p>cleverness; ingenuity.</p>चलाखपन; चतुर्याइँ ।"
+    },
+    "02121": {
+      "dId": "ᤆᤠᤈᤠ᤺ᤳᤗ᤹ᤒᤠ/ᤆᤠᤈᤠᤋ᤻ᤗᤒᤠ",
+      "desc": "/चाजाःत्ल?बा/",
+      "group": "AT",
+      "mean": "<p>very intelligent; clever.</p>तीब्र बुद्धिकाे; बाठाे ।"
+    },
+    "02122": {
+      "dId": "ᤆᤠᤈᤠ᤺ᤵᤐᤠ/ᤆᤠᤈᤠᤐ᤻ᤐᤠ",
+      "desc": "/चाजाःप्पा/",
+      "group": "AT",
+      "mean": "<p>active; energetic.</p>कर्मठ; सकृय ।"
+    },
+    "02123": {
+      "dId": "ᤆᤠᤳᤋᤡ ",
+      "desc": "/चात्ति/",
+      "group": "AT",
+      "mean": "<p>mace.</p>जाइपत्री ।"
+    },
+    "02124": {
+      "dId": "ᤆᤠᤍᤢᤰ",
+      "desc": "/चादुक्/",
+      "group": "AT",
+      "mean": "<p>lemon; lime. Citrus aurantifolia.</p>कागती ।"
+    },
+    "02125": {
+      "dId": "ᤆᤠᤎᤱᤔᤠ",
+      "desc": "/चाधङ्मा/",
+      "group": "AT",
+      "mean": "<p>to chaff (rice, flour).</p>छिम्कनु (चामल, पिठाे) ।"
+    },
+    "02126": {
+      "dId": "ᤆᤠᤎᤣ",
+      "desc": "/चाधे/",
+      "group": "AT",
+      "mean": "<p>food; eatables.</p>खानेकुराे; खानपिनकाे वस्तु ।"
+    },
+    "02127": {
+      "dId": "ᤆᤠᤏᤠ",
+      "desc": "/चाना/",
+      "group": "AT",
+      "mean": "<p>germ.</p>चना ।"
+    },
+    "02128": {
+      "dId": "ᤆᤠᤏᤠ᤺ᤰ/ᤆᤠᤏᤠᤁ᤻",
+      "desc": "/चानाःक्/",
+      "group": "AT",
+      "mean": "<p>(begging or asking for) alms; begging; cajoling.</p>माग्ने काम; भिक्षा; याचना ।"
+    },
+    "02129": {
+      "dId": "ᤆᤠᤏᤠ᤺ᤰᤐᤠ/ᤆᤠᤁ᤻ᤐᤠ",
+      "desc": "/चानाःक्पा/",
+      "group": "AT",
+      "mean": "<p>beggar.</p>भिखारी/ भिखारीनी; माग्ने ।"
+    },
+    "02130": {
+      "dId": "ᤆᤠᤏᤠ᤺ᤰᤔᤠ/ᤆᤠᤏᤠᤁ᤻ᤔᤠ",
+      "desc": "/चानाःक्मा/",
+      "group": "AT",
+      "mean": "<p>to beg (for alms).</p>भिक्षा माग्नु; भीख माग्नु ।"
+    },
+    "02131": {
+      "dId": "ᤆᤠᤏᤡᤶᤒᤠ",
+      "desc": "/चानिम्बा/",
+      "group": "AT",
+      "mean": "<p>a kind of herbal plant that soothes or clears throat. Nardostachys jatamsnsi.</p>जटामसी ।"
+    },
+    "02132": {
+      "dId": "ᤆᤠᤴᤍᤢᤶᤒᤪᤠ᤺ᤣᤰ/ᤆᤠᤴᤍᤢᤶᤒᤪᤠᤣᤁ᤻",
+      "desc": "/चान्दुम्ब्राेक्/",
+      "group": "AT",
+      "mean": "<p>a kind of drug having bitter seeds; a kind of creeper. Tinospara cordifolia.</p>एक प्रकारकाे जडीबुटी; कालाे वा सेताे गुजुर्गानाे; तामार्के ।"
+    },
+    "02133": {
+      "dId": "ᤆᤠᤵᤐᤢᤳ",
+      "desc": "/चाप्पुत्/",
+      "group": "AT",
+      "mean": "<p>in a manner of squeezing suddenly and tightly.</p>पुचुक्क; स्याप्प; क्याप्प निचाेर्ने चाला ।"
+    },
+    "02134": {
+      "dId": "ᤆᤠᤵᤐ᤺ᤢᤵᤐ᤺ᤢᤵᤐᤠ/ᤆᤠᤵᤐᤢᤐ᤻ᤐᤢᤐ᤻ᤐᤠ",
+      "desc": "/चाप्पुःप्पुःप्पा/",
+      "group": "AT",
+      "mean": "<p>fat-cheeked; chubby.</p>पाेक्चाे; पाेक्चे; गाला भुकुल्लाे परेकाे ।"
+    },
+    "02135": {
+      "dId": "ᤆᤠᤵᤐᤧ᤺ᤳᤋᤠ/ᤆᤠᤵᤐᤧᤋ᤻ᤋᤠ",
+      "desc": "/चाप्पेःत्ता/",
+      "group": "AT",
+      "mean": "<p>flat-nosed.</p>नेप्टाे; नेप्टे ।"
+    },
+    "02136": {
+      "dId": "ᤆᤠᤵᤐᤧ᤺ᤳᤋᤡ/ᤆᤠᤵᤐᤧᤋ᤻ᤋᤡ ",
+      "desc": "/चाप्पेःत्ति/",
+      "group": "AT",
+      "mean": "<p>(fem.) flat-nosed.</p>(स्त्री) चेप्टी; नेप्टी ।"
+    },
+    "02137": {
+      "dId": "ᤆᤠᤵᤐᤧ᤺ᤵᤐᤠ/ᤆᤠᤵᤐᤧᤐ᤻ᤐᤠ",
+      "desc": "/चाप्पेःप्पा/",
+      "group": "AT",
+      "mean": "<p>flat.</p>चेप्टाे ।"
+    },
+    "02138": {
+      "dId": "ᤆᤠᤵᤐᤪᤠᤰ",
+      "desc": "/चाप्प्रक/",
+      "group": "AT",
+      "mean": "<p>adolescence; puberty.</p>कुखुरे बैंस; भर्खर चढेकाे बैंस ।"
+    },
+    "02139": {
+      "dId": "ᤆᤠᤵᤐᤪᤠᤰᤐᤠ",
+      "desc": "/चाप्प्रकपा/",
+      "group": "AT",
+      "mean": "<p>an adolescent boy; a young one; a teenager.</p>कुखुरे बैंसकाे केटाे; ठिटाे ।"
+    },
+    "02140": {
+      "dId": "ᤆᤠᤵᤐᤪᤠᤰᤔᤠ",
+      "desc": "/चाप्प्रकमा/",
+      "group": "AT",
+      "mean": "<p>an adolescent girl; a young one; a teenager.</p>कुखुरे बैंसकी केटी; ठिटी ।"
+    },
+    "02141": {
+      "dId": "ᤆᤠᤵᤐᤪᤧ᤺ᤰ/ᤆᤠᤵᤐᤪᤧᤁ᤻",
+      "desc": "/चाप्प्रेःक्/",
+      "group": "AT",
+      "mean": "<p>in a way of flatting sth under pressure.</p>पिचिक्क (चेप्टाे हुने गरी किचिने पाराले ) ।"
+    },
+    "02142": {
+      "dId": "ᤆᤠᤵᤑᤧᤴᤍᤠ",
+      "desc": "/चाप्फेन्दा/",
+      "group": "AT",
+      "mean": "<p>tomato. <i>Lycopersicon esculentum.</i></p>गाेलभेँडा ।"
+    },
+    "02143": {
+      "dId": "ᤆᤠᤵᤔᤠ",
+      "desc": "/चाप्मा/",
+      "group": "AT",
+      "mean": "<p>to be fast; quick.</p>फुर्तिलाे हुनु; छिटाे हुनु ।"
+    },
+    "02144": {
+      "dId": "ᤆᤠᤒᤰ",
+      "desc": "/चाबक्/",
+      "group": "AT",
+      "mean": "<p>a bundle of food.</p>खानाकाे (अन्नकाे) पाेकाे ।"
+    },
+    "02145": {
+      "dId": "ᤆᤠᤒᤠᤣ᤹",
+      "desc": "/चाबाे?/",
+      "group": "AT",
+      "mean": "<p>betel (betel leef). Piber betle.</p>पान (पानकाे पात वा लहरा) ।"
+    },
+    "02146": {
+      "dId": "ᤆᤠᤒᤠ᤺ᤣᤴ/ᤆᤠᤒᤠᤣᤏ᤻",
+      "desc": "/चाबाेःन्/",
+      "group": "AT",
+      "mean": "<p>fried unhusked rice or maize; pop corn (use during funerals).</p>भुट्दा फूल उठेकाे धान वा मकै (मन्साउने कार्यमा प्रयाेग हुने) ।"
+    },
+    "02147": {
+      "dId": "ᤆᤠᤒᤠ᤺ᤧᤣᤰᤔᤠ/ᤆᤠᤒᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/चाबाेःक्मा/",
+      "group": "AT",
+      "mean": "<p>uvula.</p>लिगलिगे; घाँटीकाे मुखमा जिब्राेकाे फेदकाे मुखकाे माथिल्लाे छानाेमा झुन्डेकाे मासुकाे लुर्कन ।"
+    },
+    "02148": {
+      "dId": "ᤆᤠᤓᤡ ",
+      "desc": "/चभि/",
+      "group": "AT",
+      "mean": "<p>a netted bag.</p>जालीदार झाेला; जाबी ।"
+    },
+    "02149": {
+      "dId": "ᤆᤠᤔᤠ",
+      "desc": "/चामा/",
+      "group": "AT",
+      "mean": "<p>to eat.</p>खानु ।"
+    },
+    "02150": {
+      "dId": "ᤆᤠᤔᤡ ",
+      "desc": "/चामि/",
+      "group": "AT",
+      "mean": "<p>name of one of the constellations.</p>पूर्वा भाद्रपदा (नक्षत्र) ।"
+    },
+    "02151": {
+      "dId": "ᤆᤠᤔᤢᤰ-ᤌᤡᤔᤢᤰ",
+      "desc": "/चामुक्-थिमुक्/",
+      "group": "AT",
+      "mean": "<p>(things of) eating and drinking; food and drinks; eatable.</p>खानपान; खानापिना; खानेपिउने वस्तु । "
+    },
+    "02152": {
+      "dId": "ᤆᤠᤔᤣ",
+      "desc": "/चामे/",
+      "group": "AT",
+      "mean": "<p>spoon.</p>चम्चा; चम्चि ।"
+    },
+    "02153": {
+      "dId": "ᤆᤠᤔᤣᤔᤢᤔᤣ",
+      "desc": "/चामेमुमे/",
+      "group": "AT",
+      "mean": "<p>solitary; lonely.</p>सुनसान; शुन्यताले पूर्ण ।"
+    },
+    "02154": {
+      "dId": "ᤆᤠᤔᤧᤏᤠ",
+      "desc": "/चामेना/",
+      "group": "AT",
+      "mean": "<p>alluvial; fertile.</p>मलिलाे; ऊर्वर ।"
+    },
+    "02155": {
+      "dId": "ᤆᤠᤶᤈᤡᤱ",
+      "desc": "/चाम्जिङ्/",
+      "group": "AT",
+      "mean": "<p>machilus tree. Machilus gamblei.</p>काउलाे ।"
+    },
+    "02156": {
+      "dId": "ᤆᤠᤶᤒᤀᤡ᤺ᤳ/ᤆᤠᤶᤒᤀᤡᤋ᤻",
+      "desc": "/चिघिम्/",
+      "group": "AT",
+      "mean": "<p>a variety of cucumber.</p>गाेलकाँक्री ।"
+    },
+    "02157": {
+      "dId": "ᤆᤠᤶᤒᤢᤏᤠ",
+      "desc": "/चाम्बुना/",
+      "group": "AT",
+      "mean": "<p>black palm. Eugenia jambolana.</p>जमुना; जामुन ।"
+    },
+    "02158": {
+      "dId": "ᤆᤠᤶᤒᤠ᤺ᤣᤳᤋᤡ/ᤆᤠᤶᤒᤠᤣᤋ᤻ᤋᤡ ",
+      "desc": "/चाम्बाेःत्ति/",
+      "group": "AT",
+      "mean": "<p>magnolia. Magnolia grandiflora.</p>थल कमल रूखमा फुल्ने कमल ।"
+    },
+    "02159": {
+      "dId": "ᤆᤠᤶᤔᤠ",
+      "desc": "/चाम्मा/",
+      "group": "AT",
+      "mean": "<p>to pile up; to put sth over sth else.</p>कुनै वस्तु माथि अर्काे वस्तु राख्नु; खाप्नु; चाङ् पार्नु; खात लाउनु ।"
+    },
+    "02160": {
+      "dId": "ᤆᤠᤶᤔᤪᤣ",
+      "desc": "/चाम्रे/",
+      "group": "AT",
+      "mean": "<p>a particular kind of preparation from rice; a kind of pulau rice.</p>चाम्रे; चाम्राे भात; एक प्रकारकाे पुलाउजस्ताे भात ।"
+    },
+    "02161": {
+      "dId": "ᤆᤠᤶᤔᤪᤠ᤺ᤣᤰ/ᤆᤠᤶᤔᤪᤠᤣᤁ᤻",
+      "desc": "/चाम्म्राेःक्",
+      "group": "AT",
+      "mean": "<p>egg-plant; brinjal; ebuergine. Solanum melongena.</p>भण्टा ।"
+    },
+    "02162": {
+      "dId": "ᤆᤠᤶᤗᤧᤱ",
+      "desc": "/चाम्लेङ्/",
+      "group": "AT",
+      "mean": "<p>with a momentary glance; with a sudden glance; in a manner of looking askance.</p>झलक्क; मिलिक्क; पुलुक्क ।"
+    },
+    "02163": {
+      "dId": "ᤆᤠᤕᤠ",
+      "desc": "/चाया/",
+      "group": "AT",
+      "mean": "<p>dandruff.</p>चाँया ।"
+    },
+    "02164": {
+      "dId": "ᤆᤠᤕᤠ᤺ᤱᤎᤠ᤺ᤣᤰ/ᤆᤠᤕᤠᤅ᤻ᤎᤠᤣᤁ᤻",
+      "desc": "/चायाःङ्धाेक्/",
+      "group": "AT",
+      "mean": "<p>hotel; restaurant.</p>भाेजनालय ।"
+    },
+    "02165": {
+      "dId": "ᤆᤠᤕᤠ᤺ᤱᤔᤠᤣᤒᤠ/ᤆᤠᤕᤠᤅ᤻ᤔᤠᤣᤒᤠ",
+      "desc": "/चायाःङ्माेबा/",
+      "group": "AT",
+      "mean": "<p>cook; chef.</p>भान्छे ।"
+    },
+    "02166": {
+      "dId": "ᤆᤠᤕᤢᤰᤁᤠᤣ",
+      "desc": "/चायुक्काे/",
+      "group": "AT",
+      "mean": "<p>store-room; barn; granary.</p>भण्डार; धनसार ।"
+    },
+    "02167": {
+      "dId": "ᤆᤠᤕᤢ ᤛᤡᤱ",
+      "desc": "/चायु सिङ्/",
+      "group": "AT",
+      "mean": "<p>a long pepper tree; a kind of herb. Piper longum.</p>पिप्ली रूख; एक प्रकारकाे जडीबुटी ।"
+    },
+    "02168": {
+      "dId": "ᤆᤠᤕᤢᤛᤣ᤹",
+      "desc": "/चायुसे?/",
+      "group": "AT",
+      "mean": "<p>nutmeg. Myristica frangrans.</p>जाइफल ।"
+    },
+    "02169": {
+      "dId": "ᤆᤠᤕ᤺ᤢᤵᤔᤠ/ᤆᤠᤕᤢᤐ᤻ᤔᤠ",
+      "desc": "/चायुःप्मा/",
+      "group": "AT",
+      "mean": "<p>(of the cattle) to chew the cud; to ruminate.</p>(गाईवस्तु) उग्राउनु; पागुर गर्नु ।"
+    },
+    "02170": {
+      "dId": "ᤆᤠᤕᤧᤱᤔᤠ",
+      "desc": "/चायेङ्मा/",
+      "group": "AT",
+      "mean": "<p>(of the cattle) to chew the cud; to ruminate.</p>(गाईवस्तु) उग्राउनु; पागुर गर्नु ।"
+    },
+    "02171": {
+      "dId": "ᤆᤠᤖᤵᤐᤠ/ᤆᤠᤖᤐ᤻ᤐᤠ",
+      "desc": "/चार:प्पा/",
+      "group": "AT",
+      "mean": "<p> a kind of bread rolled in green leaves and cooked in the ashes of fire.</p>मुछेकाे पिठाे पातमा बेरेर भुप्राेमा सेकि पकाएकाे लाम्चाे राेटी ।"
+    },
+    "02172": {
+      "dId": "ᤆᤠᤖᤠᤰ",
+      "desc": "/चाराक्/",
+      "group": "AT",
+      "mean": "<p>nauseating, distasteful with sour or bad taste (eg: fermented millet beer; spirited liquor).</p>चर्केकाे (हावा पसेकाे) अर्थात स्वाद बिग्रेकाे (जाँड वा रक्सी) ।"
+    },
+    "02173": {
+      "dId": "ᤆᤠᤖᤠᤵᤑᤧ᤺ᤶᤒᤠ/ᤆᤠᤖᤠᤵᤑᤧᤔ᤻ᤒᤠ",
+      "desc": "/चाराप्फेःम्बा/",
+      "group": "AT",
+      "mean": "<p>[Tamor] butterfly.</p>[तमर] पुतली (किरा) ।"
+    },
+    "02174": {
+      "dId": "ᤆᤠᤖᤠᤶᤍᤧᤴ",
+      "desc": "/चाराम्देन्/",
+      "group": "AT",
+      "mean": "<p>meadow; grazing-land; pasture.</p>चरन ।"
+    },
+    "02175": {
+      "dId": "ᤆᤠᤖᤠᤶᤔᤠ",
+      "desc": "/चाराम्मा/",
+      "group": "AT",
+      "mean": "<p>(cattle) to graze; graze.</p>चर्नु; चराउनु (गाईबस्तु) ।"
+    },
+    "02176": {
+      "dId": "ᤆᤠᤖᤡ ",
+      "desc": "/चारि/",
+      "group": "AT",
+      "mean": "<p>elopement; an act fo establishing marital relation running away secretly by a man with another person’s wife or by a married woman with another person.</p>जारी विवाह; विवाहित स्त्रीले परपुरुष संग भागेर वा कुनै पुरुषले परस्त्रीलाई भगाएर लगी गरीने विवाह ।"
+    },
+    "02177": {
+      "dId": "ᤆᤠᤖᤡᤰ",
+      "desc": "/चारिक्/",
+      "group": "AT",
+      "mean": "<p>to the best of one’s ability; to one’s level best; so far as one can do.</p>साह्रै; अति; भरमग्दुर ।"
+    },
+    "02178": {
+      "dId": "ᤆᤠᤖᤠ᤺ᤣᤰ/ᤆᤠᤖᤠᤣᤁ᤻",
+      "desc": "/चाराेःक्/",
+      "group": "AT",
+      "mean": "<p>feed (of fish, pig, etc).</p>चाराे (माछा, सुँगुर आदिकाे) ।"
+    },
+    "02179": {
+      "dId": "ᤆᤠᤗᤰᤔᤠ",
+      "desc": "/चालक्मा/",
+      "group": "AT",
+      "mean": "<p>to work on the farm as a labour; to work as a farm labourer; to till land and earn one’s livelihood.</p>बनिबुताे गर्नु ।"
+    },
+    "02180": {
+      "dId": "ᤆᤠᤗᤠᤶᤔᤠ",
+      "desc": "/चालाम्मा/",
+      "group": "AT",
+      "mean": "<p>to stroll for delicious taste. 2. to loiter for adultery.</p>१. चर्नु (मीठाेमीठाे खाेजी खानु) । २. चर्नु (व्यभिचारकाे नियतले डुल्नु ) ।"
+    },
+    "02181": {
+      "dId": "ᤆᤠᤗᤢᤵᤔᤠ",
+      "desc": "/चालुप्मा/",
+      "group": "AT",
+      "mean": "<p>to nourish sb with food; to make sb eat more and be fatty.</p>पाेस्नु; पाेसाउनु ।"
+    },
+    "02182": {
+      "dId": "ᤆᤠᤗᤢᤶᤔᤠ",
+      "desc": "/चालुम्मा/",
+      "group": "AT",
+      "mean": "<p>to pile/ heap up  crops.</p>अन्न थुपार्नु ।"
+    },
+    "02183": {
+      "dId": "ᤆᤠᤗᤠ᤺ᤰᤋᤧᤴ/ᤆᤠᤗᤠᤁ᤻ᤋᤧᤴ",
+      "desc": "/चालाःक्तेन्/",
+      "group": "AT",
+      "mean": "<p>barn; threshing yard/ ground.</p>खला; दाइँ गर्ने खला ।"
+    },
+    "02184": {
+      "dId": "ᤆᤠᤗᤢᤶᤓᤠ᤺ᤣᤰ/ᤆᤠᤗᤢᤶᤓᤠᤣᤁ᤻",
+      "desc": "/चलुम्भाेःक्/",
+      "group": "AT",
+      "mean": "<p>go-down; store-room; barn; granary.</p>भण्डार; धनसार; ढुकुटी; गाेदाम ।"
+    },
+    "02185": {
+      "dId": "ᤆᤠᤗᤠ᤺ᤣᤰ/ᤆᤠᤗᤠᤣᤁ᤻",
+      "desc": "/चालाेःक्/",
+      "group": "AT",
+      "mean": "<p>alms.</p>भिक्षा ।"
+    },
+    "02186": {
+      "dId": "ᤆᤠᤸᤁᤡ ",
+      "desc": "/चाल्कि/",
+      "group": "AT",
+      "mean": "<p>sign; signal; gesture.</p>इशारा ।"
+    },
+    "02187": {
+      "dId": "ᤆᤠᤸᤗᤡᤰ",
+      "desc": "/चाल्लिक्/",
+      "group": "AT",
+      "mean": "<p>quickly; soon.</p>छिटाे; चाँडाे ।"
+    },
+    "02188": {
+      "dId": "ᤆᤠᤘᤔᤠ ᤐ᤺ᤳ",
+      "desc": "/चावमा पत्/",
+      "group": "AT",
+      "mean": "<p>a variety of mushroom.</p>कन्ने च्याउ ।"
+    },
+    "02189": {
+      "dId": "ᤆᤠᤘᤠ᤹",
+      "desc": "/चावा?/",
+      "group": "AT",
+      "mean": "<p>feed or fodder (for pigs and other animals).</p>चाराे; दाना (सुँगुर आदि जनावरकाे मात्र ) ।"
+    },
+    "02190": {
+      "dId": "ᤆᤠᤘᤠᤍᤧᤴ",
+      "desc": "/चावादेन्/",
+      "group": "AT",
+      "mean": "<p>kitchen.</p>भान्साघर; भान्छाकाेठा; पकाउने ठाउँ ।"
+    },
+    "02191": {
+      "dId": "ᤆᤠᤘᤠ᤺ᤔᤠ",
+      "desc": "/चावाःमा/",
+      "group": "AT",
+      "mean": "<p>to dry grains/ corns on fire.</p>आगाेमाथि अन्न सुकाउनु ।"
+    },
+    "02192": {
+      "dId": "ᤆᤠᤛᤡ᤺ᤰ/ᤆᤠᤛᤡᤁ᤻",
+      "desc": "/चासाक्/",
+      "group": "AT",
+      "mean": "<p>provisions; victuals; viands.</p>सामल; खाने पकाउने दैनिक उपभाेग्य पदार्थ ।"
+    },
+    "02193": {
+      "dId": "ᤆᤠᤛᤣ᤹",
+      "desc": "/चासे?/",
+      "group": "AT",
+      "mean": "<p>feed (only for birds and fish).</p>चाराे; दाना (चरा र माछाकाे मात्र) ।"
+    },
+    "02194": {
+      "dId": "ᤆᤠᤛᤣ᤹ᤖᤢ",
+      "desc": "/चासे?रू/",
+      "group": "AT",
+      "mean": "<p>stale (food).</p>बासी (खानेकुरा) ।"
+    },
+    "02195": {
+      "dId": "ᤆᤠᤛᤠ᤺ᤣᤰ/ᤆᤠᤛᤠᤣᤁ᤻",
+      "desc": "/चासाेःक्/",
+      "group": "AT",
+      "mean": "<p>1. food; cooked food; things ready to be eaten. 2. offering the first harvested crops to God.</p>१. खाद्य; खानेकुरा । २. न्वागी; नयाँ अन्न देवतालाई चढाउने काम ।"
+    },
+    "02196": {
+      "dId": "ᤆᤠᤛᤠ᤺ᤣᤰᤔᤠ/ᤆᤠᤛᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/चासाेःक्मा/",
+      "group": "AT",
+      "mean": "<p>to be wasted; to be spoilt; to be of no use; to go waste.</p>खेर जानु; उपयाेगमा नआई बिग्रनु ।"
+    },
+    "02197": {
+      "dId": "ᤆᤠᤜᤠ",
+      "desc": "/चाहा/",
+      "group": "AT",
+      "mean": "<p>necessary.</p>आवश्यक्ता ।"
+    },
+    "02198": {
+      "dId": "ᤆᤠᤜᤠᤵ",
+      "desc": "/चाहाप्/",
+      "group": "AT",
+      "mean": "<p>deficiency; lack; shortage; want; need; scarcity.</p>अभाव; खाँचाे ।"
+    },
+    "02199": {
+      "dId": "ᤆᤠᤜᤠᤱᤍᤠᤱᤔᤠ",
+      "desc": "/चाहाङ्दाङ्मा/",
+      "group": "AT",
+      "mean": "<p>a closed-meshed basket containing “yakca” (i.e. malt prepared from millet).</p>याक्चासहितकाे थुन्से ।"
+    },
+    "02200": {
+      "dId": "ᤆᤠᤜᤡᤖᤧ᤺ᤰ/ᤆᤠᤜᤡᤖᤧᤁ᤻",
+      "desc": "/चाहिरेःक्/",
+      "group": "AT",
+      "mean": "<p>a kind of tree which causes swelling on touching it. <i>Rhus insignis.</i></p>कागभलायाे ।"
+    },
+    "02201": {
+      "dId": "ᤆᤠ᤺ᤳᤋᤧᤴ/ᤆᤠᤋ᤻ᤋᤧᤴ",
+      "desc": "/चाःत्तेन्/",
+      "group": "AT",
+      "mean": "<p>1. playground. 2. stadium.</p>१. खेलमैदान । २. रङ्गशाला । "
+    },
+    "02202": {
+      "dId": "ᤆᤠ᤺ᤰᤔᤠ/ᤆᤠᤁ᤻ᤔᤠ",
+      "desc": "/चाःक्मा/",
+      "group": "AT",
+      "mean": "<p>to swim.</p>पाैडनु ।"
+    },
+    "02203": {
+      "dId": "ᤆᤠ᤺ᤱᤘᤠ/ᤆᤠᤅ᤻ᤘᤠ",
+      "desc": "/चाःङ्वा/",
+      "group": "AT",
+      "mean": "<p>rice gruel.</p>भातकाे माड ।"
+    },
+    "02204": {
+      "dId": "ᤆᤠ᤺ᤳ/ᤆᤠᤋ᤻",
+      "desc": "/चाःत्/",
+      "group": "AT",
+      "mean": "<p>game; play.</p>खेल ।"
+    },
+    "02205": {
+      "dId": "ᤆᤠ᤺ᤳᤇᤡᤱᤔᤠ/ᤆᤠᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/चाःत्छिङ्मा/",
+      "group": "AT",
+      "mean": "<p>to feed each other.</p>एक अर्कालाई खुवाउनु ।"
+    },
+    "02206": {
+      "dId": "ᤆᤠ᤺ᤳᤌᤡ/ᤆᤠᤋ᤻ᤌᤡ ",
+      "desc": "/चाःत्थि/",
+      "group": "AT",
+      "mean": "<p>manner; character.</p>बानीबेहाेर; चरित्र ।"
+    },
+    "02207": {
+      "dId": "ᤆᤠ᤺ᤳᤗᤠᤒᤠ/ᤆᤠᤋ᤻ᤗᤠᤒᤠ",
+      "desc": "/चाःत्लाबा/",
+      "group": "AT",
+      "mean": "<p>player; sportsman.</p>खेलाडी ।"
+    },
+    "02208": {
+      "dId": "ᤆᤠ᤺-ᤌᤡ᤺ ",
+      "desc": "/चाः -थिः/",
+      "group": "AT",
+      "mean": "<p>foods and drinks.</p>खानेपिउने पदार्थ ।"
+    },
+    "02209": {
+      "dId": "ᤆᤠ᤺ᤍᤧᤴ",
+      "desc": "/चाःदेन्/",
+      "group": "AT",
+      "mean": "<p>1. dining-room. 2. dining-table.</p>१. खाना खाने ठाउँ (खण्ड) । २. खाना खाने टेबुल आदि ।"
+    },
+    "02210": {
+      "dId": "ᤆᤠ᤺ᤎᤢᤱ",
+      "desc": "/चाःधुङ्/",
+      "group": "AT",
+      "mean": "<p>eatables; foods and drinks.</p>खानेपिउने कुरा ।"
+    },
+    "02211": {
+      "dId": "ᤆᤠ᤺ᤍᤧᤵᤔᤠ",
+      "desc": "/चाःदेप्मा/",
+      "group": "AT",
+      "mean": "<p>cover (for rice).</p>ढकनी ( भात छाेप्ने वस्तु) ।"
+    },
+    "02212": {
+      "dId": "ᤆᤠ᤺ᤏᤠᤣ᤹ᤒᤠ",
+      "desc": "/चाःनाे?बा/",
+      "group": "AT",
+      "mean": "<p>delicious; palatable; tasty.</p>मिठासपूर्ण; मिठाे; स्वादिलाे; स्वादिष्ठ ।"
+    },
+    "02213": {
+      "dId": "ᤆᤠ᤺ᤏᤧᤳ",
+      "desc": "/चाःनेत्/",
+      "group": "AT",
+      "mean": "<p>fast; fasting ( esp for religious purpose).</p>उपवास; व्रत ।"
+    },
+    "02214": {
+      "dId": "ᤆᤠ᤺ᤏᤧᤵᤔᤠ",
+      "desc": "/चाःनेप्मा/",
+      "group": "AT",
+      "mean": "<p>to fast (esp for religious purpose).</p>उपवास वस्नु; व्रत बस्नु ।"
+    },
+    "02215": {
+      "dId": "ᤆᤠ᤺ᤴ/ᤆᤠᤏ᤻",
+      "desc": "/चाःन्/",
+      "group": "AT",
+      "mean": "<p>color.</p>रङ्ग ।"
+    },
+    "02216": {
+      "dId": "ᤆᤠ᤺ᤴᤛᤡᤖᤡ/ᤆᤠᤏ᤻ᤛᤡᤖᤡ ",
+      "desc": "/चाःन्सिरि/",
+      "group": "AT",
+      "mean": "<p>a kind of red power.</p>अबिर (राताे) ।"
+    },
+    "02217": {
+      "dId": "ᤆᤠᤵᤐᤠ/ᤆᤠᤐ᤻ᤐᤠ",
+      "desc": "/चाःप्पा/",
+      "group": "AT",
+      "mean": "<p>1. clever; ingenious; quick-witted. 2. genius; talented; knowledgeable.</p>१. चतुर; बाठाे । २. प्रतिभाशाली; जेहनदार; ज्ञानी ।"
+    },
+    "02218": {
+      "dId": "ᤆᤠᤵᤔᤠ/ᤆᤠᤐ᤻ᤔᤠ",
+      "desc": "/चाःप्मा/",
+      "group": "AT",
+      "mean": "<p>1. (fem.) clever; ingenious; quick-witted. 2. genius; talented; knowledgeable. 3. to be over smart. 4. to play. 5. to feed sb; to cause sb to eat sth.</p>१. (स्त्री) चतुर; बाठी । २. प्रतिभाशाली; जेहनदार । ३. धेर जान्ने हुनु; बाठाे/ बाठी हुनु । ४. खेल्नु; खेल खेल्नु । ५. खुवाउनु ।"
+    },
+    "02219": {
+      "dId": "ᤆᤠ᤺ᤓᤡᤶᤔᤠ",
+      "desc": "/चाःभिम्मा/",
+      "group": "AT",
+      "mean": "<p>to offer lump of rice or other eatables to the spirit of dead person.</p>खानेकुरा मन्साउनु; पिण्ड चढाउनु ।"
+    },
+    "02220": {
+      "dId": "ᤆᤠ᤺ᤔᤠ",
+      "desc": "/चाःमा/",
+      "group": "AT",
+      "mean": "<p>[Phedape] to play; to play (football, tennis, etc).</p>[फेदापे] खेल्नु; खेल खेल्नु ।"
+    },
+    "02221": {
+      "dId": "ᤆᤠ᤺ᤔᤠᤱ",
+      "desc": "/चाःमाङ्/",
+      "group": "AT",
+      "mean": "<p>the crop God.</p>अन्नका देवीदेवता ।"
+    },
+    "02222": {
+      "dId": "ᤆᤠ᤺ᤔᤠ-ᤌᤢᤱᤔᤠ",
+      "desc": "/चाःमा-थुङ्मा/",
+      "group": "AT",
+      "mean": "<p>1. food; foods and drinks; eatables; things to eat and drink. 2. (act of ) eating and drinking.</p>१. खाना; खाद्य र पेय पदार्थ; खानेपिउने कुरा । २. खानपान; खानपिन; खानेपिउने काम ।"
+    },
+    "02223": {
+      "dId": "ᤆᤠᤶᤔᤠ/ᤆᤠᤔ᤻ᤔᤠ",
+      "desc": "/चाःम्मा/",
+      "group": "AT",
+      "mean": "<p>(hair etc) to color; to dye.</p>(कपाल आदि) रङ्गाउनु; रङ् लगाउनु ।"
+    },
+    "02224": {
+      "dId": "ᤆᤠ᤺ᤘᤠ",
+      "desc": "/चाःवा/",
+      "group": "AT",
+      "mean": "<p>transactions; business; investment; give and take.</p>लेनदेन; काराेबार; लगानी ।"
+    }
+  }
+}

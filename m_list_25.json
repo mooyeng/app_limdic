@@ -1,0 +1,940 @@
+{
+  "Dic": {
+    "02609": {
+      "dId": "ᤋ",
+      "desc": "/त/",
+      "group": "AY",
+      "mean": "<p>the ninth consonant letter of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाको नवौं व्यन्जनवर्ण ।"
+    },
+    "02610": {
+      "dId": "ᤋ᤹ᤔᤠ",
+      "desc": "/त?मा/",
+      "group": "AY",
+      "mean": "<p>to feel indolent/ lazy.</p>अल्छि लाग्नु ।"
+    },
+    "02611": {
+      "dId": "ᤋ᤹ᤕᤠ᤺ᤰᤘᤠ/ᤋ᤹ᤕᤠᤁ᤻ᤘᤠ",
+      "desc": "/त?याःक्वा/",
+      "group": "AY",
+      "mean": "<p>a kind of poisonous plant; maize of the snake. <i>Arisaema tortuosa.</i></p>गुर्बो ।"
+    },
+    "02612": {
+      "dId": "ᤋ᤹ᤗᤢᤶᤒᤣ",
+      "desc": "/त?लुम्बे/",
+      "group": "AY",
+      "mean": "<p>trachea; wind-pipe.</p>श्वास नली ।"
+    },
+    "02613": {
+      "dId": "ᤋ᤹ᤘᤠ",
+      "desc": "/त?वा/",
+      "group": "AY",
+      "mean": "<p>1. forehead. 2. fortune.</p>१. निधार । २. भाग्य ।"
+    },
+    "02614": {
+      "dId": "ᤏᤠᤵᤔᤠ",
+      "desc": "/नाप्मा/",
+      "group": "AY",
+      "mean": "<p>1. to snatch away sth (from sb). 2. to plunder; to loot.</p>१. खोस्नु; खोसाउनु । २. लुट्नु ।"
+    },
+    "02615": {
+      "dId": "ᤋᤰ",
+      "desc": "/तक्/",
+      "group": "AY",
+      "mean": "<p>1. support; prop. 2. full stop. 3. in front of.</p>१. अडेसो; अडिने आधार । २. पूर्णविराम । ३. अगाडी; अघि; सामुन्ने ।"
+    },
+    "02616": {
+      "dId": "ᤋᤰᤋᤠᤱ-ᤕᤠᤰᤂᤣ",
+      "desc": "/तक्ताङ्-याक्खे/",
+      "group": "AY",
+      "mean": "<p>a kind of yam with five fingers (or mouths).</p>पाँचमुखे तरूल; पिँडालु ।"
+    },
+    "02617": {
+      "dId": "ᤋᤰᤋᤢᤶᤒᤠ",
+      "desc": "/तक्तुम्बा/",
+      "group": "AY",
+      "mean": "<p>prefix.</p>उपसर्ग ।"
+    },
+    "02618": {
+      "dId": "ᤋᤰᤋᤢᤖᤠᤒᤠ",
+      "desc": "/तक्तुराबा/",
+      "group": "AY",
+      "mean": "<p>frontal view/ face.</p>मोहडा; अनुहारको अगाडीको भाग ।"
+    },
+    "02619": {
+      "dId": "ᤋᤰᤏᤠᤶ",
+      "desc": "/तक्नाम्/",
+      "group": "AY",
+      "mean": "<p>1. mid-day. 2. full stop.</p>१. मध्यदिन; मध्यान्ह । २. पूर्णविराम ।"
+    },
+    "02620": {
+      "dId": "ᤋᤰᤏᤠᤶᤃᤧᤴ",
+      "desc": "/तक्नाम्गेन्/",
+      "group": "AY",
+      "mean": "<p>northeast.</p>ईशान कोण; उत्तरपूर्वी दिशा ।"
+    },
+    "02621": {
+      "dId": "ᤋᤰᤏᤠᤶᤎᤠ",
+      "desc": "/तक्नाम्धा/",
+      "group": "AY",
+      "mean": "<p>northwest.</p>वायव्य कोण; उत्तरपश्चिम दिशा ।"
+    },
+    "02622": {
+      "dId": "ᤋᤰᤏᤡ᤺ᤴ/ᤋᤰᤏᤡᤏ᤻",
+      "desc": "/तक्निःन्/",
+      "group": "AY",
+      "mean": "<p>directives; rules and regulations.</p>नियम- निर्देशिका ।"
+    },
+    "02623": {
+      "dId": "ᤋᤰᤐᤠ᤺ᤴ/ᤋᤰᤐᤠᤏ᤻",
+      "desc": "/तक्पाःन्/",
+      "group": "AY",
+      "mean": "<p>preface; pre-context.</p>भूमिका; प्राक्कथन; आमुख; कुनै काम गर्नुभन्दा पहिला उठाइने प्रसङ्ग ।"
+    },
+    "02624": {
+      "dId": "ᤋᤰᤐᤣ",
+      "desc": "/तक्पे/",
+      "group": "AY",
+      "mean": "<p>punctuation.</p>चिन्ह-विचार ।"
+    },
+    "02625": {
+      "dId": "ᤋᤰᤐᤣᤳ",
+      "desc": "/तक्पेत्/",
+      "group": "AY",
+      "mean": "<p>(adj.) erect; perpendicular; vertical. (adv.) straight up; stand up straight.</p>(वि.) ठाडो । (क्रिवि.) ठिङ्ग; ठाडै ।"
+    },
+    "02626": {
+      "dId": "ᤋᤰᤑᤴ",
+      "desc": "/तक्फन्/",
+      "group": "AY",
+      "mean": "<p>craw; crop.</p>गाँड (कुखुरा आदि चराचुरूङ्गीको ) ।"
+    },
+    "02627": {
+      "dId": "ᤋᤰᤑᤣ",
+      "desc": "/तक्फे/",
+      "group": "AY",
+      "mean": "<p>latch (esp wooden) .</p>चुकुफ्ल (विशेष गरी काठको) ।"
+    },
+    "02628": {
+      "dId": "ᤋᤰᤔᤴ",
+      "desc": "/तक्मन्/",
+      "group": "AY",
+      "mean": "<p>1. rest; stop. 2. comma; semi-colon; symbol of stops; eg (.) and (;).</p>१. विश्राम । २. अल्पविराम; अर्द्धविराम; विराम चिन्ह ।"
+    },
+    "02629": {
+      "dId": "ᤋᤰᤔᤠ",
+      "desc": "/तक्मा/",
+      "group": "AY",
+      "mean": "<p>1. to hold up; to keep up straight. 2. to support with stick (and rest as collies rest on their stick). 3. to support/ help. 4. to carry on tradition; to keep up tradition.</p>१. थाम्नु; थेग्नु । २. अडाउनु; आधार दिनु; टेको दिनु; टेवा दिएर अडाउनु । ३. टेको/ टेवा वा मद्धत दिनु । ४. परम्परा थाम्नु वा थेग्नु ।"
+    },
+    "02630": {
+      "dId": "ᤋᤰᤔᤠᤱ",
+      "desc": "/तक्माङ्/",
+      "group": "AY",
+      "mean": "<p>a stick on which coolies rest their loads when halted; a stick to support the load in a ‘Dhakar”.</p>तोक्मा ।"
+    },
+    "02631": {
+      "dId": "ᤋᤰᤔᤡ(ᤒᤠ)",
+      "desc": "/तक्मि(बा)/",
+      "group": "AY",
+      "mean": "<p>elephant.</p>हात्ती ।"
+    },
+    "02632": {
+      "dId": "ᤋᤰᤕᤠ",
+      "desc": "/तक्या/",
+      "group": "AY",
+      "mean": "<p>1. horehead. 2. routune.</p>१. निधार । २. भाग्य ।"
+    },
+    "02633": {
+      "dId": "ᤋᤰᤕᤠᤒᤠ",
+      "desc": "/तक्याबा/",
+      "group": "AY",
+      "mean": "<p>a kind of fruit.</p>रातो घोगे फल ।"
+    },
+    "02634": {
+      "dId": "ᤋᤰᤗᤠᤱ",
+      "desc": "/तक्लाङ्/",
+      "group": "AY",
+      "mean": "<p>1. split bamboo sticks used to support split bamboo baskets. 2. pillar; support. 3. fore-legs (of animals).</p>१. काम्रो; डोको आदि दरो पार्न राखिने एक प्रकारको भाटा । २. खम्वा; खाँबो । ३. पशुहरूको अगाडिको खुट्टा ।"
+    },
+    "02635": {
+      "dId": "ᤋᤰᤗᤠᤵᤐᤠ",
+      "desc": "/तक्लाप्पा/",
+      "group": "AY",
+      "mean": "<p>(n.) predicate. (adj.) predicative.</p>(ना.) विधेय । (वि.) विधेयसम्बन्धि ।"
+    },
+    "02636": {
+      "dId": "ᤋᤰᤗᤢᤶᤒᤠ",
+      "desc": "/तक्लुम्बा/",
+      "group": "AY",
+      "mean": "<p>lap.</p>काख ।"
+    },
+    "02637": {
+      "dId": "ᤋᤰᤗᤧᤱ",
+      "desc": "/तक्लेङ्/",
+      "group": "AY",
+      "mean": "<p>1. against; opposite. 2. against; infavourable.</p>१. विपरीत; उल्टो; बिब्ल्याँटो । २. प्रतिकुल; विरूद्ध ।"
+    },
+    "02638": {
+      "dId": "ᤋᤰᤘᤠ",
+      "desc": "/तक्वा/",
+      "group": "AY",
+      "mean": "<p>spindle.</p>कतुवा; फिर्की; धागो कात्ने सुइरो । "
+    },
+    "02639": {
+      "dId": "ᤋᤰᤛᤱ",
+      "desc": "/तक्सङ्/",
+      "group": "AY",
+      "mean": "<p>highland; upland; the mountain region.</p>लेक ।"
+    },
+    "02640": {
+      "dId": "ᤋᤰᤛᤱ-ᤁᤠ᤺ᤰᤘᤠ/ᤁᤠᤁ᤻ᤘᤠ",
+      "desc": "/तक्सङ्-काःक्वा/",
+      "group": "AY",
+      "mean": "<p>a kind of crimson-horned pheasant. <i>Tragopan satyra.</i></p>मुनाल ।"
+    },
+    "02641": {
+      "dId": "ᤋᤰᤛᤱᤃᤡ᤺ᤰ/ᤋᤰᤛᤱᤃᤡᤁ᤻",
+      "desc": "/तक्सङ्गिःक्/",
+      "group": "AY",
+      "mean": "<p>Tiuri; a particular plant whose flower is used by women for coloring finger-nails. <i>Convolvulus turpethum (Ipomoea turpethum).</i></p>लेकाली तिउरी (फूल) ।"
+    },
+    "02642": {
+      "dId": "ᤋᤰᤛᤱᤃᤧ",
+      "descu": "/तक्सङ्गे/",
+      "group": "AY",
+      "mean": "<p>(a habitant) of high altitude; a term of address used for highlanders.</p>लेकाली; लेकमा बस्ने (मान्छे) ।"
+    },
+    "02643": {
+      "dId": "ᤋᤰᤛᤱ-ᤋᤢᤰ",
+      "desc": "/तक्सङ् तुक्/",
+      "group": "AY",
+      "mean": "<p>pneumonia.</p>सन्निपातको रोग ।"
+    },
+    "02644": {
+      "dId": "ᤋᤰᤛᤱᤒᤠ",
+      "desc": "/तक्सङ्बा/",
+      "group": "AY",
+      "mean": "<p>(n.) a jungle deity worshipped by the Limbus. (adj.) highlander; (a habitant of) high altitude.</p>(ना.) लिम्बूजातिको एक वनदेवता । (वि.) लेकाली ; अग्लो उचाइमा  बस्ने (मान्छे) ।"
+    },
+    "02645": {
+      "dId": "ᤋᤰᤛᤱ-ᤕᤠᤰᤗᤠ",
+      "desc": "/तक्सङ्-याक्ला/",
+      "group": "AY",
+      "mean": "<p>a kind of wild high altitude arum used to feed pigs. <i>Colocasia antiquorum var. esculenta.</i></p>लडुवा माने; मानिसले नखाने, सुँगुर आदिलाई खुवाइने एक प्रकारको जङ्गली र लेकाली पिँडालु ।"
+    },
+    "02646": {
+      "dId": "ᤋᤰᤛᤡᤱᤔᤠ",
+      "desc": "/तक्सिङ्मा/",
+      "group": "AY",
+      "mean": "<p>1. to stand against a support. 2. to stand with each other’s support.</p>१. कुनै साहाराले थामिनु । २. एक अर्काको साहारामा उभिनु ।"
+    },
+    "02647": {
+      "dId": "ᤋᤃᤠᤱ",
+      "desc": "/तगाङ्/",
+      "group": "AY",
+      "mean": "<p>facing in front of.</p>अगाडि; सामुन्ने; अघिल्तिर ।"
+    },
+    "02648": {
+      "dId": "ᤋᤃᤠᤖᤠᤣ",
+      "desc": "/तगारो/",
+      "group": "AY",
+      "mean": "<p>bamboo fence or gate.</p>तगारो ।"
+    },
+    "02649": {
+      "dId": "ᤋᤃᤡ ",
+      "desc": "/तगि/",
+      "group": "AY",
+      "mean": "<p>before; previously.</p>अगाडि; पहिले; अघि ।"
+    },
+    "02650": {
+      "dId": "ᤋᤃᤡᤒᤠ",
+      "desc": "/तगिबा/",
+      "group": "AY",
+      "mean": "<p>earlier; previous.</p>अगाडिको; पहिलेको ।"
+    },
+    "02651": {
+      "dId": "ᤋᤃᤡᤵᤔᤠᤣ",
+      "desc": "/तगिप्मो/",
+      "group": "AY",
+      "mean": "<p>1. in front of. 2. in front of (near).</p>१. सामुन्ने; ठिक अगाडी; अघिल्तिर । २. अगाडी छेउमा ।"
+    },
+    "02652": {
+      "dId": "ᤋᤃᤧᤴ",
+      "desc": "/तगेन्/",
+      "group": "AY",
+      "mean": "<p>meeting; seeing each other.</p>भेटघाट; देखादेख ।"
+    },
+    "02653": {
+      "dId": "ᤋᤄ᤹ ᤛᤡᤱ",
+      "desc": "/तघ? सिङ्/",
+      "group": "AY",
+      "mean": "<p>sandalwood tree. <i>Santalum album.</i></p>चन्दनको रूख; चन्दनकाठ ।"
+    },
+    "02654": {
+      "dId": "ᤋᤄᤵ",
+      "desc": "/तघप्/",
+      "group": "AY",
+      "mean": "<p>in a prostrating manner.</p>घोप्टो परी झोक्रीने गरी; झोक्रीएर घोप्टो पर्ने चालाले ।"
+    },
+    "02655": {
+      "dId": "ᤋᤄᤣ᤺ᤰ/ᤋᤄᤣᤁ᤻",
+      "desc": "/तघेःक्/",
+      "group": "AY",
+      "mean": "<p>kind of crust that appears on the head of babies; dandruff.</p>शिशुहरूका टाउकामा निस्कने एक प्रकारको पाप्रो; चायाँ ।"
+    },
+    "02656": {
+      "dId": "ᤋᤅᤣ(ᤒᤠ)",
+      "desc": "/तङे(बा)/",
+      "group": "AY",
+      "mean": "<p>1. moderator; manager; organiser. 2. a man who looks after/ manages the funeral rites.</p>१. परिचालक; सञ्चालक; व्यवस्थापक । २. मृत्यु संस्कार गर्दा व्यवस्था मिलाउने प्रवन्धक ।"
+    },
+    "02657": {
+      "dId": "ᤋᤱ",
+      "desc": "/तङ्/",
+      "group": "AY",
+      "mean": "<p>1. equal to; similarity; resembling; likely. 2. year. 3. harvest.</p>१. बराबर; सदृश्य । २. वर्ष । ३. बाली; फसल ।"
+    },
+    "02658": {
+      "dId": "ᤋᤱᤃᤣᤴ",
+      "desc": "/तङ्गेन्/",
+      "group": "AY",
+      "mean": "<p>yearly.</p>वार्षिक ।"
+    },
+    "02659": {
+      "dId": "ᤋᤱᤀᤶᤒᤠ",
+      "desc": "/तङ्अम्बा/",
+      "group": "AY",
+      "mean": "<p>1. untimely death caused by natural calamity or evil spirits. 2. death in child/ infancy/ infant mortality.</p>१. दैवी वा प्रेतात्माको प्रकोपबाट हुने असामयिक मृत्यु । २. शिशु अवस्थाको मृत्यु ।"
+    },
+    "02660": {
+      "dId": "ᤋᤱᤀᤡᤗᤠ",
+      "desc": "/तङ्इला/",
+      "group": "AY",
+      "mean": "<p>verse; couplet (of a poetry).</p>पद्य; श्लोक; शिलोक ।"
+    },
+    "02661": {
+      "dId": "ᤋᤱᤃᤵ",
+      "desc": "/तङ्गप्/",
+      "group": "AY",
+      "mean": "<p>year; calendar year.</p>संवत्सर; संवत्; साल ।"
+    },
+    "02662": {
+      "dId": "ᤋᤱᤃᤵᤗᤡᤒᤠ",
+      "desc": "/तङ्गप्लिबा/",
+      "group": "AY",
+      "mean": "<p>square.</p>वर्गाकार ।"
+    },
+    "02663": {
+      "dId": "ᤋᤱᤃᤠᤶ",
+      "desc": "/तङ्गाम्/",
+      "group": "AY",
+      "mean": "<p>management; organisation; arrangement; preparation; provision.</p>आयोजना; व्यवस्था ।"
+    },
+    "02664": {
+      "dId": "ᤋᤱᤃᤠᤶᤒᤠ",
+      "desc": "/तङ्गाम्बा/",
+      "group": "AY",
+      "mean": "<p>organiser.</p>आयोजक ।"
+    },
+    "02665": {
+      "dId": "ᤋᤱᤃᤡᤵ",
+      "desc": "/तङ्गिप्/",
+      "group": "AY",
+      "mean": "<p>a hundred years.</p>सय वर्ष ।"
+    },
+    "02666": {
+      "dId": "ᤋᤱᤃᤡᤵᤛᤡᤱ",
+      "desc": "/तङ्गिप्सिङ्/",
+      "group": "AY",
+      "mean": "<p>a century; a period of hundred years.</p>शताब्दि; सय वर्ष को अवधि ।"
+    },
+    "02667": {
+      "dId": "ᤋᤱᤃᤧᤳᤏᤠ",
+      "desc": "/तङ्गेत्ना/",
+      "group": "AY",
+      "mean": "<p>a kind of wild bitter gourd.</p>खान हुने एक प्रकारको वनकरेला; जङ्गली करेला ।"
+    },
+    "02668": {
+      "dId": "ᤋᤱᤃᤧᤴ-ᤛᤠᤣ᤺ᤴ/ᤛᤠᤣᤏ᤻",
+      "desc": "/तङ्गेन्-सोःन्/",
+      "group": "AY",
+      "mean": "<p>annual examination.</p>वार्षिक परिक्षा ।"
+    },
+    "02669": {
+      "dId": "ᤋᤱᤈᤢ",
+      "desc": "/तङ्जु/",
+      "group": "AY",
+      "mean": "<p>connection; relation.</p>सम्बन्ध ।"
+    },
+    "02670": {
+      "dId": "ᤋᤱᤈᤢᤶ",
+      "desc": "/तङ्जुम्/",
+      "group": "AY",
+      "mean": "<p>intimacy.</p>घनिष्टता ।"
+    },
+    "02671": {
+      "dId": "ᤋᤱᤈᤧᤱ",
+      "desc": "/तङ्जेङ्/",
+      "group": "AY",
+      "mean": "<p>explanation.</p>व्याख्या; विस्तार ।"
+    },
+    "02672": {
+      "dId": "ᤋᤱᤈᤧᤶ",
+      "desc": "/तङ्जेम्/",
+      "group": "AY",
+      "mean": "<p>arrangement; management.</p>प्रबन्ध; व्यवस्थापन; चाँजोपाँजो; बन्दोबस्त ।"
+    },
+    "02673": {
+      "dId": "ᤋᤱᤍᤱ",
+      "desc": "/तङ्दङ्/",
+      "group": "AY",
+      "mean": "<p>1. is equal to; equal. 2. together.</p>१. उस्तै; समानको; बराबरको । २. सँगै ।"
+    },
+    "02674": {
+      "dId": "ᤋᤱᤍᤱᤒᤠ",
+      "desc": "/तङ्दङ्बा/",
+      "group": "AY",
+      "mean": "<p>similar; resembling; alike.</p>सरह; बराबर; उस्तै; तुल्य् । "
+    },
+    "02675": {
+      "dId": "ᤋᤱᤍᤱᤘᤠ",
+      "desc": "/तङ्दङ्वा/",
+      "group": "AY",
+      "mean": "<p>co-ordination.</p>सामञ्जस्यता समन्वय ।"
+    },
+    "02676": {
+      "dId": "ᤋᤱᤍᤱᤘᤠᤒᤠ",
+      "desc": "/तङ्दङ्वाबा/",
+      "group": "AY",
+      "mean": "<p>co-ordinational.</p>सामञ्जस्य ।"
+    },
+    "02677": {
+      "dId": "ᤋᤱᤍᤡᤱ",
+      "desc": "/तङ्दिङ्/",
+      "group": "AY",
+      "mean": "<p>reconciliation; compromise.</p>सम्झौता; मेलमिलाप ।"
+    },
+    "02678": {
+      "dId": "ᤋᤱᤍᤢᤶᤘᤠ᤺ᤴ/ᤘᤠᤏ᤻",
+      "desc": "/तङ्दुम्वाःन्/",
+      "group": "AY",
+      "mean": "<p>autumn season.</p>शरद् ऋतु ।"
+    },
+    "02679": {
+      "dId": "ᤋᤱᤍᤠᤣ᤺ᤔᤠ",
+      "desc": "/तङ्दोःमा/",
+      "group": "AY",
+      "mean": "<p>1. criticism. 2. evaluation.</p>१. समालोचना । २. मूल्याङ्कन ।"
+    },
+    "02680": {
+      "dId": "ᤋᤱᤏᤠᤶ",
+      "desc": "/तङ्नाम्/",
+      "group": "AY",
+      "mean": "<p>festival.</p>चाड; पर्व; चाडपर्व ।"
+    },
+    "02681": {
+      "dId": "ᤋᤱᤒᤠ",
+      "desc": "/तङ्बा/",
+      "group": "AY",
+      "mean": "<p>promotional adjective ‘tangba’.</p>सार्वनामिक विशेषणको परसर्गी प्रत्यय वा अन्य शब्दको पछाडी जोडिएर ‘त्यस्तै’, ‘जस्तै’, ‘उस्तै’ आदि बुझाउने प्रत्यय ।"
+    },
+    "02682": {
+      "dId": "ᤋᤱᤒᤣ",
+      "desc": "/तङ्बे/",
+      "group": "AY",
+      "mean": "<p>1. year. 2. age.</p>१. साल; वर्ष । २. उमेर ।"
+    },
+    "02683": {
+      "dId": "ᤋᤱᤒᤣᤎᤰ",
+      "desc": "/तङ्बेधक्/",
+      "group": "AY",
+      "mean": "<p>annually; yearly.</p>बर्षेनि ।"
+    },
+    "02684": {
+      "dId": "ᤋᤱᤒᤣᤒᤠ",
+      "desc": "/तङ्बेबा/",
+      "group": "AY",
+      "mean": "<p>yearly.</p>सालाना; वार्षिक ।"
+    },
+    "02685": {
+      "dId": "ᤋᤱᤓᤪᤧ᤺ᤱ/ᤋᤱᤓᤪᤧᤅ᤻",
+      "desc": "/तङ्भ्रेःङ्/",
+      "group": "AY",
+      "mean": "<p>half a year; semester.</p>एक वर्षको आधा; छ महिना ।"
+    },
+    "02686": {
+      "dId": "ᤋᤱᤔᤠ",
+      "desc": "/तङ्मा/",
+      "group": "AY",
+      "mean": "<p>1. to agree with; to settle (a problem); to reconcile. 2. to match; to fit; to suit. 3. to similar/ alike. 4. (of price) ot cheap. reasonable.</p>१. मिल्नु । २. मिल्नु; ठिक्कको हुनु । ३. मिल्नु; उस्तै जस्तो हुनु । ४. सस्तो हुनु/ पाउनु (मुल्य, दाम आदि ) ।"
+    },
+    "02687": {
+      "dId": "ᤋᤱᤔᤣ",
+      "desc": "/तङ्मे/",
+      "group": "AY",
+      "mean": "<p>1. reconciliation; compromie. 2. treaty.</p>१. मिलाप; मेलमिलाप । २. सन्धि ।"
+    },
+    "02688": {
+      "dId": "ᤋᤱᤗᤰ",
+      "desc": "/तङ्लक्/",
+      "group": "AY",
+      "mean": "<p>contract paper; agreement letter.</p>शर्तनामा; करारपत्र ।"
+    },
+    "02689": {
+      "dId": "ᤋᤱᤘᤠᤍᤧᤴ",
+      "desc": "/तङ्वादेन्/",
+      "group": "AY",
+      "mean": "<p>sea level.</p>समुद्री सतह ।"
+    },
+    "02690": {
+      "dId": "ᤋᤱᤘᤠ᤺ᤴ/ᤋᤱᤘᤠᤏ᤻",
+      "desc": "/तङ्वाःन्/",
+      "group": "AY",
+      "mean": "<p>autumn.</p>शरद् ऋतु ।"
+    },
+    "02691": {
+      "dId": "ᤋᤱᤘᤠ᤺ᤶᤔᤠ/ᤋᤱᤘᤠᤔ᤻ᤔᤠ",
+      "desc": "/तङ्वाःम्मा/",
+      "group": "AY",
+      "mean": "<p>autumn season.</p>शरद् ऋतु ।"
+    },
+    "02692": {
+      "dId": "ᤋᤱ ᤛᤡᤱ",
+      "desc": "/तङ् सिङ्/",
+      "group": "AY",
+      "mean": "<p>a kind of tree.</p>पटमेराको रुख ।"
+    },
+    "02693": {
+      "dId": "ᤋᤱᤛᤡᤱ",
+      "desc": "/तङ्सिङ्/",
+      "group": "AY",
+      "mean": "<p>1. ill-luck; ill-omen; ill-star; evil deity. 2. a (three-night) ritual performed to protect oneself from the evil stars/ deities and their evil influences.</p>१. ग्रहदशा; खड्को । २. ग्रह-खड्को वा ग्रहदशा आदिबाट  बच्न गरिने स्वस्तिशान्तिको (तिनराते) अनुष्ठान ।"
+    },
+    "02694": {
+      "dId": "ᤋᤱᤛᤡᤱᤔᤠ",
+      "desc": "/तङ्सिङ्मा/",
+      "group": "AY",
+      "mean": "<p>1. to reconcile oneself/ themselves. 2. to settle or reconcile with each other/ together.</p>१. (आफै) मिल्नु । २. परस्पर मिल्नु ।"
+    },
+    "02695": {
+      "dId": "ᤋᤱᤛᤢᤰ",
+      "desc": "/तङ्सुक्/",
+      "group": "AY",
+      "mean": "<p>contract.</p>अनुबन्ध; करार ।"
+    },
+    "02696": {
+      "dId": "ᤋᤱᤛᤡᤶ-ᤋᤱᤏᤠᤶ",
+      "desc": "/तङ्सुम्-तङ्नाम/",
+      "group": "AY",
+      "mean": "<p>the three year religious festival observed at Yasok in Panchthar district of eastern Nepal worshipping at Kummayok and Kussayok by Limbus.</p>लिम्बूवान क्षेत्रको चुला गन्तिको हिसाबले हुक्वा (अक्षता-भेटी) उठाइ प्रत्येक तीनवर्षमा एकपल्ट पाँचथर यासोकस्थित कुम्मायक र कुसायक देवस्थलमा विशेष रूपमा गरिने पूजा र त्यसै उपलक्ष्यमा मनाइने त्रिवर्षीय/ त्रिसाला चाड ।"
+    },
+    "02697": {
+      "dId": "ᤋᤱᤛᤣ᤺ᤴᤎᤠᤰ/ᤋᤱᤛᤣᤏ᤻ᤎᤠᤰ",
+      "desc": "/तङ्सेःन्धाक्/",
+      "group": "AY",
+      "mean": "<p>explanation with reference to the context.</p>व्याख्या; सप्रसङ्ग व्याख्या ।"
+    },
+    "02698": {
+      "dId": "ᤋᤱᤜᤡ᤺ᤒᤠ",
+      "desc": "/तङ्हिःबा/",
+      "group": "AY",
+      "mean": "<p>covenor; organiser.</p>संयोजक; आयोजक ।"
+    },
+    "02699": {
+      "dId": "ᤋᤱᤜᤡ᤺ᤔᤠ",
+      "desc": "/तङ्हिःमा/",
+      "group": "AY",
+      "mean": "<p>to organise; to coordinate; to convene.</p>संयोजन गर्नु; आयोजना गर्नु ।"
+    },
+    "02700": {
+      "dId": "ᤋᤳᤋᤡ ",
+      "desc": "/तत्ति/",
+      "group": "AY",
+      "mean": "<p>axe.</p>बन्चरो ।"
+    },
+    "02701": {
+      "dId": "ᤋᤋᤩᤠᤰᤔᤠ",
+      "desc": "/तत्याक्मा/",
+      "group": "AY",
+      "mean": "<p>a kind of bamboo eating insect.</p>बाँसमा लाग्ने कीरा; अटेर्नो ।"
+    },
+    "02702": {
+      "dId": "ᤋᤳᤋᤧ᤹",
+      "desc": "/तत्ते?/",
+      "group": "AY",
+      "mean": "<p>ill-omen.</p>थाप्सो; लोदर; अशुभ ।"
+    },
+    "02703": {
+      "dId": "ᤋᤏᤠᤍᤡ᤺ᤰᤐᤠ/ᤋᤏᤠᤍᤡᤁ᤻ᤐᤠ",
+      "desc": "/तनादिःक्पा/",
+      "group": "AY",
+      "mean": "<p>(n.) earthworm. (adj.) an infirm man; a man of weak character; opportunist; unreliable.</p>(ना.) गँड्यौला; गनेउला । (क्रिवि.) अवसरवादी; दहिचिउरे (मानिस); जता पनि ठिक्क हुने; जता पायो उतै लाग्ने । "
+    },
+    "02704": {
+      "dId": "ᤋᤏᤠᤗᤢᤱ",
+      "desc": "/तनालुङ्/",
+      "group": "AY",
+      "mean": "<p>magnet.</p>चुम्बक ।"
+    },
+    "02705": {
+      "dId": "ᤋᤴᤇᤢᤱ",
+      "desc": "/तन्छुङ्/",
+      "group": "AY",
+      "mean": "<p>imitation.</p>देखासिकी ।"
+    },
+    "02706": {
+      "dId": "ᤋᤵᤐᤠ",
+      "desc": "/तप्मा/",
+      "group": "AY",
+      "mean": "<p>1. region. 2. constituency.</p>१. इलाका; क्षेत्र । २. निर्वाचन क्षेत्र ।"
+    },
+    "02707": {
+      "dId": "ᤋᤵᤔᤠ",
+      "desc": "/तप्मा/",
+      "group": "AY",
+      "mean": "<p>to fidget; to be agile.</p>छुकछुक गर्नु; चकचक गर्नु ।"
+    },
+    "02708": {
+      "dId": "ᤋᤔ᤺ᤳ/ᤋᤔᤋ᤻",
+      "desc": "/तमःत्/",
+      "group": "AY",
+      "mean": "<p>a pipe mane of reeds or bamboo to sip millet beer form Tongba.</p>तोङ्बाबाट जाँड चुस्न प्रयोग गरिने बाँसको नली; पिपा ।"
+    },
+    "02709": {
+      "dId": "ᤋᤔᤠ",
+      "desc": "/तमा/",
+      "group": "AY",
+      "mean": "<p>to sew; stitch.</p>सिउनु ।"
+    },
+    "02710": {
+      "dId": "ᤁᤣᤍ᤺ᤒᤠ",
+      "desc": "/केदःबा/",
+      "group": "AY",
+      "mean": "<p>(of sb) in sewing/ tailoring occupation.</p>सिलाउने पेशा भएको ।"
+    },
+    "02711": {
+      "dId": "ᤏᤣᤰᤁᤣᤍ᤺ᤒᤠ",
+      "desc": "/नेक्केदःबा/",
+      "group": "AY",
+      "mean": "<p>1. Damai (by cast). 2. tailor.</p>१. दमाई २. सूचिकार ।"
+    },
+    "02712": {
+      "dId": "ᤋᤔᤠᤛᤢ᤺ᤰ/ᤋᤔᤠᤛᤢᤁ᤻",
+      "desc": "/तमासुःक्/",
+      "group": "AY",
+      "mean": "<p>a hand note; a written acknowledgement of a debt; a bond of transaction.</p>तमसुक; सहमति वा कबोलपत्र ।"
+    },
+    "02713": {
+      "dId": "ᤋᤶᤓᤢ-ᤀᤛᤣ᤺ᤰ/ᤀᤛᤣᤁ᤻",
+      "desc": "/तम्भु असेक्/",
+      "group": "AY",
+      "mean": "<p>a kind of bling snake.</p>गुर्बे साँप ।"
+    },
+    "02714": {
+      "dId": "ᤋᤶᤔᤠ",
+      "desc": "/तम्मा/",
+      "group": "AY",
+      "mean": "<p>1. to chide/ reprimand/ scold sb; to curse sb. 2. to hit/ strike sb; to knock sb.</p>१. गाली गर्नु; हकार्नु । २. हिर्काउनु; ठटाउनु; पिट्नु ।"
+    },
+    "02715": {
+      "dId": "ᤋᤶᤛᤠ",
+      "desc": "/तम्सा/",
+      "group": "AY",
+      "mean": "<p>beating.</p>पिटाइ; चुटाइ ।"
+    },
+    "02716": {
+      "dId": "ᤋᤶᤛᤡᤱᤔᤠ",
+      "desc": "/तम्सिङ्मा/",
+      "group": "AY",
+      "mean": "<p>to try/ attempt; to strive.</p>कोशिश गर्नु; बल गर्नु ।"
+    },
+    "02717": {
+      "dId": "ᤋᤶᤛᤡᤴ",
+      "desc": "/तम्सिन्/",
+      "group": "AY",
+      "mean": "<p>try; attempt; endeavour.</p>कोशिश; प्रयत्न ।"
+    },
+    "02718": {
+      "dId": "ᤋᤖᤰ",
+      "desc": "/तरक्/",
+      "group": "AY",
+      "mean": "<p>1. sky; space; heaven. 2. [Phedape] all at once; all at a time.</p>१. आकाश; अन्तरीक्ष । २. [फेदापे] स्वात्त; स्वात्तै; एकै पल्टमा ।"
+    },
+    "02719": {
+      "dId": "ᤋᤖᤱᤃᤣ᤺ᤰᤅᤠ/ᤋᤖᤱᤃᤣᤁ᤻ᤅᤠ",
+      "desc": "/तरङ्गेःक् ङा/",
+      "group": "AY",
+      "mean": "<p>lobster.</p>झिँगे माछा ।"
+    },
+    "02720": {
+      "dId": "ᤋᤖᤱᤏᤠ",
+      "desc": "/तरङ्ना/",
+      "group": "AY",
+      "mean": "<p>dome.</p>गुम्बज ।"
+    },
+    "02721": {
+      "dId": "ᤋᤖᤔᤤ",
+      "desc": "/तरमै/",
+      "group": "AY",
+      "mean": "<p>pay; salary; wage.</p>तलब ।"
+    },
+    "02722": {
+      "dId": "ᤋᤖᤶ-ᤔᤳᤆᤡ ",
+      "desc": "/तरम्-मत्चि/",
+      "group": "AY",
+      "mean": "<p>red pepper. <i>Capsicum frutescens.</i></p>लाम्चे खुर्सानी ।"
+    },
+    "02723": {
+      "dId": "ᤋᤖ᤺ᤱ/ᤋᤖᤅ᤻",
+      "desc": "/तरङ्/",
+      "group": "AY",
+      "mean": "<p>bridge; suspension bridge.</p>साँघु; पुल; झोलुङ्गे पुल ।"
+    },
+    "02724": {
+      "dId": "ᤋᤖᤛᤃᤠ᤺ᤰ/ᤋᤖᤡᤃᤠᤁ᤻",
+      "desc": "/तरिगाःक्/",
+      "group": "AY",
+      "mean": "<p>a kind of king crow; Treepai. <i>Dendrocitta.</i></p>कोकले चरो ।"
+    },
+    "02725": {
+      "dId": "ᤋᤖᤡᤕᤠ᤺ᤴ/ᤋᤖᤡᤕᤠᤏ᤻",
+      "desc": "/तरियाःन्/",
+      "group": "AY",
+      "mean": "<p>a silver ear-ring worn by Kirat Limbu women.</p>कानमा लगाइने गहनाविशेष ।"
+    },
+    "02726": {
+      "dId": "ᤋᤖᤣ/ᤋᤖᤣ᤺",
+      "desc": "/तरे/तरेः/",
+      "group": "AY",
+      "mean": "<p>guest.</p>अतिथि; पाहुना ।"
+    },
+    "02727": {
+      "dId": "ᤋᤖᤣᤍᤠᤣ",
+      "desc": "/तरेदो/",
+      "group": "AY",
+      "mean": "<p>hospitality; reception.</p>आतिथ्य; मेजमानी ।"
+    },
+    "02728": {
+      "dId": "ᤋᤖᤣᤍᤠᤣ᤺(ᤒᤠ/ᤔᤠ)",
+      "desc": "/तरेदोः(बा/मा)/",
+      "group": "AY",
+      "mean": "<p>host.</p>मेजमान; आतिथेय ।"
+    },
+    "02729": {
+      "dId": "ᤋᤖᤣᤗᤡ ",
+      "desc": "/तरेलि/",
+      "group": "AY",
+      "mean": "<p>1. in sequence (in group). 2. turn by turn.</p>१. तरेली; क्रम; सिलसिला । २. पटक; चोटि; पल्ट । "
+    },
+    "02730": {
+      "dId": "ᤋᤖᤧᤴ-ᤏᤧᤛ᤻ᤛᤧ᤹",
+      "desc": "/तरेन्-नेःस्से?/",
+      "group": "AY",
+      "mean": "<p>a flat but circular golden ornament worn by Kirat Limbu women.</p>चेप्टे सुन; कानमा लगाउने एक प्रकारको गहना (सुनको) ।"
+    },
+    "02731": {
+      "dId": "ᤋᤷᤍᤱ",
+      "desc": "/तरदङ्/",
+      "group": "AY",
+      "mean": "<p>not in order (teeth).</p>छिचरो; पङ्क्ति नमिलेको (दाँत); बीचबीचमा छिद्र परेको (दाँत) ।"
+    },
+    "02732": {
+      "dId": "ᤋᤷᤍᤱᤒᤠ",
+      "desc": "/तरदङ्बा/",
+      "group": "AY",
+      "mean": "<p>one with gagged or holey teeth.</p>दाँतको पङ्क्ति नमिलेको (मान्छे) ।"
+    },
+    "02733": {
+      "dId": "ᤋᤸᤆᤠ",
+      "desc": "/तल्चा/",
+      "group": "AY",
+      "mean": "<p>bedding.</p>बिछ्यौना; ओछ्यान ।"
+    },
+    "02734": {
+      "dId": "ᤋᤸᤗᤶ",
+      "desc": "/तल्लम्/",
+      "group": "AY",
+      "mean": "<p>in a manner of hanging up (without touching the ground).</p>तुर्लुङ्ग ।"
+    },
+    "02735": {
+      "dId": "ᤋᤘᤠ-ᤀᤡ ",
+      "desc": "/तवा-इ/",
+      "group": "AY",
+      "mean": "<p>ripple (of water); wave.</p>पानीको तरङ्ग; जल तरङ्ग; पानीका ससाना लहर ।"
+    },
+    "02736": {
+      "dId": "ᤋᤛᤵ-ᤋᤛᤵ",
+      "desc": "/तसप्-तसप्/",
+      "group": "AY",
+      "mean": "<p>slowly; lazily.</p>लसकलसक; सुस्तसुस्त; अशक्त ढाँचाले ।"
+    },
+    "02737": {
+      "dId": "ᤋᤛᤡ ",
+      "desc": "/तसि/",
+      "group": "AY",
+      "mean": "<p>proof.</p>दसी; प्रमाण ।"
+    },
+    "02738": {
+      "dId": "ᤋᤜ᤹",
+      "desc": "/तह/",
+      "group": "AY",
+      "mean": "<p>a kind of plant grown at a high altitude.</p>लेकमा हुने बाँको जस्तो एक प्रकारको झार ।"
+    },
+    "02739": {
+      "dId": "ᤋᤜᤣᤃᤧᤴ ᤌᤠᤱᤃᤧᤳ ᤐᤡᤛᤠᤱ",
+      "desc": "/तहेगेन् थाङ्गेत् पिसाङ्/",
+      "group": "AY",
+      "mean": "<p>the north (direction).</p>उत्तर दिशा ।"
+    },
+    "02740": {
+      "dId": "ᤋᤜᤣᤃᤧᤴ ᤏᤠᤶᤃᤧᤳ ᤐᤡᤛᤠᤱ",
+      "desc": "/तहेगेन् नाम्गेत् पिसाङ्/",
+      "group": "AY",
+      "mean": "<p>the east (direction).</p>पूर्व दिशा ।"
+    },
+    "02741": {
+      "dId": "ᤋᤜᤣᤃᤧᤴ ᤏᤠᤶᤎᤠ ᤐᤡᤛᤠᤱ",
+      "desc": "/तहेगेन् नाम्धा पिसाङ्/",
+      "group": "AY",
+      "mean": "<p>the west (direction).</p>पश्चिम दिशा ।"
+    },
+    "02742": {
+      "dId": "ᤋᤜᤣᤃᤧᤴ ᤗᤠᤱᤃᤧᤳ ᤐᤡᤛᤠᤱ",
+      "desc": "/तहेगेन् लाङ्गेत् पिसाङ्/",
+      "group": "AY",
+      "mean": "<p>the south (direction).</p>दक्षिण दिशा ।"
+    },
+    "02743": {
+      "dId": "ᤋᤜᤣ-ᤗᤠᤈᤣ᤹",
+      "desc": "/तहे-लाजे/",
+      "group": "AY",
+      "mean": "<p>a country near the Caspian Sea.</p>क्यासपियन सागर प्रदेश; क्यासपियन सागर वरपरको देश ।"
+    },
+    "02744": {
+      "dId": "ᤋᤜᤣ-ᤘᤠᤖ᤺ᤱ/ᤘᤠᤖᤅ᤻",
+      "desc": "/तहे-वारःङ्/",
+      "group": "AY",
+      "mean": "<p>Caspian Sea.</p>क्यास्पियन सागर ।"
+    },
+    "02745": {
+      "dId": "ᤋ᤺ᤰ/ᤋᤁ᤻",
+      "desc": "/तःक्/",
+      "group": "AY",
+      "mean": "<p>cooked rice/ grain, meal.</p>भात ।"
+    },
+    "02746": {
+      "dId": "ᤋ᤺ᤰ-ᤀᤡ/ᤋᤁ᤻ᤀᤡ ",
+      "desc": "/तःक्-इ/",
+      "group": "AY",
+      "mean": "<p>porridge made from maize or millet flour.</p>ढिंडो ।"
+    },
+    "02747": {
+      "dId": "ᤋ᤺ᤰᤆᤡ/ᤋᤁ᤻ᤆᤡ ",
+      "desc": "/तःक्चि/",
+      "group": "AY",
+      "mean": "<p>rice grains scattered while cooking or eating.</p>पोखिएको भातको सिता; खेर गएको भात ।"
+    },
+    "02748": {
+      "dId": "ᤋ᤺ᤰᤌᤠᤱ/ᤋᤁ᤻ᤌᤠᤅ᤻",
+      "desc": "/तःक्थाःङ्/",
+      "group": "AY",
+      "mean": "<p>store; granary.</p>अन्न भण्डार ।"
+    },
+    "02749": {
+      "dId": "ᤋ᤺ᤰᤏᤢ᤹ᤔᤠ/ᤋᤁ᤻ᤏᤢ᤹ᤔᤠ",
+      "desc": "/तःक्नु?मा/",
+      "group": "AY",
+      "mean": "<p>pickle.</p>अचार ।"
+    },
+    "02750": {
+      "dId": "ᤋ᤺ᤰᤏᤧᤳ/ᤋᤁ᤻ᤏᤧᤳ",
+      "desc": "/तःक्नेत्/",
+      "group": "AY",
+      "mean": "<p>ritual-fasting.</p>उपवास व्रत ।"
+    },
+    "02751": {
+      "dId": "ᤋ᤺ᤰᤑᤢ/ᤋᤁ᤻ᤑᤢ",
+      "desc": "/तःक्फु/",
+      "group": "AY",
+      "mean": "<p>1. godown or store of crops; granary. 2. plenty of crops.</p>१. भण्डार; खाद्यान्न सञ्चय गरिने ढुकुटी; धनसार; भकारी; खाद्यगोदाम । २. अन्नको सह ।"
+    },
+    "02752": {
+      "dId": "ᤋ᤺ᤰᤕᤠᤱᤒᤠ/ᤋᤁ᤻ᤕᤠᤱᤒᤠ",
+      "desc": "/तःक्याङ्बा/",
+      "group": "AY",
+      "mean": "<p>the amount loaned (among the Limbu community) which is repaid with interest in the form of crops (maize, paddy, etc).</p>दाजुभाइबिच कुनै कार्यविशेषको लागि गरिने लगानीको अन्नको रूपमा उठाइने साँवा र ब्याज; अन्नेब्याज ।"
+    },
+    "02753": {
+      "dId": "ᤋ᤺ᤰᤕᤠᤌᤡ᤺/ᤋᤁ᤻ᤕᤠᤌᤡ᤺ ",
+      "desc": "/तःक्याथि/",
+      "group": "AY",
+      "mean": "<p>beer made from boiled rice.</p>भातीजाँड; चामलबाट बनाइएको जाँड ।"
+    },
+    "02754": {
+      "dId": "ᤋ᤺ᤰᤛᤠ/ᤋᤁ᤻ᤛᤠ",
+      "desc": "/तःक्सा/",
+      "group": "AY",
+      "mean": "<p>interest pain in terms of crops (esp paddy).</p>अन्नमा तिरिने ब्याज; अन्ने ब्याज; अन्नको रूपमा तिरिने ब्याज ।"
+    },
+    "02755": {
+      "dId": "ᤋ᤺ᤰᤛᤡ/ᤋᤁ᤻ᤛᤡ ",
+      "desc": "/तःक्सि/",
+      "group": "AY",
+      "mean": "<p>rice-feeding ceremony.</p>अन्नप्राशन; भातखौरे ।"
+    },
+    "02756": {
+      "dId": "ᤋ᤺ᤰᤛᤡᤰᤘᤠ/ᤋᤁ᤻ᤛᤡᤰᤘᤠ",
+      "desc": "/तःक्सिक्वा/",
+      "group": "AY",
+      "mean": "<p>stale rice.</p>बासी भात ।"
+    },
+    "02757": {
+      "dId": "ᤋ᤺ᤰᤛᤠᤣ᤺ᤰ-ᤌᤡᤛᤠᤣ᤺ᤰ/ᤋᤁ᤻ᤛᤠᤣᤁ᤻-ᤌᤡᤛᤠᤣᤁ᤻",
+      "desc": "/तःक्सोःक्-थिसोःक्/",
+      "group": "AY",
+      "mean": "<p>rice and peer made from just ripened crops (before their reaping) and offered to the gods during the Limbu “thanks giving ceremony”.</p>न्वागी पूजाको अवसरमा देउता/ देवीलाई चढाइने नयाँ अन्नको भात र जाँड-रक्सी ।"
+    },
+    "02758": {
+      "dId": "ᤋ᤺ᤱᤃᤪᤣ/ᤋᤅ᤻ᤃᤪᤣ",
+      "desc": "/तःङ्ग्रे/",
+      "group": "AY",
+      "mean": "<p>wick.</p>सलेदो; सुत्लो; बत्तीको फित्ता (लालटिन आदिको) । "
+    },
+    "02759": {
+      "dId": "ᤋ᤺ᤱᤒᤠ/ᤋᤅ᤻ᤒᤠ",
+      "desc": "/तःङ्बा/",
+      "group": "AY",
+      "mean": "<p>a bamboo or wooden barrel-shaped vessel or pot with a lid to serve the fermented millet beer which is drunk with the help of a bamboo straw.</p>पिउनको लागि नछानिएको कोदोको जाँड राख्न बनाइएको बाँस वा काठको ढुङ्ग्रो ।"
+    },
+    "02760": {
+      "dId": "ᤋ᤺ᤴᤍᤡ᤹/ᤋᤏ᤻ᤍᤡ᤹ ",
+      "desc": "/तःन्दि?/",
+      "group": "AY",
+      "mean": "<p>[Tamor/ Phedape] axe; hatchet.</p>[तमर/ फेदापे] बन्चरो ।"
+    },
+    "02761": {
+      "dId": "ᤋ᤺ᤵᤐᤠ ᤑᤢᤱ/ᤋᤐ᤻ᤐᤠ ᤑᤢᤱ",
+      "desc": "/तःप्पा फुङ्/",
+      "group": "AY",
+      "mean": "<p>marigold flower. Tagetes sp.</p>सयपत्री फूल ।"
+    },
+    "02762": {
+      "dId": "ᤋ᤺ᤵᤔᤠ/ᤋᤐ᤻ᤔᤠ",
+      "desc": "/तःप्मा/",
+      "group": "AY",
+      "mean": "<p>1. inaction; inertia; laziness. 2. to laze; to be lazy/ indolent/ lethargic/ inactive/ inert.</p>१. सुस्ती; अल्छीपन । २. अल्छी हुनु; सुस्त हुनु ।"
+    },
+    "02763": {
+      "dId": "ᤋ᤺ᤔᤠ",
+      "desc": "/तःमा/",
+      "group": "AY",
+      "mean": "<p>1. to dig holes or ditches. 2. to dig out sth (potato etc) from earth; to dig up. 3. to swell and become erect.</p>१. खन्नु (खाल्टो आदि) । २. खन्नु (तरूल आदि); खनेर झिक्नु; भुँइभित्रको वस्तु खनेर झिक्नु । ३. ठन्कनु ।"
+    },
+    "02764": {
+      "dId": "ᤋ᤺ᤶᤛᤢ᤺ᤰ/ᤋᤔ᤻ᤛᤢᤁ᤻",
+      "desc": "/तःम्सुःक्/",
+      "group": "AY",
+      "mean": "<p>1. (manner of walking) lazily; very slowly. 2. gropingly.</p>१. लर्याङ्लुरूङ् गरि हिँड्ने चालाले; सकी नसकी हिँड्ने चालले । २. अध्यारोमा छामछुम गरी हिड्ने चालले । "
+    }
+  }
+}

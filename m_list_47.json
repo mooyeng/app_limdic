@@ -1,0 +1,364 @@
+{
+  "Dic": {
+    "04897": {
+      "dId": "ᤑᤣ",
+      "desc": "/फे/",
+      "group": "BU",
+      "mean": "<p>1. sward. 2. a pod (of maize). 3. long pod.</p>१. तरबार । २. (मकैको) घोगा । ३. टाटो; लामो कोसा ।"
+    },
+    "04898": {
+      "dId": "ᤑᤣ᤹ᤒᤠ᤺ᤳ/ᤑᤣ᤹ᤒᤠᤋ᤻",
+      "desc": "/फे?बाःत्/",
+      "group": "BU",
+      "mean": "<p>maggot.</p>औंसा ।"
+    },
+    "04899": {
+      "dId": "ᤑᤣ᤹ᤔᤠ",
+      "desc": "/फे?मा/",
+      "group": "BU",
+      "mean": "<p>1. to fart to/before sb. 2. to cause sth to rot.</p>१. पादिदिनु; अरूलाई पादिदिनु । २. कुहाउनु ।"
+    },
+    "04900": {
+      "dId": "ᤑᤣ᤹ᤔᤠ᤺ᤳ/ᤑᤣ᤹ᤔᤠᤋ᤻",
+      "desc": "/फे?माःत्/",
+      "group": "BU",
+      "mean": "<p>fart; farting.</p>अपान वायु; पाद ।"
+    },
+    "04901": {
+      "dId": "ᤑᤣᤂᤠᤱᤔᤠ",
+      "desc": "/फेदाङ्मा/",
+      "group": "BU",
+      "mean": "<p>1. wise person. 2. Limbu priest.</p>१. शास्त्रज्ञ । २. लिम्बू पुरोहित ।"
+    },
+    "04902": {
+      "dId": "ᤑᤣᤒᤧᤳ",
+      "desc": "/फेबेत्/",
+      "group": "BU",
+      "mean": "<p>leafy cup.</p>दुना ।"
+    },
+    "04903": {
+      "dId": "ᤑᤣ᤺ᤱᤃᤧ᤺ᤰ/ᤑᤣᤅ᤻ᤃᤧᤁ᤻",
+      "desc": "/फेःङ्गेःक्/",
+      "group": "BU",
+      "mean": "<p>frock; a Nepalese kind of female lower garment.</p>जामा ।"
+    },
+    "04904": {
+      "dId": "ᤑᤣ᤺ᤴ/ᤑᤣᤏ᤻",
+      "desc": "/फेःन्/",
+      "group": "BU",
+      "mean": "<p>1. loin-cloth. 2. mistake; error; slip; fault. 3. ugly; not fair. 4. a negative particle used as a prefix to a word.</p>१. लँगौटी; कौपीन; सानो धोती । २. बिराम; गल्ती । ३. नराम्रो । ४. शब्दको अगाडि जोडिएर नकारात्मक अर्थ बुझाउने उपसर्ग ।"
+    },
+    "04905": {
+      "dId": "ᤑᤣ᤺ᤔᤠ",
+      "desc": "/फेःमा/",
+      "group": "BU",
+      "mean": "<p>to fart.</p>पाद्नु ।"
+    },
+    "04906": {
+      "dId": "ᤑᤣ᤺ᤶᤒᤠᤣ ᤘᤠᤖᤰ/ᤑᤣᤔ᤻ᤒᤠᤣ ᤘᤠᤖᤰ",
+      "desc": "/फेःम्बो वारक्/",
+      "group": "BU",
+      "mean": "<p>the male sea; the sea symbolizing manhood as described in the  Mundhum.</p>मुन्धुममा वर्णित पुरुषत्वको प्रतीक समुन्द्र/ सागर ।"
+    },
+    "04907": {
+      "dId": "ᤑᤣ᤺ᤶᤒᤠᤣᤛᤠ᤺/ᤑᤣᤔ᤻ᤒᤠᤣᤛᤠ᤺",
+      "desc": "/फेःम्बोसाः/",
+      "group": "BU",
+      "mean": "<p>man; young man of youthful/marriageable age.</p>पुरुष; विवाह गर्न उमेर पुगेको युवक ।"
+    },
+    "04908": {
+      "dId": "ᤑᤣ᤺ᤶᤔᤠ/ᤑᤣᤔ᤻ᤔᤠ",
+      "desc": "/फेःम्मा/",
+      "group": "BU",
+      "mean": "<p>to make mistake a mistake; to have a slip of tongue.</p>कुरा बिराउनु; बोल्दा भुल गर्नु ।"
+    },
+    "04909": {
+      "dId": "ᤑᤣᤖᤢᤶ",
+      "desc": "/फेःरुम्/",
+      "group": "BU",
+      "mean": "<p>1. flour. 2. [Phedape] mush; meal of maize or millet flour.</p>१. पीठो । २. [फेदापे] कोदो वा मकैको ढिँडो । "
+    },
+    "04910": {
+      "dId": "ᤑᤣ᤺ᤛᤢᤳᤋᤣ",
+      "desc": "/फेःसुत्ते/",
+      "group": "BU",
+      "mean": "<p>[Phedape] coarsely ground maize with grains as big as rice.</p>[फेदापे] च्याँख्ला; मकैको खस्रो पीठो वा चामल ।"
+    },
+    "04911": {
+      "dId": "ᤑᤠᤣ/ᤑᤠᤣ᤹",
+      "desc": "/फो/फो?/",
+      "group": "BU",
+      "mean": "<p>down; below; immediately below (deputy).</p>मुन्तिर; तल; उँधो; उप । "
+    },
+    "04912": {
+      "dId": "ᤑᤠᤣ᤹ᤒᤠ",
+      "desc": "/फो?बा/",
+      "group": "BU",
+      "mean": "<p>youngest; born last of all.</p>कान्छो; सबैभन्दा पछि जन्मेको ।"
+    },
+    "04913": {
+      "dId": "ᤑᤠᤣ᤹ᤒᤠ-ᤐᤠ/ᤔᤠ",
+      "desc": "/फो?बा-पा/पाः/",
+      "group": "BU",
+      "mean": "<p>father’s younger brother.</p>कान्छा बाबु; बाबुको भाइ ।"
+    },
+    "04914": {
+      "dId": "ᤑᤠᤣ᤹ᤔᤠ",
+      "desc": "/फो?मा/",
+      "group": "BU",
+      "mean": "<p>(fem.) youngest; born last of all.</p>कान्छी; सबैभन्दा पछि जन्मेकी ।"
+    },
+    "04915": {
+      "dId": "ᤑᤠᤣ᤹ᤔᤠ-ᤔᤠ/ᤔᤠ᤺",
+      "desc": "/फो?मा-मा/माः/",
+      "group": "BU",
+      "mean": "<p>aunt; wife of father’s younger brother; mother’s younger sister.</p>काकी; कान्छी आमा; सानी आमा; छ्यामा ।"
+    },
+    "04916": {
+      "dId": "ᤑᤠᤣ᤹ᤕᤠᤣ",
+      "desc": "/फो?यो/",
+      "group": "BU",
+      "mean": "<p>dawnfall; ruin.</p>अवनति; अधोगति; नाश; विनाश; पतन ।"
+    },
+    "04917": {
+      "dId": "ᤑᤠᤣ᤹ᤘᤠᤛᤠ",
+      "desc": "/फो?वासा/",
+      "group": "BU",
+      "mean": "<p>youngest son.</p>कान्छो; कान्छो छोरो ।"
+    },
+    "04918": {
+      "dId": "ᤑᤠᤣ᤹ᤛᤠᤱᤒᤠ",
+      "desc": "/फो?साङ्बा/",
+      "group": "BU",
+      "mean": "<p>1. younger; junior; born immediately next. 2. nearby, but just below. 3. of lower status, grade or class.</p>१. कान्छो; जन्मको हिसाबले लगत्तै मुनिको । २. छेउमै, तर तल तिरको । ३. तल्लो श्रेणीको ।"
+    },
+    "04919": {
+      "dId": "ᤑᤠᤣ᤹ᤒᤠᤛᤠ᤺ᤔᤠ",
+      "desc": "/फो?बासाःमा/",
+      "group": "BU",
+      "mean": "<p>youngest daughter.</p>कान्छी; कान्छी छोरी ।"
+    },
+    "04920": {
+      "dId": "ᤑᤠᤣ᤹ᤛᤠᤱᤔᤠ",
+      "desc": "/फो?साङ्मा/",
+      "group": "BU",
+      "mean": "<p>a younger sister, born immediately next to one.</p>कान्छी; जन्मको हिसाबले लगत्तै मुनिको ।"
+    },
+    "04921": {
+      "dId": "ᤑᤠᤣ᤹ᤛᤠᤱ",
+      "desc": "/फो?साङ्/",
+      "group": "BU",
+      "mean": "<p>near/below/beneath/underneath.</p>नजिक; समीप (मुनि वा होचो ठाउँमा ।"
+    },
+    "04922": {
+      "dId": "ᤑᤠᤣ",
+      "desc": "/फो/",
+      "group": "BU",
+      "mean": "<p>1. nest or resting place of fish; a shoal of fish. 2. waist; haunch; loins. 3. progress; development.</p>१. कुर; माछाको कुर । २. कमर । ३. प्रगति; विकास; उन्नति । "
+    },
+    "0493": {
+      "dId": "ᤑᤠᤣᤀᤡᤰ",
+      "desc": "/फोइक्/",
+      "group": "BU",
+      "mean": "<p>waist; haunch.</p>कटिबन्ध; कमरबन्ध ।"
+    },
+    "04924": {
+      "dId": "ᤑᤠᤣᤃᤵ",
+      "desc": "/फोगप्/",
+      "group": "BU",
+      "mean": "<p>control.</p>नियन्त्रण ।"
+    },
+    "04925": {
+      "dId": "ᤑᤠᤣᤃᤡᤍᤠᤣ",
+      "desc": "/फोगिदो/",
+      "group": "BU",
+      "mean": "<p>(Sikkim) Bhutan.</p>(सिक्किम) भोट ।"
+    },
+    "04926": {
+      "dId": "ᤑᤠᤣᤈᤱ",
+      "desc": "/फोजङ्/",
+      "group": "BU",
+      "mean": "<p>promoting; growth; extension; enhancement.</p>प्रवर्धन; वृद्धि वा विस्तार गर्ने काम ।"
+    },
+    "04927": {
+      "dId": "ᤑᤠᤣᤈᤱᤔᤠ",
+      "desc": "/फोजङ्मा/",
+      "group": "BU",
+      "mean": "<p>1. to promote/extend/enhance. 2. to augment/gather/collect.</p>१. प्रवर्धन गर्नु । २. जुटाउनु; सङ्कलन गर्नु; संग्रह गर्नु ।"
+    },
+    "04928": {
+      "dId": "ᤑᤠᤣᤈᤢᤶ",
+      "desc": "/फोजुम्/",
+      "group": "BU",
+      "mean": "<p>association; organization; institute; institution.</p>सङ्घ; संस्था; सङ्गठन ।"
+    },
+    "04929": {
+      "dId": "ᤑᤠᤣᤍᤡᤶ",
+      "desc": "/फोदिम्/",
+      "group": "BU",
+      "mean": "<p>prosperity; affluence; plenty; sufficiency; being well off.</p>समृद्धि; सम्पन्नता ।"
+    },
+    "04930": {
+      "dId": "ᤑᤠᤣᤏᤠᤶ",
+      "desc": "/फोनाम्/",
+      "group": "BU",
+      "mean": "<p>fame; reputation.</p>यश ।"
+    },
+    "04931": {
+      "dId": "ᤑᤠᤣᤕᤠᤰ",
+      "desc": "/फोयाक्/",
+      "group": "BU",
+      "mean": "<p>swordman.</p>तरबार भिर्ने मान्छे ।"
+    },
+    "04932": {
+      "dId": "ᤑᤠᤣᤕᤢᤰ",
+      "desc": "/फोयुक्/",
+      "group": "BU",
+      "mean": "<p>domination; overlordship; suzerainty.</p>आधिपत्य ।"
+    },
+    "04933": {
+      "dId": "ᤑᤠᤣᤕᤠᤣ",
+      "desc": "/फोयो/",
+      "group": "BU",
+      "mean": "<p>(n.) bunch; cluster; bouquet. (adv.) in bunches/clusters/bouquets.</p>(ना.) गुच्छा । (क्रिवि.) लटरम्म; झुप्पाझुप्पा परेर ।"
+    },
+    "04934": {
+      "dId": "ᤑᤠᤣᤖᤠᤒᤠ",
+      "desc": "/फोराबा/",
+      "group": "BU",
+      "mean": "<p>Monday.</p>सोमबार ।"
+    },
+    "04935": {
+      "dId": "ᤑᤠᤣᤗᤰ",
+      "desc": "/फोलक्/",
+      "group": "BU",
+      "mean": "<p>a measuring pot (equivalent to 8 manas).</p>पाथी (भाँडो) ।"
+    },
+    "04936": {
+      "dId": "ᤑᤠᤣᤗᤠᤣᤃᤣ",
+      "desc": "/फोलोगे/",
+      "group": "BU",
+      "mean": "<p>white leprosy.</p>दुभी (रोग) ।"
+    },
+    "04937": {
+      "dId": "ᤑᤠᤣᤗᤠᤣ᤺ᤰᤁᤡ/ᤑᤠᤣᤗᤠᤣᤁ᤻ᤁᤡ ",
+      "desc": "/फोलोःक्कि/",
+      "group": "BU",
+      "mean": "<p>a kind of swing that is made to hang on four long bamboos; rocking cradle.</p>लिङ्गे पिङ्; झोलुङ्गे (कोक्रो) ।"
+    },
+    "04938": {
+      "dId": "ᤑᤠᤣᤜᤧᤴ",
+      "desc": "/फोहेन्/",
+      "group": "BU",
+      "mean": "<p>reddish color of the sky at sunset.</p>सुर्यास्तको समयको रातो आभा वा रङ । "
+    },
+    "04939": {
+      "dId": "ᤑᤠᤣ᤺ᤰᤔᤠ/ᤑᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/फोःक्मा/",
+      "group": "BU",
+      "mean": "<p>to cross the river; to go across river.</p>(जँघार आदि) तर्नु ।"
+    },
+    "04940": {
+      "dId": "ᤑᤠᤣ᤺ᤰᤕᤠᤱ/ᤑᤠᤣᤁ᤻ᤕᤠᤱ",
+      "desc": "/फोःक्याङ्/",
+      "group": "BU",
+      "mean": "<p>salary; pay; wages.</p>बेतन; तलब; तनखा ।"
+    },
+    "04941": {
+      "dId": "ᤑᤠᤣ᤺ᤰ-ᤛᤖᤢᤶᤒᤠ/ᤑᤠᤣᤁ᤻-ᤛᤖᤢᤶᤒᤠ",
+      "desc": "/फोःक् -सरुम्बा/",
+      "group": "BU",
+      "mean": "<p>[Phedape] fourth (-born or in order) among five or more brothers; born after three elder brothers.</p>[फेदापे] काइँला; जन्ममा चौथो ।"
+    },
+    "04942": {
+      "dId": "ᤑᤠᤣ᤺ᤰ-ᤛᤖᤢᤶᤔᤠ/ᤑᤠᤣᤁ᤻-ᤛᤖᤢᤶᤔᤠ",
+      "desc": "/फोःक् -सरुम्मा/",
+      "group": "BU",
+      "mean": "<p>[Phedape] (fem.) fourth (-born or in order) among five or more sisters; born after three elder sisters.</p>[फेदापे] (स्त्री) काइँली; जन्ममा चौथी । "
+    },
+    "04943": {
+      "dId": "ᤑᤠᤣ᤺ᤱᤔᤠ/ᤑᤠᤣᤅ᤻ᤔᤠ",
+      "desc": "/फोःङ्मा/",
+      "group": "BU",
+      "mean": "<p>1. to awaken/wake up/arouse. 2. to erect; to make sth stand up; to raise; to lift up. 3. to collect debts, loans, taxes etc.</p>१. ब्यूँझाउनु/जगाउनु/उठाउनु । २. उठाउनु/ठड्याउनु । ३. बटुल्नु;  ऋण, कर आदि उठाउनु ।"
+    },
+    "04944": {
+      "dId": "ᤑᤠᤣ᤺ᤱᤕᤠᤱ/ᤑᤠᤣᤅ᤻ᤕᤠᤱ",
+      "desc": "/फोःङ्याङ्/",
+      "group": "BU",
+      "mean": "<p>collection (eg debts, revenue); land revenue.</p>उठ्ती ।"
+    },
+    "04945": {
+      "dId": "ᤑᤠᤣ᤺ᤋᤣ",
+      "desc": "/फोःते/",
+      "group": "BU",
+      "mean": "<p>1. blow-pipe. 2. bugle.</p>१. आगो फुक्ने ढुङ्ग्रो; सोते । २. बिगुल ।"
+    },
+    "04946": {
+      "dId": "ᤑᤠᤣ᤺ᤳᤋᤠᤣᤒᤠ/ᤑᤠᤣᤋ᤻ᤋᤠᤣᤒᤠ",
+      "desc": "/फोःत्तोबा/",
+      "group": "BU",
+      "mean": "<p>wicked; mischievous.</p>दुष्ट; उपद्र्याहा ।"
+    },
+    "04947": {
+      "dId": "ᤑᤠᤣ᤺ᤴᤇᤡᤱᤔᤠ/ᤑᤠᤣᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/फोःन्छिङ्मा/",
+      "group": "BU",
+      "mean": "<p>to hang (from sth).</p>झुन्डिनु ।"
+    },
+    "04948": {
+      "dId": "ᤑᤠᤣ᤺ᤴᤍᤠ/ᤑᤠᤣᤏ᤻ᤍᤠ",
+      "desc": "/फोःन्दा/",
+      "group": "BU",
+      "mean": "<p>curtain; screen.</p>पर्दा ।"
+    },
+    "04949": {
+      "dId": "ᤑᤠᤣ᤺ᤴᤍᤠ ᤔᤢᤰᤗᤧᤵ/ᤑᤠᤣᤏ᤻ᤍᤠ ᤔᤢᤰᤗᤧᤵ",
+      "desc": "/फोःन्दा मुक्लेप्/",
+      "group": "BU",
+      "mean": "<p>wall-clock.</p>भित्ते घडी ।"
+    },
+    "04950": {
+      "dId": "ᤑᤠᤣ᤺ᤴᤍᤠᤰᤑᤠᤣᤏ᤻ᤍᤠᤰ",
+      "desc": "/फोःन्दाक्/",
+      "group": "BU",
+      "mean": "<p>rocking/swinging cradle or crib.</p>झोलुङ्गे; झोलुङ्गे कोक्रो ।"
+    },
+    "04951": {
+      "dId": "ᤑᤠᤣ᤺ᤵᤐᤠ/ᤑᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/फोःप्पा/",
+      "group": "BU",
+      "mean": "<p>[Sikkim] Tibetan.</p>[सिक्किम] भोटे; तिब्बती ।"
+    },
+    "04952": {
+      "dId": "ᤑᤠᤣ᤺ᤵᤔᤠ/ᤑᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/फोःप्मा/",
+      "group": "BU",
+      "mean": "<p>to detain/hold up; to cause sb to lose or confuse his way; to mislead/misguide.</p>अलमल्याउनु; बराल्नु; गलत बाटो देखाउनु; गलत निर्देश गर्नु; गलत दिशामा लानु । "
+    },
+    "04953": {
+      "dId": "ᤑᤠᤣ᤺ᤔᤠ",
+      "desc": "/फोःमा/",
+      "group": "BU",
+      "mean": "<p>1. to increase/expand/extend/advance/hand. to make grow. 2. to spread and stir up grains to dry in the sun.</p>१. बढाउनु; वृद्धि गर्नु; फैलाउनु । २. बिस्कुन चलाउनु/फिजांउनु ।"
+    },
+    "04954": {
+      "dId": "ᤑᤠᤣ᤺ᤶᤒᤠᤣ/ᤑᤠᤣᤔ᤻ᤒᤠᤣ",
+      "desc": "/फोःम्बो/",
+      "group": "BU",
+      "mean": "<p>a kind of bird.</p>गोलसिमल चरो ।"
+    },
+    "04955": {
+      "dId": "ᤑᤠᤣ᤺ᤶᤔᤠ/ᤑᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/फोःम्मा/",
+      "group": "BU",
+      "mean": "<p>1. to suspend; to hang (up). 2. [Phedape] to increase/expand.</p>१. टाङ्नु; झुन्ड्याउनु । २. [फेदापे] बढाउनु; वृद्धि गर्नु; फैलाउनु ।"
+    },
+    "04956": {
+      "dId": "ᤑᤠᤣ᤺ᤸᤗᤠᤣᤒᤠ/ᤑᤠᤣᤗ᤻ᤗᤠᤣᤒᤠ",
+      "desc": "/फोःल्लोबा/",
+      "group": "BU",
+      "mean": "<p>wild edible arum. <i>Arum indicum.</i></p>माने; खान हुने जङ्गली पिंडालु ।"
+    }
+  }
+}

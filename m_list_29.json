@@ -1,0 +1,442 @@
+{
+  "Dic": {
+    "03081": {
+      "dId": "ᤋᤧᤀᤱᤛᤡ ",
+      "desc": "/तेअङ्सि/",
+      "group": "BC",
+      "mean": "<p>incarnated.</p>अवतारी अवतार लिएको ।"
+    },
+    "03082": {
+      "dId": "ᤋᤧ᤹ᤔᤠ",
+      "desc": "/ते?मा/",
+      "group": "BC",
+      "mean": "<p>1. to be over cooked; to over ropen. 2. to rotten and be terribly soft.</p>१. फ्यात्त वा लितिक्क हुनेगरी पाक्नु । २. गुम्सेर वा कुहेर गल्नु ।"
+    },
+    "03083": {
+      "dId": "ᤋᤧ᤹ᤖᤣ ᤛᤡᤱ",
+      "desc": "/ते?रे सिङ्/",
+      "group": "BC",
+      "mean": "<p>[Phedape] willow tree. Salix tetrasperma.</p>[फेदापे] बैँसको रूख ।"
+    },
+    "03084": {
+      "dId": "ᤋᤧᤳᤗᤠ",
+      "desc": "/तेत्ला/",
+      "group": "BC",
+      "mean": "<p>1. banana; plantain. Musa paradisica. 2. banana leaf.</p>१. केरा । २. केराको पात ।"
+    },
+    "03085": {
+      "dId": "ᤋᤧᤰᤁᤪᤒᤠ",
+      "desc": "/तेक्क्रबा/",
+      "group": "BC",
+      "mean": "<p>spotted.</p>छिरबिरे ।"
+    },
+    "03086": {
+      "dId": "ᤋᤧᤰᤋᤧᤰ",
+      "desc": "/तेक्तेक्/",
+      "group": "BC",
+      "mean": "<p>economy; frugality; thrift.</p>फारो; किफायत ।"
+    },
+    "03087": {
+      "dId": "ᤋᤧᤰᤔᤠ",
+      "desc": "/तेक्मा/",
+      "group": "BC",
+      "mean": "<p>to be sufficient for everyone.</p>सबैलाई (भागबण्डा) पुग्नु; भाग यथेष्ट हुनु ।"
+    },
+    "03088": {
+      "dId": "ᤋᤧᤰᤗᤠᤒᤠ",
+      "desc": "/तेक्लाबा/",
+      "group": "BC",
+      "mean": "<p>spotted.</p>पाङ्ग्रे ।"
+    },
+    "03089": {
+      "dId": "ᤋᤧᤰᤛᤡᤱᤔᤠ",
+      "desc": "/तेक्सिङ्मा/",
+      "group": "BC",
+      "mean": "<p>1. to have enough of sth. 2. to give enough/ equal share.</p>१. आफूलाई भाग पुर्याउनु । २. एक अर्कामा भाग पुर्याउनु ।"
+    },
+    "03090": {
+      "dId": "ᤋᤧᤰᤛᤧᤰᤐᤠ",
+      "desc": "/तेक्सेक्पा/",
+      "group": "BC",
+      "mean": "<p>not fully or well grown.</p>ग्याँचे; ख्याउटे; राम्रो हुर्कन वा सप्रन नसकेको ।"
+    },
+    "03091": {
+      "dId": "ᤋᤧᤱᤃᤵ",
+      "desc": "/तेङ्गप्/",
+      "group": "BC",
+      "mean": "<p>area; region.</p>क्षत्र ।"
+    },
+    "03092": {
+      "dId": "ᤋᤧᤱᤃᤧᤵᤐᤠ",
+      "desc": "/तेङ्गप्पा/",
+      "group": "BC",
+      "mean": "<p>regional.</p>क्षेत्रिय ।"
+    },
+    "03093": {
+      "dId": "ᤋᤧᤱᤄᤧᤶ",
+      "desc": "/तेङ्घेम्/",
+      "group": "BC",
+      "mean": "<p>approval; acceptance.</p>अनुमोदन; स्वीकार ।"
+    },
+    "03094": {
+      "dId": "ᤋᤧᤳᤇᤠᤵ",
+      "desc": "/तेत्छाप्/",
+      "group": "BC",
+      "mean": "<p>diary.</p>दिनाचार्य; डायरी ।"
+    },
+    "03095": {
+      "dId": "ᤋᤧᤳᤋᤡ ",
+      "desc": "/तेत्ति/",
+      "group": "BC",
+      "mean": "<p>stamp; a postal stamp.</p>टिकट; डाँकटिकट ।"
+    },
+    "03096": {
+      "dId": "ᤋᤧᤳᤋᤧᤵᤐᤠ",
+      "desc": "/तेत्तेप्पा/",
+      "group": "BC",
+      "mean": "<p>sahnai.</p>सहनाई ।"
+    },
+    "03097": {
+      "dId": "ᤋᤧᤳᤋᤧᤳ",
+      "desc": "/तेत्तेत्/",
+      "group": "BC",
+      "mean": "<p>drop by drop.</p>तपतप ।"
+    },
+    "03098": {
+      "dId": "ᤋᤧᤳᤌᤰ",
+      "desc": "/तेत्थक्/",
+      "group": "BC",
+      "mean": "<p>tapari; leafy plates.</p>टपरी ।"
+    },
+    "03099": {
+      "dId": "ᤋᤧᤳᤏᤠᤶ",
+      "desc": "/तेत्नाम्/",
+      "group": "BC",
+      "mean": "<p>dependence.</p>निर्भरता; पराश्रय ।"
+    },
+    "03100": {
+      "dId": "ᤋᤧᤏᤧᤒᤠ",
+      "desc": "/तेनेबा/",
+      "group": "BC",
+      "mean": "<p>sunday.</p>आइतबार ।"
+    },
+    "03101": {
+      "dId": "ᤋᤧᤴ",
+      "desc": "/तेन्/",
+      "group": "BC",
+      "mean": "<p>place.</p>ठाँउ; स्थान ।"
+    },
+    "03102": {
+      "dId": "ᤋᤧᤴᤇᤠ",
+      "desc": "/तेन्छा/",
+      "group": "BC",
+      "mean": "<p>1. native. 2. citizen.</p>१. रैथाने; बासिन्दा । २. नागरिक ।"
+    },
+    "03103": {
+      "dId": "ᤋᤧᤴᤇᤠᤵ",
+      "desc": "/तेन्छाप्/",
+      "group": "BC",
+      "mean": "<p>1. contract or agreement paper. 2. will.</p>१. मन्जुरनामा । २. इच्छापत्र ।"
+    },
+    "03104": {
+      "dId": "ᤋᤧᤴᤇᤠᤒᤠ",
+      "desc": "/तेन्छाबा/",
+      "group": "BC",
+      "mean": "<p>1. native; inhabitant. 2. citizen. 3. host; (male) owner of the house who entertains guests.</p>१. रैथाने; बासिन्दा । २. नागरिक । ३. मेजमान, आतिथ्य गर्ने घरको मुख्य पुरूष ।"
+    },
+    "03105": {
+      "dId": "ᤋᤧᤴᤇᤠᤔᤠ",
+      "desc": "/तेन्छामा/",
+      "group": "BC",
+      "mean": "<p>(fem.) 1. native. 2. citizen. 3. hostess; (female) owner of the house who entertains guests.</p>(स्त्री) १. रैथाने; बासिन्दा । २. नागरिक । ३. मेजमान, आतिथ्य गर्ने घरकी मुख्य स्त्री ।"
+    },
+    "03106": {
+      "dId": "ᤋᤧᤴᤇᤠᤶ",
+      "desc": "/तेन्छाम्/",
+      "group": "BC",
+      "mean": "<p>citizenship.</p>नागरिकता ।"
+    },
+    "03107": {
+      "dId": "ᤋᤧᤴᤍᤡᤱ",
+      "desc": "/तेन्दिङ्/",
+      "group": "BC",
+      "mean": "<p>1. support; acceptance; agreement; approval. 2. positive.</p>१. समर्थन; स्वीकृति; सहमति । २. सहमतिबोधक; अकरणको विपरीत ।"
+    },
+    "03108": {
+      "dId": "ᤋᤧᤴᤎᤱ",
+      "desc": "/तेन्धङ्/",
+      "group": "BC",
+      "mean": "<p>1. war. 2. struggle.</p>१. लडाइँ; यद्ध । २. सङ्घर्ष ।"
+    },
+    "03109": {
+      "dId": "ᤋᤧᤴᤎᤠᤱᤒᤠ",
+      "desc": "/तेन्धाङ्बा/",
+      "group": "BC",
+      "mean": "<p>weight equivalent to half a seer.</p>आधा सेर; सेरको आधा भाग ।"
+    },
+    "03110": {
+      "dId": "ᤋᤧᤴᤎᤠᤶ",
+      "desc": "/तेन्धाम्/",
+      "group": "BC",
+      "mean": "<p>marital relation.</p>कुटुम्ब; बिहेवारीद्वारा बनाइने नाता सम्बन्ध ।"
+    },
+    "03111": {
+      "dId": "ᤋᤧᤴᤎᤠᤶ-ᤔᤧ᤺ᤰᤂᤡᤶ/ᤔᤧᤁ᤻ᤂᤡᤶ",
+      "desc": "/तेन्धाम् मेःक्खिम्/",
+      "group": "BC",
+      "mean": "<p>marriage.</p>बिहेवारी ।"
+    },
+    "03112": {
+      "dId": "ᤋᤧᤴᤎᤠᤶᤒᤠ",
+      "desc": "/तेन्धाम्बा/",
+      "group": "BC",
+      "mean": "<p>relative with whom marriage is not prohibited.</p>बिहेवारी चल्ने सजातीय कुटुम्ब ।"
+    },
+    "03113": {
+      "dId": "ᤋᤧᤴᤏᤠ᤺ᤱ/ᤋᤧᤴᤏᤠᤅ᤻",
+      "desc": "/तेन्नाःङ्/",
+      "group": "BC",
+      "mean": "<p>snowland; place where snow falls.</p>हिमप्रदेश; हिउँ पर्ने स्थान ।"
+    },
+    "03114": {
+      "dId": "ᤋᤧᤴᤕᤠᤱ",
+      "desc": "/तेन्याङ्/",
+      "group": "BC",
+      "mean": "<p>1. advance; earnest (money). 2. preposition; indeclinable.</p>१. बैना; बैनाबट्टा; पेश्की । २. नामयोगी; अव्यय ।"
+    },
+    "03115": {
+      "dId": "ᤋᤧᤵᤏᤠ",
+      "desc": "/तेप्ना/",
+      "group": "BC",
+      "mean": "<p>a lid; a cover.</p>ढकनी ।"
+    },
+    "03116": {
+      "dId": "ᤋᤧᤵᤁᤵᤘᤠ",
+      "desc": "/तेप्पक्वा/",
+      "group": "BC",
+      "mean": "<p>drop.</p>थोपा ।"
+    },
+    "03117": {
+      "dId": "ᤋᤧᤵᤑᤠᤣ᤺ᤴᤍᤠ/ᤋᤧᤵᤑᤠᤣᤏ᤻ᤍᤠ",
+      "desc": "/तेप्फोःन्दा/",
+      "group": "BC",
+      "mean": "<p>screen; veil; curtain.</p>पर्दा ।"
+    },
+    "03118": {
+      "dId": "ᤋᤧᤵᤔᤠ",
+      "desc": "/तेप्मा/",
+      "group": "BC",
+      "mean": "<p>1. to cover/wrap. 2. to conceal. 3. to fall and hit accidentally. 4. to suffer from pneumonia due to over eating or unwholesome/ bad food.  5. to consent/ agree/ give sth to sb unwillingly.</p>१. छोप्नु; ढाक्नु । २. गुप्त राख्नु । .३ कुनै चिज खोसेर लानु । ४. खान नजानेर सन्निपात लाग्नु । ५. अनिच्छापूर्वक दिनु; अनिच्छापूर्वक दिन राजी हुनु ।"
+    },
+    "03119": {
+      "dId": "ᤋᤧᤵᤕᤠ",
+      "desc": "/तेप्या/",
+      "group": "BC",
+      "mean": "<p>man’s weapon.</p>पुरुषले प्रयो गर्ने हतियार ।"
+    },
+    "03120": {
+      "dId": "ᤋᤧᤵᤛᤡᤱᤔᤠ",
+      "desc": "/तेप्सिङ्मा/",
+      "group": "BC",
+      "mean": "<p>1. to be covered. 2. to cover each other.</p>१. छोपिनु । २. परस्परमा छोपिनु; एकले अर्कोलाई छोप्नु ।"
+    },
+    "03121": {
+      "dId": "ᤋᤧᤔᤣ᤺ᤴ/ᤋᤧᤔᤣᤏ᤻",
+      "desc": "/तेमेःन्/",
+      "group": "BC",
+      "mean": "<p>low southern plain land; the Terai.</p>औल; बेंसी; मधेस ।"
+    },
+    "03122": {
+      "dId": "ᤋᤧᤶᤈᤡ ",
+      "desc": "/तेम्जि/",
+      "group": "BC",
+      "mean": "<p>handle.</p>बिँड ।"
+    },
+    "03123": {
+      "dId": "ᤋᤧᤶᤍᤠ",
+      "desc": "/तेम्दा/",
+      "group": "BC",
+      "mean": "<p>fair.</p>मेला; पर्व पर्वमा लाग्ने हाट बजारको मेला ।"
+    },
+    "03124": {
+      "dId": "ᤋᤧᤶᤒᤢ᤹ᤒᤠ",
+      "desc": "/तेम्बु?बा/",
+      "group": "BC",
+      "mean": "<p>registration of the deed of of consent.</p>छिन्ति? फार्से? राजिनामा ।"
+    },
+    "03125": {
+      "dId": "ᤋᤧᤶᤒᤣ᤹",
+      "desc": "/तेम्बे?/",
+      "group": "BC",
+      "mean": "<p>plain land; flat land.</p>सम्म परेको मैदान जग्गा; टार ।"
+    },
+    "03126": {
+      "dId": "ᤋᤧᤶᤓᤢᤴ",
+      "desc": "/तेम्भुन्/",
+      "group": "BC",
+      "mean": "<p>inheritance; succession.</p>उत्तराधिकार ।"
+    },
+    "03127": {
+      "dId": "ᤋᤧᤶᤓᤢᤶᤒᤠ",
+      "desc": "/तेम्भुम्बा/",
+      "group": "BC",
+      "mean": "<p>inheritor; heir; successor.</p>उत्तराधिकारी; अंशियार ।"
+    },
+    "03128": {
+      "dId": "ᤋᤧᤶᤓᤠᤣ",
+      "desc": "/तेम्भो/",
+      "group": "BC",
+      "mean": "<p>lowland; malarial place; terai.</p>खोंच; औल ।"
+    },
+    "03129": {
+      "dId": "ᤋᤧᤶᤔᤠ",
+      "desc": "/तेम्मा/",
+      "group": "BC",
+      "mean": "<p>1. to agree; to comply with; to consent. 2. to catch sth/sb.</p>१. राजी हुनु; मान्नु; स्वीकार गर्नु । २. पक्रनु; समात्नु; समाउनु ।"
+    },
+    "03130": {
+      "dId": "ᤋᤧᤶᤔᤢᤰᤁᤡ ",
+      "desc": "/तेम्मुक्कि/",
+      "group": "BC",
+      "mean": "<p>radio; transistor radio.</p>हाते रेडियो ।"
+    },
+    "03131": {
+      "dId": "ᤋᤧᤶᤗᤠ",
+      "desc": "/तेम्ला/",
+      "group": "BC",
+      "mean": "<p>a handle of the plough.</p>अनौ; हलो जोत्दा हातले समात्ने ठाउँ वा भाग ।"
+    },
+    "03132": {
+      "dId": "ᤋᤧᤶᤛᤰ",
+      "desc": "/तेम्सक्/",
+      "group": "BC",
+      "mean": "<p>a promissory note.</p>तमसुक ।"
+    },
+    "03133": {
+      "dId": "ᤋᤧᤶᤛᤡᤱᤔᤠ",
+      "desc": "/तेम्सिङ्मा/",
+      "group": "BC",
+      "mean": "<p>to hold/ catch each other.</p>समातासमात गर्नु; परसपरमा समात्नु ।"
+    },
+    "03134": {
+      "dId": "ᤋᤧᤖᤧᤱ",
+      "desc": "/तेरेङ्/",
+      "group": "BC",
+      "mean": "<p>leafy plates.</p>टपरी ।"
+    },
+    "03135": {
+      "dId": "ᤋᤧᤖᤧᤵ",
+      "desc": "/तेरेप्/",
+      "group": "BC",
+      "mean": "<p>frill.</p>झल्लर ।"
+    },
+    "03136": {
+      "dId": "ᤋᤧᤖᤧᤶ",
+      "desc": "/तेरेम्/",
+      "group": "BC",
+      "mean": "<p>the long wooden pole of a plough.</p>हरिस ।"
+    },
+    "03137": {
+      "dId": "ᤋᤧᤖᤧ᤺ᤱ/ᤋᤧᤖᤧᤅ᤻",
+      "desc": "/तेरेःङ्/",
+      "group": "BC",
+      "mean": "<p>a cooking earthen pot (big).</p>हाँडी; माटोको भाँडो (ठूलो) ।"
+    },
+    "03138": {
+      "dId": "ᤋᤧᤖᤧ᤺ᤱᤄᤧ᤺ᤰ/ᤋᤧᤖᤧᤅ᤻ᤄᤧᤁ᤻",
+      "desc": "/तेरेःङ्घेःक्/",
+      "group": "BC",
+      "mean": "<p>broken, worn-out and unusable metal vessels.</p>पत्रु; थोत्रो; काम नलाग्ने भइसकेको पुरानो (विशेष गरी धातुका भाँडाकुडा) ।"
+    },
+    "03139": {
+      "dId": "ᤋᤧᤸᤗᤰ",
+      "desc": "/तेल्लक्/",
+      "group": "BC",
+      "mean": "<p>plain; flat land; a plain lowland.</p>टार; बेंसीभन्दा केहि माथिको समतल जग्गा; मैदान ।"
+    },
+    "03140": {
+      "dId": "ᤋᤧᤸᤗᤣᤰ",
+      "desc": "/तेल्लेक्/",
+      "group": "BC",
+      "mean": "<p>in a manner of lifting suddenly.</p>जुरुक्क; त्यसरी उचालिने गरी ।"
+    },
+    "03141": {
+      "dId": "ᤋᤧᤸᤗᤧᤶ",
+      "desc": "/तेल्लेम्/",
+      "group": "BC",
+      "mean": "<p>in a suspending manner.</p>तुर्लुङ्ग; त्यसरी झुन्डिने गरी ।"
+    },
+    "03142": {
+      "dId": "ᤋᤧᤛᤃᤣ᤺ᤰᤐᤠ/ᤋᤧᤛᤃᤣᤁ᤻ᤐᤠ",
+      "desc": "/तेसगेःक्पा/",
+      "group": "BC",
+      "mean": "<p>1. spotted/ branded (ox, cow etc) . 2. spotted (birds etc).</p>१. तारे; तिल्के; निधारमा सानो टाटो भएको (गाई/गोरू) ।२. छिरबिरे ।"
+    },
+    "03143": {
+      "dId": "ᤋᤧᤛᤣᤕᤧᤓᤠᤣ᤺ᤳ/ᤋᤧᤛᤣᤕᤧᤓᤠᤣᤋ᤻",
+      "desc": "/तेसेयेभोःत/",
+      "group": "BC",
+      "mean": "<p>a kind of thatch-grass.</p>सालिम्मो ।"
+    },
+    "03144": {
+      "dId": "ᤋᤧᤜᤡᤶ",
+      "desc": "/तेहिम्/",
+      "group": "BC",
+      "mean": "<p>a temporary hut.</p>छाप्रो; कटेरो ।"
+    },
+    "03145": {
+      "dId": "ᤋᤧᤜᤡᤶᤒᤠ᤹",
+      "desc": "/तेहिम्बा?/",
+      "group": "BC",
+      "mean": "<p>a kind of tree with red wood.</p>लाल वृक्ष; लाली काठ ।"
+    },
+    "03146": {
+      "dId": "ᤋᤧ᤺ᤱᤃᤠᤣ/ᤋᤧᤅ᤻ᤃᤠᤣ",
+      "desc": "/तेःङ्गो/",
+      "group": "BC",
+      "mean": "<p>silk cotton tree. <i>Bombax malabaricum.</i></p>सिमल ।"
+    },
+    "03147": {
+      "dId": "ᤋᤧ᤺ᤱᤔᤠ/ᤋᤧᤅ᤻ᤔᤠ",
+      "desc": "/तेःङ्मा/",
+      "group": "BC",
+      "mean": "<p>to be torn.</p>च्यातिनु ।"
+    },
+    "03148": {
+      "dId": "ᤋᤧ᤺ᤔᤠ",
+      "desc": "/तेःमा/",
+      "group": "BC",
+      "mean": "<p>1. to crack down (dam, etc). 2. to be broken (the bank of a pond/ reservoir etc); to be overflowed.</p>१. मुल, मुहान वा बाँध भत्कनु । २. थुनेको पोखरी फुट्नु ।"
+    },
+    "03149": {
+      "dId": "ᤋᤧ᤺ᤶᤓᤢᤰ/ᤋᤧᤔ᤻ᤓᤢᤰ/ᤋᤧ᤺ᤶᤒᤢᤰ/ᤋᤧᤔ᤻ᤒᤢᤰ",
+      "desc": "/तेःम्भुक्/तेःम्बुक्/",
+      "group": "BC",
+      "mean": "<p>1. whip. 2. beating.</p>१. कोर्रा । २. पिटाइ ।"
+    },
+    "03150": {
+      "dId": "ᤋᤧ᤺ᤖᤧ᤹",
+      "desc": "/तेःरे?/",
+      "group": "BC",
+      "mean": "<p>tearing (a piece of cloth) with a cracking sound.</p>च्यार्र; त्यार्र; त्यस्तो आवाज निस्कने गरी च्यातिने चालाले ।"
+    },
+    "03151": {
+      "dId": "ᤋᤪᤠᤣ᤺ᤱᤏᤠ/ᤋᤪᤠᤣᤅ᤻ᤏᤠ",
+      "desc": "/त्रोःङ्ना/",
+      "group": "BC",
+      "mean": "<p>arch; dome.</p>गुम्बज ।"
+    },
+    "03152": {
+      "dId": "ᤋᤫᤠᤗᤠᤶ",
+      "desc": "/त्वालाम्/",
+      "group": "BC",
+      "mean": "<p>opportunity; occasion.</p>मौका; अवसर ।"
+    },
+    "03153": {
+      "dId": "ᤋᤫᤠᤒᤠ",
+      "desc": "/त्वाबा/",
+      "group": "BC",
+      "mean": "<p>1. forehead. 2. fortune; luck.</p>१. निधार । २. भाग्य; तकदिर ।"
+    }
+  }
+}

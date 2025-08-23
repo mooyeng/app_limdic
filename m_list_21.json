@@ -1,0 +1,832 @@
+{
+  "Dic": {
+    "02225": {
+      "dId": "ᤆᤡ ",
+      "desc": "/चि/",
+      "group": "AU",
+      "mean": "<p>1. left-overs; remains of a meal (impurity; desecration). 2. a prefix affixed to a word to intensify its meaning.</p>१. जुठाे (खानेकुरा); पुरा । २. कुनै शब्दकाे अगाडी जाेडिएर निकै धेरै वा बेसरी भन्ने थप अर्थ बुझाउने उपसर्ग । "
+    },
+    "02226": {
+      "dId": "ᤆᤡᤀ᤺ᤣᤵ/ᤆᤡᤀᤣᤐ᤻",
+      "desc": "/चिएःप्/",
+      "group": "AU",
+      "mean": "<p>(n.) supperssion; opperssion; pressure. (adv.) manner of flattening sth while treading upon  it completely with a heavy load or under pressure.</p>(ना.) दबाव; थिचाेमिचाे । (क्रिवि.) किचिक्क; पिटिक्क (थिच्ने वा टेक्ने तरीकाले) ।"
+    },
+    "02227": {
+      "dId": "ᤆᤡ᤹ ",
+      "desc": "/चि?/",
+      "group": "AU",
+      "mean": "<p>[Tamor/ Phedape] a bit; a few; a little bit.</p>[तमाेर/ फेदापे] अलिकति; कम्ति; थाेरै ।"
+    },
+    "02228": {
+      "dId": "ᤆᤡ᤹ᤆᤢᤰ",
+      "desc": "/चि?चुक्/",
+      "group": "AU",
+      "mean": "<p>in a manner of touching stealthily.</p>छुस्स (चस्स) छुने पाराले ।"
+    },
+    "02229": {
+      "dId": "ᤆᤡ᤹ᤔᤠ",
+      "desc": "/चि?मा/",
+      "group": "AU",
+      "mean": "<p>1. to be cold ( due to shade). 2. to cause sth/sb to suffer; to trouble sb.</p>१. चिसाे हुनु (सेप लागेर) । २. पिर्नु (अरुलाई); पीर पार्नु; पिराेल्नु ।"
+    },
+    "02230": {
+      "dId": "ᤆᤡ᤹ᤕᤢᤔᤠ",
+      "desc": "/चि?युमा/",
+      "group": "AU",
+      "mean": "<p>mole; musk rat; dormouse.</p>छुचुन्द्राे ।"
+    },
+    "02231": {
+      "dId": "ᤆᤡ᤹ᤗᤡᤱᤃᤣ",
+      "desc": "/चि?लिङ्गे/",
+      "group": "AU",
+      "mean": "<p>sieve; sifter.</p>चाल्नी; चाल्नु ।"
+    },
+    "02232": {
+      "dId": "ᤆᤡ᤹ᤗᤡᤱᤛᤣ᤹",
+      "desc": "/चि?लिङ्से/",
+      "group": "AU",
+      "mean": "<p>strawberry; Myfrica esculenta.</p>काफल ।"
+    },
+    "02233": {
+      "dId": "ᤆᤡ᤹ᤘᤠ",
+      "desc": "/चि?वा/",
+      "group": "AU",
+      "mean": "<p>cold water.</p>चिसाे पानी ।"
+    },
+    "02234": {
+      "dId": "ᤆᤡᤰ",
+      "desc": "/चिक्/",
+      "group": "AU",
+      "mean": "<p>conscience; mind; mental temperament.</p>अन्तस्करण; मन; मानसिक स्थिति ।"
+    },
+    "02235": {
+      "dId": "ᤆᤡᤰᤂᤢ᤹ᤏᤠ",
+      "desc": "/चिक्खु?ना/",
+      "group": "AU",
+      "mean": "<p>a small variety of thorny shrub with yellow and red edible berries.</p>सानाे खाले खान हुने बिही; काँडेदार पात हुने र राताेसेताे फल फल्ने एक प्रकारकाे पाेथ्रा ।"
+    },
+    "02236": {
+      "dId": "ᤆᤡᤰᤆᤠᤣ᤹ᤔᤠ ᤛᤡᤅ",
+      "desc": "/चिक्चाे?मा सिङ्/",
+      "group": "AU",
+      "mean": "<p>birch tree. Betula slnoides.</p>साैर काे रूख ।"
+    },
+    "02237": {
+      "dId": "ᤆᤡᤰᤌᤰᤏᤠ",
+      "desc": "/चिक्थक्ना/",
+      "group": "AU",
+      "mean": "<p>a small variety of drongo. Dicrurus.</p>सानाेखाले चिबे चरा ।"
+    },
+    "02239": {
+      "dId": "ᤆᤡᤃᤠ᤺ᤰᤌᤠᤖᤠ/ᤆᤡᤃᤠᤁ᤻ᤌᤠᤖᤠ",
+      "desc": "/चिगःक्थारा/",
+      "group": "AU",
+      "mean": "<p>utensils ( esp pots and plates etc).</p>भाँडाकुँडा (विशेषगरी थाल, बटुका आदि) ।"
+    },
+    "02240": {
+      "dId": "ᤆᤡᤃ᤺ᤰᤘᤠ/ᤆᤡᤃᤁ᤻ᤘᤠ",
+      "desc": "/चिगःक्वा/",
+      "group": "AU",
+      "mean": "<p>things; objects; goods; articles; luggage.</p>वस्तु; चीज; चीजबीज; सामान; मालताल ।"
+    },
+    "02241": {
+      "dId": "ᤆᤡᤃᤠ᤹ᤘᤃᤠ᤹",
+      "desc": "/चिगा?वगा?/",
+      "group": "AU",
+      "mean": "<p>dawn; early morning; twilight.</p>झिसमिस; रिमरिम उज्यालाे । "
+    },
+    "02242": {
+      "dId": "ᤆᤡᤆᤠᤅ",
+      "desc": "/चिगाङ्/",
+      "group": "AU",
+      "mean": "<p>moulding roughly into balls.</p>जथाभावी डल्लाे पार्ने किसिमले ।"
+    },
+    "02243": {
+      "dId": "ᤆᤡᤃᤠᤵ",
+      "desc": "/चिगाप्/",
+      "group": "AU",
+      "mean": "<p>together.</p>साथसाथ ।"
+    },
+    "02244": {
+      "dId": "ᤆᤡᤃᤠᤵᤑᤣᤶᤒᤠ",
+      "desc": "/चिगाप्फेम्बा/",
+      "group": "AU",
+      "mean": "<p>a kind of tree bearing clusters of three leaves.</p>तीनपाते (रूख) ।"
+    },
+    "02245": {
+      "dId": "ᤆᤡᤃᤠ᤺ᤰ/ᤆᤡᤃᤠᤁ᤻",
+      "desc": "/चिगाःक्/",
+      "group": "AU",
+      "mean": "<p>skipping, jumping or stepping suddenly over sth.</p>च्वाट्टै; चट्टै; बुरुक्क उफ्रेर नाघ्ने किसिमले ।"
+    },
+    "02246": {
+      "dId": "ᤆᤡᤃ᤺ᤣᤵ/ᤆᤡᤃᤣᤐ᤻",
+      "desc": "/चिगेप्/",
+      "group": "AU",
+      "mean": "<p>misuse; wrong use; wayward (or wanton) expense or use.</p>दुरुपयाेग; अनुचित खर्च वा उपाेग ।"
+    },
+    "02247": {
+      "dId": "ᤆᤡᤃ᤺ᤣᤵᤐᤠ/ᤆᤡᤃᤣᤐ᤻ᤐᤠ ᤑᤢᤱ",
+      "desc": "/चिगेःप्पा फुङ्/",
+      "group": "AU",
+      "mean": "<p>a small variety of marigold. <i>Tagetes sp.</i></p>भाले सयपत्री ।"
+    },
+    "02248": {
+      "dId": "ᤆᤡᤃᤧ᤹",
+      "desc": "/चिगे?/",
+      "group": "AU",
+      "mean": "<p>in a fit of fury; in a manner of loosing one’s temper; in a furious manner.</p>झनक्क रिस उठ्ने । "
+    },
+    "02249": {
+      "dId": "ᤆᤡᤃᤩᤠᤰᤔᤠ",
+      "desc": "/चिग्याक्मा/",
+      "group": "AU",
+      "mean": "<p>1. crop or craw of a bird. 2. Adam’s apple.</p>१. चराकाे गाँड । २. रुद्रघण्टी ।"
+    },
+    "02250": {
+      "dId": "ᤆᤡᤃᤩᤠᤔᤠ",
+      "desc": "/चिग्यामा/",
+      "group": "AU",
+      "mean": "<p>a kind of bird which lives in a group.</p>बगाले चरा ।"
+    },
+    "02251": {
+      "dId": "ᤆᤡᤄᤠᤵ",
+      "desc": "/चिघाप्/",
+      "group": "AU",
+      "mean": "<p>manner of covering sb/sth completely.</p>घुम्लुङ्ग ।"
+    },
+    "02252": {
+      "dId": "ᤆᤡᤄᤶ",
+      "desc": "/चिघाम्/",
+      "group": "AU",
+      "mean": "<p>in a manner of covering oneself completely.</p>घ्वाप्प; घुम्लुङ्ग; त्यसरी ढाकिने गरी ।"
+    },
+    "02253": {
+      "dId": "ᤆᤡᤄᤠ᤺ᤶ/ᤆᤡᤄᤠᤔ᤻",
+      "desc": "/चिघाःम्/",
+      "group": "AU",
+      "mean": "<p>chewing crisply; sound referring to munching sth  crisply.</p>मर्याकमर्याक/मर्याकमुरुक/कर्यामकुरुम/ कर्यामकर्याम/ कुरुम्म चपाउने चालाले ।"
+    },
+    "02254": {
+      "dId": "ᤆᤡᤄᤡ᤹ ",
+      "desc": "/चिघि?/",
+      "group": "AU",
+      "mean": "<p>braces; string; cord put inside the waist-band of Nepali trousers.</p>इजार ।"
+    },
+    "02255": {
+      "dId": "ᤆᤡᤄᤡᤵ",
+      "desc": "/चिघिप्/",
+      "group": "AU",
+      "mean": "<p>in a manner of sticking or adhering fast.</p>ट्याप्प ठ्याप्प टाँसिने गरी ।"
+    },
+    "02256": {
+      "dId": "ᤆᤡᤄᤡᤶ",
+      "desc": "/चिघिम्/",
+      "group": "AU",
+      "mean": "<p>in a blinking  (or winking) manner; steadily drilling.</p>झिमिक्क/ झिम्म/ झिमझिम गर्ने चालाले ।"
+    },
+    "02257": {
+      "dId": "ᤆᤡᤄᤡᤛᤣ᤹",
+      "desc": "/चिघिसे?/",
+      "group": "AU",
+      "mean": "<p>cotton seed.</p>कपासकाे बिउ ।"
+    },
+    "02258": {
+      "dId": "ᤆᤡᤄᤢᤱ/ᤆᤡᤄᤢᤅ᤻",
+      "desc": "/चिघुःङ्/",
+      "group": "AU",
+      "mean": "<p>in a manner of covering oneself completely.</p>घुम्लुङ्ग पुरै ढाकिने तरिकाले ।"
+    },
+    "02259": {
+      "dId": "ᤆᤡᤄ᤺ᤣᤵᤏᤠ/ᤆᤡᤄᤣᤐ᤻ᤏᤠ",
+      "desc": "/चिघेःप्ना/",
+      "group": "AU",
+      "mean": "<p>a kind of bird.</p>बिजुवा चराे ।"
+    },
+    "02260": {
+      "dId": "ᤆᤡᤱᤃᤩᤠ᤺ᤰ/ᤆᤡᤱᤃᤩᤠᤁ᤻",
+      "desc": "/चिङ्ग्याक्/",
+      "group": "AU",
+      "mean": "<p>getting thickly tangled or knotted hair; getting matted hair.</p>नकाेरिएकाे वा काेरीबाटी नगरिएकाे जिङ्ग्रिङ्ग केश झैं हुनु ।"
+    },
+    "02261": {
+      "dId": "ᤆᤡᤱᤃᤩᤠ᤺ᤰᤐᤠ/ᤆᤡᤱᤃᤩᤠᤁ᤻ᤐᤠ",
+      "desc": "/चिङ्ग्याक्पा/",
+      "group": "AU",
+      "mean": "<p>caterpillar.</p>झुसुल्किराे ।"
+    },
+    "02262": {
+      "dId": "ᤆᤡᤱᤃᤩᤠ᤺ᤰᤔᤠ/ᤆᤡᤱᤃᤩᤠᤁ᤻ᤔᤠ",
+      "desc": "/चिङ्ग्याःक्मा/",
+      "group": "AU",
+      "mean": "<p>a kind of thorny and hairy plant.</p>सुँगुरे काडा; झुसैझुस झैं काँडा हुने झार ।"
+    },
+    "02263": {
+      "dId": "ᤆᤡᤱᤈᤡᤱᤔᤠ",
+      "desc": "/चिङ्जिङ्मा/",
+      "group": "AU",
+      "mean": "<p>a kind of small tree; white core of its wood is used by the Phedangma during the worship of Theba and Yuma.</p>चुलेत्राे; यसकाे काठकाे गुदि युमा तथा थेबाकाे पूजा गर्दा फेदाङ्माले चलाउँछन ।"
+    },
+    "02264": {
+      "dId": "ᤆᤡᤱᤈᤡᤱᤘᤠ",
+      "desc": "/चिङ्जिङ्वा/",
+      "group": "AU",
+      "mean": "<p>warbler. <i>Sulviidae.</i></p>फिस्टाे चरा ।"
+    },
+    "02265": {
+      "dId": "ᤆᤡᤱᤔᤠ",
+      "desc": "/चिङ्मा/",
+      "group": "AU",
+      "mean": "<p>to hide/ conceal sth.</p>लुकाउनु ।"
+    },
+    "02266": {
+      "dId": "ᤆᤡᤱᤛᤡᤱ-ᤁᤠ᤺ᤣᤳᤇᤡᤱ/ᤁᤠᤣᤋ᤻ᤇᤡᤱ",
+      "desc": "/चिङ्सिङ्-काेःत्छिङ्/",
+      "group": "AU",
+      "mean": "<p>the game/ act of hide-and-seek.</p>लुकामारी; लुकालुक; परस्पर लुक्ने काम ।"
+    },
+    "02267": {
+      "dId": "ᤆᤡᤱᤛᤡᤱᤃᤠᤣ",
+      "desc": "/चिङ्सिङ्गाे/",
+      "group": "AU",
+      "mean": "<p>underground; hidden; concealed.</p>भूमिगत; विलुप्त; लुकेकाे; छिपेकाे ।"
+    },
+    "02268": {
+      "dId": "ᤆᤡᤱᤛᤡᤱᤔᤠ",
+      "desc": "/चिङ्सिङ्मा/",
+      "group": "AU",
+      "mean": "<p>to hide oneself; to be hidden; to keep oneself concealed.</p>लुक्नु; आफै लुक्नु ।"
+    },
+    "02269": {
+      "dId": "ᤆᤡᤆᤢ᤹ᤆᤢᤰᤐᤠ",
+      "desc": "/चिचु?चुक्पा/",
+      "group": "AU",
+      "mean": "<p>restless; fickle; fidgety.</p>चकचके; चञ्चल; चुलबुले ।"
+    },
+    "02270": {
+      "dId": "ᤆᤡᤈᤡ᤹ ",
+      "desc": "/चिजि?/",
+      "group": "AU",
+      "mean": "<p>a little bit; a little; a bit; slightly.</p>अलिकति; थाेरैमात्र । "
+    },
+    "02271": {
+      "dId": "ᤆᤡᤈᤡ ",
+      "desc": "/चिजि/",
+      "group": "AU",
+      "mean": "<p>silence; solitude.</p>सन्नाटा; चकमन्न ।"
+    },
+    "02272": {
+      "dId": "ᤆᤡᤈᤡᤱ",
+      "desc": "/चिजिङ्/",
+      "group": "AU",
+      "mean": "<p>being startled; in a fright.</p>झसङ्ग ।"
+    },
+    "02273": {
+      "dId": "ᤆᤡᤍᤢ᤹",
+      "desc": "/चिदु?/",
+      "group": "AU",
+      "mean": "<p>1. pile; layer. 2. double; tow-fold.</p>१. खाप; पत्र; तह । २. दाेब्बर; दुई गुना ।"
+    },
+    "02274": {
+      "dId": "ᤆᤡᤍ᤺ᤢᤱ/ᤆᤡᤍᤢᤅ᤻",
+      "desc": "/चिदुङ्/",
+      "group": "AU",
+      "mean": "<p>in a dangling manner; hanging or swinging loosely.</p>लरक्क; त्यसरी लर्क्ने वा नुहिने गरी ।"
+    },
+    "02275": {
+      "dId": "ᤆᤡᤍᤣ᤹",
+      "desc": "/चिदे?/",
+      "group": "AU",
+      "mean": "<p>1. in a sweeping manner. 2. smoothly; easily; wholly.</p>१. स्वाट्टै लैजाने किसिमले । २. ल्वात्त/ ल्वाम्म घुसार्ने चालाले ।"
+    },
+    "02276": {
+      "dId": "ᤆᤡᤎᤰ",
+      "desc": "/चिधक्/",
+      "group": "AU",
+      "mean": "<p>with a thud; with a dashing sound (as if battering, pounding or smashing sth).</p>बुङ्ग; डङ्ग; त्यसरी कुट्ने वा चुट्ने चालाले । "
+    },
+    "02277": {
+      "dId": "ᤆᤡᤎᤡᤱ",
+      "desc": "/चिधिङ्/",
+      "group": "AU",
+      "mean": "<p>fully stretched; tensely; tautly.</p>तनक्क; त्यसरी तन्कने वा तान्ने किसिमले ।"
+    },
+    "02278": {
+      "dId": "ᤆᤡᤎᤢᤰ",
+      "desc": "/चिधुक्/",
+      "group": "AU",
+      "mean": "<p>manure, compost; fertilizer.</p>मल; खाद ।"
+    },
+    "02279": {
+      "dId": "ᤆᤡᤎᤢᤶ",
+      "desc": "/चिधुम्/",
+      "group": "AU",
+      "mean": "<p>joining/ sewing together tightly.</p>ट्याप्पै टाँस्ने/ सिलाउने गरी ।"
+    },
+    "02280": {
+      "dId": "ᤆᤡᤎᤧ᤺ᤰ/ᤆᤡᤎᤧᤁ᤻",
+      "desc": "/चिधेःक्/",
+      "group": "AU",
+      "mean": "<p>stuffing forcefully; inserting forcibly.</p>खाँदीखाँदी हाल्ने किसिमले ।"
+    },
+    "02281": {
+      "dId": "ᤆᤡᤏ᤺ᤰᤛᤣ᤹/ᤆᤡᤏᤁ᤻ᤛᤣ᤹",
+      "desc": "/चिनःक्से?/",
+      "group": "AU",
+      "mean": "<p>a variety of yellow bean.</p>घिउबाेडी; घिउसिमी ।"
+    },
+    "02282": {
+      "dId": "ᤆᤡᤏᤠ᤹(ᤔᤠ)",
+      "desc": "/चिना?(मा)/",
+      "group": "AU",
+      "mean": "<p>lamb’s quarter, a kind of leafy edible plant. Chenopodium album.</p>लाली साग, बेथे (साग), बेथु ।"
+    },
+    "02283": {
+      "dId": "ᤆᤡᤏᤠᤘᤠ",
+      "desc": "/चिनावा/",
+      "group": "AU",
+      "mean": "<p>a small variety of snail; slug.</p>सानाे खालकाे चिप्लेकिरा ।"
+    },
+    "02284": {
+      "dId": "ᤆᤡᤏᤡᤰ",
+      "desc": "/चिनिक्/",
+      "group": "AU",
+      "mean": "<p>a term describing the motion of fucking.</p>ल्वात्तै ।"
+    },
+    "02285": {
+      "dId": "ᤆᤡᤏᤡ᤺ᤵ/ᤆᤡᤏᤡᤐ᤻",
+      "desc": "/चिनिःप्/",
+      "group": "AU",
+      "mean": "<p>(drawn) completely; in a manner of sinking all at once.</p>चुर्लुम्म; एकै पल्टमा सम्पूर्ण डुब्ने गरी ।"
+    },
+    "02286": {
+      "dId": "ᤆᤡᤏᤢ᤹ᤆᤡᤏᤢ",
+      "desc": "/चिनु? चिनु?/",
+      "group": "AU",
+      "mean": "<p>in a crushing or disorderly manner.</p>काेचकाच; जथाभावी; माडमुड ।"
+    },
+    "02287": {
+      "dId": "ᤆᤡᤏᤠᤣᤖᤧᤰᤔᤠ",
+      "desc": "/चिनाेरेक्मा/",
+      "group": "AU",
+      "mean": "<p>a geen snake.</p>हरियाे साँप; सिरिसे साँप; हरेउ ।"
+    },
+    "02288": {
+      "dId": "ᤆᤡᤏᤧ᤺ᤰ/ᤆᤡᤏᤧᤁ᤻",
+      "desc": "/चिनेःक्/",
+      "group": "AU",
+      "mean": "<p>flabbily; in a slushing manner.</p>थलथल हल्लने किसिमले ।"
+    },
+    "02289": {
+      "dId": "ᤆᤡᤏᤧ᤺ᤵᤏᤧ᤺ᤵ/ᤆᤡᤏᤧᤐ᤻ᤏᤧᤐ᤻",
+      "desc": "/चिनेःप्नेःप्/",
+      "group": "AU",
+      "mean": "<p>packed up; stuffed.</p>खाँदाखाँद ।"
+    },
+    "02290": {
+      "dId": "ᤆᤡᤴᤈᤠᤏᤠ",
+      "desc": "/चिन्जाना/",
+      "group": "AU",
+      "mean": "<p>lizard.</p>माउसुली; घर-छेपाराे; भित्ती । "
+    },
+    "02291": {
+      "dId": "ᤆᤡᤴᤎᤧᤰᤏᤠ",
+      "desc": "/चिन्धेक्ना/",
+      "group": "AU",
+      "mean": "<p>a kind of bird.</p>बिजुवा चराे ।"
+    },
+    "02292": {
+      "dId": "ᤆᤡᤵᤐᤢᤳ",
+      "desc": "/चिप्पुत्/",
+      "group": "AU",
+      "mean": "<p>holding by clasping with the fist.</p>च्याप्प/ ट्याप्प/ट्याप्पै मुठीले पक्रने चालाले ।"
+    },
+    "02294": {
+      "dId": "ᤆᤡᤵᤔᤠ",
+      "desc": "/चिप्मा/",
+      "group": "AU",
+      "mean": "<p>1. (of the rain) to stop. 2. to fall silent; to be quiet.</p>१. पानी (वर्षाकाे) रहनु/ थामिनु/ राेकिनु । २. चुप लाग्नु; शान्त हुनु ।"
+    },
+    "02295": {
+      "dId": "ᤆᤡᤵᤔᤧᤍᤡᤱᤒᤠ",
+      "desc": "/चिप्मेदिङ्बा/",
+      "group": "AU",
+      "mean": "<p>a kind of hot spice. <i>Xanthoxylum acanthopodium.</i></p>बाेके टिमुर ।"
+    },
+    "02296": {
+      "dId": "ᤆᤡᤵᤗᤡᤰ ᤋᤧᤶᤒᤣ",
+      "desc": "/चिप्लिक् तेम्बे/",
+      "group": "AU",
+      "mean": "<p>stars; constellation.</p>नक्षत्र, तारामण्डल ।"
+    },
+    "02297": {
+      "dId": "ᤆᤡᤵᤗᤧ᤺ᤰ/ᤆᤡᤵᤗᤧᤁ᤻",
+      "desc": "/चिप्लेःक्/",
+      "group": "AU",
+      "mean": "<p>in a manner of flattening under pressure or when crushed.</p>पिचिक्क चेप्टिने किसिमले ।"
+    },
+    "02298": {
+      "dId": "ᤆᤡᤵᤗᤧ᤺ᤰᤗᤧ᤺ᤰᤐᤠ",
+      "desc": "/चिप्लेःक्लेःक्पा/",
+      "group": "AU",
+      "mean": "<p>flat; flattened.</p>च्याप्टाे; च्याप्टिएकाे ।"
+    },
+    "02299": {
+      "dId": "ᤆᤡᤒᤢᤰ",
+      "desc": "/चिबुक्/",
+      "group": "AU",
+      "mean": "<p>[Phedape] in a tingling (or smarting) manner; furiously; in a rage or a fit of anger.</p>[फेदापे] झमझम; झमझमाउने गरी; झनक झनक हुने गरी ।"
+    },
+    "02300": {
+      "dId": "ᤆᤡᤒᤣ",
+      "desc": "/चिबे/",
+      "group": "AU",
+      "mean": "<p>sign; signal; hint; gesture.</p>इशारा; सङ्केत ।"
+    },
+    "02301": {
+      "dId": "ᤆᤡᤒᤧᤳ",
+      "desc": "/चिबेत्/",
+      "group": "AU",
+      "mean": "<p>a little; scanty.</p>थाेरै; कम्ती ।"
+    },
+    "02302": {
+      "dId": "ᤆᤡᤒᤧ᤺ᤳ/ᤆᤡᤒᤧᤋ᤻",
+      "desc": "/चिबेःत्/",
+      "group": "AU",
+      "mean": "<p>in a manner of flattening (under pressure).</p>क्याच्च; किचिक्क वा पिचिक्क चेप्टिने वा थेप्चिने गरी ।"
+    },
+    "02303": {
+      "dId": "ᤆᤡᤒᤧ᤺ᤵᤐᤧ᤺ᤵᤔᤠ/ᤆᤡᤒᤣᤐ᤻ᤐᤣᤐ᤻ᤔᤠ",
+      "desc": "/चिबेःप्पेःप्मा/",
+      "group": "AU",
+      "mean": "<p>a woman with a flat facer; a flat faced woman.</p>(स्त्री) चेप्टी; चेप्टाे अनुहार भएकी ।"
+    },
+    "02304": {
+      "dId": "ᤆᤡᤓᤡ᤺ ᤋᤠ",
+      "desc": "/चिभिःता/",
+      "group": "AU",
+      "mean": "<p>pincers.</p>सनासाे ।"
+    },
+    "02305": {
+      "dId": "ᤆᤡᤓᤡ᤺ᤳ/ᤆᤡᤓᤡᤋ᤻",
+      "desc": "/चिभिःत्/",
+      "group": "AU",
+      "mean": "<p>in a manner of clenching tightly.</p>च्यप्प; ठ्याप्प; त्यसरी निचाेर्ने गरी ।"
+    },
+    "02306": {
+      "dId": "ᤆᤡᤓᤡ᤺ᤵᤐᤠ/ᤆᤡ᤺ᤐ᤻ᤐᤠ",
+      "desc": "/चिभिःप्पा/",
+      "group": "AU",
+      "mean": "<p>pincers ( a pair of tongs, tweezers etc).</p>चेपुवा; सनासाे; चिम्टा आदि (च्याप्ने वस्तु) ।"
+    },
+    "02307": {
+      "dId": "ᤆᤡᤓᤡ᤺ᤵᤐᤧᤴ/ᤆᤡᤓᤡᤐ᤻ᤐᤧᤴ",
+      "desc": "/चिभिःप्पेन्/",
+      "group": "AU",
+      "mean": "<p>narrowness; tightness; congestion (the state of being crushed or pressed).</p>सङ्कीर्णता; साँघुरोपन ।"
+    },
+    "02308": {
+      "dId": "ᤆᤡᤓᤡ᤺ᤳᤘᤠ/ᤆᤡᤓᤡ᤺ᤋ᤻ᤘᤠ",
+      "desc": "/चिभिःत्वा/",
+      "group": "AU",
+      "mean": "<p>hard pressed condition (for want of money); penury.</p>साह्रोगाह्रो (पैसाको) अवस्था; प्रतिकुफता ।"
+    },
+    "02309": {
+      "dId": "ᤆᤡᤓᤠᤣ᤺ᤳ-ᤘᤓᤠᤣ᤺ᤳ/ᤆᤡᤓᤠᤣᤋ᤻-ᤘᤓᤠᤣ᤺ᤋ᤻",
+      "desc": "/चिभोःत्-वभोःत्/",
+      "group": "AU",
+      "mean": "<p>in a mixed way.</p>छ्यासमिस हुने चालाले ।"
+    },
+    "02310": {
+      "dId": "ᤆᤡᤔᤠᤱ-ᤘᤔᤠᤱ",
+      "desc": "/चिमाङ्-वमाङ्/",
+      "group": "AU",
+      "mean": "<p>dawn.</p>झिसमिसे उज्यालो ।"
+    },
+    "02311": {
+      "dId": "ᤆᤡᤔᤢ",
+      "desc": "/चिमु/",
+      "group": "AU",
+      "mean": "<p>[Sikkim] job; service.</p>[सिक्किम] नोकरी; सेवा ।"
+    },
+    "02312": {
+      "dId": "ᤆᤡᤶ",
+      "desc": "/चिम्/",
+      "group": "AU",
+      "mean": "<p>1. a prefix intensifying the meaning eg: cim+nasa:n (firm belief or strong conviction). 2. bamboo fence or wall.</p>१. कुनै शब्दका अगाडि जोडिएर  त्यस शब्दको अर्थलाई प्रगाढ बनाउने उपसर्ग; जस्तै- चिम्+ नसाःन् (दृड विश्वास) । २. बाँसका भाटाहरू बुनेर बनाइएको भित्तो (घरको); टाटी ।"
+    },
+    "02313": {
+      "dId": "ᤆᤡᤶᤓᤡᤴ",
+      "desc": "/चिम्भिन्/",
+      "group": "AU",
+      "mean": "<p>a kind of herbal plant with small white flowers which are used for pickle.</p>चिम्फिङ् एक प्रकारको जडीबुटी ।"
+    },
+    "02314": {
+      "dId": "ᤆᤡᤶᤓᤪᤡᤔᤠ",
+      "desc": "/चिम्भ्रिमा/",
+      "group": "AU",
+      "mean": "<p>a kind of small food grain. Panicum crusgalli.</p>जुनेलो ।"
+    },
+    "02315": {
+      "dId": "ᤆᤡᤶᤔ᤺ᤰ/ᤆᤡᤶᤔᤁ᤻",
+      "desc": "/चिम्मःक्/",
+      "group": "AU",
+      "mean": "<p>soft/ softness.</p>कमलो/ कमलोपन ।"
+    },
+    "02316": {
+      "dId": "ᤆᤡᤶᤔ᤺ᤰᤐᤠ/ᤆᤡᤶᤔᤁ᤻ᤐᤠ",
+      "desc": "/चिम्मःक्पा/",
+      "group": "AU",
+      "mean": "<p>soft.</p>कमलो; नरम । "
+    },
+    "02317": {
+      "dId": "ᤆᤡᤶᤔ᤺ᤰᤘᤠ/ᤆᤡᤶᤔᤁ᤻ᤘᤠ",
+      "desc": "/चिम्मःक्वा/",
+      "group": "AU",
+      "mean": "<p>pedded bedding.</p>डसना ।"
+    },
+    "02318": {
+      "dId": "ᤆᤡᤶᤔᤠ",
+      "desc": "/चिम्मा/",
+      "group": "AU",
+      "mean": "<p>1. to e satisfied/ satiated/ quenched. 2. to break/ separate (finger nails, etc).</p>१. धीत मर्नु; मनमा शान्ति हुनु । २. उक्किनु (नङ आदि) । "
+    },
+    "02319": {
+      "dId": "ᤆᤡᤶᤔᤡ ",
+      "desc": "/चिम्मि/",
+      "group": "AU",
+      "mean": "<p>a kind of grass (or weed) used for fodder; any species of Pilea or Elatostemma.</p>सानो खालको गग्ल्याँटे; सीममा पाईने एक प्रकारको भुइँझार ।"
+    },
+    "02320": {
+      "dId": "ᤆᤡᤶᤕᤧ᤺ᤱᤄᤠ᤹/ᤕᤧᤅ᤻ᤄᤠ",
+      "desc": "/चिम्येःङ्घा/",
+      "group": "AU",
+      "mean": "<p>a kind of sand.</p>मसिनो बालुवा ।"
+    },
+    "02321": {
+      "dId": "ᤆᤡᤶᤔᤪᤧᤰ",
+      "desc": "/चिम्म्रेक्/",
+      "group": "AU",
+      "mean": "<p>in a manner of being wrinkled/ soft/ pliant/ flexible/ not stiff.</p>लुलो; नरम; थलथल ।"
+    },
+    "02322": {
+      "dId": "ᤆᤡᤕᤱᤕᤱ",
+      "desc": "/चियङ्यङ्/",
+      "group": "AU",
+      "mean": "<p>hurriedly.</p>हतार-हतार ।"
+    },
+    "02323": {
+      "dId": "ᤆᤡᤕ᤺ᤱ-ᤈᤡᤕ᤺ᤱ/ᤆᤡᤕᤅ᤻-ᤈᤡᤕᤅ᤻",
+      "desc": "/चियःङ्-जियःङ्/",
+      "group": "AU",
+      "mean": "<p>clamour; commotion; tumult; uproar.</p>खलबल; खल्याङ्मल्याङ्;  होहल्ला; हल्लाखल्ला ।"
+    },
+    "02324": {
+      "dId": "ᤆᤡᤖᤰ",
+      "desc": "/चिरक्/",
+      "group": "AU",
+      "mean": "<p>in a stinging or pricking manner.</p>च्वास्स दुख्ने गरी ।"
+    },
+    "02325": {
+      "dId": "ᤆᤡᤖᤠᤵ",
+      "desc": "/चिराप्/",
+      "group": "AU",
+      "mean": "<p>joke; jest; fun.</p>ठट्टा; ख्यालठट्टा; हँसीमजाक ।"
+    },
+    "02326": {
+      "dId": "ᤆᤡᤖᤠᤵᤑᤣ᤺ᤶᤒᤠ/ᤆᤡᤖᤠᤵᤑᤣᤔ᤻ᤒᤠ",
+      "desc": "/चिराप्फेःम्बा/",
+      "group": "AU",
+      "mean": "<p>butterfly.</p>पुतली ।"
+    },
+    "02327": {
+      "dId": "ᤆᤡᤖᤠ᤺ᤰ/ᤆᤡᤖᤠᤁ᤻",
+      "desc": "/चिराःक्/",
+      "group": "AU",
+      "mean": "<p>straw; hay.</p>पराल ।"
+    },
+    "02328": {
+      "dId": "ᤆᤡᤖᤡ ",
+      "desc": "/चिरि/",
+      "group": "AU",
+      "mean": "<p>page; sheet; piece of paper.</p>पृष्ट; पाना; पत्र ।"
+    },
+    "02329": {
+      "dId": "ᤆᤡᤖᤡᤰ",
+      "desc": "/चिरिक्/",
+      "group": "AU",
+      "mean": "<p>1. cloth. 2. pinching like pincers; feeling pain as when like an ant bites.</p>१. कपडा । २. चसक्क; चिरिक्क ।"
+    },
+    "02330": {
+      "dId": "ᤆᤡᤖᤡᤱᤔᤠ",
+      "desc": "/चिरिङ्मा/",
+      "group": "AU",
+      "mean": "<p>Lycopodium creeper. <i>Lycopodium clavatum.</i></p>नागबेली; एक प्रकारको लहरा ।"
+    },
+    "02331": {
+      "dId": "ᤆᤡᤖᤡᤱᤗᤡᤱ",
+      "desc": "/चिरिङ्लिङ्/",
+      "group": "AU",
+      "mean": "<p>(of cloth) being worn out/ torn/ ragged/ tattered.</p>(कपडा आदि) झुत्रोमुत्रो/थोत्रोमोत्रो हुने चालाले ।"
+    },
+    "02332": {
+      "dId": "ᤆᤡᤖᤡᤱᤗᤡᤱᤒᤠ",
+      "desc": "/चिरिङ्लिङ्बा/",
+      "group": "AU",
+      "mean": "<p>tattered/ frayed/ ragged/ useless.</p>झुत्रे; झुत्रेझात्रे; थोत्रेमोत्रे ।"
+    },
+    "02333": {
+      "dId": "ᤌᤖᤠᤵ",
+      "desc": "/थराप्/",
+      "group": "AU",
+      "mean": "<p>dangerous seat or residence.</p>धराप; जोखिमपूर्ण बस्ने आसन/ आवास ।"
+    },
+    "02334": {
+      "dId": "ᤆᤡᤖᤡᤈᤰ",
+      "desc": "/चिरिजक्/",
+      "group": "AU",
+      "mean": "<p>a kind of bird with crest.</p>झिरिझ्याउँ चरो ।"
+    },
+    "02335": {
+      "dId": "ᤆᤡᤖᤡ᤺ᤵᤐᤠ/ᤆᤡᤖᤡᤐ᤻ᤐᤠ",
+      "desc": "/चिरिःप्पा/",
+      "group": "AU",
+      "mean": "<p>a kind of small, black grasshopper; cricket.</p>एक जातको कालो, सानो फट्याङ्ग्रो ।"
+    },
+    "02336": {
+      "dId": "ᤆᤡᤖᤣ",
+      "desc": "/चिरे/",
+      "group": "AU",
+      "mean": "<p>a kind of fishing net.</p>माछा मार्ने एक प्रकारको गोलाकार जाल ।"
+    },
+    "02337": {
+      "dId": "ᤆᤡᤖᤣ᤺ᤵᤗᤣ᤺ᤵ/ᤆᤡᤖᤣᤐ᤻ᤗᤣᤐ",
+      "desc": "/चिरेःप्लेःप्/",
+      "group": "AU",
+      "mean": "<p>in a manner of being wrinkled/ flabby/ flaccid/ not stiff.</p>लुलो/ नरम/ थलथल हुने/ पर्ने चालाले ।"
+    },
+    "02338": {
+      "dId": "ᤆᤡᤷᤓᤠᤣ-ᤘᤣᤖᤷᤓᤠᤣ",
+      "desc": "/चिर्भो-वेर्भो/",
+      "group": "AU",
+      "mean": "<p>1. in hotchpotch, bewilderment or confusion. 2. mixture.</p>१. अतालिने किसिमले; जथाभावी । २. छ्यासमिस; मिसमास ।"
+    },
+    "02339": {
+      "dId": "ᤆᤡᤗᤠᤰ/ᤖᤠᤰ",
+      "desc": "/चिलाक्/राक्/",
+      "group": "AU",
+      "mean": "<p>licking repeatedly.</p>ल्याप्प चाट्ने किसिमले ।"
+    },
+    "02340": {
+      "dId": "ᤆᤡᤗᤡᤱᤃᤩᤠᤰ",
+      "desc": "/चिलिङ्ग्याक्/",
+      "group": "AU",
+      "mean": "<p>a kind of thrush. Turdidae.</p>सानोखाले चाँचर ।"
+    },
+    "02341": {
+      "dId": "ᤆᤡᤗᤡᤱᤃᤩᤠᤰᤏᤠ",
+      "desc": "/चिलिङ्ग्याक्ना/",
+      "group": "AU",
+      "mean": "<p>a kind of bird.</p>चिबुर्के चरो ।"
+    },
+    "02342": {
+      "dId": "ᤆᤡᤗᤡᤱᤗᤡᤱᤒᤠ",
+      "desc": "/चिलिङ्लिङ्बा/",
+      "group": "AU",
+      "mean": "<p>impatient; restless; agile.</p>हतारिएको; आत्तिएको; अधिर ।"
+    },
+    "02343": {
+      "dId": "ᤆᤡᤸᤗᤠ᤺ᤰ/ᤆᤡᤸᤗᤠᤁ᤻",
+      "desc": "/चिल्लाःक्/",
+      "group": "AU",
+      "mean": "<p>trampling heavily or repeatedly.</p>माड्ने वा दलदाल पार्ने किसिमले ।"
+    },
+    "02344": {
+      "dId": "ᤆᤡᤸᤗᤡ ",
+      "desc": "/चिल्लि/",
+      "group": "AU",
+      "mean": "<p>1. clove. 2. gracefulness; beauty; charm.</p>१. ल्वाङ् । २. लालित्य; सौन्दर्य; लावण्य ।"
+    },
+    "02345": {
+      "dId": "ᤆᤡᤸᤗᤡᤱᤛᤣ᤹",
+      "desc": "/चिल्लिङ्से?/",
+      "group": "AU",
+      "mean": "<p>a kind of fruit. Myrica nagi.</p>काफल ।"
+    },
+    "02346": {
+      "dId": "ᤆᤡᤸᤗᤠᤣ᤺ᤰ/ᤆᤡᤸᤗᤠᤣᤁ᤻",
+      "desc": "/चिल्लोःक्/",
+      "group": "AU",
+      "mean": "<p>in a manner of thickly liquidifying; in a manner of being thickly liquidified.</p>लत्त; लेदो वा बाक्लो झोल हुने गरी ।"
+    },
+    "02347": {
+      "dId": "ᤆᤡᤸᤗᤧ᤹",
+      "desc": "/चिल्ले?/",
+      "group": "AU",
+      "mean": "<p>in a manner of tearing, ripping upon or turning upside down (of eyelid).</p>फर्लक्क च्यात्ने, फार्ने वा फाट्ने किसिम (जस्तै- आँखा) ।"
+    },
+    "02348": {
+      "dId": "ᤆᤡᤸᤗᤧᤰ",
+      "desc": "/चिल्लेक्/",
+      "group": "AU",
+      "mean": "<p>turning anything over or upside down.</p>पर्लक्क; पर्लक्क पल्टने वा पल्टाउने किसिमले ।"
+    },
+    "02349": {
+      "dId": "ᤆᤡᤸᤗᤧᤵ",
+      "desc": "/चिल्लेप्/",
+      "group": "AU",
+      "mean": "<p>wall.</p>भित्ता ।"
+    },
+    "02350": {
+      "dId": "ᤆᤡᤛᤢ᤹",
+      "desc": "/चिसु?/",
+      "group": "AU",
+      "mean": "<p>stealthily, gently or lightly.</p>छुस्स; छुसुक्क छुने गरी ।"
+    },
+    "02351": {
+      "dId": "ᤆᤡᤛᤧ᤺ᤰ/ᤆᤡᤛᤧᤁ᤻",
+      "desc": "/चिसेःक्/",
+      "group": "AU",
+      "mean": "<p>1. pinching like an ant’s bite. 2. decision; settlement.</p>१. चिरिक्क चिमोट्ने तरिकाले । २. निर्णय; निधो ।"
+    },
+    "02352": {
+      "dId": "ᤆᤡᤜᤶ",
+      "desc": "/चिहम्/",
+      "group": "AU",
+      "mean": "<p>1. hindrance. 2. tension (mental).</p>१. बाधा, बिपत्ति । २. मानसिक उल्झन ।"
+    },
+    "02354": {
+      "dId": "ᤆᤡᤜᤠᤵ",
+      "desc": "/चिहाप्/",
+      "group": "AU",
+      "mean": "<p>in a choking manner.</p>किक्लिक्क हुने गरी ।"
+    },
+    "02355": {
+      "dId": "ᤆᤡᤜᤢ᤹ᤒᤠ",
+      "desc": "/चिहु?बा/",
+      "group": "AU",
+      "mean": "<p>(small and) narrow; conjested.</p>साँघुरो; साँगुरो; कोप्चो ।"
+    },
+    "02356": {
+      "dId": "ᤆᤡᤜᤢ᤹ᤜᤢ᤹ᤒᤠ",
+      "desc": "/चिहु?हु?बा/",
+      "group": "AU",
+      "mean": "<p>1. very narrow. 2. suffocating; over-crowded or stuffed.</p>१. सङ्कुचित; अति साँगुरो । २. खचाखच; टनाटन ।"
+    },
+    "02357": {
+      "dId": "ᤆᤡᤜᤠᤣ᤹ᤆᤡᤜᤠᤣ᤹",
+      "desc": "/चिहो?चिहो?/",
+      "group": "AU",
+      "mean": "<p>entering (in to a place) without permission or forcibly; breaking into; intruding.</p>खाँदखुद; जबरजस्ती घुस्ने किसिमले ।"
+    },
+    "02358": {
+      "dId": "ᤆᤡ᤺ᤰᤔᤠ/ᤆᤡᤁ᤻ᤔᤠ",
+      "desc": "/चिःक्मा/",
+      "group": "AU",
+      "mean": "<p>to freeze or be cold.</p>चिसो हुनु; ठण्डा हुनु; चिसिनु ।"
+    },
+    "02359": {
+      "dId": "ᤆᤡ᤺ᤱᤔᤠ/ᤆᤡᤅ᤻ᤔᤠ",
+      "desc": "/चिःङ्मा/",
+      "group": "AU",
+      "mean": "<p>to cool (down) sth/sb; to make sth/sb cool.</p>चिसो पार्नु; चिस्याउनु; ठण्डा पार्नु ।"
+    },
+    "02360": {
+      "dId": "ᤆᤡᤈᤡ᤺ᤵᤐᤠ/ᤆᤡᤈᤡᤡᤐ᤻ᤐᤠ",
+      "desc": "/चिजिःप्पा/",
+      "group": "AU",
+      "mean": "<p>1. abominable; disgustful. 2. avaricious; greedy; covetous.</p>१. छुच्चो; लुच्चो । २. साह्रै लोभी ।"
+    },
+    "02361": {
+      "dId": "ᤆᤡ᤺ᤳᤇᤡᤱ/ᤆᤡᤋ᤻ᤇᤡᤱ",
+      "desc": "/चिःत्छिङ्/",
+      "group": "AU",
+      "mean": "<p>hatred; contempt; loathing.</p>घृणा; घिन ।"
+    },
+    "02362": {
+      "dId": "ᤆᤡ᤺ᤴ/ᤆᤡᤏ᤻",
+      "desc": "/चिःन्/",
+      "group": "AU",
+      "mean": "<p>1. a prefix giving the word a bad sense; eg- ci:n +nasa:n (bad/blind faith or superstition). 2. stomach illness due to witchcraft or food poisoning.</p>१. नराम्रो वा खराब भन्ने अर्थ बुझाउने उपसर्ग; जस्तै- चिःन् नासाःन् (नराम्रो विश्वास; अन्धविश्वास) । २. कुफत; कपट; खानपानको गडबडीले हुने पेटसम्बन्धी विकार ।"
+    },
+    "02363": {
+      "dId": "ᤆᤡ᤺ᤴᤍᤠ/ᤆᤡᤏ᤻ᤍᤠ",
+      "desc": "/चिःन्दा/",
+      "group": "AU",
+      "mean": "<p>remains of a meal; left-overs; scraps.</p>जूठो; खाएर बाँकि रहेको वा खेर गएको वस्तु; उच्छिष्ट । "
+    },
+    "02364": {
+      "dId": "ᤆᤡ᤺ᤵᤔᤠ/ᤆᤡᤐ᤻ᤔᤠ",
+      "desc": "/चिःप्मा/",
+      "group": "AU",
+      "mean": "<p>1. to e angry or furious. 2. to hate; to loathe; to abhor; to feel aversion. 3. to dislike.</p>१. रिसाउनु; रिसाहा हुनु । २. घृणा गर्नु; घिनाउनु; घिन मान्नु; घिन लाग्नु । ३. मन नपराउनु ।"
+    },
+    "02365": {
+      "dId": "ᤆᤡ᤺ᤶᤔᤠ/ᤆᤡᤔ᤻ᤔᤠ",
+      "desc": "/चिम्मा/",
+      "group": "AU",
+      "mean": "<p>1. to be defiled/ polluted. 2. to defile food. 3. to soil, smear or stain with dirt; to pollute; to defile.</p>१. फोहोर/ मैला हुनु; जूठो हुनु । २. जूठो पार्नु; जूठो गर्नु । ३. फोहोर पार्नु ।"
+    }
+  }
+}

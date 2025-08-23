@@ -1,0 +1,652 @@
+{
+  "Dic": {
+    "03154": {
+      "dId": "ᤌ",
+      "desc": "/थ/",
+      "group": "BD",
+      "mean": "<p>1. the tenth consonant letter of the Sirijunga alphabet. 2. wheat.</p>१. सिरिजङ्गा वर्णमालाको दशौं व्यन्जनवर्ण । २. गहु ।"
+    },
+    "03155": {
+      "dId": "ᤌᤀᤡ᤹ ",
+      "desc": "/थइ?/",
+      "group": "BD",
+      "mean": "<p>in a manner of rubbing forcibgly.</p>जोडले माड्ने, घोट्ने, दल्ने वा मल्ने चालाले ।"
+    },
+    "03156": {
+      "dId": "ᤌ᤹ᤋᤪᤶᤒᤠ",
+      "desc": "/थ?त्रम्बा/",
+      "group": "BD",
+      "mean": "<p>throat.</p>घोक्रो ।"
+    },
+    "03157": {
+      "dId": "ᤌ᤹ᤔᤠ",
+      "desc": "/थ?मा/",
+      "group": "BD",
+      "mean": "<p>1. to be arrogant and callous (due to youth, power etc). 2. not ot taste good.</p>१. (बैंस, बल आदिले) मात्तिनु; पात्तिनु; अति हुनु । २. स्वाद नहुनु ।"
+    },
+    "03158": {
+      "dId": "ᤌᤰ",
+      "desc": "/थक्/",
+      "group": "BD",
+      "mean": "<p>1. bamboo, wood eating insects; termite; white ant. 2. body.</p>१. धमिरो; सिन्दुरे कीरो (काठ, बाँस आदि खाने कीरो) । २. जीउ; शरीर; देह; अङ्ग ।"
+    },
+    "03159": {
+      "dId": "ᤌᤰᤁᤠᤵ",
+      "desc": "/थक्काप्/",
+      "group": "BD",
+      "mean": "<p>couple.</p>युगल जोडी; हल ।"
+    },
+    "03160": {
+      "dId": "ᤌᤰᤁᤡᤴᤈᤠᤣ᤺ᤰ/ᤌᤰᤁᤡᤴᤈᤠᤣᤁ᤻",
+      "desc": "/थक्किन्जोःक्/",
+      "group": "BD",
+      "mean": "<p>physical exercise.</p>शारीरिक व्यायाम ।"
+    },
+    "03161": {
+      "dId": "ᤌᤰᤁᤣᤴ-ᤐᤠᤱᤘᤠ",
+      "desc": "/थक्केन्-पाङ्वा/",
+      "group": "BD",
+      "mean": "<p>a kind of game.</p>कपर्दि खेल ।"
+    },
+    "03162": {
+      "dId": "ᤌᤰᤁᤣ᤺ᤵᤐᤠ/ᤌᤰᤁᤣᤐ᤻ᤐᤠ",
+      "desc": "/थक्केःप्पा/",
+      "group": "BD",
+      "mean": "<p>spear grass. <i>Triumfetta pilosa.</i></p>कुरो झार ।"
+    },
+    "03163": {
+      "dId": "ᤌᤰᤁᤣ᤺ᤶᤒᤠ/ᤌᤰᤁᤣᤔ᤻ᤒᤠ",
+      "desc": "/थक्केःम्बा/",
+      "group": "BD",
+      "mean": "<p>major.</p>मेजर; सेनानी ।"
+    },
+    "03164": {
+      "dId": "ᤌᤰᤁᤪᤶᤒᤠ",
+      "desc": "/थक्क्रम्बा/",
+      "group": "BD",
+      "mean": "<p>chain (made of iron).</p>साङ्लो; सिक्री (फलामको) ।"
+    },
+    "03165": {
+      "dId": "ᤌᤰᤁᤪᤠᤣ",
+      "desc": "/थक्क्रो/",
+      "group": "BD",
+      "mean": "<p>chain.</p>साङ्लो ।"
+    },
+    "03166": {
+      "dId": "ᤌᤰᤅᤠ",
+      "desc": "/थक्ङा/",
+      "group": "BD",
+      "mean": "<p>trout; a kind of fish.</p>असला माछा ।"
+    },
+    "03167": {
+      "dId": "ᤌᤰᤋᤢᤶᤒᤠ",
+      "desc": "/थक्तुम्बा/",
+      "group": "BD",
+      "mean": "<p>colonel.</p>रथी; महासेनानी; कर्णेल ।"
+    },
+    "03168": {
+      "dId": "ᤌᤰᤋᤠᤣᤒᤠ",
+      "desc": "/थक्तोबा/",
+      "group": "BD",
+      "mean": "<p>an individual.</p>व्याक्ति विशेष; एक व्यक्ति ।"
+    },
+    "03169": {
+      "dId": "ᤌᤰᤋᤧᤴ",
+      "desc": "/थक्तेन्/",
+      "group": "BD",
+      "mean": "<p>the battle-field.</p>यद्धस्थल; रणभुमि ।"
+    },
+    "03170": {
+      "dId": "ᤌᤰᤌᤱ",
+      "desc": "/थक्थङ्/",
+      "group": "BD",
+      "mean": "<p>1. struggle; movement. 2. violent struggle or movement.</p>१. आन्दोलन । २. हिंसात्मक सङ्घर्ष । "
+    },
+    "03171": {
+      "dId": "ᤌᤰᤌᤢᤶᤒᤠ",
+      "desc": "/थक्थुम्बा/",
+      "group": "BD",
+      "mean": "<p>hero; brave.</p>वीर; बहादुर ।"
+    },
+    "03172": {
+      "dId": "ᤌᤰᤐᤠ",
+      "desc": "/थक्पा/",
+      "group": "BD",
+      "mean": "<p>weevil.</p>घुन ।"
+    },
+    "03173": {
+      "dId": "ᤌᤰᤐᤡᤳ",
+      "desc": "/थक्पित्/",
+      "group": "BD",
+      "mean": "<p>a kind of very small butterfly like insect which eats grain; grain eating worms; weevil.</p>चिल्सा; पुतली ।"
+    },
+    "03174": {
+      "dId": "ᤌᤰᤐᤢ",
+      "desc": "/थक्पु/",
+      "group": "BD",
+      "mean": "<p>birds.</p>चरा; पन्छी । "
+    },
+    "03175": {
+      "dId": "ᤌᤰᤐᤣ ᤁᤣ᤺ᤵᤔᤠ/ᤁᤣᤐ᤻ᤔᤠ",
+      "desc": "/थक्पे केःप्मा/",
+      "group": "BD",
+      "mean": "<p>to invade; to attack.</p>हात हाल्नु; आक्रमण गर्नु; चढाइ गर्नु ।"
+    },
+    "03176": {
+      "dId": "ᤌᤰᤐᤣᤒᤠ",
+      "desc": "/थक्पेबा/",
+      "group": "BD",
+      "mean": "<p>captain.</p>कप्तान; सहसेनानी ।"
+    },
+    "03177": {
+      "dId": "ᤌᤰᤔᤠ",
+      "desc": "/थक्मा/",
+      "group": "BD",
+      "mean": "<p>to fight with.</p>जुध्नु; झगडा गर्नु; लड्नु; लडाइँ गर्नु ।"
+    },
+    "03178": {
+      "dId": "ᤌᤰᤔᤢᤕᤠ",
+      "desc": "/थक्मुया/",
+      "group": "BD",
+      "mean": "<p>a kind of hawk. Accipiter.</p>चील; थाङ्ने चील ।"
+    },
+    "03179": {
+      "dId": "ᤌᤰᤔᤣ᤺ᤵᤐᤠ/ᤌᤰᤔᤣᤐ᤻ᤐᤠ",
+      "desc": "/थक्मेःप्पा/",
+      "group": "BD",
+      "mean": "<p>Ashar; thire Nepalese month (Jun- July).</p>असार महिना ।"
+    },
+    "03180": {
+      "dId": "ᤌᤰᤔᤠᤣᤒᤠ",
+      "desc": "/थक्मोबा/",
+      "group": "BD",
+      "mean": "<p>1. commander. 2. Brigadier general.</p>१. सेनापति । २. सहायक रथी ।"
+    },
+    "03181": {
+      "dId": "ᤌᤰᤕᤠᤶ",
+      "desc": "/थक्याम्/",
+      "group": "BD",
+      "mean": "<p>personality.</p>व्यक्तित्व ।"
+    },
+    "03182": {
+      "dId": "ᤌᤰᤕᤠᤶᤒᤠ",
+      "desc": "/थक्याम्बा/",
+      "group": "BD",
+      "mean": "<p>cell; organism.</p>कोशिका; कोशीय जीव; जीवकोशीका ।"
+    },
+    "03183": {
+      "dId": "ᤌᤰᤕᤠ᤺ᤸᤗᤧᤰ/ᤌᤰᤕᤠᤗ᤻ᤗᤧᤰ",
+      "desc": "/थक्याःल्लेक्/",
+      "group": "BD",
+      "mean": "<p>1. a farm-hand in exchange of a harm-hand; a farm-labourer in exchange of a farm-labourer. 2. voluntary labour; work without pay.</p>१. पर्म; पैंचो खेताला । २. श्रमदान ।"
+    },
+    "03184": {
+      "dId": "ᤌᤰᤗᤠ",
+      "desc": "/थाक्ला/",
+      "group": "BD",
+      "mean": "<p>life.</p>जीवन ।"
+    },
+    "03185": {
+      "dId": "ᤌᤰᤗᤡᤱ",
+      "desc": "/थाक्लिङ्/",
+      "group": "BD",
+      "mean": "<p>physical structure; physique.</p>शारीरिक बनावट; जीउडाल; कद ।"
+    },
+    "03186": {
+      "dId": "ᤌᤰᤗᤡᤒᤠ",
+      "desc": "/थक्लिबा/",
+      "group": "BD",
+      "mean": "<p>major.</p>मेजर; सेनानी ।"
+    },
+    "03187": {
+      "dId": "ᤌᤰᤗᤢᤱ",
+      "desc": "/थक्लुङ्/",
+      "group": "BD",
+      "mean": "<p>body; physique.</p>शरीर; जीउ; देह ।"
+    },
+    "03188": {
+      "dId": "ᤌᤰᤗᤣᤜᤠᤱ",
+      "desc": "/थक्लेहाङ्/",
+      "group": "BD",
+      "mean": "<p>1. commander in-chief. 2. general.</p>१. लडाइँको मूल सरदार । २. महारथी ।"
+    },
+    "03189": {
+      "dId": "ᤌᤰᤗᤧᤱ",
+      "desc": "/थक्लेङ्/",
+      "group": "BD",
+      "mean": "<p>warrior; fighter.</p>योद्धा; लडाकु ।"
+    },
+    "03190": {
+      "dId": "ᤌᤰᤘᤠ",
+      "desc": "/थक्वा/",
+      "group": "BD",
+      "mean": "<p>imagination.</p>कल्पना; परिकल्पना ।"
+    },
+    "03191": {
+      "dId": "ᤌᤰᤛᤢ᤺ᤶᤒᤠ/ᤌᤰᤛᤢᤔ᤻ᤒᤠ",
+      "desc": "/थक्सःम्बु/",
+      "group": "BD",
+      "mean": "<p>1. scum; green scum. 2. a kind of spear grass. Barleria cristata.</p>१. काइ; लेउ । २. भेंडे कुरो; एक प्रकारको कुरो झार ।"
+    },
+    "03192": {
+      "dId": "ᤌᤰᤛᤠ",
+      "desc": "/थक्सा/",
+      "group": "BD",
+      "mean": "<p>animal; beast (land animal).</p>पशु; जनावर; थलचर ।"
+    },
+    "03193": {
+      "dId": "ᤌᤰᤛᤠᤱ",
+      "desc": "/थक्साङ्/",
+      "group": "BD",
+      "mean": "<p>struggle; conflict.</p>आन्दोलन; सङ्घर्ष; द्वन्द्व ।"
+    },
+    "03194": {
+      "dId": "ᤌᤰᤛᤠᤵ",
+      "desc": "/थक्साप्/",
+      "group": "BD",
+      "mean": "<p>manuscript.</p>पाण्डुलिपि ।"
+    },
+    "03195": {
+      "dId": "ᤌᤰᤛᤠᤶ",
+      "desc": "/थक्साम्/",
+      "group": "BD",
+      "mean": "<p>spirit.</p>फूर्ति; स्फूर्ति ।"
+    },
+    "03196": {
+      "dId": "ᤌᤰᤛᤢ-ᤀᤡᤰ",
+      "desc": "/थक्सु-इक्/",
+      "group": "BD",
+      "mean": "<p>barrack.</p>ब्यारेक ।"
+    },
+    "03197": {
+      "dId": "ᤌᤰᤛᤢᤍᤡᤶ",
+      "desc": "/थक्सुदिम्/",
+      "group": "BD",
+      "mean": "<p>army parade.</p>फौजको लस्कर; फौजको ताँती ।"
+    },
+    "03198": {
+      "dId": "ᤌᤰᤛᤢᤒᤠ",
+      "desc": "/थक्सुबा/",
+      "group": "BD",
+      "mean": "<p>(n.) soldier. (adj.) warrior.</p>(ना.) सैनिक; सिपाही । (वि.) योद्धा ।"
+    },
+    "03199": {
+      "dId": "ᤌᤰᤛᤢ-ᤔᤢᤰᤗᤠ",
+      "desc": "/थक्सु-मुक्ला/",
+      "group": "BD",
+      "mean": "<p>a musical instrument (band) used in the army.</p>पल्टनमा सिपाहीले बजाउने बाजा ।"
+    },
+    "03200": {
+      "dId": "ᤌᤰᤛᤢᤔᤠᤣᤒᤠ",
+      "desc": "/थक्सुमोबा/",
+      "group": "BD",
+      "mean": "<p>(military) dictator.</p>(सैनिक) तानासाह ।"
+    },
+    "03201": {
+      "dId": "ᤌᤰᤛᤢᤶ",
+      "desc": "/थक्सुम्/",
+      "group": "BD",
+      "mean": "<p>biography.</p>जीवनी ।"
+    },
+    "03202": {
+      "dId": "ᤌᤰᤛᤢ-ᤗᤢᤵ",
+      "desc": "/थक्सु-लुप्/",
+      "group": "BD",
+      "mean": "<p>platoon.</p>पल्टन ।"
+    },
+    "03203": {
+      "dId": "ᤌᤰᤛᤢᤘᤠᤒᤠ/ᤔᤠ",
+      "desc": "/थक्सुवाबा/मा/",
+      "group": "BD",
+      "mean": "<p>candidate.</p>उम्मेद्वार ।"
+    },
+    "03204": {
+      "dId": "ᤌᤰᤛᤢᤜᤠᤱ",
+      "desc": "/थक्सुहाङ्/",
+      "group": "BD",
+      "mean": "<p>major.</p>मेजर ।"
+    },
+    "03205": {
+      "dId": "ᤌᤰᤛᤣ",
+      "desc": "/थक्से/",
+      "group": "BD",
+      "mean": "<p>a big vessel-like split bamboo basket for holding / keeping corns (rice, maize etc).</p>ढोक्से; अनाज हाल्ने, चोयाले बुनेको ठूलो पात्र ।"
+    },
+    "03206": {
+      "dId": "ᤌᤃᤣ᤺ᤰ/ᤌᤃᤣᤁ᤻",
+      "desc": "/थगेःक्/",
+      "group": "BD",
+      "mean": "<p>crust lying on the head of babies.</p>शिशुहरुको टाउकोमा निस्कने एक प्रकारको पाप्रो; चायाँ ।"
+    },
+    "03207": {
+      "dId": "ᤌᤱ",
+      "desc": "/थङ्/",
+      "group": "BD",
+      "mean": "<p>war.</p>लडाइँ; युद्ध ।"
+    },
+    "03208": {
+      "dId": "ᤌᤱ/ᤌᤱᤃᤠ",
+      "desc": "/थङ्/थङ्गा/",
+      "group": "BD",
+      "mean": "<p>1. bundle; bag and baggage; small parcel. 2. bunch; sheaf; bundle; bouquet.</p>१. कुम्लो; गठरी; बिटा । २. कल्ली; गुच्छा; मुठो । "
+    },
+    "03209": {
+      "dId": "ᤌᤱᤃᤪᤰᤐᤠ",
+      "desc": "/थङ्ग्रकपा/",
+      "group": "BD",
+      "mean": "<p>a kind of creeper whose hair produces dermatitis. <i>Mucuna imbricata.</i></p>काउसो ।"
+    },
+    "03210": {
+      "dId": "ᤌᤱᤒᤠ",
+      "desc": "/थङ्बा/",
+      "group": "BD",
+      "mean": "<p>moss; lichen.</p>झ्याउ ।"
+    },
+    "03211": {
+      "dId": "ᤌᤱᤔᤠ",
+      "desc": "/थङ्मा/",
+      "group": "BD",
+      "mean": "<p>1. to swell; to be or get swollen. 2. to shake up and down in a winnowing disc. 3. to compare. 4. to criticise. 5. to cause to butt or fight with each other/ instigate someone to fight.</p>१. ढाडिनु; सुनिनु; शरिरको कुनै अङ्ग फुल्नु । २. छिन्कनु ।३. दाँज्नु; तुलना गर्नु । ४. समालोचना गर्नु । ५. अरुलाई जुधाउनु; लडाउनु; भिडाउनु; परस्परमा झगडा गराउनु ।"
+    },
+    "03212": {
+      "dId": "ᤌᤱᤕᤧᤴ",
+      "desc": "/थङ्येन्/",
+      "group": "BD",
+      "mean": "<p>four days before today; three days before yesterday.</p>आजको चार दिन अघि; हिजोको तीन दिन अघि "
+    },
+    "03213": {
+      "dId": "ᤌᤱᤖᤡ ",
+      "desc": "/थङ्रि/",
+      "group": "BD",
+      "mean": "<p>nose ring.</p>ढुङ्ग्री ।"
+    },
+    "03214": {
+      "dId": "ᤌᤱᤗᤡᤱᤒᤠ",
+      "desc": "/थङ्लिङ्बा/",
+      "group": "BD",
+      "mean": "<p>1. commander of an army (brigade). 2. lieutenant general.</p>१. सेनापति; गणपति । २. सहायक रथी ।"
+    },
+    "03215": {
+      "dId": "ᤌᤱᤗᤧᤰ",
+      "desc": "/थङ्लेक्/",
+      "group": "BD",
+      "mean": "<p>a kind of grass which grows on trees or stones.</p>रूख वा ढुङ्गामाथि उम्रने एक प्रकारको झार ।"
+    },
+    "03216": {
+      "dId": "ᤌᤱᤘᤠᤏᤠᤶ",
+      "desc": "/थङ्वानाम्/",
+      "group": "BD",
+      "mean": "<p>comparison.</p>तुलना ।"
+    },
+    "03217": {
+      "dId": "ᤌᤱᤘᤠᤔᤠ",
+      "desc": "/थङ्वामा/",
+      "group": "BD",
+      "mean": "<p>ostrich.</p>सुतुरमुर्ग (चरो) ।"
+    },
+    "03218": {
+      "dId": "ᤌᤳᤋᤪ᤺ᤶᤒᤠ/ᤌᤳᤋᤪᤔ᤻ᤒᤠ",
+      "desc": "/थत्त्रःम्बा/",
+      "group": "BD",
+      "mean": "<p>wind pipe;.</p>घोक्रोको भित्री भाग; स्वास नली ।"
+    },
+    "03219": {
+      "dId": "ᤌᤳᤗᤢᤱᤒᤣ᤺ᤰ/ᤌᤳᤗᤢᤱᤒᤣᤁ᤻",
+      "desc": "/थत्लुङ्बेःक्/",
+      "group": "BD",
+      "mean": "<p>adam’s apple (throat).</p>किल्किले (घोक्रो) ।"
+    },
+    "03220": {
+      "dId": "ᤌᤎ᤺ᤵᤐᤠ/ᤌᤎᤐ᤻ᤐᤠ",
+      "desc": "/थधःप्पा/",
+      "group": "BD",
+      "mean": "<p>loud speaker.</p>लाउडस्पिकर; ढ्वाङ् ।"
+    },
+    "03221": {
+      "dId": "ᤌᤏᤠ",
+      "desc": "/थना/",
+      "group": "BD",
+      "mean": "<p>sense; consciousness; awareness.</p>चेत; सुद्धी; चैतन्य; होस ।"
+    },
+    "03222": {
+      "dId": "ᤌᤏᤠ᤹ᤏᤠ᤹ᤒᤠ",
+      "desc": "/थना?ना?बा/",
+      "group": "BD",
+      "mean": "<p>senseless.</p>बेहोसी; अचेत ।"
+    },
+    "03223": {
+      "dId": "ᤌᤏᤠᤗᤧᤱᤒᤠ",
+      "desc": "/थनालेङ्बा/",
+      "group": "BD",
+      "mean": "<p>unaware; unconscious or senseless.</p>बेहोसी; अचेत ।"
+    },
+    "03224": {
+      "dId": "ᤌᤐᤧᤳᤆᤠ",
+      "desc": "/थपेत्चा/",
+      "group": "BD",
+      "mean": "<p>a kind of fruit (guava-like).</p>अम्बा; अम्बक; बेलौती ।"
+    },
+    "03225": {
+      "dId": "ᤌᤵᤔᤠ",
+      "desc": "/थप्मा/",
+      "group": "BD",
+      "mean": "<p>1. to shiver/ tremble (with anger/ cold) . 2. to lose conscious.</p>१. थर्थरी काम्नु (रिसले वा जाडोले) । २. संज्ञाशुन्य हुनु ।"
+    },
+    "03226": {
+      "dId": "ᤌᤒᤠ/ᤌᤒᤠ᤺",
+      "desc": "/थबा/थबाः/",
+      "group": "BD",
+      "mean": "<p>grand-father.</p>बाजे ।"
+    },
+    "03227": {
+      "dId": "ᤌᤒᤠᤳ",
+      "desc": "/थबात्/",
+      "group": "BD",
+      "mean": "<p>worms (weevil, white ang, termite etc).</p>किरा (धमिरा, घुन, माउ आदि) ।"
+    },
+    "03228": {
+      "dId": "ᤌᤒᤣ᤺ᤳ/ᤌᤒᤣᤋ᤻",
+      "desc": "/थबेःत्/",
+      "group": "BD",
+      "mean": "<p>[Tamor] stairs.</p>[तमर] सिंढी ।"
+    },
+    "03229": {
+      "dId": "ᤌᤔᤣ",
+      "desc": "/थमे/",
+      "group": "BD",
+      "mean": "<p>vegetable or pickle of bamboo shoot.</p>मेसो; बाँसको तामाको अचार वा तरकारी (खाद्य पदार्थ ) ।"
+    },
+    "03230": {
+      "dId": "ᤌᤶᤒᤸᤗᤠ",
+      "desc": "/थम्बला/",
+      "group": "BD",
+      "mean": "<p>a kind of weed that beard fruits. <i>Nephrolopis cordifolia.</i></p>पानी अमला ।"
+    },
+    "03231": {
+      "dId": "ᤌᤶᤒᤧᤴᤇᤣ",
+      "desc": "/थम्बेन्छे?/",
+      "group": "BD",
+      "mean": "<p>a particular kind of tree bearing fruits. <i>Cydonia indica.</i></p>मेहेल (दाना) ।"
+    },
+    "03232": {
+      "dId": "ᤌᤶᤔᤠ",
+      "desc": "/थम्मा/",
+      "group": "BD",
+      "mean": "<p>to bear; to have patience; to tolerate; to endure.</p>सहनु/ धैर्य गर्नु; थाम्नु/टिक्नु ।"
+    },
+    "03234": {
+      "dId": "ᤌᤖᤣ᤹",
+      "desc": "/थरे?/",
+      "group": "BD",
+      "mean": "<p>ladder; stairway.</p>लिस्नु; भर्याङ् ।"
+    },
+    "03235": {
+      "dId": "ᤌᤷ",
+      "desc": "/थर्/",
+      "group": "BD",
+      "mean": "<p>surname.</p>थर ।"
+    },
+    "03236": {
+      "dId": "ᤌᤷᤐᤢ",
+      "desc": "/थर्पु/",
+      "group": "BD",
+      "mean": "<p>1. a temporary hut made of split bamboos and twigs. 2. tent; camp.</p>१. थर्पु; अस्थायी छाप्रो; अस्थायी बासका निम्ति बनाइने कच्ची घर । २. पाल; क्याम्प ।"
+    },
+    "03237": {
+      "dId": "ᤌᤷᤗᤏᤠ᤺",
+      "desc": "/थर्लना/",
+      "group": "BD",
+      "mean": "<p>manner of shivering/ shaking/ shuddering forcibly.</p>जोडले कम्प हुने वा थरर हल्लने किसिमले ।"
+    },
+    "03238": {
+      "dId": "ᤌᤗᤠ",
+      "desc": "/थला/",
+      "group": "BD",
+      "mean": "<p>a piece of land.</p>थलो; जमिनको निश्चित क्षेत्र वा खण्ड; जमिनको टुक्रो ।"
+    },
+    "03239": {
+      "dId": "ᤌᤸᤗᤱ",
+      "desc": "/थल्लङ्/",
+      "group": "BD",
+      "mean": "<p>1. sesame seed. Sesamum indicum. 2. rag (cloth); a piece of cloth used as a sheet or wrapper for babies.</p>१. तिल; तिलको दाना । २. थाङ्ना; दुधे बालकलाई ओछ्याउने, ओढाउने र बेर्ने कपडा ।"
+    },
+    "03240": {
+      "dId": "ᤌᤸᤗᤡᤱ",
+      "desc": "/थल्लिङ्/",
+      "group": "BD",
+      "mean": "<p>three years ago from this year.</p>यो साल भन्दा तीन वर्षअघि; परार को अघिल्लो वर्ष ।"
+    },
+    "03241": {
+      "dId": "ᤌᤘᤣ᤺ᤴ/ᤌᤘᤣᤏ᤻",
+      "desc": "/थवेःन्/",
+      "group": "BD",
+      "mean": "<p>[Phedape] ladder; stairway.</p>[फेदापे] लिस्नु; भर्याङ् ।"
+    },
+    "03242": {
+      "dId": "ᤌ᤺ᤰᤛᤠᤣ/ᤌᤁ᤻ᤛᤠᤣ",
+      "desc": "/थःक्सो/",
+      "group": "BD",
+      "mean": "<p>a big basket of split bamboo.</p>ढोक्से; आँख्लो नपारी बुनेको डोको जस्तो पात्र ।"
+    },
+    "03243": {
+      "dId": "ᤌ᤺ᤱᤃᤠ/ᤌᤅ᤻ᤃᤠ",
+      "desc": "/थःङ्गा/",
+      "group": "BD",
+      "mean": "<p>a bamboo basket.</p>टोकरी ।"
+    },
+    "03244": {
+      "dId": "ᤌ᤺ᤳᤌᤠᤒᤠ/ᤌᤋ᤻ᤌᤠᤒᤠ",
+      "desc": "/थःत्थबा/",
+      "group": "BD",
+      "mean": "<p>half-brain; half-mind; unconscious.</p>आधा सुर हराएको; बेसुरको; अचेत बिचेत; चेत हराएको ।"
+    },
+    "03245": {
+      "dId": "ᤌ᤺ᤳᤌᤠᤔᤠ/ᤌᤋ᤻ᤌᤠᤔᤠ",
+      "desc": "/थःत्थमा/",
+      "group": "BD",
+      "mean": "<p>(fem.) half-brain; half-mind; unconscious.</p>(स्त्री) आधा सुर हराएकी; बेसुरकी; अचेत बिचेत; चेत हराएकी ।"
+    },
+    "03246": {
+      "dId": "ᤌ᤺ᤵᤐᤠᤖᤠ/ᤌᤐ᤻ᤐᤠᤖᤠ ᤑᤢᤱ",
+      "desc": "/थःप्पारा फुङ्/",
+      "group": "BD",
+      "mean": "<p>marigold flower.</p>सयपत्री फूल ।"
+    },
+    "03247": {
+      "dId": "ᤌ᤺ᤵᤔᤠ/ᤌᤐ᤻ᤔᤠ",
+      "desc": "/थःप्मा/",
+      "group": "BD",
+      "mean": "<p>1. to tolerate; to endure. 2. to make plates and cups from leaves.</p>१. सहनु; धैर्य गर्नु । २. (पात) गाँस्नु  (टपरी, लपेस, दुनु, बोहोतो आदि) ।"
+    },
+    "03248": {
+      "dId": "ᤌ᤺ᤶᤔᤠ/ᤌᤔ᤻ᤔᤠ",
+      "desc": "/थःम्मा/",
+      "group": "BD",
+      "mean": "<p>1. to become unconscious; to faint; not be able t feel anything by touch. 2. to darn; to mend; to repair.</p>१. मासु मर्नु (निदाउनु); संज्ञाहिन हुनु; मुर्छा पर्नु; झम्झमाउनु र २. तुन्नु; तुनतान गरेर सिउनु; टाल्नु; (लुगा) मर्मत गर्नु । "
+    },
+    "03249": {
+      "dId": "ᤌᤠᤀᤡᤱ",
+      "desc": "/थाइङ्/",
+      "group": "BD",
+      "mean": "<p>awareness; consciousness.</p>चेतना; बोध; पत्तो; थाहा; जानकारी ।"
+    },
+    "03250": {
+      "dId": "ᤌᤠ᤹ᤀᤣᤛᤠ/ᤛᤠ᤺",
+      "desc": "/था?एसा/साः/",
+      "group": "BD",
+      "mean": "<p>step-daughter.</p>झड्केली छोरी ।"
+    },
+    "03251": {
+      "dId": "ᤌᤠ᤹ᤀᤣᤐᤠ/ᤐᤠ᤺",
+      "desc": "/था?एपा/पाः/",
+      "group": "BD",
+      "mean": "<p>step-fahter.</p>झड्केलो बाबु ।"
+    },
+    "03252": {
+      "dId": "ᤌᤠ᤹ᤑᤢ᤹",
+      "desc": "/था?फु?/",
+      "group": "BD",
+      "mean": "<p>elder step-brother.</p>झड्केलो दाजु ।"
+    },
+    "03253": {
+      "dId": "ᤌᤠ᤹ᤒᤠ",
+      "desc": "/था?बा/",
+      "group": "BD",
+      "mean": "<p>weevil; maize or corn eating worms/ insects.</p>घुन; चिल्सा; पुतली; अन्न आदि खाने किरो ।"
+    },
+    "03254": {
+      "dId": "ᤌᤠ᤹ᤔᤠ/ᤔᤠ᤺",
+      "desc": "/था?मा/माः/",
+      "group": "BD",
+      "mean": "<p>step-mother.</p>झड्केली आमा ।"
+    },
+    "03255": {
+      "dId": "ᤌᤠ᤹ᤔᤠ",
+      "desc": "/था?मा/",
+      "group": "BD",
+      "mean": "<p>to leave the share of sb; to leave sth for sb on one’s way.</p>भाग राखिदिनु; छोडिराख्नु; कसैका लागि केहिकुरा छोडिदिनु, छोडेर जानु वा राखिदिनु ।"
+    },
+    "03256": {
+      "dId": "ᤌᤠ᤹ᤗᤠ",
+      "desc": "/था?ला/",
+      "group": "BD",
+      "mean": "<p>paragraph.</p>अनुच्छेद ।"
+    },
+    "03257": {
+      "dId": "ᤌᤠ᤹ᤛᤠ/ᤛᤠ᤺",
+      "desc": "/था?सा/साः/",
+      "group": "BD",
+      "mean": "<p>step-son/ daughter/ child/ children.</p>झड्केलो छोरो वा छोरी; झड्केलो सन्तान ।"
+    },
+    "03258": {
+      "dId": "ᤌᤠ",
+      "desc": "/था/",
+      "group": "BD",
+      "mean": "<p>1. subject (contents). 2. lesson.</p>१. विषय (वस्तु) । २. पाठ ।"
+    },
+    "03259": {
+      "dId": "ᤌᤠᤰ",
+      "desc": "/थाक्/",
+      "group": "BD",
+      "mean": "<p>1. loom. 2. heap.</p>१. तान । २. थाक; थुप्रो; रास ।"
+    },
+    "03260": {
+      "dId": "ᤌᤠᤰᤁᤡᤛᤡᤱ",
+      "desc": "/थाक्किसिङ्/",
+      "group": "BD",
+      "mean": "<p>a post; a part of the loom where the long rope of the loom id fastened.</p>तानमा तयार हुदै गरेको कपडा बेर्न र भादुरी बाँध्नका लागी गाडिने किलो ।"
+    },
+    "03261": {
+      "dId": "ᤌᤠᤰᤁᤡᤛᤣ",
+      "desc": "/थाक्किसे/",
+      "group": "BD",
+      "mean": "<p>long and sharp edged split bamboo comb which is used for leaving the loom.</p>तानको धागो सम्याउन वा मिलाउन प्रयोग गरीने थाँक्रो ।"
+    },
+    "03262": {
+      "dId": "ᤌᤠᤰᤁᤢᤖᤡ ",
+      "desc": "/थक्कुरि/",
+      "group": "BD",
+      "mean": "<p>yoke of the loom; a part of the loom.</p>तानको जुवा; धागो थिच्ने, तानको एक अङ्ग ।"
+    }
+  }
+}

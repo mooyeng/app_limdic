@@ -1,0 +1,238 @@
+{
+  "Dic": {
+    "03042": {
+      "dId": "ᤋᤣ᤹ᤔᤠ",
+      "desc": "/ते?मा/",
+      "group": "BB",
+      "mean": "<p>to prick or stick in one’s throat (such as fish bone); to choke (meat).</p>अड्कनु/ घोँच्नु (जस्तै:- खाँदा माछाको काँडाले घाँटीमा घोँच्नु; खाँदा मासुले  अड्कनु) ।"
+    },
+    "03043": {
+      "dId": "ᤋᤣ᤺ᤱ/ᤋᤣᤅ᤻",
+      "desc": "/तेःङ्/",
+      "group": "BB",
+      "mean": "<p>friend; mate; partner.</p>साथी; मित्र ।"
+    },
+    "03044": {
+      "dId": "ᤋᤣ᤺ᤳ/ᤋᤣᤋ᤻",
+      "desc": "/तेःत्/",
+      "group": "BB",
+      "mean": "<p>dress; clothes; garments.</p>लुगा; वस्त्र ।"
+    },
+    "03045": {
+      "dId": "ᤋᤣ᤺ᤔᤠ",
+      "desc": "/तेःमा/",
+      "group": "BB",
+      "mean": "<p>1. can/ to be able to do sth (win, do , take, defeat, etc). 2. to finish sth (spend money). 3. to sow (seeds). 4. an aux verb denoting complete execution of action (eg: ca:de:su = he has already eaten).</p>१. केहि गर्न सक्नु (जित्नु, गर्नु, लानु, हराउनु, आदि) । २. सक्नु; सिद्ध्याउनु (पैसा खर्च गर्नु) । ३. बीउ रोप्नु वा छर्नु; बीजबीजन छर्नु । ४. कुनै कार्य पूर्ण भएको जनाउन अर्को कृयाको पछि आउने सहायक क्रिया (जस्तै:- चःदेःसु= खाइसक्यो) ।"
+    },
+    "03046": {
+      "dId": "ᤋᤣ᤺ᤘᤠ",
+      "desc": "/तेःवा/",
+      "group": "BB",
+      "mean": "<p>[Phedape] 1. forehead. 2. fortune; luck.</p>[फेदापे] १. निधार । २. भाग्य; तकदिर ।"
+    },
+    "03047": {
+      "dId": "ᤋᤣ᤺ᤛᤡ ",
+      "desc": "/तेःसि/",
+      "group": "BB",
+      "mean": "<p>a term denoting a soldier meanaged in a foreign army.</p>विदेशी सेनामा भर्ती हुने स्वदेशी जवानलाई बुझाउने शब्द ।"
+    },
+    "03048": {
+      "dId": "ᤋᤠᤣ᤹ᤍᤠᤧᤣ᤺ᤶᤔᤠ/ᤋᤠᤣ᤹ᤍᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/तो?दोःम्मा/",
+      "group": "BB",
+      "mean": "<p>1. to be straight. 2. to be simple and straight (of a person).</p>१. सोझो हुनु । २. सोझो/ छलकपटविहिन हुनु ।"
+    },
+    "03049": {
+      "dId": "ᤋᤠᤣ᤹ᤔᤠ",
+      "desc": "/तो?मा/",
+      "group": "BB",
+      "mean": "<p>to tread/ step on.</p>टेक्नु; कुल्चनु ।"
+    },
+    "03050": {
+      "dId": "ᤋᤠᤣ᤹ᤘᤠ",
+      "desc": "/तो?वा/",
+      "group": "BB",
+      "mean": "<p>1. forehead. 2. fortune; luck.</p>१. निधार; ललाट । २. भाग्य ।"
+    },
+    "03051": {
+      "dId": "ᤋᤠᤣᤆᤠᤣ",
+      "desc": "/तोचो/",
+      "group": "BB",
+      "mean": "<p>time (specific time).</p>बखत; बेला; विशेष समय; ऐनमौका ।"
+    },
+    "03052": {
+      "dId": "ᤋᤠᤣᤈᤡᤰ",
+      "desc": "/तोजिक्/",
+      "group": "BB",
+      "mean": "<p>debate.</p>तर्क ।"
+    },
+    "03053": {
+      "dId": "ᤋᤠᤣᤍᤡᤕᤱ",
+      "desc": "/तोदियङ्/",
+      "group": "BB",
+      "mean": "<p>central part of the earth.</p>भूग;र्भ पृथ्वी भित्रको केन्द्रस्थल ।"
+    },
+    "03054": {
+      "dId": "ᤋᤠᤣᤍᤠᤣ",
+      "desc": "/तोदो/",
+      "group": "BB",
+      "mean": "<p>wild buffalo.</p>अर्ना ।"
+    },
+    "03055": {
+      "dId": "ᤋᤠᤣᤍᤠᤣ᤺ᤶᤒᤠ/ᤋᤠᤣᤍᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/तोदोःम्बा/",
+      "group": "BB",
+      "mean": "<p>1. right below; beneath. 2. right side up; right.</p>१. सीधा वा ठीक मुनिको; सोझै मुनिको । २. सोझो; सुल्टो; सब्ल्याँटो ।"
+    },
+    "03056": {
+      "dId": "ᤋᤠᤣᤒᤠᤕᤧᤴ",
+      "desc": "/तोबायेन्/",
+      "group": "BB",
+      "mean": "<p>holiday.</p>बिदा; छुट्टी ।"
+    },
+    "03057": {
+      "dId": "ᤋᤠᤣᤔᤠᤱ",
+      "desc": "/तोमाङ्/",
+      "group": "BB",
+      "mean": "<p>Lord Buddha.</p>बुद्ध; भगवान बुद्ध ।"
+    },
+    "03058": {
+      "dId": "ᤋᤠᤣᤕᤠᤶ",
+      "desc": "/तोयाम्/",
+      "group": "BB",
+      "mean": "<p>tenure; duration; limit of time or term; period.</p>म्याद; अवधि ।"
+    },
+    "03059": {
+      "dId": "ᤋᤠᤣᤖᤡᤔᤠᤖᤡ ",
+      "desc": "/तोरिमारि/",
+      "group": "BB",
+      "mean": "<p>in a hurry; in a hot haste.</p>हतार पतार ।"
+    },
+    "03060": {
+      "dId": "ᤋᤠᤣᤗᤡᤱᤛᤠᤣᤔᤢ",
+      "desc": "/तोलिङ्सोमु/",
+      "group": "BB",
+      "mean": "<p>period (time) of creation.</p>सृष्टिकाल ।"
+    },
+    "03061": {
+      "dId": "ᤋᤠᤣᤛᤡᤱ",
+      "desc": "/तोसिङ्/",
+      "group": "BB",
+      "mean": "<p>a crore; ten million; the number and the figure 10,000,000.</p>करोड; करोडको संख्या; १,००,००,००० को अंक ।"
+    },
+    "03062": {
+      "dId": "ᤋᤠᤣᤛᤠᤣ᤺ᤒᤠ",
+      "desc": "/तोसोःबा/",
+      "group": "BB",
+      "mean": "<p>front guard.</p>अङ्गरक्षक; अघिल्तिर बाट सुरक्षा गर्ने रक्षक सिपाही ।"
+    },
+    "03063": {
+      "dId": "ᤋᤠᤣ᤺ᤰ/ᤋᤠᤣᤁ᤻",
+      "desc": "/तोःक्/",
+      "group": "BB",
+      "mean": "<p>decision; sanction.</p>तोक; आदेश ।"
+    },
+    "03064": {
+      "dId": "ᤋᤠᤣ᤺ᤰᤔᤠ/ᤋᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/तोःक्मा/",
+      "group": "BB",
+      "mean": "<p>1. pearl; jewels. 2. to be or get knocked; to stumble; to collide. 3. to be sold out. 4. to win; conquer; to defeat.</p>१. मोती; जवाहरत; रत्न । २. ठोक्किनु; ठक्कर खानु । ३. बिक्नु । ४. जित्नु; विजय हासिल गर्नु; हराउनु ।"
+    },
+    "03065": {
+      "dId": "ᤋᤠᤣ᤺ᤰᤗᤠ/ᤋᤠᤣᤁ᤻ᤗᤠ",
+      "desc": "/तोःक्ला/",
+      "group": "BB",
+      "mean": "<p>echo.</p>प्रतिध्वनि; गुञ्जन; ठोकिएर फर्केको आवाज ।"
+    },
+    "03066": {
+      "dId": "ᤋᤠᤣ᤺ᤰᤛᤡᤱ/ᤋᤠᤣᤁ᤻ᤛᤡᤱ",
+      "desc": "/तोःक्सिङ्/",
+      "group": "BB",
+      "mean": "<p>1. evil planet. 2. a kind of cudaph almond tree. Bridelia retusa sprmean.</p>१. खराब ग्रह; दशाको ग्रह; ग्रहदशा । २. गायो रूख ।"
+    },
+    "03067": {
+      "dId": "ᤋᤠᤣ᤺ᤰᤛᤣ᤺ᤰ/ᤋᤠᤣᤁ᤻ᤛᤣᤁ᤻",
+      "desc": "/तोःक्सेःक्/",
+      "group": "BB",
+      "mean": "<p>pearl.</p>मोती ।"
+    },
+    "03068": {
+      "dId": "ᤋᤠᤣ᤺ᤱ/ᤋᤠᤣᤅ᤻",
+      "desc": "/तोःङ्/",
+      "group": "BB",
+      "mean": "<p>arrow.</p>बाण; काँड ।"
+    },
+    "03069": {
+      "dId": "ᤋᤠᤣ᤺ᤱᤃᤪᤠᤣ/ᤋᤠᤣᤅ᤻ᤃᤪᤠᤣ",
+      "desc": "/तोःङ्ग्रो/",
+      "group": "BB",
+      "mean": "<p>wick.</p>सलेदो; लालटिन, लम्फा आदिको फित्ता (सुत्लो) ।"
+    },
+    "03070": {
+      "dId": "ᤋᤠᤣ᤺ᤳᤋᤡ/ᤋᤠᤠᤣᤋ᤻ᤋᤡ ",
+      "desc": "/तोःत्ति/",
+      "group": "BB",
+      "mean": "<p>witness; an eye witness; evidence.</p>साक्षी ।"
+    },
+    "03071": {
+      "dId": "ᤋᤠᤣ᤺ᤳᤋᤠᤣᤗᤡ/ᤋᤠᤣᤋ᤻ᤋᤠᤣᤗᤡ ᤋᤠᤣᤀᤡᤱᤒᤠᤣ ᤜᤠᤱ",
+      "desc": "/तोःत्तोलि तोइङ्बो हाङ्/",
+      "group": "BB",
+      "mean": "<p>the tenth legendary leader/ king of Limbu nation (tribe).</p>लिम्बू इतिहास अनुसार प्रथम दश राजा मध्ये दशौं राजा ।"
+    },
+    "03072": {
+      "dId": "ᤋᤠᤣ᤺ᤴᤇᤠᤵ/ᤋᤠᤣᤏ᤻ᤇᤠᤵ",
+      "desc": "/तोःन्छाप्/",
+      "group": "BB",
+      "mean": "<p>notes; reference.</p>द्रष्टब्य; सन्दर्भ ।"
+    },
+    "03073": {
+      "dId": "ᤋᤠᤣ᤺ᤴᤇᤡᤱᤔᤠ/ᤋᤠᤣᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/तोःन्छिङ्मा/",
+      "group": "BB",
+      "mean": "<p>1. to appear (before ab); to present/offer oneself. 2. to straighten oneself.</p>१. देखा पर्नु; सामुन्ने पर्नु; अगाडि सर्नु । २. सीधा हुनु; सोझो हुनु; तन्कनु ।"
+    },
+    "03074": {
+      "dId": "ᤋᤠᤣ᤺ᤴᤈᤠᤣ/ᤋᤠᤣᤏ᤻ᤈᤠᤣ",
+      "desc": "/तोःन्जो/",
+      "group": "BB",
+      "mean": "<p>correction; improvement; revision; reformation; amendment.</p>संसोधन; परिस्कार; सुधार ।"
+    },
+    "03075": {
+      "dId": "ᤋᤠᤣ᤺ᤴᤍᤠᤣ᤺ᤴ/ᤋᤠᤣᤏ᤻ᤍᤠᤣᤏ᤻",
+      "desc": "/तोःन्दोःन्/",
+      "group": "BB",
+      "mean": "<p>straight.</p>सोझो; सीधा; सरल ।"
+    },
+    "03076": {
+      "dId": "ᤋᤠᤣ᤺ᤵᤐᤪᤡ/ᤋᤠᤣᤐ᤻ᤐᤪᤡ ",
+      "desc": "/तोःप्प्रि/",
+      "group": "BB",
+      "mean": "<p>cap.</p>टोपी ।"
+    },
+    "03077": {
+      "dId": "ᤋᤠᤣ᤺ᤔᤠ",
+      "desc": "/तोःमा/",
+      "group": "BB",
+      "mean": "<p>1. to flicker (as a dart of flame together with a popping sound). 2. to entertain a guest. 3. to feel sorry (for doing sth); to repent.</p>१. आगोबाट झिल्का निस्कनु । २.  सत्कार गर्नु । ३. पश्चाताप गर्नु । "
+    },
+    "03078": {
+      "dId": "ᤋᤠᤣ᤺ᤔᤡ ",
+      "desc": "/तोःमि/",
+      "group": "BB",
+      "mean": "<p>one of the constellations.</p>पुष्य नक्षत्र; तिष्य नक्षत्र ।"
+    },
+    "03079": {
+      "dId": "ᤋᤠᤣ᤺ᤔᤧᤵᤔᤠ",
+      "desc": "/तोःमेप्मा/",
+      "group": "BB",
+      "mean": "<p>to look for an excuse for fighting; to pik a quarrel.</p>निहुँ खोज्नु ।"
+    },
+    "03080": {
+      "dId": "ᤋᤠᤣ᤺ᤶᤔᤠ/ᤋᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/तोःम्मा/",
+      "group": "BB",
+      "mean": "<p>1. to offer/ present/ bestow/ dedicate respectfully. 2. to straighten sth (curved or crooked). 3. to redirect water channel (in a paddy field). 4. to improve/ correct/ reform.</p>१. आदरपुर्वक दिनु; अर्पण गर्नु; टक्र्याउनु । २. सोझो पार्नु । ३. सोझ्याउनु (पानी, कुलो आदि) । ४. सुधार्नु; सच्याउनु ।"
+    }
+  }
+}

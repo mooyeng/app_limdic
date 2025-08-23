@@ -1,0 +1,394 @@
+{
+  "Dic": {
+    "02448": {
+      "dId": "ᤆᤣ",
+      "desc": "/चे/",
+      "group": "AW",
+      "mean": "<p>dead body; corpse.</p>लाश; शव; मुर्दा ।"
+    },
+    "02449": {
+      "dId": "ᤆᤣᤈᤠ(ᤒᤠ)",
+      "desc": "/चेजा(बा)/",
+      "group": "AW",
+      "mean": "<p>unchecked; unrestrained; unrestricted; autocratic; dictatorial.</p>निरङ्कुश ।"
+    },
+    "02450": {
+      "dId": "ᤆᤣᤐᤢ",
+      "desc": "/चेपु/",
+      "group": "AW",
+      "mean": "<p>a kind of bird.</p>मलामी चरो ।"
+    },
+    "02451": {
+      "dId": "ᤆᤣᤛᤠᤒᤠ",
+      "desc": "/चेसाबा/",
+      "group": "AW",
+      "mean": "<p>mourner; cortege.</p>मलामी ।"
+    },
+    "02452": {
+      "dId": "ᤆᤣ᤺ᤰ/ᤆᤣᤁ᤻",
+      "desc": "/चेःक्/",
+      "group": "AW",
+      "mean": "<p>1. pieces. 2. splintered bamboo or wood.</p>१. टुक्राटुक्री । २. सिन्का ।"
+    },
+    "02453": {
+      "dId": "ᤆᤠᤣ᤹ᤆᤠᤣ᤹",
+      "desc": "/चो?चो?/",
+      "group": "AW",
+      "mean": "<p>(adv.) in an erect manner; upright. (n.) a particular word spoken while a small child is being taught to walk; i.e. to put each foot forward in turn.</p>(क्रिवि.) ठिङ्ग; टक्रक्क; ठाडो उभिने वा ठडिने किसिम । (ना.) ताती ।"
+    },
+    "02454": {
+      "dId": "ᤆᤠᤣ᤹ᤇᤠᤣ᤹",
+      "desc": "/चो?छो?/",
+      "group": "AW",
+      "mean": "<p>practice of sprinkling a bit of cooked rice or drink before eating or drinking in order to appease any malicious spirits.</p>अफ्सानी; खानुअघि कुनै पनि खाने वा पिउने पदार्थ मन्साउने काम ।"
+    },
+    "02455": {
+      "dId": "ᤆᤠᤣ᤹ᤔᤠ",
+      "desc": "/चो?मा/",
+      "group": "AW",
+      "mean": "<p>to cause someone ot do sth; to flatter; to incite; to stir up; to encourage.</p>फुर्क्याउनु; सर्काउनु; सुर्याउनु ।"
+    },
+    "02456": {
+      "dId": "ᤆᤠᤣ᤹ᤔᤣᤴ",
+      "desc": "/चो?मेन्/",
+      "group": "AW",
+      "mean": "<p>1. a traditional Limbu worship preformed for the welfare or safety of the pregnant woman and the conceived child. 2. worship and prayer (for peace and to make sb’s head held high).</p>१. लिम्बूपरम्परामा गर्भवती तथा भर्भको रक्षाको लागि गरिने पूजाविशेष । २. पूजा-आजा; पूजापाठ (शिर उठाउनु तथा शान्ति-स्वस्तिको लागी ) ।"
+    },
+    "02457": {
+      "dId": "ᤆᤠᤣ᤹ᤔᤧᤵᤔᤠ",
+      "desc": "/चो?मेप्मा/",
+      "group": "AW",
+      "mean": "<p>to worship for the safety of the pregnant mother and child.</p>गर्भवती तथा गर्भको रक्षार्थ पूजा गर्नु ।"
+    },
+    "02458": {
+      "dId": "ᤆᤠᤣ᤹ᤗᤠᤒᤠ",
+      "desc": "/चो?लाबा/",
+      "group": "AW",
+      "mean": "<p>praiseworthy; admirable.</p>प्रशंसनीय ।"
+    },
+    "02459": {
+      "dId": "ᤆᤠᤣ᤹ᤛᤰ",
+      "desc": "/चो?सक्/",
+      "group": "AW",
+      "mean": "<p>recomendation letter.</p>सिफारिस-पत्र ।"
+    },
+    "02460": {
+      "dId": "ᤆᤠᤣᤃᤣ᤺ᤰᤐᤠ/ᤆᤠᤣᤃᤣᤁ᤻ᤐᤠ",
+      "desc": "/चोगेःक्पा/",
+      "group": "AW",
+      "mean": "<p>doll; pawn; puppet; marionette.</p>(कठ) पुतली ।"
+    },
+    "02461": {
+      "dId": "ᤆᤠᤣ-ᤑᤡ ",
+      "desc": "/चो-फि/",
+      "group": "AW",
+      "mean": "<p>pointed; sharp; sharp-edged.</p>चुच्चो; चुच्चो परेको; चोसो; तिखो ।"
+    },
+    "02462": {
+      "dId": "ᤆᤠᤣ-ᤑᤢᤱ",
+      "desc": "/चो-फुङ्/",
+      "group": "AW",
+      "mean": "<p>jasmine flower.</p>चमेली (फूल) ।"
+    },
+    "02463": {
+      "dId": "ᤆᤠᤣᤒᤣᤃᤢ",
+      "desc": "/चोबेगु/",
+      "group": "AW",
+      "mean": "<p>1. craftsman; artisan. 2. artist.</p>१. शिल्पकार; शिल्पी । २. कलाकार ।"
+    },
+    "02464": {
+      "dId": "ᤆᤠᤣᤒᤣᤴ",
+      "desc": "/चोबेन्/",
+      "group": "AW",
+      "mean": "<p>1. craftsmanship. 2. technology.</p>१. कौशल; शीप । २. प्रविधि ।"
+    },
+    "02465": {
+      "dId": "ᤆᤠᤣᤓᤠ᤹",
+      "desc": "/चोभा?/",
+      "group": "AW",
+      "mean": "<p>1. alms. 2. charity; donation.</p>१. भिक्षा; भीख । २. दान; अनुदान ।"
+    },
+    "02466": {
+      "dId": "ᤆᤠᤣᤔᤡᤰ",
+      "desc": "/चोमिक्/",
+      "group": "AW",
+      "mean": "<p>view; attitude; outlook.</p>दृष्टिकोण; धारणा; भाव ।"
+    },
+    "02467": {
+      "dId": "ᤆᤠᤣᤔᤣᤴ-ᤔᤡ᤺ᤰᤂᤢ᤹/ᤔᤠᤁ᤻ᤂᤢ᤹",
+      "desc": "/चोमेन्-मिःक्खु?",
+      "group": "AW",
+      "mean": "<p>1. incense; offering (of burning) of incense. 2. worship; prayer.</p>१. धूप-धुँवार; धूप बाल्ने काम । २. पूजा-पाठ ।"
+    },
+    "02468": {
+      "dId": "ᤆᤠᤣᤶᤄ᤺ᤔᤠ",
+      "desc": "/चोम्घःमा/",
+      "group": "AW",
+      "mean": "<p>[Tamor] gizzard; the second stomach (of bird or fishes).</p>[तमर] चराचुरूङ्गी र कुनैकुनै प्रकारका माछा आदिमा हुने दोस्रो पेट; दोस्रो पाकस्थली ।"
+    },
+    "02469": {
+      "dId": "ᤆᤠᤣᤗᤡᤰᤏᤠ",
+      "desc": "/चोलिक्ना/",
+      "group": "AW",
+      "mean": "<p>a kind of bird.</p>कामी चरो; कर्मी चरो ।"
+    },
+    "02470": {
+      "dId": "ᤆᤠᤣᤘᤠ",
+      "desc": "/चोवा/",
+      "group": "AW",
+      "mean": "<p>art.</p>कला ।"
+    },
+    "02471": {
+      "dId": "ᤆᤠᤣᤘᤠᤛᤠᤶᤒᤠ",
+      "desc": "/चोवासाम्बा/",
+      "group": "AW",
+      "mean": "<p>artist.</p>कलकार ।"
+    },
+    "02472": {
+      "dId": "ᤆᤠᤣᤘᤠᤛᤠᤶ",
+      "desc": "/चोवासाम्/",
+      "group": "AW",
+      "mean": "<p>talent.</p>प्रतिभा ।"
+    },
+    "02473": {
+      "dId": "ᤆᤠᤣᤘᤠᤛᤠᤶᤒᤠ",
+      "desc": "/चोवासाम्बा/",
+      "group": "AW",
+      "mean": "<p>talented; genius.</p>प्रतिभाशाली ।"
+    },
+    "02474": {
+      "dId": "ᤆᤠᤣᤛᤠᤵ",
+      "desc": "/चोसाप्/",
+      "group": "AW",
+      "mean": "<p>the line of fate; providence; destiny.</p>भाग्यरेखा; लेखन्त (भावी) ।"
+    },
+    "02475": {
+      "dId": "ᤆᤠᤣᤛᤠᤵᤐᤡ ᤔᤠᤱ",
+      "desc": "/चोसाप्पि माङ्/",
+      "group": "AW",
+      "mean": "<p>Providence; Destiny.</p>विधाता ।"
+    },
+    "02476": {
+      "dId": "ᤆᤠᤣᤛᤠᤵᤗᤢᤱᤔᤠ",
+      "desc": "/चोसाप्लुङ्मा/",
+      "group": "AW",
+      "mean": "<p>Goddess of fate/ destiny; providence.</p>भाग्यविधात्री; भाग्यकी देवी; तकदीर ।"
+    },
+    "02477": {
+      "dId": "ᤆᤠᤣᤜᤡ᤺ᤵ/ᤆᤠᤣᤜᤡᤐ᤻",
+      "desc": "/चोहिःप्/",
+      "group": "AW",
+      "mean": "<p>badminton.</p>ब्याडमिन्टन खेल ।"
+    },
+    "02478": {
+      "dId": "ᤆᤠᤣᤜᤠᤣ",
+      "desc": "/चोहो/",
+      "group": "AW",
+      "mean": "<p>reserve; surplus.</p>जगेडा; जोहो ।"
+    },
+    "02479": {
+      "dId": "ᤆᤠᤣ᤺",
+      "desc": "/चोः/",
+      "group": "AW",
+      "mean": "<p>1. feather. 2. skill; art. 3. digit (finger or toe).</p>१. प्वाँख । २. सीप कला । ३. औंला (हात वा खुट्टाको) ।"
+    },
+    "02480": {
+      "dId": "ᤆᤠᤣᤃᤣᤛᤠᤶᤒᤠ",
+      "desc": "/चोगेसाम्बा/",
+      "group": "AW",
+      "mean": "<p>man of skill; artist.</p>सिल्पकार; कलाकार ।"
+    },
+    "02481": {
+      "dId": "ᤆᤠᤣ᤺ᤰ/ᤆᤠᤣᤁ᤻",
+      "desc": "/चोःक्/",
+      "group": "AW",
+      "mean": "<p>ranch; cow-shed; byre.</p>गोठ ।"
+    },
+    "02482": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤁᤡᤕᤠ/ᤆᤠᤣᤁ᤻ᤁᤡᤕᤠ",
+      "desc": "/चोःक्किया/",
+      "group": "AW",
+      "mean": "<p>labour.</p>श्रम; परिश्रम ।"
+    },
+    "02483": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤁᤡᤕᤠᤒᤠ/ᤆᤠᤣᤁ᤻ᤁᤡᤕᤠᤒᤠ",
+      "desc": "/चोःक्कियाबा/",
+      "group": "AW",
+      "mean": "<p>laborious; industrious; painstaking.</p>परिश्रमी ।"
+    },
+    "02484": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤂᤠᤣᤒᤠ/ᤆᤠᤣᤁ᤻ᤂᤠᤣᤒᤠ",
+      "desc": "/चोःक्खोबा/",
+      "group": "AW",
+      "mean": "<p>a deity (called Cokkhoba in the Limbu belief) that cures one of delirious diseases.</p>देवताविशेष, जसको पूजा गर्दा धतुराउने, बरबराउने आदि बिमारी जाति हुन्छ ।"
+    },
+    "02485": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤆᤠᤣ᤺ᤰ/ᤆᤠᤣᤁ᤻ᤆᤠᤣᤁ᤻",
+      "desc": "/चोःक्चोःक्/",
+      "group": "AW",
+      "mean": "<p>as far as possible; to one’s best.</p>जहाँसम्म हुन सक्छ; सम्भव भएसम्म; गर्दा हुने सम्म ।"
+    },
+    "02486": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤌᤡᤶ/ᤆᤠᤣᤁ᤻ᤌᤡᤶ",
+      "desc": "/चोःक्थिम्/",
+      "group": "AW",
+      "mean": "<p>method; system.</p>प्रणाली; पद्धति ।"
+    },
+    "02487": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤏᤡᤜᤢᤶ/ᤆᤠᤣᤁ᤻ᤏᤡᤜᤢᤶ",
+      "desc": "/चोःक्निहुम्/",
+      "group": "AW",
+      "mean": "<p>commitment.</p>प्रतिवद्धता ।"
+    },
+    "02488": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤏᤡᤜᤢᤶᤒᤠ/ᤆᤠᤣᤁ᤻ᤏᤡᤜᤢᤶᤒᤠ",
+      "desc": "/चोःक्निहुम्बा/",
+      "group": "AW",
+      "mean": "<p>committed.</p>प्रतिवद्ध ।"
+    },
+    "02489": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤐᤣ/ᤆᤠᤣᤁ᤻ᤐᤣ",
+      "desc": "/चोःक्पे/",
+      "group": "AW",
+      "mean": "<p>work plan; programme; calender of work.</p>कार्ययोजना ।"
+    },
+    "02490": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤐᤣᤴ/ᤆᤠᤣᤁ᤻ᤐᤣᤴ",
+      "desc": "/चोःक्पेन्/",
+      "group": "AW",
+      "mean": "<p>duty; obligation.</p>कर्तव्य ।"
+    },
+    "02491": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤑᤠ/ᤆᤠᤣᤁ᤻ᤑᤠ",
+      "desc": "/चोःक्फा/",
+      "group": "AW",
+      "mean": "<p>a variety of bamboo from which cane-like splits are made. Arundinaria falcata.</p>चोया बाँस; चोया बनाउने बाँस ।"
+    },
+    "02492": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤑᤢᤱ/ᤆᤠᤣᤁ᤻ᤑᤢᤱ",
+      "desc": "/चोःक्फुङ्/",
+      "group": "AW",
+      "mean": "<p>1. garland. 2. Limbu custom of adopting outsiders or people of other tribe in to their clan. 3. imitation; artificiality. 4. initiation; consecration.</p>१. माला । २. अन्य जातिलाई वंज्ञ/ गोत्रभित्र मिलाउने लिम्बूजातिको दस्तुर । ३. बनावटीपन; नक्कलीपन; कृतिमता । ४. मन्त्रदान; सूत्रपात; दिक्षा । "
+    },
+    "02493": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤑᤢᤱᤃᤣ/ᤆᤠᤣᤁ᤻ᤑᤢᤱᤃᤣ",
+      "desc": "/चोःक्फुङ्गे/",
+      "group": "AW",
+      "mean": "<p>1. an outsider who is adopted to a Limbu clan/ family by performing a co:kphung ceremony. 2. made-up; artificial.</p>१. चोःक्फुङ् विधिअनुसार नयाँ थर-घर (कुलगोत्र) प्रदान गरिएको (मान्छे) । २. बनावटी; नक्कली; कृत्रिम ।"
+    },
+    "02494": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤔᤠ/ᤆᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/चोःक्मा/",
+      "group": "AW",
+      "mean": "<p>1. to do/ act; to behave/ treat. 2. to make/ build/ construct. 3. to earn (money). 4. attributive ‘to be’; to resemble sb/sth; to copy or imitate; to act like; to be like.</p>१. गर्नु; व्यवहार गर्नु । २. बनाउनु; निर्माण गर्नु । ३. कमाउनु; आर्जन गर्नु । ४. कसैसंग अनुहार मिल्नु; केहि वा कोहि जस्तो हुनु वा गर्नु; अनुकरण गर्नु ।"
+    },
+    "02495": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤕᤢᤶ/ᤆᤠᤣᤁ᤻ᤕᤢᤶ",
+      "desc": "/चोःक्युम्/",
+      "group": "AW",
+      "mean": "<p>freedom; independence.</p>स्वतन्त्रता; स्वाधीनता ।"
+    },
+    "02496": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤕᤢᤶᤒᤠ/ᤆᤠᤣᤁ᤻ᤕᤢᤶᤒᤠ",
+      "desc": "/चोःक्युम्बा/",
+      "group": "AW",
+      "mean": "<p>free; independent; liberated.</p>स्वतन्त्र; स्वाधीन; मुक्त ।"
+    },
+    "02497": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤕᤢᤶᤓᤠᤣ/ᤆᤠᤣᤁ᤻ᤕᤢᤶᤓᤠᤣ",
+      "desc": "/चोःक्युम्भो/",
+      "group": "AW",
+      "mean": "<p>emancipation; liberty.</p>मुक्ति; स्वतन्त्रता ।"
+    },
+    "02498": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤗᤠᤒᤠ/ᤆᤠᤣᤁ᤻ᤗᤠᤒᤠ",
+      "desc": "/चोःक्लाबा/",
+      "group": "AW",
+      "mean": "<p>worker.</p>कार्यकर्ता ।"
+    },
+    "02499": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤗᤧ/ᤆᤠᤣᤁ᤻ᤗᤧ",
+      "desc": "/चोःक्ले/",
+      "group": "AW",
+      "mean": "<p>capacity; capability; power.</p>हैसियत; सामार्थ्य; शक्ति ।"
+    },
+    "02500": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤛᤠᤱ/ᤆᤠᤣᤁ᤻ᤛᤠᤱ",
+      "desc": "/चोःक्साङ्/",
+      "group": "AW",
+      "mean": "<p>decoration; adornment; ornamentation.</p>सजावट ।"
+    },
+    "02501": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤛᤠᤶ/ᤆᤠᤣᤁ᤻ᤛᤠᤶ",
+      "desc": "/चोःक्साम्/",
+      "group": "AW",
+      "mean": "<p>activeness; assiduity; diligence.</p>सकृयता; कृयाशीलता ।"
+    },
+    "02502": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤛᤠᤶᤒᤠ/ᤆᤠᤣᤁ᤻ᤛᤠᤶᤒᤠ",
+      "desc": "/चोःक्साम्बा/",
+      "group": "AW",
+      "mean": "<p>active; persistent; industrious; diligent.</p>सकृय; कृयाशील; कडा मिहिनेती; काममा लागीरहने ।"
+    },
+    "02503": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤛᤡᤱᤘᤠ/ᤆᤠᤣᤁ᤻ᤛᤡᤱᤘᤠ",
+      "desc": "/चोःक्सिङ्वा/",
+      "group": "AW",
+      "mean": "<p>make up.</p>शृङ्गार ।"
+    },
+    "02504": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤛᤡᤱᤔᤠ/ᤆᤠᤣᤁ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/चोःक्सिङ्मा/",
+      "group": "AW",
+      "mean": "<p>1. to make (oneself) up. 2. to dress up and get ready.</p>१. सजिनु; शृङ्गार गर्नु; ठाँटिनु चिटिक्क पर्नु । २. लुगा आदि लाएर तयार हुनु ।"
+    },
+    "02505": {
+      "dId": "ᤆᤠᤣ᤺ᤰᤛᤢᤶ/ᤆᤠᤣᤁ᤻ᤛᤢᤶ",
+      "desc": "/चोःक्सुम्/",
+      "group": "AW",
+      "mean": "<p>skill; craftsmanship.</p>कार्यकौशल ।"
+    },
+    "02506": {
+      "dId": "ᤆᤠᤣᤈ᤻",
+      "desc": "/चोःज्/",
+      "group": "AW",
+      "mean": "<p>small string that joins the bow-string to the bow at its two ends.</p>ताँदोलाई धनुको दुईपट्टि जोड्ने डोरी ।"
+    },
+    "02507": {
+      "dId": "ᤆᤠᤣ᤺ᤳᤗᤠ᤺ᤒᤠ/ᤆᤠᤣᤋ᤻ᤗᤠ᤺ᤒᤠ",
+      "desc": "/चोःत्लाःबा/",
+      "group": "AW",
+      "mean": "<p>satellite; spacecraft.</p>अनतरिक्ष-यान ।"
+    },
+    "02508": {
+      "dId": "ᤆᤠᤣ᤺ᤳᤗᤢᤱ/ᤆᤠᤣᤋ᤻ᤗᤢᤱ",
+      "desc": "/चोःत्लुङ्/",
+      "group": "AW",
+      "mean": "<p>1. achievement; accomplishment; completeness.2. head; summit.</p>१. सिद्धि; उपलब्धि; पूर्णता । २. शिर; शिखर ।"
+    },
+    "02509": {
+      "dId": "ᤆᤠᤣ᤺ᤳᤗᤠᤣ/ᤆᤠᤣᤋ᤻ᤗᤠᤣ",
+      "desc": "/चोःत्लो/",
+      "group": "AW",
+      "mean": "<p>quality; attribute.</p>गुण ।"
+    },
+    "02510": {
+      "dId": "ᤆᤠᤣ᤺ᤵ/ᤆᤠᤣᤐ᤻",
+      "desc": "/चोःप्/",
+      "group": "AW",
+      "mean": "<p>snout; muzzle.</p>मोहोला ।"
+    },
+    "02511": {
+      "dId": "ᤆᤠᤣ᤺ᤶᤔᤠ/ᤆᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/चोःम्मा/",
+      "group": "AW",
+      "mean": "<p>to fall down on the ground; to crash; to co;;apse; to topple over.</p>लड्नु; ढल्नु ।"
+    },
+    "02512": {
+      "dId": "ᤆᤠᤤᤁᤠᤖᤠ",
+      "desc": "/चौकारा/",
+      "group": "AW",
+      "mean": "<p>a platform; (resting-place made) usually constructed of stones and trees planted afterwards as a memorial by the people in the names of their deceased relatives.</p>चौतारो; चौतारी ।"
+    }
+  }
+}

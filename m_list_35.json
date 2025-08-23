@@ -1,0 +1,1228 @@
+{
+  "Dic": {
+    "03563": {
+      "dId": "ᤏᤠ",
+      "desc": "/ना/",
+      "group": "BI",
+      "mean": "<p>1. fish. 2. countenance; face. 3. there (on the same level of the speaker); yonder. 4. intensifier, used to emphasize the meaning of the preceding word (negative context).</p>१. माछा । २. मुखाकृति; अनुहार । ३. पर; उता (समान वक्ताको धरातलमा) । ४. न; नै; नाइ; अर्थलाई (अकरण सन्दर्भमा) जोड दिन प्रयोग हुने निपात ।"
+    },
+    "03564": {
+      "dId": "ᤏᤠᤀᤡᤰ",
+      "desc": "/नाइक्/",
+      "group": "BI",
+      "mean": "<p>park.</p>घुमफिर गर्ने ठाउँ; पार्क ।"
+    },
+    "03565": {
+      "dId": "ᤏᤠᤀᤡᤒᤣ᤺ᤰ/ᤏᤠᤀᤡᤒᤣᤁ᤻",
+      "desc": "/नाइबेःक्/",
+      "group": "BI",
+      "mean": "<p>shape; form; structure.</p>आकार; रूप; संरचना ।"
+    },
+    "03566": {
+      "dId": "ᤏᤠ᤹ᤔᤠ",
+      "desc": "/ना?मा/",
+      "group": "BI",
+      "mean": "<p>to refuse; to say no.</p>अस्वीकार गर्नु ।"
+    },
+    "03567": {
+      "dId": "ᤏᤠ᤹ᤗᤠ",
+      "desc": "/ना?ला/",
+      "group": "BI",
+      "mean": "<p>chapter.</p>खण्ड; अध्याय ।"
+    },
+    "03568": {
+      "dId": "ᤏᤠ᤹ᤛᤡᤱ",
+      "desc": "/ना?सिङ्/",
+      "group": "BI",
+      "mean": "<p>rest.</p>विश्राम ।"
+    },
+    "03569": {
+      "dId": "ᤏᤠ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/ना?सिङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. to take rest. 2. to lean over sth. 3. to take leave.</p>१. बिसाउनु; विश्राम गर्नु; थकाइ मार्नु । २. अडेसिनु । ३. बिदा लिनु ।"
+    },
+    "03570": {
+      "dId": "ᤏᤠ᤹ᤛᤧᤴ",
+      "desc": "/ना?सेन्/",
+      "group": "BI",
+      "mean": "<p>tolerance.</p>सहनशीलता ।"
+    },
+    "03571": {
+      "dId": "ᤏᤠᤁᤢᤛᤱ",
+      "desc": "/नाकुसङ्/",
+      "group": "BI",
+      "mean": "<p>new; brand new.</p>नयाँ ।"
+    },
+    "03572": {
+      "dId": "ᤏᤠᤰ",
+      "desc": "/नाक्/",
+      "group": "BI",
+      "mean": "<p>hair (of dried bamboo bark)झुस (बासको चिलाउने झुस) ।"
+    },
+    "03573": {
+      "dId": "ᤏᤠᤰᤆᤠ",
+      "desc": "/नाक्चा/",
+      "group": "BI",
+      "mean": "<p>pen.</p>कलम ।"
+    },
+    "03574": {
+      "dId": "ᤏᤠᤰᤏᤠᤶ",
+      "desc": "/नाक्नाम्/",
+      "group": "BI",
+      "mean": "<p>waist string of trousers.</p>इँजार ।"
+    },
+    "03575": {
+      "dId": "ᤏᤠᤰᤐᤠ",
+      "desc": "/नाक्पा/",
+      "group": "BI",
+      "mean": "<p>1. one’s brother’s son. 2. man’s brother-n-law’s son. 3. woman’s brother’s son; cousin. 4. a woman’s sister-in-law’s son.</p>१. भतिजो; लोग्ने मानिसको दाजु वा भाइको छोरो । २. जेठान वा सालोको छोरो । ३. भदा; स्वास्नी मानिसको दाजु वा भाइको छोरो । ४. आमाजु वा नन्दको छोरो ।"
+    },
+    "03576": {
+      "dId": "ᤏᤠᤰᤐᤠᤎᤠᤰᤐᤠ",
+      "desc": "/नाक्पाधाक्पा/",
+      "group": "BI",
+      "mean": "<p>(a man) who is at a loss.</p>किंकर्तव्यविमुढ (मान्छे) ।"
+    },
+    "03577": {
+      "dId": "ᤏᤠᤰᤔᤠ/ᤔᤠ᤺",
+      "desc": "/नाक्मा/माः/",
+      "group": "BI",
+      "mean": "<p>1. man’s brother’s daughter; niece. 2. woman’s brother’s daughter. 3. man’s brother-in-law’s daughter. 4. woman’s sister-in-law’s daughter.</p>१. भतिजी । २. भदैनी । ३. जेठान वा सालोकी छोरी । ४. आमाज्यू वा नन्दकी छोरी ।"
+    },
+    "03578": {
+      "dId": "ᤏᤠᤰᤔᤠ",
+      "desc": "/नाक्मा/",
+      "group": "BI",
+      "mean": "<p>to be puzzled/ perplexed/ confused.</p>अकमकिनु; लाटिनु; अलमलमा पर्नु; झुक्किनु ।"
+    },
+    "03579": {
+      "dId": "ᤏᤠᤰᤛᤢ᤺ᤶᤒᤠ/ᤏᤠᤰᤛᤢᤔ᤻ᤒᤠ",
+      "desc": "/नाक्सुःम्बा/",
+      "group": "BI",
+      "mean": "<p>elbow.</p>कुहिनो ।"
+    },
+    "03580": {
+      "dId": "ᤏᤠᤰᤛᤠᤣᤔᤠ",
+      "desc": "/नाक्सोमा/",
+      "group": "BI",
+      "mean": "<p>to feel itching (caused by bamboo hair).</p>चिलाउनु ।"
+    },
+    "03581": {
+      "dId": "ᤏᤠᤃᤧᤳ",
+      "desc": "/नागेत्/",
+      "group": "BI",
+      "mean": "<p>1. moment (astro). 2. heart-beat; palpitation.</p>१. घडी; पला । २. ढुकढुकी; मुटु वा नाडीको गति ।"
+    },
+    "03582": {
+      "dId": "ᤏᤠᤎᤵᤐᤩᤠ",
+      "desc": "/नाघप्प्या/",
+      "group": "BI",
+      "mean": "<p>water pot of ascetics.</p>कमनण्डलु ।"
+    },
+    "03583": {
+      "dId": "ᤏᤠᤄᤧᤶᤔᤠ",
+      "desc": "/नाघेम्मा/",
+      "group": "BI",
+      "mean": "<p>to hear.</p>(कान) सुन्नु ।"
+    },
+    "03584": {
+      "dId": "ᤏᤠᤃᤧᤄᤧᤶᤒᤠ",
+      "desc": "/नागेघेम्बा/",
+      "group": "BI",
+      "mean": "<p>1. listener. 2. obedient.</p>१. कान सुन्ने । २. कुरा सुन्ने ।"
+    },
+    "03585": {
+      "dId": "ᤏᤠᤃᤧᤄᤧᤶᤔᤠ",
+      "desc": "/नागेघेम्मा/",
+      "group": "BI",
+      "mean": "<p>(fem.) 1. listener. 2. obedient.</p>(स्त्री) १. कान सुन्ने । २. कुरा सुन्ने ।"
+    },
+    "03586": {
+      "dId": "ᤏᤠᤱ",
+      "desc": "/नाङ्/",
+      "group": "BI",
+      "mean": "<p>just next born younger sister or brother of the ego.</p>आफुभन्दा ठीक मुनिको (सहोदर) भाइ बहिनी ।"
+    },
+    "03587": {
+      "dId": "ᤏᤠᤱᤏᤠᤱ",
+      "desc": "/नाङ्नाङ्/",
+      "group": "BI",
+      "mean": "<p>madness.</p>बहुलट्टीपन ।"
+    },
+    "03588": {
+      "dId": "ᤏᤠᤱᤔᤠ",
+      "desc": "/नाङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. to go crazy; to be mad; to get mad. 2. to protect sth; to save sth (for future). 3. to take side; to support.</p>१. बहुलाउनु । २. जोगाउनु; रक्षा गर्नु । ३. पक्ष लिनु ।"
+    },
+    "03589": {
+      "dId": "ᤏᤠᤱᤛᤡᤱᤔᤠ",
+      "desc": "/नाङ्सिङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. to be spared; to be protected. 2. to support sb.</p>१. जोगिनु; सुरक्षित हुनु । २. कसैको पक्षमा हुनु ।"
+    },
+    "03590": {
+      "dId": "ᤏᤠᤱᤛᤧ᤺ᤵᤐᤠ/ᤏᤠᤱᤛᤧᤐ᤻ᤐᤠ",
+      "desc": "/नाङ्सेःप्पा/",
+      "group": "BI",
+      "mean": "<p>stair of stone or stair made of concrete.</p>ढुङ्गामाटो वा सिमेन्टको सिँढी ।"
+    },
+    "03591": {
+      "dId": "ᤏᤠᤈᤱ",
+      "desc": "/नाजङ्/",
+      "group": "BI",
+      "mean": "<p>divorce given by a wife.</p>स्वास्नीले लोग्नेलाइ दिने छोडपत्र ।"
+    },
+    "03592": {
+      "dId": "ᤏᤠᤈᤶ",
+      "desc": "/नाजम्/",
+      "group": "BI",
+      "mean": "<p>feliciatation; honour; respect.</p>अभिनन्दन; मानमनितो; सम्मान ।"
+    },
+    "03593": {
+      "dId": "ᤏᤠᤈᤶᤔᤠ",
+      "desc": "/नाजम्मा/",
+      "group": "BI",
+      "mean": "<p>to show respect; to honour.</p>मान गर्नु; सत्कार गर्नु; सम्मान गर्नु ।"
+    },
+    "03594": {
+      "dId": "ᤏᤠᤈᤡᤖᤡ ",
+      "desc": "/नाजिरि/",
+      "group": "BI",
+      "mean": "<p>related to Christ.</p>इशुसँग सम्बन्धित; इसाई ।"
+    },
+    "03595": {
+      "dId": "ᤏᤠᤳᤌᤠ",
+      "desc": "/नात्था/",
+      "group": "BI",
+      "mean": "<p>nose rong.</p>नत्था; नाकमा लगाउने मुन्द्रो ।"
+    },
+    "03596": {
+      "dId": "ᤏᤠᤍᤱ",
+      "desc": "/नादङ्/",
+      "group": "BI",
+      "mean": "<p>reconciliation; compromise.</p>मिलाप; सम्झौता ।"
+    },
+    "03597": {
+      "dId": "ᤏᤠᤍᤡᤱ",
+      "desc": "/नादिङ्/",
+      "group": "BI",
+      "mean": "<p>1. neglect; an act of contempt/ hatred. 2. fish-bone.</p>१. तिरस्कार; अपमान; हेला । २. माछाको काँडा ।"
+    },
+    "03598": {
+      "dId": "ᤏᤠᤍᤢᤶ",
+      "desc": "/नादुम्/",
+      "group": "BI",
+      "mean": "<p>1. meeting. 2. acquaintance.</p>१. भेट; भेटघाट । २. चिनजान ।"
+    },
+    "03599": {
+      "dId": "ᤏᤠᤍᤧᤵ",
+      "desc": "/नादेप्/",
+      "group": "BI",
+      "mean": "<p>veil (used by women).</p>घुम्टो ।"
+    },
+    "03600": {
+      "dId": "ᤏᤠᤎᤠ",
+      "desc": "/नाधा/",
+      "group": "BI",
+      "mean": "<p>insult; disgrace; dishonour.</p>अपमान; बेइज्जती; अपहेलना । "
+    },
+    "03601": {
+      "dId": "ᤏᤠᤎᤠᤰᤔᤠ",
+      "desc": "/नाधाक्मा/",
+      "group": "BI",
+      "mean": "<p>to become deaf; not ot be able to hear.</p>बहिरो हुनु; कान नसुन्नु ।"
+    },
+    "03602": {
+      "dId": "ᤏᤠ(ᤁᤣ)ᤎᤠᤰᤐᤠ",
+      "desc": "/ना(के)धाक्पा/",
+      "group": "BI",
+      "mean": "<p>deaf.</p>बहिरो ।"
+    },
+    "03603": {
+      "dId": "ᤏᤠ(ᤁᤣ)ᤎᤠᤰᤔᤠ",
+      "desc": "/ना(के)धाक्मा/",
+      "group": "BI",
+      "mean": "<p>(fem.) deaf.</p>(स्त्री) बहिरी ।"
+    },
+    "03604": {
+      "dId": "ᤏᤠᤎᤠ᤺ᤶᤒᤡ/ᤏᤠᤎᤠᤔ᤻ᤒᤡ ",
+      "desc": "/नाधाःम्बि/",
+      "group": "BI",
+      "mean": "<p>on the opposite side; across (river, hill etc).</p>पल्लोपट्टि; पारिपट्टि (डाँडा, खोला आदिको) ।"
+    },
+    "03605": {
+      "dId": "ᤏᤠᤎᤠ᤺ᤶᤔᤠ/ᤏᤠᤎᤠᤔ᤻ᤔᤠ",
+      "desc": "/नाधाःम्मा/",
+      "group": "BI",
+      "mean": "<p>to show one’s own face; to be seen.</p>मुख देखाउनु; देखा पर्नु ।"
+    },
+    "03606": {
+      "dId": "ᤏᤠᤎᤡᤱᤔᤠ",
+      "desc": "/नाधिङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. to have a bright face. 2. not to be afraid of sb.</p>१. अनुहार उज्यालो हुनु । २. धक नमान्नु; निडर देखिनु ।"
+    },
+    "03607": {
+      "dId": "ᤏᤠᤎᤡᤶ",
+      "desc": "/नाधिम्/",
+      "group": "BI",
+      "mean": "<p>influence.</p>प्रभाव ।"
+    },
+    "03608": {
+      "dId": "ᤏᤠᤏᤡᤔᤠ",
+      "desc": "/नानिमा/",
+      "group": "BI",
+      "mean": "<p>a pot to receive liquor during distillation.</p>रक्सी पार्दा रक्सी थाप्ने भाँडो ।"
+    },
+    "03609": {
+      "dId": "ᤏᤠᤏᤢ᤹ᤔᤠ",
+      "desc": "/नानु?मा/",
+      "group": "BI",
+      "mean": "<p>1. affection; love. 2. to love; to like.</p>१. अनुराग; स्नेह; माया । २. प्रेम गर्नु; मन पराउनु ।"
+    },
+    "03610": {
+      "dId": "ᤏᤠᤏᤢ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/नानु?सिङ्मा/",
+      "group": "BI",
+      "mean": "<p>to like each other/ to love each other.</p>एक अर्कालाई मनपराउनु/ माया गर्नु ।"
+    },
+    "03611": {
+      "dId": "ᤏᤠᤏᤧ᤺ᤔᤠ",
+      "desc": "/नानेःमा/",
+      "group": "BI",
+      "mean": "<p>1. to push away. 2. to postpone.</p>१. पर सार्नु; पर हटाउनु । २. स्थगित गर्नु ।"
+    },
+    "03612": {
+      "dId": "ᤏᤠᤴᤇᤡᤱ",
+      "desc": "/नान्छिङ्/",
+      "group": "BI",
+      "mean": "<p>hundreds; percentage.</p>सयकडा ।"
+    },
+    "03613": {
+      "dId": "ᤏᤠᤵᤆᤠᤱ",
+      "desc": "/नाप्चङ्/",
+      "group": "BI",
+      "mean": "<p>clitoris.</p>टिसी ।"
+    },
+    "03615": {
+      "dId": "ᤏᤠᤵᤔᤡ ",
+      "desc": "/नाप्मि/",
+      "group": "BI",
+      "mean": "<p>man; the other person.</p>मान्छे; तेस्रो वा अर्को व्याक्ति ।"
+    },
+    "03616": {
+      "dId": "ᤏᤠᤵᤛᤡᤱ",
+      "desc": "/नाप्सिङ्/",
+      "group": "BI",
+      "mean": "<p>looting.</p>लुटपाट ।"
+    },
+    "03617": {
+      "dId": "ᤏᤠᤵᤛᤡᤱᤔᤠ",
+      "desc": "/नाप्सिङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. to be looted/ plundered. 2. to snatch from each other; to loot each other.</p>१. खोसिनु; लुटिनु । २. खोसाखोस गर्नु; लुटालुट गर्नु ।"
+    },
+    "03618": {
+      "dId": "ᤏᤠᤒᤠᤐᤠᤣ",
+      "desc": "/नाबापो/",
+      "group": "BI",
+      "mean": "<p>related to Moghul Nawab.</p>नवाब सँग सम्बन्धित ।"
+    },
+    "03619": {
+      "dId": "ᤏᤠᤓᤠᤣ᤺ᤴᤈᤡ/ᤏᤠᤓᤠᤣᤏ᤻ᤈᤡ ",
+      "desc": "/नाभोःन्जि/",
+      "group": "BI",
+      "mean": "<p>young fish.</p>भुरा (माछाको) ।"
+    },
+    "03620": {
+      "dId": "ᤏᤠᤓᤠᤣ᤺ᤴᤈᤡ/ᤏᤠᤓᤠᤣᤏ᤻ᤈᤡ ᤗᤠᤱ",
+      "desc": "/नाभोःन्जि लाङ्/",
+      "group": "BI",
+      "mean": "<p>a particular Limbu chyabrung dance  named after the movement of the young fish.</p>माछाको बच्चाको हिंडाइ झैं नाच; लिम्बूजातिको च्याब्रुङ् नाचको एक प्रकार ।"
+    },
+    "03621": {
+      "dId": "ᤏᤠᤔᤏᤠ",
+      "desc": "/नामना/",
+      "group": "BI",
+      "mean": "<p>difficulty.</p>लछारो (कामको) ।"
+    },
+    "03622": {
+      "dId": "ᤏᤠᤔᤠᤰᤔᤠ",
+      "desc": "/नामाक्मा/",
+      "group": "BI",
+      "mean": "<p>to have sullen/ gloomy face.</p>मुख (अनुहार) कालो हुनु; निन्याउरो, मलिन वा अँध्यारो मुख हुनु ।"
+    },
+    "03623": {
+      "dId": "ᤏᤠᤔᤡᤰ",
+      "desc": "/नामिक्/",
+      "group": "BI",
+      "mean": "<p>eight part of a tola which is equivalent to 80th part of seer.</p>दुई आनी ।"
+    },
+    "03624": {
+      "dId": "ᤏᤔᤢᤰ",
+      "desc": "/नामुक्/",
+      "group": "BI",
+      "mean": "<p>the five elements.</p>पञ्चतत्व; पञ्चमहाभुत ।"
+    },
+    "03625": {
+      "dId": "ᤏᤠᤔᤧᤱᤄᤧᤶᤒᤠ",
+      "desc": "/नामेङ्घेम्बा/",
+      "group": "BI",
+      "mean": "<p>1. deaf. 2. disobedient; obstinate.</p>१. बहिरो । २. अटेरी; भनेको नमान्ने ।"
+    },
+    "03626": {
+      "dId": "ᤏᤠᤔᤧᤴ-ᤀᤣ᤺ᤳ/ᤀᤣᤋ᤻",
+      "desc": "/नामेन्-एःत्/",
+      "group": "BI",
+      "mean": "<p>roaring loughter.</p>अट्टाहस ।"
+    },
+    "03627": {
+      "dId": "ᤏᤠᤔᤧᤴᤇᤠ᤺ᤴ/ᤏᤠᤔᤧᤴᤇᤠᤏ᤻",
+      "desc": "/नामेन्छाःन्/",
+      "group": "BI",
+      "mean": "<p>disrespect; insult.</p>अनपत्यार; अनादर; अपहेलना ।"
+    },
+    "03628": {
+      "dId": "ᤏᤠᤔᤧᤴᤇᤠ᤹ᤔᤠ",
+      "desc": "/नामेन्छा?मा/",
+      "group": "BI",
+      "mean": "<p>to insult.</p>हेप्नु; होच्याउनु ।"
+    },
+    "03629": {
+      "dId": "ᤏᤠᤔᤧᤴᤕᤠᤶ",
+      "desc": "/नामेन्याम्/",
+      "group": "BI",
+      "mean": "<p>circumstance.</p>परिस्थिति ।"
+    },
+    "03630": {
+      "dId": "ᤏᤠᤶ",
+      "desc": "/नाम्/",
+      "group": "BI",
+      "mean": "<p>1. sun. 2. smell. 3. cord; strap; strap used to carry luggage or to hold vessels.</p>१. सुर्य । २. गन्ध; बासना; हरक । ३. उझिण्डो; सामान झुण्ड्याउन बाँध्न वा बोक्न प्रयोग हुने डोरी ।"
+    },
+    "03631": {
+      "dId": "ᤏᤠᤶᤀᤡ ",
+      "desc": "/नाम्इ/",
+      "group": "BI",
+      "mean": "<p>movement of the sun; circle of time.</p>सुर्यको गति; कालचक्र ।"
+    },
+    "03632": {
+      "dId": "ᤏᤠᤶᤃᤧᤳ",
+      "desc": "/नाम्गेत्/",
+      "group": "BI",
+      "mean": "<p>east.</p>पूर्व ।"
+    },
+    "03633": {
+      "dId": "ᤏᤠᤶᤆᤡᤸᤗᤧᤱ",
+      "desc": "/नाम्चिल्लेङ्/",
+      "group": "BI",
+      "mean": "<p>excessively crossing the limit.</p>अचाक्ली; हुनुपर्ने भन्दा ज्यादा ।"
+    },
+    "03634": {
+      "dId": "ᤏᤠᤶᤈᤠ᤹ᤔᤠ",
+      "desc": "/नाम्जा?मा/",
+      "group": "BI",
+      "mean": "<p>to warm up in the sum; had sun bathing.</p>घाम ताप्नु ।"
+    },
+    "03635": {
+      "dId": "ᤏᤠᤶᤈᤡ᤺ᤰᤂᤠᤣ᤹/ᤏᤠᤶᤈᤡᤁ᤻ᤂᤠᤣ᤹",
+      "desc": "/नाम्जिःक्खो?/",
+      "group": "BI",
+      "mean": "<p>shade (of a tree, etc).</p>सियाँल; ओझेल ।"
+    },
+    "03636": {
+      "dId": "ᤏᤠᤶᤈᤢᤖᤢᤶᤓᤢᤱ",
+      "desc": "/नाम्जुरुम्भुङ्/",
+      "group": "BI",
+      "mean": "<p>spring season.</p>वसन्त ऋतु ।"
+    },
+    "03637": {
+      "dId": "ᤏᤠᤶᤋᤡᤔᤡᤰ",
+      "desc": "/नाम्तिमिक्/",
+      "group": "BI",
+      "mean": "<p>(lit. key of the sun) sun-rays.</p>सुर्यको किरण ।"
+    },
+    "03638": {
+      "dId": "ᤏᤠᤶᤍ᤺ᤰ/ᤏᤠᤶᤍᤁ᤻ ᤑᤢᤱ",
+      "desc": "/नाम्दःक् फुङ्/",
+      "group": "BI",
+      "mean": "<p>the sun-flower. <i>Helianthus annuus.</i></p>सूर्यमुखी फूल ।"
+    },
+    "03639": {
+      "dId": "ᤏᤠᤶᤍᤠᤳᤋᤠᤳ",
+      "desc": "/नाम्दात्तात्/",
+      "group": "BI",
+      "mean": "<p>the whole night; from evening to morning.</p>रातभर; बिहानसम्म ।"
+    },
+    "03640": {
+      "dId": "ᤏᤠᤶᤍᤠᤳᤋᤣ",
+      "desc": "/नाम्दात्ते/",
+      "group": "BI",
+      "mean": "<p>a kind of Limbu chyabrung dance performed during marriage ceremony in honour of the guests before dinner.</p>विवाहको उत्सवमा पाहुनापातलाई रात्रिभोज दिनु अघि उनीहरूको सम्मानमा गरिने च्याब्रुङ् नाचको किसिम ।"
+    },
+    "03641": {
+      "dId": "ᤏᤠᤶᤍᤧᤱᤃᤢ",
+      "desc": "/नाम्देङ्गु/",
+      "group": "BI",
+      "mean": "<p>the ring of the light round the sun.</p>सूर्यको वरिपरि देखिने प्रकाशको घेरो; प्रभामण्डल ।"
+    },
+    "03642": {
+      "dId": "ᤏᤠᤶᤎᤠ",
+      "desc": "/नाम्धा/",
+      "group": "BI",
+      "mean": "<p>sun set; setting of the sun.</p>सूर्यास्त; सूर्य अस्ताउने काम ।"
+    },
+    "03643": {
+      "dId": "ᤏᤠᤶᤎᤠᤱᤒᤠ",
+      "desc": "/नाम्धाङ्बा/",
+      "group": "BI",
+      "mean": "<p>seer; a kilogram.</p>सेर; किलोग्राम ।"
+    },
+    "03644": {
+      "dId": "ᤏᤠᤶᤎᤠᤎᤠ",
+      "desc": "/नाम्धाधा/",
+      "group": "BI",
+      "mean": "<p>the whole day; till sun set.</p>दिनभर ।"
+    },
+    "03645": {
+      "dId": "ᤏᤠᤶᤎᤠ-ᤘᤠᤖ᤺ᤱ/ᤘᤠᤖᤅ᤻",
+      "desc": "/नाम्धा-वारःङ्/",
+      "group": "BI",
+      "mean": "<p>Atlantic ocean.</p>अट्लान्टिक महासागर ।"
+    },
+    "03646": {
+      "dId": "ᤏᤠᤶᤎᤠ᤺ᤔᤠ",
+      "desc": "/नाम्धाःमा/",
+      "group": "BI",
+      "mean": "<p>1. the sun set. 2. it is too late.</p>१. घाम अस्ताउनु । २. अबेर हुनु ।"
+    },
+    "03647": {
+      "dId": "ᤏᤠᤶᤎᤡᤱᤃᤠᤣ",
+      "desc": "/नाम्धिङ्गो/",
+      "group": "BI",
+      "mean": "<p>rainbow.</p>इन्द्रेणी ।"
+    },
+    "03648": {
+      "dId": "ᤏᤠᤶᤎᤣ᤺ᤰ/ᤏᤠᤶᤎᤣᤁ᤻",
+      "desc": "/नाम्धेःक्/",
+      "group": "BI",
+      "mean": "<p>umbrella made of white cloth which is put on above the face of the dead.</p>लासको अनुहारमा घाम छेक्न राखिने चँदुवा ।"
+    },
+    "03649": {
+      "dId": "ᤏᤠᤶᤎᤧᤒᤠ/ᤒᤠ᤺",
+      "desc": "/नाम्धेबा/बाः/",
+      "group": "BI",
+      "mean": "<p>great great grand father.</p>जिजुबाजे ।"
+    },
+    "03650": {
+      "dId": "ᤏᤠᤶᤏᤢᤔᤠ",
+      "desc": "/नाम्नुमा/",
+      "group": "BI",
+      "mean": "<p>to smell good/ sweet.</p>सुगन्ध चल्नु; मीठो बासना चल्नु वा हुनु ।"
+    },
+    "03651": {
+      "dId": "ᤏᤠᤶᤏᤠᤣ᤺ᤶᤒᤠ/ᤏᤠᤶᤏᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/नाम्नोःम्बा/",
+      "group": "BI",
+      "mean": "<p>scent.</p>अत्तर; सुगन्ध ।"
+    },
+    "03652": {
+      "dId": "ᤏᤠᤶᤒᤡᤴ",
+      "desc": "/नाम्बिन्/",
+      "group": "BI",
+      "mean": "<p>sunrise; morning.</p>सूर्योदय; प्रभात ।"
+    },
+    "3653": {
+      "dId": "ᤏᤠᤶᤒᤱ",
+      "desc": "/नाम्बङ्/",
+      "group": "BI",
+      "mean": "<p>perilla seed; a kind of edible seed. <i>Perilla frutescens.</i></p>सिलाम ।"
+    },
+    "03654": {
+      "dId": "ᤏᤠᤶᤒᤠ",
+      "desc": "/नाम्बा/",
+      "group": "BI",
+      "mean": "<p>solar movements.</p>सूर्यको उत्तर र दक्षिण सर्ने गति; अयन ।"
+    },
+    "03655": {
+      "dId": "ᤏᤠᤶᤒᤡᤶᤒᤠ",
+      "desc": "/नाम्बिम्मा/",
+      "group": "BI",
+      "mean": "<p>(of the sun) to rise.</p>घाम झुल्कनु; सूर्य उदाउनु ।"
+    },
+    "03656": {
+      "dId": "ᤏᤠᤶᤓᤖᤠ",
+      "desc": "/नाम्भरा/",
+      "group": "BI",
+      "mean": "<p>sunburn.</p>घमौरा; गर्मिले आउने फोका ।"
+    },
+    "03657": {
+      "dId": "ᤏᤠᤶᤓᤱᤃᤠ",
+      "desc": "/नाम्भङ्गा/",
+      "group": "BI",
+      "mean": "<p>a weight equivalent to 2.5 kg.</p>धार्नी ।"
+    },
+    "03658": {
+      "dId": "ᤏᤠᤶᤓᤡᤱᤒᤠ",
+      "desc": "/नाम्भिङ्बा/",
+      "group": "BI",
+      "mean": "<p>sun-burnt man.</p>घामले डढेको मानिस ।"
+    },
+    "03659": {
+      "dId": "ᤏᤠᤶᤓᤡᤒᤠ",
+      "desc": "/नाम्भिबा/",
+      "group": "BI",
+      "mean": "<p>evening.</p>सन्ध्या ।"
+    },
+    "03660": {
+      "dId": "ᤏᤠᤶᤓᤢᤱ",
+      "desc": "/नाम्भुङ्/",
+      "group": "BI",
+      "mean": "<p>1. a kind of white moss. 2. sunflower. <i>Helianthus annuus.</i></p>१. ढुसी । २. सूर्यमुखी फूल ।"
+    },
+    "03661": {
+      "dId": "ᤏᤠᤶᤓᤧᤳ",
+      "desc": "/नाम्भेत्/",
+      "group": "BI",
+      "mean": "<p>an act of drying paddy in the sun.</p>बिस्कुन ।"
+    },
+    "03662": {
+      "dId": "ᤏᤠᤶᤓᤧᤵᤔᤠ",
+      "desc": "/नाम्भेप्मा/",
+      "group": "BI",
+      "mean": "<p>to dry sth in the sun.</p>घाममा सुकाउनु ।"
+    },
+    "03663": {
+      "dId": "ᤏᤠᤶᤓᤧᤖᤠ",
+      "desc": "/नाम्भेरा/",
+      "group": "BI",
+      "mean": "<p>bad luck; misfortune.</p>दुर्भाग्य ।"
+    },
+    "03664": {
+      "dId": "ᤏᤠᤶᤓᤧᤖᤡᤰ",
+      "desc": "/नाम्भेरिक्/",
+      "group": "BI",
+      "mean": "<p>solar churning rod (used during creation).</p>सृष्टि गर्न प्रयोग गरिएको घामको मधानी ।"
+    },
+    "03665": {
+      "dId": "ᤏᤠᤶᤔᤠ",
+      "desc": "/नाम्मा/",
+      "group": "BI",
+      "mean": "<p>to smell.</p>सुँघ्नु ।"
+    },
+    "03666": {
+      "dId": "ᤏᤠᤶᤔᤠᤰᤔᤠ",
+      "desc": "/नाम्माक्मा/",
+      "group": "BI",
+      "mean": "<p>solar eclipse.</p>सूर्यग्रहण ।"
+    },
+    "03667": {
+      "dId": "ᤏᤠᤶᤔᤪᤠᤣ᤺ᤵᤐᤠ/ᤏᤠᤶᤔᤪᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/नाम्म्रोःप्पा/",
+      "group": "BI",
+      "mean": "<p>the central part of the human skull; the top of the head.</p>शिरको बीच भाग; खप्परको केन्द्र; तालु ।"
+    },
+    "03668": {
+      "dId": "ᤏᤠᤶᤕᤠᤰ",
+      "desc": "/नाम्याक्/",
+      "group": "BI",
+      "mean": "<p>wage.</p>ज्याला; पारिश्रमिक ।"
+    },
+    "03669": {
+      "dId": "ᤏᤠᤶᤕᤠᤵᤔᤡ ",
+      "desc": "/नाम्याप्मि/",
+      "group": "BI",
+      "mean": "<p>human being.</p>मान्छे; मनुष्य ।"
+    },
+    "03670": {
+      "dId": "ᤏᤠᤶᤕᤠᤶ",
+      "desc": "/नाम्याम्/",
+      "group": "BI",
+      "mean": "<p>pleasure.</p>आनन्द ।"
+    },
+    "03671": {
+      "dId": "ᤏᤠᤶᤕᤠᤶᤒᤠ",
+      "desc": "/नाम्याम्बा/",
+      "group": "BI",
+      "mean": "<p>1. pleasant. 2. convincing.</p>१. आनन्ददायी; आनन्दको । २. चित्तबुझ्दो ।"
+    },
+    "03672": {
+      "dId": "ᤏᤠᤶᤕᤢᤔᤠ/ᤔᤠ᤺",
+      "desc": "/नाम्युमा/माः/",
+      "group": "BI",
+      "mean": "<p>great great grand mother.</p>जिजुबज्यै ।"
+    },
+    "03673": {
+      "dId": "ᤏᤠᤶᤕᤠᤣ᤹ᤒᤠ",
+      "desc": "/नाम्यो?बा/",
+      "group": "BI",
+      "mean": "<p>Mug-wort; a kind of lavender plant. <i>Artemisia vulgaris.</i></p>तितेपाती ।"
+    },
+    "03674": {
+      "dId": "ᤏᤠᤶᤕᤠᤣ᤺ᤰ/ᤏᤠᤶᤕᤠᤣᤁ᤻",
+      "desc": "/नाम्योःक्/",
+      "group": "BI",
+      "mean": "<p>solar eclipse.</p>सूर्यग्रहण ।"
+    },
+    "03675": {
+      "dId": "ᤏᤠᤶᤖᤡᤱᤃᤣ᤺ᤰ/ᤏᤠᤶᤖᤡᤱᤃᤣᤁ᤻",
+      "desc": "/नाम्रिङ्गेःक्/",
+      "group": "BI",
+      "mean": "<p>a word used in the singing during Diwali festival.</p>देउसी गीत गाउँदा भनिने शब्द; देउसीरे ।"
+    },
+    "03676": {
+      "dId": "ᤏᤠᤶᤗ᤹ᤗᤡᤔᤠ",
+      "desc": "/नाम्ल?लिमा/",
+      "group": "BI",
+      "mean": "<p>lizard; a kind of reptile.</p>माउसुली; छेपारा जातको किरा ।"
+    },
+    "03677": {
+      "dId": "ᤏᤠᤶᤗ᤺ᤰᤐᤠ/ᤏᤠᤶᤗᤁ᤻ᤐᤠ",
+      "desc": "/नाम्लःक्पा/",
+      "group": "BI",
+      "mean": "<p>a kind of big lizard.</p>भालेमुङ्ग्रो; ठूलो खालको छेपारो ।"
+    },
+    "03678": {
+      "dId": "ᤏᤠᤶᤗᤠ᤺ᤱ/ᤏᤠᤶᤗᤠᤅ᤻",
+      "desc": "/नाम्लाःङ्/",
+      "group": "BI",
+      "mean": "<p>drought.</p>खडेरी ।"
+    },
+    "03679": {
+      "dId": "ᤏᤠᤶᤗᤠ᤺ᤱᤔᤠ/ᤏᤠᤶᤗᤠᤅ᤻ᤔᤠ",
+      "desc": "/नाम्लाःङ्मा/",
+      "group": "BI",
+      "mean": "<p>to havedrought.</p>खडेरी पर्नु ।"
+    },
+    "03680": {
+      "dId": "ᤏᤠᤶᤗᤠ᤺ᤳ/ᤏᤠᤶᤗᤠᤋ᤻",
+      "desc": "/नाम्लाःत्/",
+      "group": "BI",
+      "mean": "<p>1. the period between 4-6 pm. 2. sunset.</p>१. अपरान्ह; दिउसो २ देखि ४ बजे सम्मको समय । २. सूर्यास्त ।"
+    },
+    "03681": {
+      "dId": "ᤏᤠᤶᤗᤠ᤺ᤵᤔᤠ/ᤏᤠᤶᤗᤠᤐ᤻ᤔᤠ",
+      "desc": "/नाम्लाःप्मा/",
+      "group": "BI",
+      "mean": "<p>(of the sun) to set.</p>घाम अस्ताउनु ।"
+    },
+    "03682": {
+      "dId": "ᤏᤠᤶᤗᤡᤱ",
+      "desc": "/नाम्लिङ्/",
+      "group": "BI",
+      "mean": "<p>sunrise; dawn.</p>सूर्योदय ।"
+    },
+    "03683": {
+      "dId": "ᤏᤠᤶᤗᤡᤱᤃᤣ᤹",
+      "desc": "/नाम्लिङ्गे/",
+      "group": "BI",
+      "mean": "<p>a kind of grass which has four leaves at one place.</p>चारपाते झार ।"
+    },
+    "03684": {
+      "dId": "ᤏᤠᤶᤗᤠᤣᤀᤡ ",
+      "desc": "/नाम्लोइ/",
+      "group": "BI",
+      "mean": "<p>1. a kind of bird which sings at the time of sunset. 2. silver necklace.</p>१. घाम अस्ताउने समयमा कराउने एक प्रकारको चरो । २. चन्द्रहार; लिम्बूजातिको महिलाले लगाउने चाँदिको एक प्रकारको गहना ।"
+    },
+    "03685": {
+      "dId": "ᤏᤠᤶᤗᤠᤣ᤺ᤳᤋᤡ/ᤏᤠᤶᤗᤠᤣᤋ᤻ᤋᤡ ᤑᤢᤱ",
+      "desc": "/नाम्लोःत्ति फुङ्/",
+      "group": "BI",
+      "mean": "<p>gold flower; a kind of gold ornament.</p>सुनको फूल (गहना); शिरमा लाइने गहना ।"
+    },
+    "03686": {
+      "dId": "ᤏᤠᤶᤗᤧᤵᤔᤠ",
+      "desc": "/नाम्लेप्मा/",
+      "group": "BI",
+      "mean": "<p>to be late.</p>अबेर हुनु; घाम जानु (रात पर्नु) ।"
+    },
+    "03687": {
+      "dId": "ᤏᤠᤶᤛᤠᤖᤡ ",
+      "desc": "/नाम्सारि/",
+      "group": "BI",
+      "mean": "<p>the vessel with flowers and water used during worship (placed on the right side).</p>कलश; विशेषतः दाहिने तर्फ राखिने कलश ।"
+    },
+    "03688": {
+      "dId": "ᤏᤠᤶᤛᤠ᤺ᤱ/ᤏᤠᤶᤛᤠᤅ᤻",
+      "desc": "/नाम्साङ्/",
+      "group": "BI",
+      "mean": "<p>sunrays.</p>सूर्य किरण ।"
+    },
+    "03689": {
+      "dId": "ᤏᤠᤶᤛᤡᤱ",
+      "desc": "/नाम्सिङ्/",
+      "group": "BI",
+      "mean": "<p>1. tree of cinkauli. Cinnamomum tamala. 2. sandal wood tree.</p>१. सिन्काउलीको रूख । २. श्रीखण्ड ।"
+    },
+    "03690": {
+      "dId": "ᤏᤠᤶᤛᤡᤱᤔᤠ",
+      "desc": "/नाम्सिङ्मा/",
+      "group": "BI",
+      "mean": "<p>to smell each other.</p>परस्पर सुँघासुँघ गर्नु ।"
+    },
+    "03691": {
+      "dId": "ᤏᤠᤶᤛᤢᤔᤠ",
+      "desc": "/नाम्सुमा/",
+      "group": "BI",
+      "mean": "<p>to smell bad.</p>गन्हाउनु ।"
+    },
+    "03692": {
+      "dId": "ᤏᤠᤶᤛᤢᤕᤠ᤺ᤴ/ᤏᤠᤶᤛᤢᤕᤠᤏ᤻",
+      "desc": "/नाम्सुयाःन्/",
+      "group": "BI",
+      "mean": "<p>pudina; a common mint. Mentha arvensis.</p>पुदिना; अचार र औषधीको रूपमा प्रयोग गरिने एक प्रकारको झार ।"
+    },
+    "03693": {
+      "dId": "ᤏᤠᤶᤛᤠᤣ᤺ᤶ/ᤏᤠᤶᤛᤠᤣᤔ᤻ ᤛᤡᤱ",
+      "desc": "/नाम्सोःम् सिङ्/",
+      "group": "BI",
+      "mean": "<p>pipal tree. <i>Ficus religiosa.</i></p>पिपल ।"
+    },
+    "03694": {
+      "dId": "ᤏᤠᤶᤛᤧᤔᤡ ",
+      "desc": "/नाम्सेमि/",
+      "group": "BI",
+      "mean": "<p>the oil lamp brunt in the worship and placed on the right side.</p>दियो वा बत्ती; पूजामा दाहिनेतर्फ बालिने दियो वा बत्ती ।"
+    },
+    "03695": {
+      "dId": "ᤏᤠᤶᤛᤧ᤺ᤰᤔᤠ/ᤏᤠᤶᤛᤧᤁ᤻ᤔᤠ",
+      "desc": "/नाम्सेःक्मा/",
+      "group": "BI",
+      "mean": "<p>(fo the sun) to shine with scorching heat.</p>घाम चर्को लाग्नु ।"
+    },
+    "03696": {
+      "dId": "ᤏᤠᤶᤛᤧ᤺ᤔᤠ",
+      "desc": "/नाम्सेःमा/",
+      "group": "BI",
+      "mean": "<p>1. the bright, hot sun. 2. to smell (good or bad). 3. (of the sun) to shine.</p>१. चर्को (लागेको) घाम । २. गन्ध (सुगन्ध/दुर्गन्ध) आउनु । ३. घाम लाग्नु ।"
+    },
+    "03697": {
+      "dId": "ᤏᤠᤶᤛᤧ᤺ᤗᤡᤱ",
+      "desc": "/नाम्सेःलिङ्/",
+      "group": "BI",
+      "mean": "<p>sunny (place).</p>घमाइलो; पारिलो (जग्गा) ।"
+    },
+    "03698": {
+      "dId": "ᤏᤠᤶᤜᤡᤗᤠᤜᤡ ",
+      "desc": "/नाम्हिलाहि/",
+      "group": "BI",
+      "mean": "<p>1. cosmic path. 2. misfortune; ill-luck; evil influence of the planet.</p>१. ग्रहचक्र । २. ग्रहसंकट; ग्रहदशा ।"
+    },
+    "03699": {
+      "dId": "ᤏᤠᤕᤢᤱ",
+      "desc": "/नायुङ्/",
+      "group": "BI",
+      "mean": "<p>adjournment; postponement.</p>स्थगन ।"
+    },
+    "03700": {
+      "dId": "ᤏᤠᤕᤢᤱᤔᤠ",
+      "desc": "/नायुङ्मा/",
+      "group": "BI",
+      "mean": "<p>to adjourn; to set aside (for some time).</p>स्थगित राख्नु; स्थगित गर्नु ।"
+    },
+    "03701": {
+      "dId": "ᤏᤠᤕᤠᤣ",
+      "desc": "/नायो/",
+      "group": "BI",
+      "mean": "<p>defame; blame.</p>अपजस; अबगाल; बदनामी ।"
+    },
+    "03702": {
+      "dId": "ᤏᤠᤕᤠᤣ᤺ᤱᤒᤠ/ᤏᤠᤕᤠᤣᤅ᤻ᤒᤠ",
+      "desc": "/नायोःङ्बा/",
+      "group": "BI",
+      "mean": "<p>fisherman.</p>माझी; जालद्वारा माछा मार्ने मान्छे ।"
+    },
+    "03703": {
+      "dId": "ᤏᤠᤕᤧᤶ",
+      "desc": "/नायेम्/",
+      "group": "BI",
+      "mean": "<p>personality.</p>व्याक्तित्व ।"
+    },
+    "03704": {
+      "dId": "ᤏᤠᤕᤧᤶᤒᤠ",
+      "desc": "/नायेम्बा/",
+      "group": "BI",
+      "mean": "<p>a man with personality.</p>व्याक्तित्व भएको; व्याक्तित्वशाली ।"
+    },
+    "03705": {
+      "dId": "ᤏᤠᤕᤧᤔᤧ᤺ᤶᤒᤠ/ᤏᤠᤕᤧᤔᤧᤔ᤻ᤒᤠ",
+      "desc": "/नायेमेःम्बा/",
+      "group": "BI",
+      "mean": "<p>without personality.</p>व्याक्तित्व नभएको ।"
+    },
+    "03706": {
+      "dId": "ᤏᤠᤖᤠ",
+      "desc": "/नारा/",
+      "group": "BI",
+      "mean": "<p>1. the string which fastens an oxen to yoke. 2. face; countenance; form.</p>१. जोतारो । २. अनुहार; मुख; आकृति ।"
+    },
+    "03707": {
+      "dId": "ᤏᤠᤖᤠᤜᤴ",
+      "desc": "/नाराहन्/",
+      "group": "BI",
+      "mean": "<p>inauguration.</p>उद्घाटन ।"
+    },
+    "03708": {
+      "dId": "ᤏᤠᤖᤠᤜᤶᤔᤠ",
+      "desc": "/नाराहम्मा/",
+      "group": "BI",
+      "mean": "<p>to inaugurate.</p>उद्घाटन गर्नु ।"
+    },
+    "03709": {
+      "dId": "ᤏᤠᤖᤡᤘᤧᤳ",
+      "desc": "/नारिवेत्/",
+      "group": "BI",
+      "mean": "<p>ear-ring.</p>कानको कुण्डल; यार्लिङ् ।"
+    },
+    "03710": {
+      "dId": "ᤏᤠᤗᤡᤁᤢᤈᤧᤴ",
+      "desc": "/नालिकुजेन्/",
+      "group": "BI",
+      "mean": "<p>1. wage. 2. remuneration. 3. some edible offering to appease god.</p>१. दरमाहा । २. पारिश्रमिक । ३. देवता खुसी पार्न चढाइने खाद्यवस्तु ।"
+    },
+    "03711": {
+      "dId": "ᤏᤠᤗᤡᤱᤃᤧᤴ",
+      "desc": "/नालिङ्गेन्/",
+      "group": "BI",
+      "mean": "<p>proper age for reproduction; marriageable age.</p>सन्तानोत्पत्तिको लागि योग्य उमेर; विवाहयोग्य उमेर ।"
+    },
+    "03712": {
+      "dId": "ᤏᤠᤗᤡᤱᤃᤧᤴ ᤁᤢᤔᤣ᤺ᤳ/ᤁᤢᤔᤣᤋ᤻",
+      "desc": "/नालिङ्गेन् कुमेःत्/",
+      "group": "BI",
+      "mean": "<p>the first created woman.</p>प्रथम सृष्टि गरिएको स्त्री ।"
+    },
+    "03713": {
+      "dId": "ᤏᤠᤗᤡᤱᤎᤰ",
+      "desc": "/नालिङ्धक्/",
+      "group": "BI",
+      "mean": "<p>1. reference. 2. source.</p>१. प्रसङ्ग । २. स्रोत ।"
+    },
+    "03714": {
+      "dId": "ᤏᤠᤗᤡᤒᤠᤣ",
+      "desc": "/नालिबो/",
+      "group": "BI",
+      "mean": "<p>fisherman.</p>माझी; जाल हानेर माछा मार्ने मान्छे; जलारी ।"
+    },
+    "03715": {
+      "dId": "ᤏᤠᤘᤠ",
+      "desc": "/नावा/",
+      "group": "BI",
+      "mean": "<p>face; form; shape.</p>अनुहार; आकृति; रूप ।"
+    },
+    "03716": {
+      "dId": "ᤏᤠᤘᤠᤖᤠ",
+      "desc": "/नावारा/",
+      "group": "BI",
+      "mean": "<p>a kind of kaulo tree. Machilus odoratissima.</p>चिप्ले काउलो ।"
+    },
+    "03717": {
+      "dId": "ᤏᤠᤘᤠᤛᤡᤱ",
+      "desc": "/नावासिङ्/",
+      "group": "BI",
+      "mean": "<p>creation.</p>सृष्टि; सृष्टि-उत्पत्ति ।"
+    },
+    "03718": {
+      "dId": "ᤏᤠᤗᤡᤛᤠᤱ",
+      "desc": "/नालिसाङ्/",
+      "group": "BI",
+      "mean": "<p>bridegroom.</p>वर; बेहुला ।"
+    },
+    "03719": {
+      "dId": "ᤏᤠᤘᤠᤜᤵᤔᤠ",
+      "desc": "/नावाहप्मा/",
+      "group": "BI",
+      "mean": "<p>to wash one’s face.</p>मुख धुनु ।"
+    },
+    "03720": {
+      "dId": "ᤏᤠᤛ᤺ᤰᤐᤠ/ᤏᤠᤛᤁ᤻ᤐᤠ",
+      "desc": "/नासःक्पा/",
+      "group": "BI",
+      "mean": "<p>unmanly; coward.</p>नामर्द; काँतर; धक मान्ने; आँट नभएको ।"
+    },
+    "03721": {
+      "dId": "ᤏᤠᤛ᤺ᤰᤔᤠ/ᤏᤠᤛᤁ᤻ᤔᤠ",
+      "desc": "/नासःक्मा/",
+      "group": "BI",
+      "mean": "<p>(fem.) eunuchess; coward.</p>(स्त्री) नामर्द स्त्री; काँतर्नी; धक मान्ने; आँट नभएकी ।"
+    },
+    "03722": {
+      "dId": "ᤏᤠᤛ᤺ᤶᤔᤠ/ᤏᤠᤛᤔ᤻ᤔᤠ",
+      "desc": "/नासःम्मा/",
+      "group": "BI",
+      "mean": "<p>to look gloomy and guilty.</p>अँध्यारो मुख; हुनु ठुस्किनु ।"
+    },
+    "03723": {
+      "dId": "ᤏᤠᤛᤠ᤹",
+      "desc": "/नासा?/",
+      "group": "BI",
+      "mean": "<p>reliability.</p>पत्यार ।"
+    },
+    "03724": {
+      "dId": "ᤏᤠᤛᤠ᤹ᤔᤠ",
+      "desc": "/नासा?मा/",
+      "group": "BI",
+      "mean": "<p>to have faith in sb/sth.</p>पत्याउनु; विश्वास गर्नु ।"
+    },
+    "03725": {
+      "dId": "ᤏᤠᤛᤠ᤹ᤔᤧᤴᤎᤳ",
+      "desc": "/नासा?मेन्धत्/",
+      "group": "BI",
+      "mean": "<p>unreliability; lack of confidence.</p>अनपत्यार; अविश्वास ।"
+    },
+    "03726": {
+      "dId": "ᤏᤠᤛᤡ᤹/ᤏᤠᤛᤣ᤹",
+      "desc": "/नासि?/नासे?/",
+      "group": "BI",
+      "mean": "<p>patience; tolerance.</p>धैर्य; सहनशीलता ।"
+    },
+    "03727": {
+      "dId": "ᤏᤠᤛᤡᤱᤃᤧᤴ",
+      "desc": "/नासिङ्गेन्/",
+      "group": "BI",
+      "mean": "<p>subject to destruction; mortal; momentary.</p>गल्ने; नासिने; नाशवान्; क्षणभङ्गुर । "
+    },
+    "03728": {
+      "dId": "ᤏᤠᤛᤢᤔᤧᤴ",
+      "desc": "/नासुमेन्/",
+      "group": "BI",
+      "mean": "<p>next; further next; adjacent.</p>पल्लो; उत्तापट्टिको ।"
+    },
+    "03729": {
+      "dId": "ᤏᤠᤛᤢ᤺ᤶᤔᤠ/ᤏᤠᤛᤢᤔ᤻ᤔᤠ",
+      "desc": "/नासुःम्मा/",
+      "group": "BI",
+      "mean": "<p>to insult sb by contemptuous gestures.</p>लोप्य्राउनु (मुख) ।"
+    },
+    "03730": {
+      "dId": "ᤏᤠᤛᤣᤔᤧᤴᤎᤳ",
+      "desc": "/नासेमेन्धत्/",
+      "group": "BI",
+      "mean": "<p>intolerance.</p>अधैर्य ।"
+    },
+    "03731": {
+      "dId": "ᤏᤠᤜᤰᤗᤧᤱ",
+      "desc": "/नाहक्लेङ्/",
+      "group": "BI",
+      "mean": "<p>expression (facial); gesture; acting.</p>भावभङ्गिमा; भावभङ्गि ।"
+    },
+    "03732": {
+      "dId": "ᤏᤠᤜᤵᤔᤠ",
+      "desc": "/नाहप्मा/",
+      "group": "BI",
+      "mean": "<p>to wash face.</p>मुख धुनु ।"
+    },
+    "03733": {
+      "dId": "ᤏᤠᤜᤠᤱ",
+      "desc": "/नाहाङ्/",
+      "group": "BI",
+      "mean": "<p>[Tamor] directional conjnuction indicating that or this direction/side.</p>[तमर] “तिर”, “दिशातिर”, “पट्टि” आदि अर्थ बुझाउने नामयोगी शब्द ।"
+    },
+    "03734": {
+      "dId": "ᤏᤠᤜᤠᤱᤎᤠᤱ",
+      "desc": "/नाहाङ्धाङ्/",
+      "group": "BI",
+      "mean": "<p>the opposite side; the far side; the other side (esp of hills, mountains); beyond; across.</p>पल्लोपट्टि; उत्तापट्टि (डाँडाकाँडा आदिको) ।"
+    },
+    "03735": {
+      "dId": "ᤏᤠᤜᤠᤱᤔᤠ",
+      "desc": "/नाहाङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. incarnation of almighty God in the form of Fish (in Papo clan of Limbu); Fish incarnation. 2. a deity (male) of might and war, incarnation of almighty God, which is worshipped twice a year in the name of the head of each household to held his head high and renew his life force.</p>१. (ईश्वरको) मत्स्यावतार । २. शक्ति तथा रणको देवता, जसको पूजा वर्षमा दुईपटक घरमूलीको शीर उठाउने पूजाको रूपमा गरिन्छ ।"
+    },
+    "03736": {
+      "dId": "ᤏᤠᤜᤧᤴ",
+      "desc": "/नाहेन्/",
+      "group": "BI",
+      "mean": "<p>envy; jealousy; ill-will.</p>आँखीडाही; ईर्श्या ।"
+    },
+    "03737": {
+      "dId": "ᤏᤠᤜᤧᤵᤔᤠ",
+      "desc": "/नाहेप्मा/",
+      "group": "BI",
+      "mean": "<p>1. to feel jealousy; to be envious of; to envy sb/sth. 2. to envy sb; to suspect sb of an illegal connection.</p>१. डाह लाग्नु; आहारिस हुनु; ईर्श्या गर्नु; आँखिडाही गर्नु । २. आँखा लाउनु; शङ्का गर्नु ।"
+    },
+    "03738": {
+      "dId": "ᤏᤠ᤺ᤰᤆᤀᤡᤱ/ᤏᤠᤁ᤻ᤆᤀᤡᤱ",
+      "desc": "/नाःक्चइङ्/",
+      "group": "BI",
+      "mean": "<p>demand.</p>माग ।"
+    },
+    "03739": {
+      "dId": "ᤏᤠ᤺ᤰᤔᤠ/ᤏᤠᤁ᤻ᤔᤠ",
+      "desc": "/नाःक्मा/",
+      "group": "BI",
+      "mean": "<p>to beg; to ask for sth; to demand.</p>माग्नु; माग गर्नु ।"
+    },
+    "03740": {
+      "dId": "ᤏᤠ᤺ᤰᤗᤠ/ᤏᤠᤁ᤻ᤗᤠ",
+      "desc": "/नाःक्ला/",
+      "group": "BI",
+      "mean": "<p>especial demand of a particular choice.</p>फर्माइस ।"
+    },
+    "03741": {
+      "dId": "ᤏᤠ᤺ᤰᤛᤡᤱᤔᤠ/ᤏᤠᤁ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/नाःक्सिङ्मा/",
+      "group": "BI",
+      "mean": "<p>to demand from each other.</p>परस्परमा माग गर्नु; एकले अर्कोसित माग्नु ।"
+    },
+    "03742": {
+      "dId": "ᤏᤠ᤺ᤱ/ᤏᤠᤅ᤻",
+      "desc": "/नाःङ्/",
+      "group": "BI",
+      "mean": "<p>snow.</p>हिउँ ।"
+    },
+    "03743": {
+      "dId": "ᤏᤠ᤺ᤱᤄᤱ/ᤏᤠᤅ᤻ᤄᤱ",
+      "desc": "/नाःङ्घङ्/",
+      "group": "BI",
+      "mean": "<p>snow-line.</p>हिमरेखा ।"
+    },
+    "03744": {
+      "dId": "ᤏᤠ᤺ᤱᤄᤡ/ᤏᤠᤅ᤻ᤄᤡ ",
+      "desc": "/नाःङ्घि/",
+      "group": "BI",
+      "mean": "<p>high barren grassy-land.</p>चउर; नाँघी; उच्च ठाँउमा रहेको रूखपातविहीन घाँसिलो जग्गा ।"
+    },
+    "03745": {
+      "dId": "ᤏᤠ᤺ᤱᤈᤱ/ᤏᤠᤅ᤻ᤈᤱ",
+      "desc": "/नाःङ्जङ्/",
+      "group": "BI",
+      "mean": "<p>snow-peak.</p>हिमशिखर ।"
+    },
+    "03746": {
+      "dId": "ᤏᤠ᤺ᤱᤈᤱᤗᤡᤱ/ᤏᤠᤅ᤻ᤈᤱᤗᤡᤱ",
+      "desc": "/नाःङ्जङ्लिङ्/",
+      "group": "BI",
+      "mean": "<p>mountaineering.</p>पर्वतारोहण ।"
+    },
+    "03747": {
+      "dId": "ᤏᤠ᤺ᤱᤈᤱᤗᤡᤱᤒᤠ/ᤏᤠᤅ᤻ᤈᤱᤗᤡᤱᤒᤠ",
+      "desc": "/नाःङ्जङ्लिङ्बा/",
+      "group": "BI",
+      "mean": "<p>mountaineer.</p>पर्वतारोही ।"
+    },
+    "03748": {
+      "dId": "ᤏᤠ᤺ᤱᤈᤱᤗᤢᤱ/ᤏᤠᤅ᤻ᤈᤱᤗᤢᤱ",
+      "desc": "/नाःङ्जङ्लुङ्/",
+      "group": "BI",
+      "mean": "<p>Himalaya mountain (ranges).</p>हिमालय; हिमाल पर्वत ।"
+    },
+    "03749": {
+      "dId": "ᤏᤠ᤺ᤱᤒᤡᤳ/ᤏᤠᤅ᤻ᤒᤡᤳ",
+      "desc": "/नाःङ्बित्/",
+      "group": "BI",
+      "mean": "<p>yak.</p>याक; चौंरी गाई ।"
+    },
+    "03750": {
+      "dId": "ᤏᤠ᤺ᤱᤔᤠ/ᤏᤠᤅ᤻ᤔᤠ",
+      "desc": "/नाःङ्मा/",
+      "group": "BI",
+      "mean": "<p>[Tamor] to jump (horizontally) over.</p>[तमर] उफ्रेर नाघ्नु ।"
+    },
+    "03751": {
+      "dId": "ᤏᤠ᤺ᤱᤛᤣ᤹/ᤏᤠᤅ᤻ᤛᤣ᤹",
+      "desc": "/नाःङ्से?/",
+      "group": "BI",
+      "mean": "<p>apple. <i>Malus sylvestris.</i></p>स्याउ ।"
+    },
+    "03752": {
+      "dId": "ᤏᤠ᤺ᤱᤗᤡᤱᤄᤶ/ᤏᤠᤅ᤻ᤗᤡᤱᤄᤶ",
+      "desc": "/नाःङ्लिङ्घम्/",
+      "group": "BI",
+      "mean": "<p>mountaineering.</p>पर्वतारोहण ।"
+    },
+    "03753": {
+      "dId": "ᤏᤠ᤺ᤱᤗᤡᤱᤄᤶᤒᤠ/ᤏᤠᤅ᤻ᤗᤡᤱᤄᤶᤒᤠ",
+      "desc": "/नाःङ्लिङ्घम्बा/",
+      "group": "BI",
+      "mean": "<p>mountaineer.</p>पर्वतारोही ।"
+    },
+    "03754": {
+      "dId": "ᤏᤠ᤺ᤳ/ᤏᤠᤋ᤻",
+      "desc": "/नाःत्/",
+      "group": "BI",
+      "mean": "<p>imitation, observance/ follow up.</p>अनुसरण ।"
+    },
+    "03755": {
+      "dId": "ᤏᤠ᤺ᤳ/ᤏᤠᤋ᤻",
+      "desc": "/नाःत्छिङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. to drive/ to chase off each other. 2. to follow each other.</p>१. एकले अर्कोलाई खेद्नु; परस्परमा लखेटालखेट गर्नु । २. एकले अर्कोलाई पछ्याउनु ।"
+    },
+    "03763": {
+      "dId": "ᤏᤠ᤺ᤴᤇᤡᤱᤔᤠ/ᤏᤠᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/नाःन्छिङ्मा/",
+      "group": "BI",
+      "mean": "<p>1. to wrestle; to fight. 2. to wrestle/ fight with each other. 3. to defile one’s own cloth/body; to make oneself dirty.</p>१. लप्पा खेल्नु; झगडा गर्नु । २. परस्परमा लाप्पा, कुस्ती खेल्नु । ३. आफ्नो शरीर लुगा आदिमा आफैले फोहोर लगाउनु; फोहोर मैलामा डुब्नु वा दलिनु ।"
+    },
+    "03764": {
+      "dId": "ᤏᤠ᤺ᤴᤈᤡᤰ/ᤏᤠᤏ᤻ᤈᤡᤰ",
+      "desc": "/नाःन्जिक्/",
+      "group": "BI",
+      "mean": "<p>debate; argument.</p>तर्क ।"
+    },
+    "03765": {
+      "dId": "ᤏᤠ᤺ᤴᤎᤰ/ᤏᤠᤏ᤻ᤎᤰ",
+      "desc": "/नाःन्धक्/",
+      "group": "BI",
+      "mean": "<p>wrestling.</p>कुस्ती; मल्ल युद्ध ।"
+    },
+    "03766": {
+      "dId": "ᤏᤠ᤺ᤴᤎᤠᤱ/ᤏᤠᤏ᤻ᤎᤠᤱ",
+      "desc": "/नाःन्धाङ्/",
+      "group": "BI",
+      "mean": "<p>[Phedape] 1. direction; to. 2. opposite side; aside.</p>[फेदापे] १. पट्टि; तिर; दिशातिर । २. पल्लोपट्टि; उतापट्टि; पारिपट्टि ।"
+    },
+    "03767": {
+      "dId": "ᤏᤠ᤺ᤴᤒᤠᤣ/ᤏᤠᤏ᤻ᤒᤠᤣ",
+      "desc": "/नाःन्बो/",
+      "group": "BI",
+      "mean": "<p>competition.</p>होडबाजी; प्रतियोगिता ।"
+    },
+    "03768": {
+      "dId": "ᤏᤠ᤺ᤵ/ᤏᤠᤐ᤻",
+      "desc": "/नाःप्/",
+      "group": "BI",
+      "mean": "<p>a kind of insect; grass hoppers which eat paddy.</p>पँदेरो किरो; धानको बोटमा लाग्ने एक प्रकारको किरो ।"
+    },
+    "03769": {
+      "dId": "ᤏᤠ᤺ᤵᤔᤠ/ᤏᤠᤐ᤻ᤔᤠ",
+      "desc": "/नाःप्मा/",
+      "group": "BI",
+      "mean": "<p>1. to drive; to chase away. 2. to follow.</p>१. लखेट्नु; खेद्नु; धपाउनु । २. पिछा गर्नु; पछ्याउनु ।"
+    },
+    "03770": {
+      "dId": "ᤏᤠ᤺ᤔᤠ",
+      "desc": "/नाःमा/",
+      "group": "BI",
+      "mean": "<p>to feel tired; to be tired.</p>थाक्नु ।"
+    },
+    "03771": {
+      "dId": "ᤏᤠ᤺ᤶᤒᤢ/ᤏᤠᤔ᤻ᤒᤢ",
+      "desc": "/नाःम्बु/",
+      "group": "BI",
+      "mean": "<p>a kind of hand made blanket (of wool).</p>काम्लो; पाखी ।"
+    },
+    "03772": {
+      "dId": "ᤏᤠ᤺ᤶᤓᤣ/ᤏᤠᤔ᤻ᤓᤣ",
+      "desc": "/नाःम्भे/",
+      "group": "BI",
+      "mean": "<p>base; background.</p>आधार; पृष्ठभूमि ।"
+    },
+    "03773": {
+      "dId": "ᤏᤠ᤺ᤶᤔᤠ/ᤏᤠᤔ᤻ᤔᤠ",
+      "desc": "/नाःम्मा/",
+      "group": "BI",
+      "mean": "<p>1. to rest; to put down a load to take rest. 2. to win; to defeat sb. 3. to smear, soil or get dirt, foul (in to a human body). 4. to stir powder with water.</p>१. बिसाउनु; भारी बिसाएर बिश्राम गर्नु । २. परास्त गर्नु; जित्नु (कुस्ती, खेलाइमा) । ३. फोहोर वा मैलो लगाउनु वा पार्नु (शरिरमा) । ४. ओडाल्नु ।"
+    },
+    "03774": {
+      "dId": "ᤏᤠ᤺ᤶᤛᤡᤱᤔᤠ/ᤏᤠᤔ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/नाःम्सिङ्मा/",
+      "group": "BI",
+      "mean": "<p>to lean back against sth (in order to rest).</p>अडेसिनु; अडेस लगाएर बस्नु; अडेसिएर (आराम सँग) बस्नु ।"
+    }
+  }
+}

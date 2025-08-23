@@ -1,0 +1,1018 @@
+{
+  "Dic": {
+    "04258": {
+      "dId": "ᤐᤠ",
+      "desc": "/पा/",
+      "group": "BN",
+      "mean": "<p>1. a suffix added to an adverb or a noun word to make it an adjective. 2. a suffix signifying masculine gender. 3. an attitude particle expressing self evidential fact. 4. father.</p>१. क्रियाविशेषण वा नाम शब्दको पछाडि जोडिएर उक्त शब्दलाई विशेषण बनाउने प्रत्यय । २. शब्दको पुरूषवाची परसर्ग । ३. त्यसै । ४. बाबु; पिता ।"
+    },
+    "04259": {
+      "dId": "ᤐᤀᤡ᤺ᤳ/ᤐᤠᤀᤡᤋ᤻",
+      "desc": "/पाइःत्/",
+      "group": "BN",
+      "mean": "<p>blood relative (from parental side).</p>वंशज; हाडपट्टिको नाता ।"
+    },
+    "04260": {
+      "dId": "ᤐᤠ᤹ᤐᤠ᤺ᤴ/ᤐᤠ᤹ᤐᤠᤏ᤻",
+      "desc": "/पा?पाःन्/",
+      "group": "BN",
+      "mean": "<p>thinly (square or rectangular).</p>पातलो हुनेगरी (ठोस वस्तु) ।"
+    },
+    "04261": {
+      "dId": "ᤐᤠ᤹ᤐᤠ᤺ᤶᤔᤠ/ᤐᤠ᤹ᤐᤠᤔ᤻ᤔᤠ",
+      "desc": "/पा?पाःम्मा/",
+      "group": "BN",
+      "mean": "<p>(of solid) to. make thin.</p>पातलो पार्नु ।"
+    },
+    "04262": {
+      "dId": "ᤐᤠ᤹ᤐᤠ᤺ᤶᤒᤠ/ᤐᤠ᤹ᤐᤠᤔ᤻ᤒᤠ",
+      "desc": "/पा?पाःम्बा/",
+      "group": "BN",
+      "mean": "<p>thin.</p>पातलो ।"
+    },
+    "04263": {
+      "dId": "ᤐᤠᤁᤢᤴᤎᤣ",
+      "desc": "/पकुन्धे/",
+      "group": "BN",
+      "mean": "<p>parental hereditary property; inheritance; heritage.</p>पुस्तौनी सम्पत्ति; सम्पदा ।"
+    },
+    "04264": {
+      "dId": "ᤐᤠᤰᤂᤠᤵᤔᤡ ",
+      "desc": "/पाक्खाप्मि/",
+      "group": "BN",
+      "mean": "<p>fog or mist (on hill-top).</p>कुइरो (लेकमा लाग्ने) ।"
+    },
+    "04265": {
+      "dId": "ᤐᤠᤰᤂᤣ᤺ᤱ/ᤐᤠᤰᤂᤣᤅ᤻",
+      "desc": "/पाक्खेःङ्/",
+      "group": "BN",
+      "mean": "<p>bandage; band.</p>पट्टी; काम्रो बाँध्ने कपडा ।"
+    },
+    "04266": {
+      "dId": "ᤐᤠᤰᤆᤠᤣ",
+      "desc": "/पाक्चो/",
+      "group": "BN",
+      "mean": "<p>little finger.</p>कान्छी औंला ।"
+    },
+    "04267": {
+      "dId": "ᤐᤠᤰᤐᤠᤰ",
+      "desc": "/पाक्पाक्/",
+      "group": "BN",
+      "mean": "<p>being in a keen/touch/cut-throat competition; rivalry; in a rat-race.</p>तँछाड मछाड गर्ने चालाले ।"
+    },
+    "04268": {
+      "dId": "ᤐᤠᤰᤔᤠ",
+      "desc": "/पाक्मा/",
+      "group": "BN",
+      "mean": "<p>to overtake.</p>उछिन्नु; उछिनेर जानु ।"
+    },
+    "04269": {
+      "dId": "ᤐᤠᤰᤗᤢᤶ",
+      "desc": "/पाक्लुम्/",
+      "group": "BN",
+      "mean": "<p>ditch; pot-hole.</p>खोबिल्टो; खाडल ।"
+    },
+    "04270": {
+      "dId": "ᤐᤠᤃᤠ",
+      "desc": "/पागा/",
+      "group": "BN",
+      "mean": "<p>turban.</p>फेटा ।"
+    },
+    "04271": {
+      "dId": "ᤐᤠᤄᤢ᤺ᤱ/ᤐᤠᤄᤢᤅ᤻",
+      "desc": "/पाघुःङ्/",
+      "group": "BN",
+      "mean": "<p>[Phedape] river-valley.</p>[फेदापे] बेंसी; गडतीरको फाँट; नदि उपत्यका ।"
+    },
+    "04272": {
+      "dId": "ᤐᤠᤄᤣ᤺ᤱ/ᤐᤠᤄᤣᤅ᤻",
+      "desc": "/पाघेःङ्/",
+      "group": "BN",
+      "mean": "<p>inverted commas; quotation mark; ‘   ’.</p>उद्धरण चिन्ह; ‘   ’ ।"
+    },
+    "04273": {
+      "dId": "ᤐᤠᤱ",
+      "desc": "/पाङ्/",
+      "group": "BN",
+      "mean": "<p>1. foundation of a house. 2. folk. 3. originality.</p>१. जग; घडेरी । २. लोक; जनपद । ३. मौलिकता ।"
+    },
+    "04274": {
+      "dId": "ᤐᤠᤱᤃᤢᤍᤡᤶ",
+      "desc": "/पाङ्गुदिम्/",
+      "group": "BN",
+      "mean": "<p>occasion; ceremony; festive occasion/place.</p>महफिल; मनोरन्जनपूर्ण वा उत्सवमय सभा समारोह ।"
+    },
+    "04275": {
+      "dId": "ᤐᤠᤱᤃᤢᤍᤧᤴ",
+      "desc": "/पाङ्गुदेन्/",
+      "group": "BN",
+      "mean": "<p>stage.</p>मञ्च ।"
+    },
+    "04276": {
+      "dId": "ᤐᤠᤱᤃᤣ᤹ᤘᤠ",
+      "desc": "/पाङ्गे?वा/",
+      "group": "BN",
+      "mean": "<p>doll; toy.</p>खेलौना ।"
+    },
+    "04277": {
+      "dId": "ᤐᤠᤱᤃᤣ᤺ᤵᤐᤠ/ᤐᤠᤱᤃᤣᤐ᤻ᤐᤠ",
+      "desc": "/पाङ्गेःपा/",
+      "group": "BN",
+      "mean": "<p>naughty.</p>छुल्याहा ।"
+    },
+    "04278": {
+      "dId": "ᤐᤠᤱᤃᤧᤴ",
+      "desc": "/पाङ्गेन्/",
+      "group": "BN",
+      "mean": "<p>rainfall; rainwater.</p>वर्षा; वर्षाको पानी; वर्साद ।"
+    },
+    "04279": {
+      "dId": "ᤐᤠᤱᤃᤧᤴᤍᤡᤱ ᤘᤠᤜᤡᤳ",
+      "desc": "/पाङ्गेन्दिङ् वाहित्/",
+      "group": "BN",
+      "mean": "<p>(Mundhum) rainwater.</p>(मुन्धुम) वर्षाको पानी ।"
+    },
+    "04280": {
+      "dId": "ᤐᤠᤱᤃᤪᤡ ",
+      "desc": "/पाङ्ग्रि/",
+      "group": "BN",
+      "mean": "<p>a. wreath of red clay beads.</p>माटोबाट बनाइएको रातो दानाको माला ।"
+    },
+    "04281": {
+      "dId": "ᤐᤠᤱᤃᤪᤡᤔᤠ",
+      "desc": "/पाङ्ग्रिमा/",
+      "group": "BN",
+      "mean": "<p>one of the Yogini or evil stars.</p>भद्रा योगिनी ।"
+    },
+    "04282": {
+      "dId": "ᤐᤠᤱᤄᤴ",
+      "desc": "/पाङ्घन्/",
+      "group": "BN",
+      "mean": "<p>metal.</p>धातु ।"
+    },
+    "04283": {
+      "dId": "ᤐᤠᤱᤄᤡ ",
+      "desc": "/पाङ्घि/",
+      "group": "BN",
+      "mean": "<p>(electricity) wire.</p>(बिजुली आदिको) तार ।"
+    },
+    "04284": {
+      "dId": "ᤐᤠᤱᤄᤧ",
+      "desc": "/पाङ्घे/",
+      "group": "BN",
+      "mean": "<p>misunderstanding.</p>गलतफहमी; भ्रम ।"
+    },
+    "04285": {
+      "dId": "ᤐᤠᤅᤧᤶᤔᤠ",
+      "desc": "/पाङेम्मा/",
+      "group": "BN",
+      "mean": "<p>specialist.</p>विशेषज्ञ ।"
+    },
+    "04286": {
+      "dId": "ᤐᤠᤅᤡ᤺ᤵᤐᤠ/ᤐᤠᤅᤡᤐ᤻ᤐᤠ",
+      "desc": "/पाङ्ङिःप्पा/",
+      "group": "BN",
+      "mean": "<p>ordely; attendant; gateman; peon.</p>पियन; पाले; बैठके ।"
+    },
+    "04287": {
+      "dId": "ᤐᤠᤱᤈᤢᤶ",
+      "desc": "/पाङ्जुम्/",
+      "group": "BN",
+      "mean": "<p>bazaar; market.</p>हाट बजार ।"
+    },
+    "04288": {
+      "dId": "ᤐᤠᤱᤈᤧᤴ",
+      "desc": "/पाङ्जेन्/",
+      "group": "BN",
+      "mean": "<p>machine.</p>यन्त्र ।"
+    },
+    "04289": {
+      "dId": "ᤐᤠᤱᤍᤠ᤹",
+      "desc": "/पाङ्दा?/",
+      "group": "BN",
+      "mean": "<p>1. amulet. 2. herb.</p>१. जत्नर; जन्त्र; बुटी । २. जडीबुटी ।"
+    },
+    "04290": {
+      "dId": "ᤐᤠᤱᤍᤧᤴ",
+      "desc": "/पाङ्देन्/",
+      "group": "BN",
+      "mean": "<p>narrow pass or path; headquarter; station; locality.</p>गौंडा; सदरमुकाम; स्टेशन ।"
+    },
+    "04291": {
+      "dId": "ᤐᤠᤱᤍᤧᤛᤠᤶᤒᤠ",
+      "desc": "/पाङ्देम्साबा/",
+      "group": "BN",
+      "mean": "<p>local; native.</p>स्थानीय; रैथाने ।"
+    },
+    "04292": {
+      "dId": "ᤐᤠᤱᤎᤠᤣ᤺ᤰ/ᤐᤠᤱᤎᤠᤣᤁ᤻",
+      "desc": "/पाङ्धोःक्/",
+      "group": "BN",
+      "mean": "<p>place; site.</p>स्थल; स्थान; ठाँउ ।"
+    },
+    "04293": {
+      "dId": "ᤐᤠᤱᤏᤠ᤺ᤶᤎᤣ/ᤐᤠᤱᤏᤠᤔ᤻ᤓᤣ",
+      "desc": "/पाङ्नाःम्भे/",
+      "group": "BN",
+      "mean": "<p>base; foundation.</p>मुल आधार; आधारभूत ।"
+    },
+    "04294": {
+      "dId": "ᤐᤠᤱᤑ᤹ᤀᤡ ",
+      "desc": "/पाङ्फ?इ/",
+      "group": "BN",
+      "mean": "<p>a piece of long folded cloth worn round the waist (belt, girdle).</p>पटुका ।"
+    },
+    "04295": {
+      "dId": "ᤐᤠᤱᤒᤢ᤺ᤳ/ᤐᤠᤱᤒᤢᤋ᤻",
+      "desc": "/पाङ्बुःत्/",
+      "group": "BN",
+      "mean": "<p>ass; donkey.</p>गधा ।"
+    },
+    "04296": {
+      "dId": "ᤐᤠᤱᤒᤠᤣ᤺ᤶᤔᤠ/ᤐᤠᤱᤒᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/पाङ्बोःम्मा/",
+      "group": "BN",
+      "mean": "<p>wanderer; nomadic; gypsy.</p>यायावर; डुलन्ते ।"
+    },
+    "04297": {
+      "dId": "ᤐᤠᤱᤓᤣ᤹",
+      "desc": "/पाङ्भे?/",
+      "group": "BN",
+      "mean": "<p>village.</p>गाउँ ।"
+    },
+    "04298": {
+      "dId": "ᤐᤠᤱᤔᤠ",
+      "desc": "/पाङ्मा/",
+      "group": "BN",
+      "mean": "<p>to send sb.</p>(कसैलाई) पठाउनु ।"
+    },
+    "04299": {
+      "dId": "ᤐᤠᤱᤔᤡ ",
+      "desc": "/पाङ्मि/",
+      "group": "BN",
+      "mean": "<p>[Sikkim] representative; deputy; heri; ingeritor.</p>[सिक्किम] प्रतिनिधि; वारिस; उत्तराधिकारी । "
+    },
+    "04300": {
+      "dId": "ᤐᤠᤱᤔᤡ(ᤒᤠ)",
+      "desc": "/पाङ्मि(बा)/",
+      "group": "BN",
+      "mean": "<p>son-in-law; husband of daughter or niece.</p>ज्वाइँ; छोरी, भतिजी वा भान्जीको पति ।"
+    },
+    "04301": {
+      "dId": "ᤐᤠᤱᤔᤡᤖᤠ",
+      "desc": "/पाङ्मिरा/",
+      "group": "BN",
+      "mean": "<p>export.</p>निर्यात ।"
+    },
+    "04302": {
+      "dId": "ᤐᤠᤱᤔᤢᤱ",
+      "desc": "/पाङ्मुङ्",
+      "group": "BN",
+      "mean": "<p>an instrument of folk-music.</p>लोक बाजा ।"
+    },
+    "04303": {
+      "dId": "ᤐᤠᤱᤔᤢᤍᤡᤱ",
+      "desc": "/पाङ्मुदिङ्/",
+      "group": "BN",
+      "mean": "<p>small color beads, made of such beads.</p>पोते; पोतेको माला ।"
+    },
+    "04304": {
+      "dId": "ᤐᤠᤱᤕᤰ",
+      "desc": "/पाङ्यक/",
+      "group": "BN",
+      "mean": "<p>(foundation) site.</p>घडेरी ।"
+    },
+    "04305": {
+      "dId": "ᤐᤱᤕ᤺ᤰᤐᤠ/ᤐᤱᤕᤁ᤻ᤐᤠ",
+      "desc": "/पाङ्यक्पा/",
+      "group": "BN",
+      "mean": "<p>domestic.</p>घरेलु ।"
+    },
+    "04306": {
+      "dId": "ᤐᤱᤕ᤺ᤰ/ᤐᤱᤕᤁ᤻",
+      "desc": "/पाङ्यःक्/",
+      "group": "BN",
+      "mean": "<p>city; town.</p>शहर; नगर ।"
+    },
+    "04307": {
+      "dId": "ᤐᤠᤱᤕᤠ᤺ᤶᤒᤠ/ᤐᤠᤱᤕᤠᤔ᤻ᤒᤠ",
+      "desc": "/पाङ्याम्बा/",
+      "group": "BN",
+      "mean": "<p>householder.</p>गृहस्थ; गृहपति; गृहस्वामी ।"
+    },
+    "04308": {
+      "dId": "ᤐᤠᤱᤕᤰᤁᤡ ",
+      "desc": "/पाङ्यक्कि/",
+      "group": "BN",
+      "mean": "<p>transmitter.</p>प्रसारणयन्त्र ।"
+    },
+    "04309": {
+      "dId": "ᤐᤠᤱᤕᤢᤱ",
+      "desc": "/पाङ्युङ्/",
+      "group": "BN",
+      "mean": "<p>foundation.</p>आधार; जग ।"
+    },
+    "04310": {
+      "dId": "ᤐᤠᤱᤗᤠᤜᤡᤱᤗᤠ",
+      "desc": "/पाङ्लाहिङ्ला/",
+      "group": "BN",
+      "mean": "<p>inspiration; motivation.</p>उत्प्रेरणा; प्रेरणा ।"
+    },
+    "04311": {
+      "dId": "ᤐᤠᤱᤗᤡᤔᤠ",
+      "desc": "/पाङ्लिमा/",
+      "group": "BN",
+      "mean": "<p>daughter-in-law; wife of son or nephew.</p>बुहारी; छोरा, भान्जा, भतिजाकी पत्नी । "
+    },
+    "04312": {
+      "dId": "ᤐᤠᤱᤗᤡ᤺ᤔᤠ",
+      "desc": "/पाङ्लिःमा/",
+      "group": "BN",
+      "mean": "<p>[Chhathare] house-warming ceremony of a hew house; to move and settle in a newly built house.</p>[छथरे] घरपैचो घरपैंचो गर्नु ।"
+    },
+    "04313": {
+      "dId": "ᤐᤠᤱᤗᤠᤣ᤺ᤒᤠ",
+      "desc": "/पाङ्लोःबा/",
+      "group": "BN",
+      "mean": "<p>character of a play (drama etc).</p>पात्र (चरित्र) ।"
+    },
+    "04314": {
+      "dId": "ᤐᤠᤱᤗᤠᤣ᤺ᤔᤠ",
+      "desc": "/पाङ्लोःमा/",
+      "group": "BN",
+      "mean": "<p>characterisation; portrayal.</p>चरित्र- चित्रण ।"
+    },
+    "04315": {
+      "dId": "ᤐᤠᤱᤘᤠ",
+      "desc": "/पाङ्वा/",
+      "group": "BN",
+      "mean": "<p>1. profit; gain; advantage; benefit. 2. play; game; sport.</p>१. नाफा; फाइदा । २. खेल; खेलकुद ।"
+    },
+    "04316": {
+      "dId": "ᤐᤠᤱᤘᤠᤀᤡᤗᤠ",
+      "desc": "/पाङ्वाइला/",
+      "group": "BN",
+      "mean": "<p>play.</p>नाटक ।"
+    },
+    "04317": {
+      "dId": "ᤐᤠᤱᤘᤠᤀᤡᤗᤠᤒᤠ",
+      "desc": "/पाङ्वाइलाबा/",
+      "group": "BN",
+      "mean": "<p>dramatic.</p>नाटकीय ।"
+    },
+    "04318": {
+      "dId": "ᤐᤠᤱᤘᤠᤀᤡᤗᤠᤍᤧᤴ",
+      "desc": "/पाङ्वाइलादेन्/",
+      "group": "BN",
+      "mean": "<p>stage; auditorium.</p>रङ्गमञ्च; प्रेक्षालय ।"
+    },
+    "04319": {
+      "dId": "ᤐᤠᤱᤘᤠᤔᤠ",
+      "desc": "/पाङ्वामा/",
+      "group": "BN",
+      "mean": "<p>to play as children; to frolic.</p>खेल्नु; ख्यालठट्टा गर्नु ।"
+    },
+    "04320": {
+      "dId": "ᤐᤠᤱᤛᤠ᤺ᤳᤌᤡ/ᤐᤠᤱᤛᤠᤋ᤻ᤌᤡ ",
+      "desc": "/पाङ्साःत्थि/",
+      "group": "BN",
+      "mean": "<p>artery.</p>धमनी ।"
+    },
+    "04321": {
+      "dId": "ᤐᤠᤱᤛᤡᤱ",
+      "desc": "/पाङ्सिङ्/",
+      "group": "BN",
+      "mean": "<p>beam; the main beam on which rafters rest.</p>निदाल ।"
+    },
+    "04322": {
+      "dId": "ᤐᤠᤱᤛᤢ",
+      "desc": "/पाङ्सु/",
+      "group": "BN",
+      "mean": "<p>cush-cush; yam-pee. Dioscorea detoidea.</p>भ्यागुर ।"
+    },
+    "04323": {
+      "dId": "ᤐᤠᤱᤛᤢᤶᤔᤠ",
+      "desc": "/पाङ्सुम्मा/",
+      "group": "BN",
+      "mean": "<p>dowry.</p>दाइजो ।"
+    },
+    "04324": {
+      "dId": "ᤐᤠᤵᤐᤠ᤹",
+      "desc": "/पाप्पा?/",
+      "group": "BN",
+      "mean": "<p>father; an address to the father in third person.</p>पिता; ‘बाबु’ भनी तृतीय पुरूषका रुपमा भनिने शब्द ।"
+    },
+    "04325": {
+      "dId": "ᤐᤠᤶᤔᤣ",
+      "desc": "/पाम्मे/",
+      "group": "BN",
+      "mean": "<p>verb.</p>क्रिया; क्रियापद ।"
+    },
+    "04326": {
+      "dId": "ᤐᤠᤶᤔᤣᤐᤠᤣ",
+      "desc": "/पाम्मेपो/",
+      "group": "BN",
+      "mean": "<p>adverb.</p>क्रियाविशेषण।"
+    },
+    "04327": {
+      "dId": "ᤐᤠᤖᤠᤱ",
+      "desc": "/पाराङ्/",
+      "group": "BN",
+      "mean": "<p>upper/top floor of a house.</p>घरको माथिल्लो तला; बुइँगल ।"
+    },
+    "04328": {
+      "dId": "ᤐᤠᤖᤣ᤺ᤕᤠ",
+      "desc": "/पारेःया/",
+      "group": "BN",
+      "mean": "<p>large earthen jar.</p>घैँटो; घ्याम्पो ।"
+    },
+    "04329": {
+      "dId": "ᤐᤠᤷᤌᤠᤶ",
+      "desc": "/पार्थाम्/",
+      "group": "BN",
+      "mean": "<p>gift; present.</p>उपहार; कोसेली ।"
+    },
+    "04330": {
+      "dId": "ᤐᤠᤗᤡ ",
+      "desc": "/पालि/",
+      "group": "BN",
+      "mean": "<p>a hut with the ground storey used as a cattle shed and the upper one as a storeroom.</p>टहरो; खाोल्मा ।"
+    },
+    "04331": {
+      "dId": "ᤐᤠᤛᤠ",
+      "desc": "/पासा/",
+      "group": "BN",
+      "mean": "<p>moneybag; purse; wallet.</p>थैली ।"
+    },
+    "04332": {
+      "dId": "ᤐᤠᤛᤠᤱ",
+      "desc": "/पासाङ्/",
+      "group": "BN",
+      "mean": "<p>(attitude pcle) expressing a self evidential fact; certainly; definitely; of course; doubtless.</p>निश्चय नै, निसन्देह, निश्चित रूपमा आदि जनाउने निपात ।"
+    },
+    "04333": {
+      "dId": "ᤐᤠᤡᤛᤱ/ᤐᤛᤡᤱ",
+      "desc": "/पासिङ्/पसिङ्/",
+      "group": "BN",
+      "mean": "<p>a separate branch of the descendents of the same family whose death is to be mourned for thirteen days.</p>वंशको छुट्टिएको शाखा ।"
+    },
+    "04334": {
+      "dId": "ᤐᤠᤜᤠ᤺ᤴ/ᤐᤠᤜᤠᤏ᤻",
+      "desc": "/पाहाःन्/",
+      "group": "BN",
+      "mean": "<p>a word to denote the number of times the water is changed while distilling wine.</p>बाहान; पाने; रक्सी पार्दा फेरिएको पानीको पटक जनाउने शब्द ।"
+    },
+    "04335": {
+      "dId": "ᤐᤠᤜᤠᤖᤠ",
+      "desc": "/पाहारा/",
+      "group": "BN",
+      "mean": "<p>pissing and purging; urinating and defecating; relieving from call of the nature.</p>शौच कर्म ।"
+    },
+    "04336": {
+      "dId": "ᤐᤠ᤺ᤰᤂᤠ᤹/ᤐᤠᤁ᤻ᤂᤠ",
+      "desc": "/पाःक्खा?/",
+      "group": "BN",
+      "mean": "<p>outside of the house.</p>घरको बाहिरपट्टि ।"
+    },
+    "04337": {
+      "dId": "ᤐᤠ᤺ᤰᤂᤠ᤹ᤒᤠ/ᤐᤠᤁ᤻ᤂᤠᤒᤠ",
+      "desc": "/पाःक्खा?बा/",
+      "group": "BN",
+      "mean": "<p>outside; outdoors; external.</p>बाह्य; बाहिरको ।"
+    },
+    "04338": {
+      "dId": "ᤐᤠᤰᤂᤠᤣᤶ",
+      "desc": "/पाक्खोम्/",
+      "group": "BN",
+      "mean": "<p>very deep; profound.</p>धेरै गहिरो ।"
+    },
+    "04339": {
+      "dId": "ᤐᤠ᤺ᤰᤐᤠ/ᤐᤠᤁ᤻ᤐᤠ",
+      "desc": "/पाःक्पा/",
+      "group": "BN",
+      "mean": "<p>1. younger. 2. the youngest.</p>१. कान्छो; कनिष्ठ । २. उमेरमा सबभन्दा कान्छो; कान्छो; कनिष्ठ ।"
+    },
+    "04340": {
+      "dId": "ᤐᤠ᤺ᤰᤔᤠ/ᤐᤠᤁ᤻ᤔᤠ",
+      "desc": "/पाःक्मा/",
+      "group": "BN",
+      "mean": "<p>1. (fem.) younger. 2. (fem.) the youngest. 3. to be younger.</p>१. कान्छी; कनिष्ठा । २. उमेरमा सबभन्दा सानी; कान्छी; कनिष्ठा । ३. उमेरमा सानो हुनु ।"
+    },
+    "04341": {
+      "dId": "ᤐᤠ᤺ᤰᤘᤠ/ᤐᤠᤁ᤻ᤘᤠ",
+      "desc": "/पाःक्वा/",
+      "group": "BN",
+      "mean": "<p>1. fishing-net. 2. ladle.</p>१. माछा मार्ने हाते जाली । २. डाडु ।"
+    },
+    "04342": {
+      "dId": "ᤐᤠ᤺ᤱᤃᤡ/ᤐᤠᤅ᤻ᤃᤡ ",
+      "desc": "/पाःङ्गि/",
+      "group": "BN",
+      "mean": "<p>bangle; ring.</p>बाला; चुरा; कल्ली ।"
+    },
+    "04343": {
+      "dId": "ᤐᤠ᤺ᤱᤄᤧᤶ/ᤐᤠᤅ᤻ᤄᤧᤶ",
+      "desc": "/पाःङ्घेम्/",
+      "group": "BN",
+      "mean": "<p>figure of speech; rhetoric.</p>अलङ्कार ।"
+    },
+    "04344": {
+      "dId": "ᤐᤠ᤺ᤱᤔᤠ/ᤐᤠᤅ᤻ᤔᤠ",
+      "desc": "/पाःङ्मा/",
+      "group": "BN",
+      "mean": "<p>to get loose; to loosen/be loosened/unfastened.</p>फुस्कनु; खुस्कनु ।"
+    },
+    "04345": {
+      "dId": "ᤐᤠ᤺ᤳᤋᤠ/ᤐᤠᤋ᤻ᤋᤠ",
+      "desc": "/पाःत्ता/",
+      "group": "BN",
+      "mean": "<p>a special copper vessel used to cool water while distilling wine.</p>रक्सी पार्दा बाहानको लागि चिसो पानी हाल्ने, पीँध चुच्चो परेको, तामाको भाँडो ।"
+    },
+    "04346": {
+      "dId": "ᤐᤠ᤺ᤳᤋᤡᤗᤠ/ᤐᤠᤋ᤻ᤋᤡᤗᤠ",
+      "desc": "/पाःत्तिला/",
+      "group": "BN",
+      "mean": "<p>prose.</p>गद्य ।"
+    },
+    "04347": {
+      "dId": "ᤐᤠ᤺ᤳᤋᤪᤠᤣ/ᤐᤠᤋ᤻ᤋᤪᤠᤣ",
+      "desc": "/पाःत्त्रो/",
+      "group": "BN",
+      "mean": "<p>almanac; calendar.</p>पात्रो; पञ्चाङ्ग; तिथिपात्र ।"
+    },
+    "04348": {
+      "dId": "ᤐᤠ᤺ᤳᤌᤢᤱ/ᤐᤠᤋ᤻ᤌᤢᤱ",
+      "desc": "/पाःत्थुङ्/",
+      "group": "BN",
+      "mean": "<p>1. corporeal being; corporeal life; organism. 2. living being; organism.</p>१. शरीर युक्त जीवन; पार्थिव शरीर भएको जीवन । २. प्रणी ।"
+    },
+    "04349": {
+      "dId": "ᤐᤠ᤺ᤳᤗᤧ᤹ᤒᤠ/ᤐᤠᤋ᤻ᤗᤧ᤹ᤒᤠ",
+      "desc": "/पाःत्ले?बा/",
+      "group": "BN",
+      "mean": "<p>snail.</p>चिप्लेकिरो; शङ्खेकीरो।"
+    },
+    "04350": {
+      "dId": "ᤐᤠ᤺ᤴ/ᤐᤠᤏ᤻",
+      "desc": "/पाःन्/",
+      "group": "BN",
+      "mean": "<p>1. words; speech; talk. 2. language.</p>१. बोली; वचन; कुरा । २. भाषा ।"
+    },
+    "04351": {
+      "dId": "ᤐᤠ᤺ᤴ ᤁᤧ᤺ᤵᤔᤠ/ᤐᤠᤏ᤻ ᤁᤧᤐ᤻ᤔᤠ",
+      "desc": "/पाःन् केःप्मा/",
+      "group": "BN",
+      "mean": "<p>to keep arguing.</p>कुरा बढाउनु ।"
+    },
+    "04352": {
+      "dId": "ᤐᤠ᤺ᤴ ᤁᤠᤣ᤺ᤵᤔᤠ/ᤐᤠᤏ᤻ ᤁᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/पाःन् कोःप्मा/",
+      "group": "BN",
+      "mean": "<p>to do sth to be scolded.</p>भनाई खानु; भनिमाग्नु ।"
+    },
+    "04353": {
+      "dId": "ᤐᤠ᤺ᤴ ᤆᤶᤔᤠ/ᤐᤠᤏ᤻ ᤆᤶᤔᤠ",
+      "desc": "/पाःन् चम्मा/",
+      "group": "BN",
+      "mean": "<p>to announce.</p>उद्घोषण गर्नु ।"
+    },
+    "04354": {
+      "dId": "ᤐᤠ᤺ᤴ ᤆᤠ᤺ᤱᤔᤠ/ᤐᤠᤏ᤻ ᤆᤠᤅ᤻ᤔᤠ",
+      "desc": "/पाःन् चाःङ्मा/",
+      "group": "BN",
+      "mean": "<p>to discuss; to talk in detail.</p>छलफल गर्नु; बेलिबिस्तारसँग कुरा गर्नु ।"
+    },
+    "04355": {
+      "dId": "ᤐᤠ᤺ᤴ ᤆᤠᤣ᤺ᤰᤔᤠ/ᤐᤠᤏ᤻ ᤆᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/पाःन् चोःक्मा/",
+      "group": "BN",
+      "mean": "<p>to concoct; to cook a story; to (speak a) lie.</p>कुरा बनाउनु; ढाँट्नु; नभएको कुरा गर्नु; बनाएर कुरा गर्नु ।"
+    },
+    "04356": {
+      "dId": "ᤐᤠ᤺ᤴ ᤆᤣᤱᤔᤠ/ᤐᤠᤏ᤻ ᤆᤣᤱᤔᤠ",
+      "desc": "/पाःन् चेङ्मा/",
+      "group": "BN",
+      "mean": "<p>to elaborate/discribe in detail.</p>बेलीबिस्तार लगाउनु ।"
+    },
+    "04357": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤠ᤺ᤵᤔᤠ/ᤐᤠᤏ᤻ᤇᤠᤐ᤻ᤔᤠ",
+      "desc": "/पाःन्छाःप्मा/",
+      "group": "BN",
+      "mean": "<p>1. to talk/speak; to make or enable sb to talk/speak. 2. to call sb.</p>१. कुरा गर्नु; कसैसित कुरा गर्नु; कसैलाई कुरा गर्ने बनाउनु । २. बोलाउनु ।"
+    },
+    "04358": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤡᤱᤔᤠ/ᤐᤠᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/पाःन्छिङ्मा/",
+      "group": "BN",
+      "mean": "<p>to speak when possessed by a spirit.</p>दैवी शक्तिद्वारा बक्नु; देवता आङ्मा चढेको अवस्थामा बक्नु ।"
+    },
+    "04359": {
+      "dId": "ᤐᤠ᤺ᤴᤈᤠᤔᤠ/ᤐᤠᤏ᤻ᤈᤠᤔᤠ",
+      "desc": "/पाःन्जामा/",
+      "group": "BN",
+      "mean": "<p>to be scolded/chide/abused.</p>गाली खानु; गाली पाउनु ।"
+    },
+    "04360": {
+      "dId": "ᤐᤠ᤺ᤴ ᤋᤱᤔᤠ/ᤐᤠᤏ᤻ ᤋᤱᤔᤠ",
+      "desc": "/पाःन् तङ्मा/",
+      "group": "BN",
+      "mean": "<p>(of matters) to agree with; (of matters) to be.</p>कुरा मिल्नु ।"
+    },
+    "04361": {
+      "dId": "ᤐᤠ᤺ᤴ ᤌᤡᤰᤔᤠ/ᤐᤠᤏ᤻ ᤌᤡᤰᤔᤠ",
+      "desc": "/पाःन् थिक्मा/",
+      "group": "BN",
+      "mean": "<p>to accuse/charge/allege/blame.</p>दोष लगाउनु ।"
+    },
+    "04362": {
+      "dId": "ᤐᤠ᤺ᤴ ᤌᤢᤶᤔᤠ/ᤐᤠᤏ᤻ ᤌᤢᤶᤔᤠ",
+      "desc": "/पाःन् थुम्मा/",
+      "group": "BN",
+      "mean": "<p>to connect/settle the matter.</p>कुरा जोड्नु; कुरा मिलाउनु ।"
+    },
+    "04363": {
+      "dId": "ᤐᤠ᤺ᤴᤍᤠᤣᤔᤠ/ᤐᤠᤏ᤻ᤍᤠᤣᤔᤠ",
+      "desc": "/पाःन्दोमा/",
+      "group": "BN",
+      "mean": "<p>1. to argue; to answer back. 2. to oppose/protest.</p>१. मुख लाग्नु । २. बाधा-बिरोध गर्नु ।"
+    },
+    "04364": {
+      "dId": "ᤐᤠ᤺ᤴ ᤐᤱᤔᤠ/ᤐᤠᤏ᤻ ᤐᤱᤔᤠ",
+      "desc": "/पाःन् पङ्मा/",
+      "group": "BN",
+      "mean": "<p>to tell tales.</p>कुरा बोक्नु ।"
+    },
+    "04365": {
+      "dId": "ᤐᤠ᤺ᤴ ᤐᤡᤔᤠ/ᤐᤠᤏ᤻ ᤐᤡᤔᤠ",
+      "desc": "/पाःन् पिमा/",
+      "group": "BN",
+      "mean": "<p>[Phedape] to invite.</p>[फेदापे] निम्त्याउनु; निम्तो दिनु/गर्नु ।"
+    },
+    "04366": {
+      "dId": "ᤐᤠ᤺ᤴ ᤑᤢᤱᤔᤠ/ᤐᤠᤏ᤻ ᤑᤢᤱᤔᤠ",
+      "desc": "/पाःन् फङ्मा/",
+      "group": "BN",
+      "mean": "<p>to make a cause; to spilt out; to extort by trick(ery).</p>कुरा खुस्काउनु/थुत्नु ।"
+    },
+    "04367": {
+      "dId": "ᤐᤠ᤺ᤴ ᤑᤢ᤹ᤔᤠ/ᤐᤠᤏ᤻ ᤑᤢ᤹ᤔᤠ",
+      "desc": "/पाःन् फु?मा/",
+      "group": "BN",
+      "mean": "<p>1. to decide/sattle/finalize the matter. 2. to settle a marriage.</p>१. कुरा टुङ्ग्याउनु; निर्णयात्मक कुरा गर्नु । २. कुटीको कुरा छिन्नु; बिहेको कुरा टुङ्ग्याउनु ।"
+    },
+    "04368": {
+      "dId": "ᤐᤠ᤺ᤴ ᤑᤧ᤺ᤶᤔᤠ/ᤐᤠᤏ᤻ ᤑᤧᤔ᤻ᤔᤠ",
+      "desc": "/पाःन् फेःम्मा/",
+      "group": "BN",
+      "mean": "<p>to spoil the matter; to make a mistake in one’s talk.</p>कुरा बिगार्नु; कुरा बिराउनु ।"
+    },
+    "04369": {
+      "dId": "ᤐᤠ᤺ᤴ ᤑᤠᤣ᤺ᤵᤔᤠ/ᤐᤠᤏ᤻ ᤑᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/पाःन् फोःप्मा/",
+      "group": "BN",
+      "mean": "<p>to confuse; to divert the matter; to detain sb/ keep sb meanaged by talking.</p>कुरा अलमल्याउनु; अलमलमा पार्नु; कुराले अलमल्याइदिनु । "
+    },
+    "04370": {
+      "dId": "ᤐᤠ᤺ᤴ ᤔᤣᤵᤔᤠ/ᤐᤠᤏ᤻ ᤔᤣᤵᤔᤠ",
+      "desc": "/पाःन् मेप्मा/",
+      "group": "BN",
+      "mean": "<p>to sting one ot the quick with sharp words; to chide/scold/rebuke/reprimanded.</p>वचन लगाउनु; गाली गर्नु; हकार्नु ।"
+    },
+    "04371": {
+      "dId": "ᤐᤠ᤺ᤴ ᤕᤠᤰᤔᤠ/ᤐᤠᤏ᤻ ᤕᤠᤰᤔᤠ",
+      "desc": "/पाःन् याक्मा/",
+      "group": "BN",
+      "mean": "<p>to propose for girl’s marriage.</p>(केटीको लागि) कुरा चलाउनु ।"
+    },
+    "04372": {
+      "dId": "ᤐᤠ᤺ᤴ ᤗᤱᤔᤠ/ᤐᤠᤏ᤻ ᤗᤱᤔᤠ",
+      "desc": "/पाःन् लङ्मा/",
+      "group": "BN",
+      "mean": "<p>to dig out the matter.</p>कुरा कोट्याउनु ।"
+    },
+    "04373": {
+      "dId": "ᤐᤠ᤺ᤴ ᤗ᤺ᤔᤠ/ᤐᤠᤏ᤻ ᤗ᤺ᤔᤠ",
+      "desc": "/पाःन् लःमा/",
+      "group": "BN",
+      "mean": "<p>to understand thoroughly.</p>कुरा छिचोल्नु ।"
+    },
+    "04374": {
+      "dId": "ᤐᤠ᤺ᤴ ᤗᤧᤵᤔᤠ/ᤐᤠᤏ᤻ ᤗᤧᤵᤔᤠ",
+      "desc": "/पाःन् लेप्मा/",
+      "group": "BN",
+      "mean": "<p>1. to consent; to say ‘Yes’. 2. to start speaking; to begin one’s talk.</p>१. स्वीकार गर्नु; हो भन्नु; कुरा छोड्नु । २. कुरा शुरू गर्नु; बोल्न थाल्नु ।"
+    },
+    "04375": {
+      "dId": "ᤐᤠ᤺ᤴ ᤛᤡᤵᤔᤠ/ᤐᤠᤏ᤻ ᤛᤡᤵᤔᤠ",
+      "desc": "/पाःन् सिप्मा/",
+      "group": "BN",
+      "mean": "<p>to be stung with words; to sting sb with words.</p>कुरा बिझ्नु; कुराले बिझाउनु ।"
+    },
+    "04376": {
+      "dId": "ᤐᤠ᤺ᤴ ᤛᤢᤵᤔᤠ/ᤐᤠᤏ᤻ ᤛᤢᤵᤔᤠ",
+      "desc": "/पाःन् सुप्मा/",
+      "group": "BN",
+      "mean": "<p>to close/stop talking.</p>कुरा बन्द गर्नु ।"
+    },
+    "04377": {
+      "dId": "ᤐᤠ᤺ᤴ ᤛᤧ᤺ᤔᤠ/ᤐᤠᤏ᤻ ᤛᤧ᤺ᤔᤠ",
+      "desc": "/पाःन् सेःमा/",
+      "group": "BN",
+      "mean": "<p>to be publicised/public/given publicity; to publicise/make public/give publicity.</p>कुरा फिँज्जिनु; कुरा फैलाउनु/प्रचार गर्नु ।"
+    },
+    "04378": {
+      "dId": "ᤐᤠ᤺ᤴ ᤜ᤺ᤔᤠ/ᤐᤠᤏ᤻ ᤜ᤺ᤔᤠ",
+      "desc": "/पाःन् हःमा/",
+      "group": "BN",
+      "mean": "<p>(silence) to be broken.</p>शान्तिभङ्ग हुनु ।"
+    },
+    "04379": {
+      "dId": "ᤐᤠ᤺ᤴ ᤜᤡ᤺ᤔᤠ/ᤐᤠᤏ᤻ ᤜᤡ᤺ᤔᤠ",
+      "desc": "/पाःन् हिःमा/",
+      "group": "BN",
+      "mean": "<p>to distrot/twist (matter).</p>कुरा घुमाउनु; कुरा बटार्नु; कुरा बङ्ग्याउनु ।"
+    },
+    "04380": {
+      "dId": "ᤐᤠ᤺ᤴ ᤜᤢᤵᤔᤠ/ᤐᤠᤏ᤻ ᤜᤢᤵᤔᤠ",
+      "desc": "/पाःन् हुप्मा/",
+      "group": "BN",
+      "mean": "<p>to promise; to give one’s word; to commit; to make commitment.</p>कुरा गाँठो पार्नु; वचनवद्ध हुनु ।"
+    },
+    "04381": {
+      "dId": "ᤐᤠ᤺ᤴᤈᤠᤰ/ᤐᤠᤏ᤻ᤈᤠᤰ",
+      "desc": "/पाःन्जाक्/",
+      "group": "BN",
+      "mean": "<p>1. word; saying; statement. 2. proceeding.</p>१. भनाइ; वचन । २. प्रक्रिया ।"
+    },
+    "04382": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤢᤶ/ᤐᤠᤏ᤻ᤇᤢᤶ",
+      "desc": "/पाःन्छुम्/",
+      "group": "BN",
+      "mean": "<p>phrase.</p>पद; वाक्यांश ।"
+    },
+    "04383": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤣᤰ/ᤐᤠᤏ᤻ᤇᤣᤰ",
+      "desc": "/पाःन्छेक्/",
+      "group": "BN",
+      "mean": "<p>morpheme; part of a word.</p>रूपिम; शब्द; शब्दांश ।"
+    },
+    "04384": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤣᤰᤘᤠ/ᤐᤠᤏ᤻ᤇᤣᤰᤘᤠ",
+      "desc": "/पाःन्छेक्वा/",
+      "group": "BN",
+      "mean": "<p>word; glossary; dictionary.</p>शब्द; शब्दसंग्रह ।"
+    },
+    "04385": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤣ᤺ᤰᤘᤠᤓᤢ/ᤐᤠᤏ᤻ᤇᤣᤁ᤻ᤘᤠᤓᤢ",
+      "desc": "/पाःन्छेःक्वाभु/",
+      "group": "BN",
+      "mean": "<p>dictionary.</p>शब्दकोश ।"
+    },
+    "04386": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤠᤣᤳ/ᤐᤠᤏ᤻ᤇᤠᤣᤳ",
+      "desc": "/पाःन्छोत्/",
+      "group": "BN",
+      "mean": "<p>a word of promise; oath; promise; swearing; a given word.</p>वचन; बोल; कसम; किरिया ।"
+    },
+    "04387": {
+      "dId": "ᤐᤠ᤺ᤴᤇᤧᤘᤠ/ᤐᤠᤏ᤻ᤇᤧᤘᤠ",
+      "desc": "/पाःन्छेवा/",
+      "group": "BN",
+      "mean": "<p>speech; dialogue.</p>बोली; कुराकनी ।"
+    },
+    "04388": {
+      "dId": "ᤐᤠ᤺ᤴᤈᤠᤱ/ᤐᤠᤏ᤻ᤈᤠᤱ",
+      "desc": "/पाःन्जाःङ्/",
+      "group": "BN",
+      "mean": "<p>proposal.</p>प्रस्ताव; कुराको उठान ।"
+    },
+    "04389": {
+      "dId": "ᤐᤠ᤺ᤴᤈᤢᤶ/ᤐᤠᤏ᤻ᤈᤢᤶ",
+      "desc": "/पाःन्जुम्/",
+      "group": "BN",
+      "mean": "<p>phrase; idiom.</p>टुक्का; आहान ।"
+    },
+    "04390": {
+      "dId": "ᤐᤠ᤺ᤴᤈᤢᤶᤓᤠᤣ/ᤐᤠᤏ᤻ᤈᤢᤶᤓᤠᤣ",
+      "desc": "/पाःन्जुम्भो/",
+      "group": "BN",
+      "mean": "<p>committee.</p>समिति ।"
+    },
+    "04391": {
+      "dId": "ᤐᤠ᤺ᤴ-ᤋᤢᤶᤔᤩᤠᤱ/ᤐᤠᤏ᤻-ᤋᤢᤶᤔᤩᤠᤱ",
+      "desc": "/पाःन् -तुम्म्याङ्/",
+      "group": "BN",
+      "mean": "<p>gentleman; old man; respected member of a society.</p>भद्र-भलाद्मि; बुढ्यौली; बयोवृद्ध ।"
+    },
+    "04392": {
+      "dId": "ᤐᤠ᤺ᤴᤍᤱ/ᤐᤠᤏ᤻ᤍᤱ",
+      "desc": "/पाःन्दङ्/",
+      "group": "BN",
+      "mean": "<p>agreement; consent.</p>सहमति ।"
+    },
+    "04393": {
+      "dId": "ᤐᤠ᤺ᤴᤍᤠ᤹/ᤐᤠᤏ᤻ᤍᤠ᤹",
+      "desc": "/पाःन्दा?/",
+      "group": "BN",
+      "mean": "<p>topic; subject matter; theme; content.</p>विषयवस्तु; (कुराको) विषय; कुराको मेसो ।"
+    },
+    "04394": {
+      "dId": "ᤐᤠ᤺ᤴᤍᤠ᤹ᤜᤢᤵ/ᤐᤠᤏ᤻ᤍᤠ᤹ᤜᤢᤵ",
+      "desc": "/पाःन्दा?हुप्/",
+      "group": "BN",
+      "mean": "<p>rhyming.</p>अनुप्रास; छन्दोबद्धता ।"
+    },
+    "04395": {
+      "dId": "ᤐᤠ᤺ᤴᤍᤠᤣ/ᤐᤠᤏ᤻ᤍᤠᤣ",
+      "desc": "/पाःन्दो/",
+      "group": "BN",
+      "mean": "<p>opposition; protest.</p>विरोध ।"
+    },
+    "04396": {
+      "dId": "ᤐᤠ᤺ᤴᤎᤱ/ᤐᤠᤏ᤻ᤎᤱ",
+      "desc": "/पाःन्धङ्/",
+      "group": "BN",
+      "mean": "<p>brawl; wrangle; discussion; consultation.</p>वाक्युद्ध; छलफल ।"
+    },
+    "04397": {
+      "dId": "ᤐᤠ᤺ᤴᤎᤠᤔᤡᤱ/ᤐᤠᤏ᤻ᤎᤠᤔᤡᤱ",
+      "desc": "/पाःन्धामिङ्/",
+      "group": "BN",
+      "mean": "<p>agenda.</p>विषयसुची ।"
+    },
+    "04398": {
+      "dId": "ᤐᤠ᤺ᤴᤎᤡᤰ/ᤐᤠᤏ᤻ᤎᤡᤰ",
+      "desc": "/पाःन्धिक्/",
+      "group": "BN",
+      "mean": "<p>charge; allegation; accusation; blame.</p>दोष; आरोप; दोषारोपण ।"
+    },
+    "04399": {
+      "dId": "ᤐᤠ᤺ᤴᤎᤢᤶ/ᤐᤠᤏ᤻ᤎᤢᤶ",
+      "desc": "/पाःन्धुम्/",
+      "group": "BN",
+      "mean": "<p>idiom.</p>टुक्का ।"
+    },
+    "04400": {
+      "dId": "ᤐᤠ᤺ᤴᤎᤠᤣ᤹ᤔᤡᤱ/ᤐᤠᤏ᤻ᤎᤠᤠᤣ᤹ᤔᤡᤱ",
+      "desc": "/पाःन्धो?मिङ्/",
+      "group": "BN",
+      "mean": "<p>agenda.</p>कार्यसूचि; कार्यावलि ।"
+    },
+    "04401": {
+      "dId": "ᤐᤠ᤺ᤴᤏᤢᤰ/ᤐᤠᤏ᤻ᤏᤢᤰ",
+      "desc": "/पाःन्नुःक्/",
+      "group": "BN",
+      "mean": "<p>reply.</p>जवाफ ।"
+    },
+    "04402": {
+      "dId": "ᤐᤠ᤺ᤴᤏᤢᤵ/ᤐᤠᤏ᤻ᤏᤢᤵ",
+      "desc": "/पाःन्नुप्/",
+      "group": "BN",
+      "mean": "<p>conclusion.</p>उपसंहार ।"
+    },
+    "04403": {
+      "dId": "ᤐᤠ᤺ᤴᤏᤢᤵᤐᤠ᤺ᤴ/ᤐᤠᤏ᤻ᤏᤢᤵᤐᤠᤏ᤻",
+      "desc": "/पाःन्नुप्पाःन्/",
+      "group": "BN",
+      "mean": "<p>decision; resolution.</p>निर्णय ।"
+    },
+    "04404": {
+      "dId": "ᤐᤠ᤺ᤴ-ᤔᤧᤱᤄᤧᤶ/ᤐᤠᤏ᤻-ᤔᤧᤱᤄᤧᤶ",
+      "desc": "/पाःन्-मेङ्घेम्/",
+      "group": "BN",
+      "mean": "<p>disobedience; disregard; neglect.</p>अटेरीपन ।"
+    },
+    "04405": {
+      "dId": "ᤐᤠ᤺ᤴ-ᤔᤧᤴᤍᤱ/ᤐᤠᤏ᤻-ᤔᤧᤴᤍᤱ",
+      "desc": "/पाःन्-मेन्दङ्/",
+      "group": "BN",
+      "mean": "<p>people speaking another/a foreign language.</p>अन्य भाषाभाषी; विभाषी ।"
+    },
+    "04406": {
+      "dId": "ᤐᤠ᤺ᤴ-ᤗᤰ/ᤐᤠᤏ᤻-ᤗᤰ",
+      "desc": "/पाःन्-लक्/",
+      "group": "BN",
+      "mean": "<p>syllable; letter; part of a word.</p>अक्षर; शब्दांश; पदांश ।"
+    },
+    "04407": {
+      "dId": "ᤐᤠ᤺ᤴᤗᤠ᤹/ᤐᤠᤏ᤻ᤗᤠ᤹",
+      "desc": "/पाःन्ला?/",
+      "group": "BN",
+      "mean": "<p>rhetoric.</p>अलङ्कार ।"
+    },
+    "04408": {
+      "dId": "ᤐᤠ᤺ᤴ-ᤗᤢᤵ/ᤐᤠᤏ᤻-ᤗᤢᤵ",
+      "desc": "/पाःन्-लुप्/",
+      "group": "BN",
+      "mean": "<p>compound of words; phrase.</p>समास; पदावलि; समस्त पद ।"
+    },
+    "04409": {
+      "dId": "ᤐᤠ᤺ᤴᤗᤧᤰ/ᤐᤠᤏ᤻ᤗᤧᤰ",
+      "desc": "/पाःन्लेक्/",
+      "group": "BN",
+      "mean": "<p>translation.</p>अनुवाद ।"
+    },
+    "04410": {
+      "dId": "ᤐᤠ᤺ᤴᤗᤧᤰᤂᤣ/ᤐᤠᤏ᤻ᤗᤧᤰᤂᤣ",
+      "desc": "/पाःन्लेक्खे/",
+      "group": "BN",
+      "mean": "<p>satirical; ironical; cynical.</p>व्यङ्ग्यात्मक ।"
+    },
+    "04411": {
+      "dId": "ᤐᤠ᤺ᤴᤗᤧᤱ/ᤐᤠᤏ᤻ᤗᤧᤱ",
+      "desc": "/पाःन्लेङ्/",
+      "group": "BN",
+      "mean": "<p>transcription.</p>लिप्यान्तर आलेखन ।"
+    },
+    "04412": {
+      "dId": "ᤐᤠ᤺ᤴᤛᤢᤶ/ᤐᤠᤏ᤻ᤛᤢᤶ",
+      "desc": "/पाःन्सुम्/",
+      "group": "BN",
+      "mean": "<p>summary.</p>सारांश ।"
+    },
+    "04413": {
+      "dId": "ᤐᤠ᤺ᤴᤜᤢᤵ/ᤐᤠᤏ᤻ᤜᤢᤵ",
+      "desc": "/पाःन्हुप्/",
+      "group": "BN",
+      "mean": "<p>verbal promise/pledge.</p>कुराको गाँठो; वचनवद्धता ।"
+    },
+    "04414": {
+      "dId": "ᤐᤠ᤺ᤵᤏᤠ/ᤐᤠᤐ᤻ᤏᤠ",
+      "desc": "/पाःप्ना/",
+      "group": "BN",
+      "mean": "<p>conjugation; declension.</p>रूपावलि ।"
+    },
+    "04415": {
+      "dId": "ᤐᤠ᤺ᤵᤐᤠᤱᤔᤠ/ᤐᤠᤐ᤻ᤐᤠᤱᤔᤠ",
+      "desc": "/पाःप्पाङ्मा/",
+      "group": "BN",
+      "mean": "<p>1. to cause sb to say/speak. 2. to allow or make sb to speak or say.</p>१. भन्न लगाउनु; बोल्न लगाउनु । २. बोल्न दिनु; भन्न दिनु ।"
+    },
+    "04416": {
+      "dId": "ᤐᤠ᤺ᤵᤔᤠ/ᤐᤠᤐ᤻ᤔᤠ",
+      "desc": "/पाःप्मा/",
+      "group": "BN",
+      "mean": "<p>to speak/talk to oneself; soliloquize.</p>(आँफैसँग) बोल्नु ।"
+    },
+    "04417": {
+      "dId": "ᤐ᤺ᤒᤠ᤺ᤰᤐᤠ/ᤐᤠ᤺ᤒᤠᤁ᤻ᤐᤠ",
+      "desc": "/पाःबाःक्पा/",
+      "group": "BN",
+      "mean": "<p>step-father.</p>झड्केलो बाबु ।"
+    },
+    "04418": {
+      "dId": "ᤐᤠ᤺ᤶᤒᤠ᤺ᤴ/ᤐᤠᤔ᤻ᤒᤠᤏ᤻",
+      "desc": "/पाःम्बाःन्/",
+      "group": "BN",
+      "mean": "<p>1. (of liquid) thin. 2. (of solid) thin; not fat/thick; opposite to ‘thick’. 3. sparse.</p>१. (तरल पदार्थ) पन्यालो । २. (ठोस पदार्थ) पातलो; मोटाइ कम भएको; बाक्लोको बिपरीत । ३. पातलो; अलग अलग छरिएर रहेको ।"
+    },
+    "04419": {
+      "dId": "ᤐᤠ᤺ᤶᤓ᤺ᤴ/ᤐᤠᤔ᤻ᤓᤏ᤻",
+      "desc": "/पाःम्भःन्/",
+      "group": "BN",
+      "mean": "<p>propaganda; publicity.</p>प्रचार ।"
+    },
+    "04420": {
+      "dId": "ᤐᤠ᤺ᤶᤓᤢᤱ/ᤐᤠᤔ᤻ᤓᤢᤱ",
+      "desc": "/पाःम्भुङ्/",
+      "group": "BN",
+      "mean": "<p>compound of words.</p>समास ।"
+    },
+    "04421": {
+      "dId": "ᤐᤠ᤺ᤶᤓᤠᤣ/ᤐᤠᤔ᤻ᤓᤠᤣ",
+      "desc": "/पाःम्भो/",
+      "group": "BN",
+      "mean": "<p>rumour; exaggeration; over-statement; superfuous matter (or talk)</p>हल्ला; अतिशयोक्ति ।"
+    },
+    "04422": {
+      "dId": "ᤐᤠ᤺ᤶᤓᤩᤠᤰᤐᤠ/ᤐᤠᤔ᤻ᤓᤩᤠᤰᤐᤠ",
+      "desc": "/पाःम्भ्याक्पा/",
+      "group": "BN",
+      "mean": "<p>chatty; boastful; gossipy.</p>गफी ।"
+    },
+    "04423": {
+      "dId": "ᤐᤠ᤺ᤶᤔᤠ/ᤐᤠᤔ᤻ᤔᤠ",
+      "desc": "/पाःम्मा/",
+      "group": "BN",
+      "mean": "<p>(beer, milk etc) to be thin/to thin down.</p>(जाँड दुध आदि) पन्यालो हुनु; पातलो हुनु ।"
+    },
+    "04424": {
+      "dId": "ᤐᤠ᤺ᤸᤗᤠ᤺ᤶ/ᤐᤠᤗ᤻ᤗᤠᤔ᤻",
+      "desc": "/पाःल्लाम्/",
+      "group": "BN",
+      "mean": "<p>1. special song sung during Dhannach (paddy dance). 2. love-song.</p>१. धाननाच नाच्दा गाइने गीत । २. मायाको गीत; प्रेमगीत ।"
+    },
+    "04425": {
+      "dId": "ᤐᤠ᤺ᤸᤗᤧᤰ/ᤐᤠᤗ᤻ᤗᤧᤰ",
+      "desc": "/पाःल्लेक्/",
+      "group": "BN",
+      "mean": "<p>translation.</p>अनुवाद ।"
+    },
+    "04426": {
+      "dId": "ᤐᤠ᤺ᤸᤗᤧᤱᤔᤠ/ᤐᤠᤗ᤻ᤗᤧᤱᤔᤠ",
+      "desc": "/पाःल्लेङ्मा/",
+      "group": "BN",
+      "mean": "<p>1. to lie; to say (sth) topsy-turvy. 2. to translate.</p>१. झूटो कुरा गर्नु; ढाँट्नु । २. अनुवाद गर्नु ।"
+    }
+  }
+}

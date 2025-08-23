@@ -1,0 +1,760 @@
+{
+  "Dic": {
+    "02916": {
+      "dId": "ᤋᤡ ",
+      "desc": "/ति/",
+      "group": "BA",
+      "mean": "<p>cane. Calamus sp.</p>बेत ।"
+    },
+    "02917": {
+      "dId": "ᤋᤡᤰ",
+      "desc": "/तिक्/",
+      "group": "BA",
+      "mean": "<p>mortgage (land).</p>डिक; बन्धक (जमिन) ।"
+    },
+    "02918": {
+      "dId": "ᤋᤡᤰᤋᤡᤰᤐᤠ",
+      "desc": "/तिक्तिक्पा/",
+      "group": "BA",
+      "mean": "<p>1. pulse. 2. pulse rate; palpitation.</p>१. नाडी । २. नाडीको गति; नाडीको चाल ।"
+    },
+    "02919": {
+      "dId": "ᤋᤡᤰᤐᤠ ᤑᤢᤱ",
+      "desc": "/तिक्पा फुङ्/",
+      "group": "BA",
+      "mean": "<p>a kind of flower.</p>तरवारे फुल ।"
+    },
+    "02920": {
+      "dId": "ᤋᤡᤰᤘᤠ",
+      "desc": "/तिक्वा/",
+      "group": "BA",
+      "mean": "<p>partridge. Lophura leuchomelana.</p>कालिज ।"
+    },
+    "02921": {
+      "dId": "ᤋᤡᤰᤛᤡᤱ",
+      "desc": "/तिक्सिङ्/",
+      "group": "BA",
+      "mean": "<p>teak wood.</p>टिकको रूख ।"
+    },
+    "02922": {
+      "dId": "ᤋᤡᤱᤃᤠᤱ",
+      "desc": "/तिङ्गाङ्/",
+      "group": "BA",
+      "mean": "<p>fork.</p>मासु आदि रोपेर खाने तिखो वस्तु; काँटा ।"
+    },
+    "02923": {
+      "dId": "ᤋᤡᤱᤃᤪᤡᤱᤘᤠ",
+      "desc": "/तिङ्ग्रिङ्वा/",
+      "group": "BA",
+      "mean": "<p>Indian plum. Zizyphus jujuba.</p>वयर ।"
+    },
+    "02924": {
+      "dId": "ᤋᤡᤱᤃᤪᤣ᤺ᤰᤐᤠ/ᤋᤡᤱᤃᤪᤣᤁ᤻ᤐᤠ",
+      "desc": "/तिङ्ग्रेःक्पा/",
+      "group": "BA",
+      "mean": "<p>thorn.</p>काँडा ।"
+    },
+    "02925": {
+      "dId": "ᤋᤡᤱᤃᤠᤣᤶ",
+      "desc": "/तिङ्गोम्/",
+      "group": "BA",
+      "mean": "<p>with a prick(ing); tinkling; buzzing.</p>झननन गर्दै दुख्ने काइदा ।"
+    },
+    "02926": {
+      "dId": "ᤋᤡᤱᤍᤡᤱ",
+      "desc": "/तिङ्दङ्/",
+      "group": "BA",
+      "mean": "<p>as sharp as thorn (eg: full of warth or anger).</p>काँडा झैं तिखो, (जस्तै:-रिस वा चर्को क्रोध) ।"
+    },
+    "02927": {
+      "dId": "ᤋᤡᤱᤍᤡᤱᤃᤣ",
+      "desc": "/तिङ्दङ्गे/",
+      "group": "BA",
+      "mean": "<p>adventurous; courageous; daring.</p>साहसिक; वीरतापूर्ण; आँटिलो ।"
+    },
+    "02928": {
+      "dId": "ᤋᤡᤱᤍᤡᤱᤃᤣᤂᤠᤣᤒᤠ",
+      "desc": "/तिङ्दङ्गेखोबा/",
+      "group": "BA",
+      "mean": "<p>explorer; adventurer.</p>अभियानकर्ता ।"
+    },
+    "02929": {
+      "dId": "ᤋᤡᤱᤔᤠ",
+      "desc": "/तिङ्मा/",
+      "group": "BA",
+      "mean": "<p>(of the foreskin) to peel back.</p>पिल्सनु; खुल्कनु ।"
+    },
+    "02930": {
+      "dId": "ᤋᤡᤱᤘᤠᤍᤠᤱ",
+      "desc": "/तिङ्वादाङ्/",
+      "group": "BA",
+      "mean": "<p>red raspberry which grows over ground in uplands. Rubus niveus.</p>भुइँ ऐँसेलु (लेकाली भेगमा भुइँमा फल्ने) ।"
+    },
+    "02931": {
+      "dId": "ᤋᤡᤱᤘᤠᤛᤣ᤺ᤰ/ᤋᤡᤱᤘᤠᤛᤣᤁ᤻",
+      "desc": "/तिङ्वासेःक्/",
+      "group": "BA",
+      "mean": "<p>yellow Himalayan ruspberry; Rubus ellipticus.</p>ऐँसेलु ।"
+    },
+    "02932": {
+      "dId": "ᤋᤡᤱᤛᤡᤱ",
+      "desc": "/तिङ्सिङ्/",
+      "group": "BA",
+      "mean": "<p>rubber tree.</p>रबरको रूख ।"
+    },
+    "02933": {
+      "dId": "ᤋᤡᤆ᤹/ᤋᤡᤆᤨ᤹",
+      "desc": "/तिच?/",
+      "group": "BA",
+      "mean": "<p>1. feather of crest in the crown. 2. a phonetic symbol or diacritic mark in the Sirijunga script for rounded vowel / /; the symbol represent such sound in the Sirijunga script, eg: “j”.</p>१. कल्की । २. सिरिजङ्ग लिपिमा लिम्बू वर्णमालाको गोलित ‘अ’ ध्वनि बुझाउने यस्तो चिन्ह “”।"
+    },
+    "02934": {
+      "dId": "ᤋᤡᤍᤡᤱ",
+      "desc": "/तिदिङ्/",
+      "group": "BA",
+      "mean": "<p>bright; full of light.</p>उज्ज्वल; प्रकाशमान; जाज्वल्यमान ।"
+    },
+    "02935": {
+      "dId": "ᤋᤡᤒᤣᤗᤠᤒᤣ",
+      "desc": "/तिबेलाबे/",
+      "group": "BA",
+      "mean": "<p>eternally; forever; always.</p>सदासर्वदा ;नित्य; जहिले तहिले ।"
+    },
+    "02936": {
+      "dId": "ᤋᤡᤔᤡ ",
+      "desc": "/तिमि/",
+      "group": "BA",
+      "mean": "<p>one of the 27 constellations.</p>पूर्वा फाल्गुनी ( नक्षत्र) ।"
+    },
+    "02937": {
+      "dId": "ᤋᤡᤔᤡᤰ",
+      "desc": "/तिमिक्/",
+      "group": "BA",
+      "mean": "<p>key.</p>साँचो; चाबी ।"
+    },
+    "02938": {
+      "dId": "ᤋᤡᤶᤔᤰ",
+      "desc": "/तिम्मक्/",
+      "group": "BA",
+      "mean": "<p>gun.</p>बन्दुक ।"
+    },
+    "02939": {
+      "dId": "ᤋᤡᤶᤔᤠ",
+      "desc": "/तिम्मा/",
+      "group": "BA",
+      "mean": "<p>1. to be full; to fill up. 2. to cut into long slices (of meat).</p>१. भरिनु । २. सिल पारेर काट्नु (जस्तै:- मासु); सिल पार्नु ।"
+    },
+    "02940": {
+      "dId": "ᤋᤡᤶᤛᤡᤱᤔᤠ",
+      "desc": "/तिम्सिङ्मा/",
+      "group": "BA",
+      "mean": "<p>initiation or induction ceremony organised for declaration or induction conferring of priesthood or Phedangma.</p>फेदाङ्मा निस्कने घोषणाको समारोह ।"
+    },
+    "02941": {
+      "dId": "ᤋᤡᤕᤠᤋᤡᤗᤡᤱ",
+      "desc": "/तियातिलिङ्/",
+      "group": "BA",
+      "mean": "<p>1. triumph; conquest; victory; ceremony of triumph. 2. cry of victory.</p>१. जय, विजयको उत्सव । २. जयजयकार; जयघोष ।"
+    },
+    "02942": {
+      "dId": "ᤋᤡᤕᤠᤗᤡᤱ",
+      "desc": "/तियालिङ्/",
+      "group": "BA",
+      "mean": "<p>1. a term or address of congratulation; congratulatory address. 2. congratulation.</p>१. ‘जय होस’ भनी शुभकामना व्यक्त गर्ने शब्द । २. बधाई; स्याबासी ।"
+    },
+    "02943": {
+      "dId": "ᤋᤡᤕᤠᤜᤠ",
+      "desc": "/तियाहा/",
+      "group": "BA",
+      "mean": "<p>1. slogan raised to mark a festive or happy occasion or victory. 2. long live.</p>१. “जय! जय!” आदि भनिने जयजयकार ध्वनि; जयघोष । २. जिन्दाबाद ।"
+    },
+    "02944": {
+      "dId": "ᤋᤡᤕᤧᤀᤡ ",
+      "desc": "/तियेइ/",
+      "group": "BA",
+      "mean": "<p>brightness.</p>झिलिमिली; उज्यालो; चहकमहक ।"
+    },
+    "02945": {
+      "dId": "ᤋᤡᤕᤧᤴ",
+      "desc": "/तियेन्/",
+      "group": "BA",
+      "mean": "<p>brightness.</p>उज्ज्वलता; उज्यालो/ चहकिलोपना ।"
+    },
+    "02946": {
+      "dId": "ᤋᤡᤗᤡᤱᤃᤠ",
+      "desc": "/तिलिङ्गा/",
+      "group": "BA",
+      "mean": "<p>police.</p>प्रहरी (पुलिस) ।"
+    },
+    "02947": {
+      "dId": "ᤋᤡᤸᤗᤡᤛᤠᤣᤕᤠᤱ",
+      "desc": "/तिल्लिसोयाङ्/",
+      "group": "BA",
+      "mean": "<p>1. coin of Mughal India. 2. Indian coin.</p>१. मुगलकालीन भारतीय टक । २. भारतीय सिक्का ।"
+    },
+    "02948": {
+      "dId": "ᤋᤡᤸᤗᤠ᤺ᤰ/ᤋᤡᤸᤗᤠᤁ᤻",
+      "desc": "/तिल्लाःक्/",
+      "group": "BA",
+      "mean": "<p>(n.) flash (of lightning). (adv.) in a flash.</p>(ना.) बिजुलीको चमक/ झिल्को । (क्रिवि.) झिलिक्क ।"
+    },
+    "02949": {
+      "dId": "ᤋᤡᤸᤗᤠ᤺ᤰᤐᤠ/ᤋᤡᤸᤗᤠᤁ᤻ᤐᤠ",
+      "desc": "/तिल्लाःक्पा/",
+      "group": "BA",
+      "mean": "<p>dumb.</p>लाटो ।"
+    },
+    "02950": {
+      "dId": "ᤋᤡᤸᤗᤢᤶ",
+      "desc": "/तिल्लुम्/",
+      "group": "BA",
+      "mean": "<p>zodiac.</p>राशिचक्र; सुर्यको वर्षभरी घुम्ने बाटो ।"
+    },
+    "02951": {
+      "dId": "ᤋᤡ᤺ᤰᤐᤠ/ᤋᤡᤁ᤻ᤐᤠ",
+      "desc": "/तिःक्पा/",
+      "group": "BA",
+      "mean": "<p>chess; a kind of game of chess of  Limbu ethnic people having 64 cabins/ closets.</p>बुद्धिचाल; बाघचालसँग मिल्दोजुल्दो एक प्रकारको लिम्बु जातीय खेल, जसमा ६४ वटा खेलकोठा हुन्छन ।"
+    },
+    "02952": {
+      "dId": "ᤋᤡ᤺ᤰᤔᤠ/ᤋᤡᤁ᤻ᤔᤠ",
+      "desc": "/तिःक्मा/",
+      "group": "BA",
+      "mean": "<p>1. (of foreskin) to be peeled off; to be cast off (as skin of snake). 2. to follow (intentionally); to follow sb. 3. to imitate, follow.</p>१. खुइलिनु; खुल्कनु; पिल्सनु; काँचुली फेरिनु । २. पछ्याउनु; पछि लाग्नु । ३. अनुकरण गर्नु ।"
+    },
+    "02953": {
+      "dId": "ᤋᤡ᤺ᤰᤗᤠ/ᤋᤡᤁ᤻ᤗᤠ",
+      "desc": "/तिःक्ला/",
+      "group": "BA",
+      "mean": "<p>1. procession. 2. members of wedding procession.</p>१. लहर; जुलुस । २. जन्ती ।"
+    },
+    "02954": {
+      "dId": "ᤋᤡ᤺ᤱᤔᤠ/ᤋᤡᤅ᤻ᤔᤠ",
+      "desc": "/तिःङ्मा/",
+      "group": "BA",
+      "mean": "<p>to thread/ insert thread (in the needle eye, beads, flowers, etc); to string (beads).</p>उन्नु (सियोमा धागो, फूलको माला आदि) ।"
+    },
+    "02955": {
+      "dId": "ᤋᤡ᤺ᤳᤗᤢᤱ/ᤋᤡᤋ᤻ᤗᤢᤱ",
+      "desc": "/तिःत्लुङ्/",
+      "group": "BA",
+      "mean": "<p>bright/ shining stone.</p>चम्किलो ढुङ्गा ।"
+    },
+    "02956": {
+      "dId": "ᤋᤡ᤺ᤵ/ᤋᤡᤐ᤻",
+      "desc": "/तिःप्/",
+      "group": "BA",
+      "mean": "<p>a kind of fish trap.</p>टिप; चोयाले बुनेको माछा मार्ने एक प्रकारको पासो ।"
+    },
+    "02957": {
+      "dId": "ᤋᤡ᤺ᤵᤔᤠ/ᤋᤡᤐ᤻ᤔᤠ",
+      "desc": "/तिःप्मा/",
+      "group": "BA",
+      "mean": "<p>1. to burn (fire) ; to kindle. 2. (of candle, etc) to burn.</p>१. आगो (हुरहुर) बल्नु । २. (बत्ती झलमल हुने गरी) बल्नु ।"
+    },
+    "02958": {
+      "dId": "ᤋᤡ᤺ᤘᤠ/ᤋᤡᤘᤠ",
+      "desc": "/तिःवा/",
+      "group": "BA",
+      "mean": "<p>river Tista.</p>टिस्टा नदी ।"
+    },
+    "02959": {
+      "dId": "ᤋᤢᤀᤡᤗᤧᤶᤔᤠ",
+      "desc": "/तुइलेम्मा/",
+      "group": "BA",
+      "mean": "<p>to flatter; to adulate.</p>खुशामद गर्नु; चिप्लो घस्नु; चाकडी गर्नु ।"
+    },
+    "02960": {
+      "dId": "ᤋᤢ᤹ᤀᤡ᤺ᤱ/ᤋᤢ᤹ᤀᤡᤅ᤻",
+      "desc": "/तु?इःङ्/",
+      "group": "BA",
+      "mean": "<p>1. ray. 2. reflected ray.</p>१. किरण । २. प्रतिबिम्बित किरण; ठोकिएर फर्किएको किरण ।"
+    },
+    "02961": {
+      "dId": "ᤋᤢ᤹ᤔᤠ",
+      "desc": "/तु?मा/",
+      "group": "BA",
+      "mean": "<p>to bend.</p>ठनक्क नभै दोब्रने गरी भाँचिनु; नुहिनु ।"
+    },
+    "02962": {
+      "dId": "ᤋᤢ᤹ᤖᤧ᤺ᤶᤒᤠ/ᤋᤢ᤹ᤖᤧᤔ᤻ᤒᤠ",
+      "desc": "/तु?रेम्बा/",
+      "group": "BA",
+      "mean": "<p>a kind of tree; fibre of its bard is used as an ingredient to make fried bread soft. Boehmeria sidaefolia.</p>चम्लायो; यसको बोक्रो सेलरोटी पोल्दा नरम बनाउन प्रयाोग गरिन्छ ।"
+    },
+    "02963": {
+      "dId": "ᤋᤢᤰᤁᤡ ",
+      "desc": "/तुक्कि/",
+      "group": "BA",
+      "mean": "<p>1. the bobbin of the loom, a spool around which threads are wound for weaving. 2. film reel or roll.</p>१. धागोको रोल; टुकी । २. रिल; फिल्मको रिल ।"
+    },
+    "02964": {
+      "dId": "ᤋᤢᤰᤁᤪᤢᤰᤛᤣ᤹",
+      "desc": "/तुक्क्रुक्से/",
+      "group": "BA",
+      "mean": "<p>a kind of vegetable</p>टुक्रुके/मरेला एक प्रकारको सब्जि ।"
+    },
+    "02965": {
+      "dId": "ᤋᤢᤰᤂᤡᤒᤠ",
+      "desc": "/तुक्खिबा/",
+      "group": "BA",
+      "mean": "<p>Brahmans; Bahuns by cast; priestly people those wearing six sacred threads.</p>बाहुन; ब्राह्मण; उपाध्याय (छ डोरे जनै लाउने); सबै प्रकारका बाहुन ।"
+    },
+    "02966": {
+      "dId": "ᤋᤢᤰᤂᤢᤶ",
+      "desc": "/तुक्खुम्/",
+      "group": "BA",
+      "mean": "<p>cpmplaint; grudge.</p>गुनासो; शिकायत ।"
+    },
+    "02967": {
+      "dId": "ᤋᤢᤰᤂᤣ",
+      "desc": "/तुक्खे/",
+      "group": "BA",
+      "mean": "<p>suffering; trouble.</p>दुखेसो; पीर; मार्का ।"
+    },
+    "02968": {
+      "dId": "ᤋᤢᤰᤐᤣ",
+      "desc": "/तुक्पे/",
+      "group": "BA",
+      "mean": "<p>sixth case-meaning.</p>षष्ठी विभक्ति ।"
+    },
+    "02969": {
+      "dId": "ᤋᤢᤰᤔᤠ",
+      "desc": "/तुक्मा/",
+      "group": "BA",
+      "mean": "<p>disease; illness; sickness.</p>रोग; बिमारी; अस्वस्थता ।"
+    },
+    "02970": {
+      "dId": "ᤋᤢᤰᤗᤡᤱ",
+      "desc": "/तुक्लिङ्/",
+      "group": "BA",
+      "mean": "<p>bacteria; virus.</p>कीटाणु; नाङ्गो आँखाले नदेखिने; रोगादि उत्पन्न गर्ने जीवाणु ।"
+    },
+    "02971": {
+      "dId": "ᤋᤢᤰᤘᤠ",
+      "desc": "/तुक्वा/",
+      "group": "BA",
+      "mean": "<p>sap; esp milky sap.</p>चोप: दुध झैं टाँसिने झोल ।"
+    },
+    "02972": {
+      "dId": "ᤋᤢᤰᤘᤠᤛᤡᤱ",
+      "desc": "/तुक्वा सिङ्/",
+      "group": "BA",
+      "mean": "<p>a rubber tree.</p>रबरको रूख ।"
+    },
+    "02973": {
+      "dId": "ᤋᤢᤰᤛᤡ ",
+      "desc": "/तुक्सि/",
+      "group": "BA",
+      "mean": "<p>six; six in number or person.</p>छ; छओटा; छजना ।"
+    },
+    "02974": {
+      "dId": "ᤋᤢᤱ",
+      "desc": "/तुङ्/",
+      "group": "BA",
+      "mean": "<p>fever.</p>ज्वरो ।"
+    },
+    "02975": {
+      "dId": "ᤋᤢᤱᤃᤢᤴ",
+      "desc": "/तुङ्गुन्/",
+      "group": "BA",
+      "mean": "<p>feast.</p>भोजभतेर ।"
+    },
+    "02976": {
+      "dId": "ᤋᤢᤱᤃᤢᤶᤔᤣ᤹",
+      "desc": "/तुङ्गुम्मे?/",
+      "group": "BA",
+      "mean": "<p>a plant from which Nepali paper (for writing legal document) made.<i> Daphne dhoula.</i></p>अर्गेली (बोट); कागते ।"
+    },
+    "02977": {
+      "dId": "ᤋᤢᤱᤃᤢ᤺ᤳ/ᤋᤢᤱᤃᤢᤋ᤻",
+      "desc": "/तुङ्गुःत्/",
+      "group": "BA",
+      "mean": "<p>lake.</p>ताल ।"
+    },
+    "02978": {
+      "dId": "ᤋᤢᤱᤃᤢ᤺ᤳ ᤛᤠᤀᤡ/ᤋᤢᤱᤃᤢᤋ᤻ ᤛᤠᤀᤡ ",
+      "desc": "/तुङ्गुःत् साइ/",
+      "group": "BA",
+      "mean": "<p>1. pulse. 2. strmeanth.</p>१. नाडी । २. नौनाडी ।"
+    },
+    "02979": {
+      "dId": "ᤋᤢᤱᤍᤢᤱᤃᤣ",
+      "desc": "/तुङ्दुङ्गे/",
+      "group": "BA",
+      "mean": "<p>1. a constellation. 2. a kind of wild leafy vegetable use as pickle.</p>१. शुक्र ग्रह । २. दुङ्दुङ्गे साग; जङ्गली छेपी साग ।"
+    },
+    "02980": {
+      "dId": "ᤋᤢᤱᤏᤠ",
+      "desc": "/तुङ्ना/",
+      "group": "BA",
+      "mean": "<p>a kind of musical instrument.</p>टुङ्ना (बाजा) ।"
+    },
+    "02981": {
+      "dId": "ᤋᤢᤱᤏᤠᤶ",
+      "desc": "/तुङ्नाम्/",
+      "group": "BA",
+      "mean": "<p>[Phedape] bush; dense forest.</p>[फेदापे] झाडी; घना जंगल ।"
+    },
+    "02982": {
+      "dId": "ᤋᤢᤱᤔᤢᤰᤗᤠ",
+      "desc": "/तुङ्मुक्ला/",
+      "group": "BA",
+      "mean": "<p>conch shell.</p>शङ्ख ।"
+    },
+    "02983": {
+      "dId": "ᤋᤢᤱᤜᤡᤰ",
+      "desc": "/तुङ्हिक्/",
+      "group": "BA",
+      "mean": "<p>haze.</p>तुवाँलो ।"
+    },
+    "02984": {
+      "dId": "ᤋᤢᤳᤋᤢ",
+      "desc": "/तुत्तु/",
+      "group": "BA",
+      "mean": "<p>Sir; equivalent to sir or Mr.</p>श्री; श्रीमान्; माननीय; महाशाय; महोदय ।"
+    },
+    "02985": {
+      "dId": "ᤋᤢᤳᤋᤢᤃᤣᤶᤔᤠ",
+      "desc": "/तुत्तुगेम्मा/",
+      "group": "BA",
+      "mean": "<p>madam; Mrs.</p>श्रीमती (पत्नी होइन); स्त्री जातिलाई सम्मानपूर्वक गरीने सम्बोधन; माननीया; महोदया; महाशाया ।"
+    },
+    "02986": {
+      "dId": "ᤋᤢᤳᤋᤢᤍᤡᤱ",
+      "desc": "/तुत्तुदिङ्/",
+      "group": "BA",
+      "mean": "<p>sir; Mr.</p>माननीय; महाशाय ।"
+    },
+    "02987": {
+      "dId": "ᤋᤢᤳᤋᤢᤶᤒᤠ",
+      "desc": "/तुत्तुम्बा/",
+      "group": "BA",
+      "mean": "<p>1. father’s elder brother. 2. elder then one’s father.</p>१. बाबुको दाजु जेठाबा बडा । २. बाबुभन्दा उमेरमा जेठोपाको मान्छे । "
+    },
+    "02988": {
+      "dId": "ᤋᤢᤳᤋᤢᤶᤔᤠ",
+      "desc": "/तुत्तुम्मा/",
+      "group": "BA",
+      "mean": "<p>1. wife of father’s elder brother. 2. mother’s elder sister; elder than one’s mother.</p>१. जेठीआमा; जेठाबाबुकी पत्नी; बडीआमा (बडीमा) । २. आमाकी दिदी; आमा भन्दा उमेरमा जेठी पाकी मानछे ।"
+    },
+    "02989": {
+      "dId": "ᤋᤢᤵᤔᤠ",
+      "desc": "/तुप्मा/",
+      "group": "BA",
+      "mean": "<p>1. to get smeared. 2. to pluck (flowers, fruit etc). </p>१. दलीनु; दलिएर लेसिनु; (हिलो आदि) लाग्नु । २. टिप्नु (फलफुल आदि) ।"
+    },
+    "02990": {
+      "dId": "ᤋᤢᤶᤔᤣ᤺ᤳᤘᤠ/ᤋᤢᤶᤔᤣᤋ᤻ᤘᤠ",
+      "desc": "/तुम्मेःत्वा/",
+      "group": "BA",
+      "mean": "<p>a kind of black mushroom (which grows on trees).</p>(रूखमा फल्ने) कालो च्याउ ।"
+    },
+    "02991": {
+      "dId": "ᤋᤢᤔᤠᤤ",
+      "desc": "/तुमौ/",
+      "group": "BA",
+      "mean": "<p>a diacritic mark of the eighth vowel /au/ of the Sirijunga alphabet.</p>औकार ।"
+    },
+    "02992": {
+      "dId": "ᤋᤢᤶ",
+      "desc": "/तुम्/",
+      "group": "BA",
+      "mean": "<p>1. eldest. 2. first. 3. seniormost; veteran.</p>१. जेठो/ जेठी; सबभन्दा जेठो वा जेठी ।२. पहिलो; जेष्ठ । ३. वरिष्ठ ।"
+    },
+    "02993": {
+      "dId": "ᤋᤢᤶ-ᤂᤠᤛᤧᤶᤗᤠᤣ᤺ᤶᤒᤠ/ᤋᤢᤶ-ᤂᤠᤛᤧᤶᤗᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/तुम्-खासेम्लोःम्बा/",
+      "group": "BA",
+      "mean": "<p>chief justice.</p>प्रधान न्यायधीश ।"
+    },
+    "02994": {
+      "dId": "ᤋᤢᤶ-ᤂᤠᤛᤧᤶᤒᤠ",
+      "desc": "/तुम्-खासेम्बा/",
+      "group": "BA",
+      "mean": "<p>attorney general.</p>महान्यायधिवक्ता ।"
+    },
+    "02995": {
+      "dId": "ᤋᤢᤶᤄᤠᤣ",
+      "desc": "/तुम्घो/",
+      "group": "BA",
+      "mean": "<p>result; consequences.</p>नतिजा; फल; प्रतिफल ।"
+    },
+    "02996": {
+      "dId": "ᤋᤢᤶᤈᤢᤱᤔᤠ",
+      "desc": "/तुम्जुङ्मा/",
+      "group": "BA",
+      "mean": "<p>a kind of grass.</p>सरो झार ।"
+    },
+    "02997": {
+      "dId": "ᤋᤢᤶᤈᤧᤱᤘᤠ",
+      "desc": "/तुम्जेङ्वा/",
+      "group": "BA",
+      "mean": "<p>interview.</p>भेटवार्ता; अन्तर्वार्ता ।"
+    },
+    "02998": {
+      "dId": "ᤋᤢᤶ-ᤋᤢᤶᤔᤩᤠᤱ",
+      "desc": "/तुम्-तुम्याङ्/",
+      "group": "BA",
+      "mean": "<p>prime minister; premier.</p>प्रधानमन्त्री ।"
+    },
+    "02999": {
+      "dId": "ᤋᤢᤶᤍᤢᤶ",
+      "desc": "/तुम्दुम्/",
+      "group": "BA",
+      "mean": "<p>1. first meeting/ acquaintance/ encounter. 2. introduction; acquaintance.</p>१. पहिलो भेट । २. परिचय; चिनारी ।"
+    },
+    "03000": {
+      "dId": "ᤋᤢᤶᤍᤢᤶ-ᤛᤣᤖᤡ ",
+      "desc": "/तुम्दुम्-सेरि/",
+      "group": "BA",
+      "mean": "<p>holy (unbroken) rice used by the Phedangma or a priest for wroship.</p>अक्षता; अछेता; फेदाङ्माले पूजा वा धार्मिक पूजाकार्य गर्दा प्रयाोग गर्ने पवित्र र सग्लो चामल ।"
+    },
+    "03001": {
+      "dId": "ᤋᤢᤶ-ᤑᤧᤍᤠᤱᤔᤠ",
+      "desc": "/तुम्-फेदाङ्मा/",
+      "group": "BA",
+      "mean": "<p>chief of the LImbus; a class of Limbu tribal/ officiating priest.</p>मूलपूजारी; लिम्बूपूजारीको एक वर्ग ।"
+    },
+    "03002": {
+      "dId": "ᤋᤢᤶᤒᤠ/ᤋᤢᤶᤒᤠ᤹",
+      "desc": "/तुम्बा/तुम्बा?/",
+      "group": "BA",
+      "mean": "<p>(n.) 1. father’s elder brother. 2. husband of mother’s elder sister. (adj.) 1. elder; eldest. 2. elder in age. 3. elder; senior.</p>१. ठूलोबुबा; बाबुको दाजु । २. आमाकी दिदीको लोग्ने; ठूलीआमाको लोग्ने ।"
+    },
+    "03003": {
+      "dId": "ᤋᤢᤶᤒᤠᤱᤑᤣ᤹/ᤓᤣ᤹",
+      "desc": "/तुम्बाङ्फे?/भे?/",
+      "group": "BA",
+      "mean": "<p>1. the first inhabited village. 2. one of the Limbu clans/ clan name.</p>१. पहिलो आवाद भएको ठाँउ । २. लिम्बूजातिको एक थर ।"
+    },
+    "03004": {
+      "dId": "ᤋᤢᤶᤒᤠ᤺ᤵᤐᤠᤣ/ᤋᤢᤶᤒᤠᤐ᤻ᤐᤠᤣ",
+      "desc": "/तुम्बाःप्पो/",
+      "group": "BA",
+      "mean": "<p>1. the first batch. 2. one of  the Limbu clans/ clan names.</p>१. पहिलो हुल । २. लिम्बूजातिको एक थर ।"
+    },
+    "03005": {
+      "dId": "ᤋᤢᤶᤒᤠᤖᤡᤒᤠ",
+      "desc": "/तुम्बारिबा/",
+      "group": "BA",
+      "mean": "<p>glow-worm.</p>जुनकीरी ।"
+    },
+    "03006": {
+      "dId": "ᤋᤢᤶᤒᤠᤗᤰ",
+      "desc": "/तुम्बालक्/",
+      "group": "BA",
+      "mean": "<p>the privilege of the eldest son in the parental properties; the right of the heir.</p>जेठाकी; पैत्रिक सम्पतिमा जेठाको विशेषाधिकार; उत्तराधिकार ।"
+    },
+    "03007": {
+      "dId": "ᤋᤢᤶᤒᤢᤃᤧᤴ ᤕᤧᤓᤠᤱ",
+      "desc": "/तुम्बुगेन् येभाङ्/",
+      "group": "BA",
+      "mean": "<p>parliament.</p>संसद ।"
+    },
+    "03008": {
+      "dId": "ᤋᤢᤶᤒᤢᤴ ᤘᤠᤖᤰ",
+      "desc": "/तुम्बुन् वारक्/",
+      "group": "BA",
+      "mean": "<p>the first pond (lake) of creation; a male pond.</p>सृष्टिको पहिलो पोखरी; पुरुष पोखरी ।"
+    },
+    "03009": {
+      "dId": "ᤋᤢᤶᤒᤠᤣ",
+      "desc": "/तुम्बो/",
+      "group": "BA",
+      "mean": "<p>a diacritic mark of the sevmeanth vowel /o/ of the Sirijunga alphabet.</p>ओकार ।"
+    },
+    "03010": {
+      "dId": "ᤋᤢᤶᤒᤧᤶᤓᤠᤣ",
+      "desc": "/तुम्बेम्भो/",
+      "group": "BA",
+      "mean": "<p>1. superintendent of police. 2. superintendent; supervisor.</p>१. प्रहरी उपरीक्षक । २. अधिक्षक ।"
+    },
+    "03011": {
+      "dId": "ᤋᤢᤶᤒᤪᤡ ",
+      "desc": "/तुम्ब्रि/",
+      "group": "BA",
+      "mean": "<p>a kind of millet, surghum. Sorghum vulgare; Panicum crusgalli.</p>जुनेलो (अन्न) ।"
+    },
+    "03012": {
+      "dId": "ᤋᤢᤶᤒᤪᤡ ᤛᤡᤱ",
+      "desc": "/तुम्ब्रि सिङ्/",
+      "group": "BA",
+      "mean": "<p>a kind of tree bearing edible fruits. Ficus glomerata.</p>डुम्ब्रीको बोट ।"
+    },
+    "03013": {
+      "dId": "ᤋᤢᤶᤒᤪᤠᤣ᤺ᤰ/ᤋᤢᤶᤒᤪᤠᤣᤁ᤻",
+      "desc": "/तुम्ब्रोःक्/",
+      "group": "BA",
+      "mean": "<p>1. first part or section. 2. one of the Limbu clans/ clan names.</p>१. पहिलो भाग वा खण्ड । २. लिम्बूजातिको एक थर ।"
+    },
+    "03014": {
+      "dId": "ᤋᤢᤶᤓᤠᤰᤔᤠ/ᤔᤠ᤺",
+      "desc": "/तुम्भाक्मा/माः/",
+      "group": "BA",
+      "mean": "<p>1. elderly woman. 2. respectable woman; old respectable woman. 3. eldest woman/ head woman (in age and in respect) of a village.</p>१. उमेरले पाकी नारी; प्रौढा । २. भद्र स्वास्नीमान्छे; भद्रा; सम्मानयोग्य वयोवृद्धा महिला ।३. गाँउ बूढी; गाउँकी बुढीपाकी महिला ।"
+    },
+    "03015": {
+      "dId": "ᤋᤢᤶᤓᤠᤰᤛᤠ/ᤛᤠ᤺",
+      "desc": "/तुम्भाक्सा/साः/",
+      "group": "BA",
+      "mean": "<p>1. respectable person or man of the village. 2. respectable person or man of the village.</p>१. उमेरले पाको मान्छे; प्रौढ व्याक्ति; गाउँ बूढो; गाउँको बुढोपाको मान्छे । २. भद्रभलाद्मी; सम्मानयोग्य वयोवृद्ध पुरुष ।"
+    },
+    "03016": {
+      "dId": "ᤋᤢᤶᤓᤢᤱ",
+      "desc": "/तुम्भुङ्/",
+      "group": "BA",
+      "mean": "<p>1. unbroken rice grains used for worship. 2. a kind of tree and its flower. <i>Prunus cerasoides.</i></p>१. अक्षता । २. पैयुँ; पैयुँको फूल ।"
+    },
+    "03017": {
+      "dId": "ᤋᤢᤶᤓᤢᤱᤈᤠᤣᤗᤠᤱ",
+      "desc": "/तुम्भुजोलाङ्/",
+      "group": "BA",
+      "mean": "<p>growth by creeping root.</p>जरा हाल्दै बढ्ने काम ।"
+    },
+    "03018": {
+      "dId": "ᤋᤢᤶᤔᤏᤠ",
+      "desc": "/तुम्मना/",
+      "group": "BA",
+      "mean": "<p>first person.</p>प्रथम पुरूष ।"
+    },
+    "03019": {
+      "dId": "ᤋᤢᤶᤔᤠ᤹",
+      "desc": "/तुम्मा?/",
+      "group": "BA",
+      "mean": "<p>1. mother’s elder sister. 2. wife of the father’s elder brother. 3. elder co-wife or step wife of father.</p>१. ठूलीआमा; आमाकी दिदी । २. जेठीआमा; ठूलोबुबाकी पत्नी; बडी । ३. आमाकी जेठी सौता (ठूलीआमा) ।"
+    },
+    "03020": {
+      "dId": "ᤋᤢᤶᤔᤠ",
+      "desc": "/तुम्मा/",
+      "group": "BA",
+      "mean": "<p>1. [Phedape] to be agitated/ distrubed/ stirred  up. 2. [Phedape] to relapse deteriorate (fever, wound, etc).  3. to meet. 4. to be older (in age); to be superior (to sb). 5. to ripen. 6. to mature.</p>१. [फेदापे] चल्नु; हल्लनु; खलबलिनु । २. [फेदापे] बल्झनु ( घाउ, रोग आदि) । ३. भेट हुनु; भेट्नु (कसैलाई) । ४. उमेरमा जेठी हुनु । ५. अन्न फलफुल आदि पाक्नु; बाली पाक्नु । ६. अनुभवले  पाको हुनु; ज्ञान बुद्धि आदि पाक्नु; छिप्पिनु (बुद्धि आदि) ।"
+    },
+    "03021": {
+      "dId": "ᤋᤢᤶᤔᤡᤜᤠᤱ",
+      "desc": "/तुम्मिहाङ्/",
+      "group": "BA",
+      "mean": "<p>[Sikkim] minister.</p>[सिक्किम] मन्त्री ।"
+    },
+    "03022": {
+      "dId": "ᤋᤢᤶᤔᤢᤱ",
+      "desc": "/तुम्मुङ्/",
+      "group": "BA",
+      "mean": "<p>1. meeting; meeting of two or more people. 2. occasion of meeting.</p>१. भेट; भेटघाट । २. मिलनको उपलक्ष्य ।"
+    },
+    "03023": {
+      "dId": "ᤋᤢᤶᤔᤩᤠᤱ",
+      "desc": "/तुम्म्याङ्/",
+      "group": "BA",
+      "mean": "<p>minister.</p>मन्त्री ।"
+    },
+    "03024": {
+      "dId": "ᤋᤢᤶᤕᤧᤴ",
+      "desc": "/तुम्येन्/",
+      "group": "BA",
+      "mean": "<p>first day of a month.</p>संक्रान्ति; महिनाको पहिलो दिन ।"
+    },
+    "03025": {
+      "dId": "ᤋᤢᤶᤘᤠ",
+      "desc": "/तुम्वा/",
+      "group": "BA",
+      "mean": "<p>Tamor river.</p>तमोर नदी ।"
+    },
+    "03026": {
+      "dId": "ᤋᤢᤶᤛᤡᤱ",
+      "desc": "/तुम्सिङ्/",
+      "group": "BA",
+      "mean": "<p>big/dense forest.</p>घनाजङ्गल; रानीवन ।"
+    },
+    "03027": {
+      "dId": "ᤋᤢᤶᤛᤣ᤺ᤰ/ᤋᤢᤶᤛᤣᤁ᤻",
+      "desc": "/तुम्सेःक्/",
+      "group": "BA",
+      "mean": "<p>raspberry.</p>ऐँसेलु ।"
+    },
+    "03028": {
+      "dId": "ᤋᤢᤕᤧᤱ",
+      "desc": "/तुयेङ्/",
+      "group": "BA",
+      "mean": "<p>complainant; plaintiff.</p>नालेस्; उजुर । "
+    },
+    "03029": {
+      "dId": "ᤋᤢᤖᤠ",
+      "desc": "/तुरा/",
+      "group": "BA",
+      "mean": "<p>army.</p>सेना; फौज; पल्टन; गण ।"
+    },
+    "03030": {
+      "dId": "ᤋᤢᤖᤡᤒᤢᤱ",
+      "desc": "/तुरिबुङ्/",
+      "group": "BA",
+      "mean": "<p>shaft of scale.</p>तराजुको डाँठ वा डण्डी ।"
+    },
+    "03031": {
+      "dId": "ᤋᤢᤗᤡᤰ",
+      "desc": "/तुलिक्/",
+      "group": "BA",
+      "mean": "<p>[Phedape] quick; fast.</p>[फेदापे]  छिटो ।"
+    },
+    "03032": {
+      "dId": "ᤋᤢᤘᤠ",
+      "desc": "/तुवा/",
+      "group": "BA",
+      "mean": "<p>1. prayer. 2. request. </p>१. प्रार्थाना । २. बिन्ती ।"
+    },
+    "03033": {
+      "dId": "ᤋᤢᤘᤠᤖᤡᤒᤠ",
+      "desc": "/तुवारिबा/",
+      "group": "BA",
+      "mean": "<p>police constable.</p>प्रहरी जवान/ कन्स्टेबल ।"
+    },
+    "03034": {
+      "dId": "ᤋᤢ᤺ᤰᤋᤢ᤺ᤰ/ᤋᤢᤁ᤻ᤋᤢᤁ᤻",
+      "desc": "/तुःक्तुःक्/",
+      "group": "BA",
+      "mean": "<p>thickening like a fluid (soup, curry, gravy, beer etc).</p>लतत; तरल पदार्थ (दाल, जाँड आदि) बाक्लो हुने गरी । "
+    },
+    "03035": {
+      "dId": "ᤋᤢ᤺ᤰᤔᤠ/ᤋᤢᤁ᤻ᤔᤠ",
+      "desc": "/तुःक्मा/",
+      "group": "BA",
+      "mean": "<p>(of dove) to coo.</p>ढुकुर कुर्लनु ।"
+    },
+    "03036": {
+      "dId": "ᤋᤢ᤺ᤱᤃᤣ/ᤋᤢᤅ᤻ᤃᤣ",
+      "desc": "/तुःङ्गे/",
+      "group": "BA",
+      "mean": "<p>moss.</p>लेउ ।"
+    },
+    "03037": {
+      "dId": "ᤋᤢ᤺ᤱᤏᤠ/ᤋᤢᤅ᤻ᤏᤠ",
+      "desc": "/तुःङ्ना/",
+      "group": "BA",
+      "mean": "<p>elastic.</p>तन्कने (गुण भएको) ।"
+    },
+    "03038": {
+      "dId": "ᤋᤢ᤺ᤱᤔᤠ/ᤋᤢᤅ᤻ᤔᤠ",
+      "desc": "/तुःङ्मा/",
+      "group": "BA",
+      "mean": "<p>bent/ bowed down.</p>निहुरनु "
+    },
+    "03039": {
+      "dId": "ᤋᤢ᤺ᤱᤛᤡᤱᤔᤠ/ᤋᤢᤅ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/तुःङ्सिङ्मा/",
+      "group": "BA",
+      "mean": "<p>1. to bend; to bow. 2. to bow or bend to each other.</p>१. निहुरनु; नुहुनु; झुक्नु । २. परस्परमा झुक्नु झुकाउनु ।"
+    },
+    "03040": {
+      "dId": "ᤋᤢ᤺ᤴᤍᤣ᤹/ᤋᤢᤏ᤻ᤍᤧ",
+      "desc": "/तुःन्दे?/",
+      "group": "BA",
+      "mean": "<p>dispute; case (in the court).</p>झगडा; मुद्दा ।"
+    },
+    "03041": {
+      "dId": "ᤋᤢ᤺ᤸᤓᤢᤱ/ᤋᤢᤗ᤻ᤓᤢᤱ",
+      "desc": "/तुःल्भुङ्/",
+      "group": "BA",
+      "mean": "<p>a kind of red leaf like flower. Poinsettia pulcherrima.</p>लालुपाते (फुल) ।"
+    }
+  }
+}

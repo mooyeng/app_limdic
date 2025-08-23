@@ -1,0 +1,664 @@
+{
+  "Dic": {
+    "04957": {
+      "dId": "ᤑᤧ",
+      "desc": "/फे/",
+      "group": "BV",
+      "mean": "<p>sward; weapon; like khukuri, sword, dagger, etc; any long weapon.</p>हतियार; खुकुरी, तरबार, छुरी आदि लाम्चो आकारको शस्त्र ।"
+    },
+    "04958": {
+      "dId": "ᤑᤧ᤹ᤍᤠᤣᤰ",
+      "desc": "/फे?दोक्/",
+      "group": "BV",
+      "mean": "<p>the root of the ear (the place where ear and head join).</p>कन्चट; कन्पारा; कानको जड; टाउको र कान जोडिएको स्थान ।"
+    },
+    "04959": {
+      "dId": "ᤑᤧ᤹ᤒᤠ᤺ᤴ/ᤑᤧᤒᤠᤏ᤻",
+      "desc": "/फे?बाःन्/",
+      "group": "BV",
+      "mean": "<p>bad language; bad/obscene/profane/nasty words; swear-words.</p>अपशब्द; दुर्वचन ।"
+    },
+    "04960": {
+      "dId": "ᤑᤧ᤹ᤔᤠ",
+      "desc": "/फे?मा/",
+      "group": "BV",
+      "mean": "<p>1. to be bad/wicked/ill-behaved/ill mannered. 2. a helping verb which gives a meaning of badness when suffixed to another word. 3. to spread mat for sb; to prepare bed for sb.</p>१. नराम्रो (आचरणको) हुनु । २. अर्को शब्दको पछाडि जोडिएर नराम्रो भन्ने अर्थ बुझाउने सहायक क्रिया । ३. ओछ्याइदिनु (कसैको लागि); ओछ्यान लगइदिनु ।"
+    },
+    "04961": {
+      "dId": "ᤑᤧᤰᤔᤠ",
+      "desc": "/फेक्मा/",
+      "group": "BV",
+      "mean": "<p>1. to break (as a result of being crushed or pressed) . 2. to flower; to bloom/blossom; to unfold.</p>१. (किचिएर) फुट्नु । २. फुल्नु ।"
+    },
+    "04962": {
+      "dId": "ᤑᤧᤰᤔᤡᤰ",
+      "desc": "/फेक्मिक्/",
+      "group": "BV",
+      "mean": "<p>pollen dust.</p>पुङ्केशर ।"
+    },
+    "04963": {
+      "dId": "ᤑᤧᤰᤔᤣ᤺ᤳ/ᤑᤧᤰᤔᤣᤋ᤻",
+      "desc": "/फेक्मेःत्/",
+      "group": "BV",
+      "mean": "<p>corolla/petal.</p>पत्रदल ।"
+    },
+    "04964": {
+      "dId": "ᤑᤧᤰᤗᤠ",
+      "desc": "/फेक्ला/",
+      "group": "BV",
+      "mean": "<p>a blossom; a single flower.</p>(फूलको) थुङ्गो ।"
+    },
+    "04965": {
+      "dId": "ᤑᤧᤰᤘᤠ",
+      "desc": "/फेक्वा/",
+      "group": "BV",
+      "mean": "<p>leaf.</p>पात ।"
+    },
+    "04966": {
+      "dId": "ᤑᤧᤃᤠᤵ ᤛᤡᤱ",
+      "desc": "/फेगाप् सिङ्/",
+      "group": "BV",
+      "mean": "<p>a kind of plant from which Nepali paper (to write official documents) is made. Daphne cannabina var. <i>Edgeworthia gardneri.</i></p>अर्गेली; अर्घेली ।"
+    },
+    "04967": {
+      "dId": "ᤑᤧᤃᤡᤵ",
+      "desc": "/फेगिप्/",
+      "group": "BV",
+      "mean": "<p>bidi.</p>बिडी ।"
+    },
+    "04968": {
+      "dId": "ᤑᤧᤃᤡ ᤛᤡᤱ",
+      "desc": "/फेगि सिङ्/",
+      "group": "BV",
+      "mean": "<p>fiber-producing plant; jute; flax. <i>Corchorus olitorius.</i></p>लिपे पाटको बोट; सनपाट ।"
+    },
+    "04969": {
+      "dId": "ᤑᤧᤃᤠᤣ᤺",
+      "desc": "/फेगोः/",
+      "group": "BV",
+      "mean": "<p>[Phedape] crust of burnt rice (stuck to the bottom of the cooking pot.</p>[फेदापे] माम्री; भातको माम्री ।"
+    },
+    "04970": {
+      "dId": "ᤑᤧᤃᤠᤣ᤺ᤶᤒᤠ/ᤑᤧᤃᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/फेगोःम्बा/",
+      "group": "BV",
+      "mean": "<p>(partial) paralysis.</p>(आंशिक) पक्षाघात ।"
+    },
+    "04971": {
+      "dId": "ᤑᤧᤃᤧᤋᤡ ᤕᤠᤱ",
+      "desc": "/फेगेति याङ्/",
+      "group": "BV",
+      "mean": "<p>ancient Kiranti coin.</p>प्राचिन किराँति सिक्का ।"
+    },
+    "04972": {
+      "dId": "ᤑᤧᤃᤧᤘᤣ᤺ᤳ/ᤑᤧᤃᤧᤘᤣᤋ᤻",
+      "desc": "/फेगेवेःत्/",
+      "group": "BV",
+      "mean": "<p>parrot.</p>सुगा ।"
+    },
+    "04973": {
+      "dId": "ᤑᤧᤱᤃᤠᤣ(ᤀᤡ)",
+      "desc": "/फेङ्गो(इ)/",
+      "group": "BV",
+      "mean": "<p>(machine) iron; press.</p>इस्त्री ।"
+    },
+    "04974": {
+      "dId": "ᤑᤧᤱᤄᤡᤱ",
+      "desc": "/फेङ्घिइ/",
+      "group": "BV",
+      "mean": "<p>(small kind of) iron chain.</p>साङ्लो ।"
+    },
+    "04975": {
+      "dId": "ᤑᤧᤱᤄᤣ᤺ᤱ/ᤑᤧᤱᤄᤣᤅ᤻",
+      "desc": "/फेङ्घेःङ्/",
+      "group": "BV",
+      "mean": "<p>a kind of U-bolt used to fasten the plough shake with plough.</p>करुवा, हलोमा फाली च्याप्न ठोकिने “U” आकारको कीलो ।"
+    },
+    "04976": {
+      "dId": "ᤑᤧᤱᤏᤠ",
+      "desc": "/फेङ्ना/",
+      "group": "BV",
+      "mean": "<p>a small kind of seat-mat made of straw of maize husks.</p>खोस्टा वा परालद्वारा बनाइएको चकटी वा पिरा आकारको सानो सुकुल ।"
+    },
+    "04977": {
+      "dId": "ᤑᤧᤱ ᤐᤠᤶᤔᤣ",
+      "desc": "/फेङ् पाम्मे/",
+      "group": "BV",
+      "mean": "<p>intransitive verb.</p>अकर्मक क्रिया ।"
+    },
+    "04978": {
+      "dId": "ᤑᤧᤱᤔᤠ",
+      "desc": "/फेङ्मा/",
+      "group": "BV",
+      "mean": "<p>to break or burst sth.</p>फुटाउनु ।"
+    },
+    "04979": {
+      "dId": "ᤑᤧᤱᤘᤠ",
+      "desc": "/फेङ्वा/",
+      "group": "BV",
+      "mean": "<p>mercury.</p>पारो ।"
+    },
+    "04980": {
+      "dId": "ᤑᤧᤱᤛᤣ᤹",
+      "desc": "/फेङ्से?/",
+      "group": "BV",
+      "mean": "<p>papaw; papaya.</p>मेवा ।"
+    },
+    "04981": {
+      "dId": "ᤑᤧᤈᤠ/ᤑᤧᤈᤠ᤹",
+      "desc": "/फेजा/फेजा?/ ",
+      "group": "BV",
+      "mean": "<p>khukuri; Nepalese sword used by famous Gurkha soldiers.</p>खुकुरी ।"
+    },
+    "04982": {
+      "dId": "ᤑᤧᤈᤡᤰᤁᤢᤶ",
+      "desc": "/फेजिक्कुम्/",
+      "group": "BV",
+      "mean": "<p>classical knowledge or traditions; knowledge consistent with scriptures or traditions.</p>शास्त्रज्ञान/ शास्त्रसम्मत परम्परा ।"
+    },
+    "04983": {
+      "dId": "ᤑᤧᤈᤡᤖᤡ ",
+      "desc": "/फेजिरि/",
+      "group": "BV",
+      "mean": "<p>classical; scriptural.</p>शास्त्रीय ।"
+    },
+    "04984": {
+      "dId": "ᤑᤧᤈᤢᤶ ᤑᤧᤕᤠ",
+      "desc": "/फेजुम फेया/",
+      "group": "BV",
+      "mean": "<p>arms and weapons (together with missiles).</p>शस्त्रास्त्र; हातहतियार ।"
+    },
+    "04985": {
+      "dId": "ᤑᤧᤳᤇᤡ ",
+      "desc": "/फेत्छि/",
+      "group": "BV",
+      "mean": "<p>flat wooden peg (to be thrust into the hole in the pole of a plough.</p>पाटी; हलोको एक अङ्गविशेष ।"
+    },
+    "04986": {
+      "dId": "ᤑᤧᤳᤗᤠ",
+      "desc": "/फेत्ला/",
+      "group": "BV",
+      "mean": "<p>leaf.</p>पात ।"
+    },
+    "04987": {
+      "dId": "ᤑᤧᤳᤗᤠ᤹ᤔᤠ",
+      "desc": "/फेत्ला?मा/",
+      "group": "BV",
+      "mean": "<p>1. to be broken/damaged/spoilt; to be in disorder (machine, car, meanine etc). 2. to be spoilt/violated (in manner, character etc); to be corrupt/unchaste; to lose virginity/purity/chastity/celibacy.</p>१. बिग्रनु (सामान, मान्छे आदि) । २. बिग्रनु ।"
+    },
+    "04988": {
+      "dId": "ᤑᤧᤳᤗᤠ᤺ᤴᤇᤡᤱᤔᤠ/ᤑᤧᤳᤗᤠᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/फेत्लाःन्छिङ्मा/",
+      "group": "BV",
+      "mean": "<p>1. (of food) to be spoilt; (of person) to spoil oneself. 2. to damage/spoil/ruin each other. 3. to be spoilt by each other.</p>१. (खानेकुरा) आँफै बिग्रनु; (मानिस) आफुले आफै बिगार गर्नु । २. परस्पर हानि नोक्सानी वा बिगार गर्नु; एकले अर्कोलाई बिगार्नु । ३. परस्पर बिग्रनु । "
+    },
+    "04989": {
+      "dId": "ᤑᤧᤳᤗᤠ᤺ᤶᤔᤠ/ᤑᤧᤳᤗᤠᤔ᤻ᤔᤠ",
+      "desc": "/फेत्लाःम्मा/",
+      "group": "BV",
+      "mean": "<p>1. to spoil/distroy/damage/to put sth out of order. 2. to voilate/molest (a woman).</p>१. बिगार्नु (सामान, मानिस आदि) । २. बिगार्नु (आइमाई) ।"
+    },
+    "04990": {
+      "dId": "ᤑᤧᤳᤗᤡᤛᤣ᤹",
+      "desc": "/फेत्लिसे/",
+      "group": "BV",
+      "mean": "<p>[Tamor] horse gram.</p>[तमर] गहत ।"
+    },
+    "04991": {
+      "dId": "ᤑᤧᤍᤠ",
+      "desc": "/फेदा/",
+      "group": "BV",
+      "mean": "<p>sheep.</p>भेँडा ।"
+    },
+    "04992": {
+      "dId": "ᤑᤧᤍᤠᤱ",
+      "desc": "/फेदाङ्/",
+      "group": "BV",
+      "mean": "<p>a kind of bird that cries at night.</p>रातमा कराउने चरो विशेष ।"
+    },
+    "04993": {
+      "dId": "ᤑᤧᤍᤠᤱᤔᤠ",
+      "desc": "/फेदाङ्मा/",
+      "group": "BV",
+      "mean": "<p>1. armed. 2. well-versed in traditions or scriptures. 3. a class of the Limbus priests.</p>१. शस्त्रधारी । २. शास्त्रज्ञ । ३. लिम्बूजातिको पुरोहितको एक वर्ग ।"
+    },
+    "04994": {
+      "dId": "ᤑᤧᤍᤠᤣ᤺ᤰ/ᤑᤧᤍᤠᤣᤁ᤻",
+      "desc": "/फेदोःक्/",
+      "group": "BV",
+      "mean": "<p>a long bamboo vessel.</p>बाँसको धिरी (पानी बोक्ने भाँडो) ।"
+    },
+    "04995": {
+      "dId": "ᤑᤧᤍᤧᤰᤏᤠ",
+      "desc": "/फेदेक्ना/",
+      "group": "BV",
+      "mean": "<p>(fem.) chatter box.</p>(स्त्री) फतफत गरी बोल्ने ।"
+    },
+    "04996": {
+      "dId": "ᤑᤧᤍᤧᤴ",
+      "desc": "/फेदेन्/",
+      "group": "BV",
+      "mean": "<p>1. extended flat land. 2. Phidim, the district headquarter pf Panchthar district in the eastern Nepal.</p>१. फिंजिएको जग्गा । २. पूर्वी नेपाल पाँचथर जिल्लाको प्रसिद्ध स्थान फिदिम ।"
+    },
+    "04997": {
+      "dId": "ᤑᤧᤏᤠ",
+      "desc": "/फेना/",
+      "group": "BV",
+      "mean": "<p>jack-fruit.</p>कटहर ।"
+    },
+    "04998": {
+      "dId": "ᤑᤧᤏᤠᤰ",
+      "desc": "/फेनाक्/",
+      "group": "BV",
+      "mean": "<p>fine hair of bamboo which causes itching.</p>बाँसको झुस ।"
+    },
+    "04999": {
+      "dId": "ᤑᤧᤏᤡᤱ",
+      "desc": "/फेनिङ्/",
+      "group": "BV",
+      "mean": "<p>1. snuff. 2. a kind of plant used for snuff. Myriactis nepalensis.</p>१. नस । २. नसको रूपमा प्रयोग हुने बनस्पति ।"
+    },
+    "05002": {
+      "dId": "ᤑᤧᤴ",
+      "desc": "/फेन्/",
+      "group": "BV",
+      "mean": "<p>1. iron. 2. bad; not good.</p>१. फलाम । २. नराम्रो ।"
+    },
+    "05003": {
+      "dId": "ᤑᤧᤴᤀᤡᤰᤁᤡ ",
+      "desc": "/फेन्इक्कि/",
+      "group": "BV",
+      "mean": "<p>iron chain.</p>साङ्लो ।"
+    },
+    "05004": {
+      "dId": "ᤑᤧᤴ ᤂᤡ ",
+      "desc": "/फेन् खि/",
+      "group": "BV",
+      "mean": "<p>coil; (metal) wire.</p>(धातुको) तार ।"
+    },
+    "05005": {
+      "dId": "ᤑᤧᤴᤇᤠᤱ",
+      "desc": "/फेन्छाङ्/",
+      "group": "BV",
+      "mean": "<p>left.</p>देब्रे; बायाँ ।"
+    },
+    "05006": {
+      "dId": "ᤑᤧᤴᤈᤡᤰᤏᤡ ",
+      "desc": "/फेन्जिक्नि/",
+      "group": "BV",
+      "mean": "<p>wasp.</p>बारुला ।"
+    },
+    "05007": {
+      "dId": "ᤑᤧᤴᤈᤧ/ᤑᤧᤴᤈᤧ᤹",
+      "desc": "/फेन्जे/फेन्जे?/",
+      "group": "BV",
+      "mean": "<p>iron.</p>फलाम ।"
+    },
+    "05008": {
+      "dId": "ᤑᤧᤴᤈᤧᤴ",
+      "desc": "/फेन्जेन्/",
+      "group": "BV",
+      "mean": "<p>1. intrigue; conspiracy; plot. 2. ambush; ambuscade.</p>१. षयन्त्र । २. एम्बुस; घात ।"
+    },
+    "05009": {
+      "dId": "ᤑᤧᤴᤍ᤺ᤰ/ᤑᤧᤴᤍᤁ᤻",
+      "desc": "/फेन्दःक्/",
+      "group": "BV",
+      "mean": "<p>goiters joined to each other; a cluster of goiters.</p>जोडिएका गाँडहरु; एकै ठाँउमा आएका वा रहेका एकभन्दा बढी गाँड ।"
+    },
+    "05010": {
+      "dId": "ᤑᤧᤴᤍ᤺ᤰᤐᤠ/ᤑᤧᤴᤍᤁ᤻ᤐᤠ",
+      "desc": "/फेन्दःक्पा/",
+      "group": "BV",
+      "mean": "<p>a man with a goiter.</p>गँड्याहा (लोग्ने मान्छे) ।"
+    },
+    "05011": {
+      "dId": "ᤑᤧᤴᤍ᤺ᤰᤔᤠ/ᤑᤧᤴᤍᤁ᤻ᤔᤠ",
+      "desc": "/फेन्दःक्मा/",
+      "group": "BV",
+      "mean": "<p>a woman with a goiter.</p>गँड्याही (स्वास्नी मान्छे) ।"
+    },
+    "05012": {
+      "dId": "ᤑᤧᤴᤍ᤺ᤳ/ᤑᤧᤴᤍᤋ᤻",
+      "desc": "/फेन्दःत्/",
+      "group": "BV",
+      "mean": "<p>a long toothed comb of split bamboo.</p>थाक्रो ।"
+    },
+    "05013": {
+      "dId": "ᤑᤧᤴᤍᤠ᤺ᤰ/ᤑᤧᤴᤍᤠᤁ᤻",
+      "desc": "/फेन्दाःक्/",
+      "group": "BV",
+      "mean": "<p>tripod (made of iron).</p>ओदान ।"
+    },
+    "05014": {
+      "dId": "ᤑᤧᤴᤍᤢᤘᤠ",
+      "desc": "/फेन्दुवा/",
+      "group": "BV",
+      "mean": "<p>1. a kind of bird. 2. one of the Limbu clans/clan names.</p>१. खुन्द्रुके चरो । २. लिम्बूजातिको थर विशेष ।"
+    },
+    "05015": {
+      "dId": "ᤑᤧᤴᤍᤠᤣᤕᤠ",
+      "desc": "/फेन्दोया/",
+      "group": "BV",
+      "mean": "<p>bad luck; misfortune.</p>दुर्भाग्य ।"
+    },
+    "05016": {
+      "dId": "ᤑᤧᤴᤍᤠᤣᤘᤠ",
+      "desc": "/फेन्दोवा/",
+      "group": "BV",
+      "mean": "<p>a kind of bird.</p>तुलेगाँडो चरो ।"
+    },
+    "05017": {
+      "dId": "ᤑᤧᤴᤍᤠᤣ᤺ᤰ/ᤑᤧᤴᤍᤠᤣᤁ᤻",
+      "desc": "/फेन्दोःक्/",
+      "group": "BV",
+      "mean": "<p>loss; damage.</p>हानि; नोक्सान; क्षति ।"
+    },
+    "05018": {
+      "dId": "ᤑᤧᤴᤎᤰᤋᤧᤴ",
+      "desc": "/फेन्धक्तेन्/",
+      "group": "BV",
+      "mean": "<p>anvil; forge; smithy.</p>आरन ।"
+    },
+    "05019": {
+      "dId": "ᤑᤧᤴᤎᤰᤐᤠ",
+      "desc": "/फेन्धक्पा/",
+      "group": "BV",
+      "mean": "<p>blacksmith; iron smith; Vishwakarma caste.</p>नकर्मी; कामी; लोहार; फलामको काम गर्ने मान्छे; विश्वकर्मा ।"
+    },
+    "05020": {
+      "dId": "ᤑᤧᤴᤎᤠᤣ᤺ᤰ/ᤑᤧᤴᤎᤠᤣᤁ᤻",
+      "desc": "/फेन्धोःक्/",
+      "group": "BV",
+      "mean": "<p>accident.</p>दुर्घटना ।"
+    },
+    "05021": {
+      "dId": "ᤑᤧᤴᤕᤱ",
+      "desc": "/फेन्यङ्/",
+      "group": "BV",
+      "mean": "<p>a kind of Tibetan garment; outer garment made from a homespun blanket.</p>बक्खु ।"
+    },
+    "05022": {
+      "dId": "ᤑᤧᤴᤕᤢᤰᤁᤡ ",
+      "desc": "/फेन्युक्कि/",
+      "group": "BV",
+      "mean": "<p>machine; instrument.</p>यन्त्र; कल ।"
+    },
+    "05023": {
+      "dId": "ᤑᤧᤴᤗᤠ",
+      "desc": "/फेन्ला/",
+      "group": "BV",
+      "mean": "<p>crowbar.</p>रम्भा; झ्याम्पल ।"
+    },
+    "05024": {
+      "dId": "ᤑᤧᤴᤗᤠᤱ",
+      "desc": "/फेन्लाङ्/",
+      "group": "BV",
+      "mean": "<p>1. grid-iron; awl; skewer. 2. iron-rod; iron-bar.</p>१. झीर । २. फलामे छड; डन्डी ।"
+    },
+    "05025": {
+      "dId": "ᤑᤧᤴᤜᤡᤰᤗᤠᤎᤠ",
+      "desc": "/फेन्हिक्लाधा/",
+      "group": "BV",
+      "mean": "<p>train; rail.</p>रेल ।"
+    },
+    "05026": {
+      "dId": "ᤑᤧᤵᤑᤡᤵᤔᤠ",
+      "desc": "/फेप्फिप्मा/",
+      "group": "BV",
+      "mean": "<p>flat split-bamboo basket for keeping paper.</p>कागजपत्र राखिने चोयाको एक प्रकारको चेप्टो बाकस विशेष ।"
+    },
+    "05027": {
+      "dId": "ᤑᤧᤵᤔᤠ",
+      "desc": "/फेप्मा/",
+      "group": "BV",
+      "mean": "<p>to bring sth (from the same or horizontal level).</p>(वक्ता रहेको समानान्तर ठाउँबाट) ल्याउनु ।"
+    },
+    "05028": {
+      "dId": "ᤑᤧᤒᤠ᤺ᤳ/ᤑᤧᤒᤠᤋ᤻",
+      "desc": "/फेबाःत्/",
+      "group": "BV",
+      "mean": "<p>insects.</p>कीट पतङ् ।"
+    },
+    "05029": {
+      "dId": "ᤑᤧᤓᤧ",
+      "desc": "/फेभे/",
+      "group": "BV",
+      "mean": "<p>detail; detailed/through description.</p>विस्तार; बेलीविस्तार; विस्तृति ।"
+    },
+    "05030": {
+      "dId": "ᤑᤧᤓᤧᤖᤡᤰ",
+      "desc": "/फेभेरिक्/",
+      "group": "BV",
+      "mean": "<p>in detail.</p>विस्तारपूर्वक ।"
+    },
+    "05031": {
+      "dId": "ᤑᤧᤓᤧᤖᤡᤰᤐᤠ",
+      "desc": "/फेभेरिक्पा/",
+      "group": "BV",
+      "mean": "<p>extended.</p>विस्तृत ।"
+    },
+    "05032": {
+      "dId": "ᤑᤧᤔᤠ",
+      "desc": "/फेमा/",
+      "group": "BV",
+      "mean": "<p>a helping verb which gives a meaning of badness when suffixed to another word.</p>अर्को शब्दको पछाडि जोडिएर नराम्रो भन्ने अर्थ बुझाउने सहायक क्रिया ।"
+    },
+    "05033": {
+      "dId": "ᤑᤧᤶᤒᤠ",
+      "desc": "/फेम्बा/",
+      "group": "BV",
+      "mean": "<p>1. blacksmith. 2. goldsmith.</p>१. नकर्मी; कामी; लोहार; फलामको काम गर्ने मान्छे; विश्वकर्मा । २. सुनार; बाँडा; सुन चाँदीको गहना बनाउने वा काम गर्ने मानिस ।"
+    },
+    "05034": {
+      "dId": "ᤑᤧᤶᤒᤢ ᤐᤢ",
+      "desc": "/फेम्बु पु/",
+      "group": "BV",
+      "mean": "<p>sparrow. Passer domesticus.</p>भँगेरो ।"
+    },
+    "05035": {
+      "dId": "ᤑᤧᤶᤒᤠᤣᤛᤠ᤺",
+      "desc": "/फेम्बोसाः/",
+      "group": "BV",
+      "mean": "<p>(Mundhum) nubile; adolescent; unmarried young boy.</p>(मुन्धुम) विवाहयोग्य किशोर; अविवाहित तन्नेरी ।"
+    },
+    "05036": {
+      "dId": "ᤑᤧᤶᤔᤠ",
+      "desc": "/फेम्मा/",
+      "group": "BV",
+      "mean": "<p>1. a Limbu word for a woman belonging to the ironsmith (blacksmith, goldsmith) caste. 2. to untie/undo/unfold. 3. to cause to sb to bring/send sth (from the same level). 4. to come (from a place of the same level); to come horizontally.</p>१. कामिनी; लिम्बूभाषामा कामी जातको स्त्री जनाउने शब्द । २. (गाँठो, लुगा, बन्धन आदि) फुकाल्नु/खोल्नु । ३. ल्याउन लगाउनु/पठाउनु (वक्ता रहेको समतल बाट) । ४. (समान सतह/ठाँउबाट) आउनु; तेर्सो आउनु ।"
+    },
+    "05037": {
+      "dId": "ᤑᤧᤕᤠᤶᤗᤢᤱ(ᤔᤠ)",
+      "desc": "/फेयाम्लुङ्(मा)/",
+      "group": "BV",
+      "mean": "<p>Mahabharat mountain range.</p>महाभारत पर्वतश्रृङ्खला ।"
+    },
+    "05038": {
+      "dId": "ᤑᤧᤕᤠᤗᤢᤱ",
+      "desc": "/फेयालुङ्/",
+      "group": "BV",
+      "mean": "<p>whetstone.</p>हतियार उद्याउने; साँध लगाउने ढुङ्गा ।"
+    },
+    "05039": {
+      "dId": "ᤑᤧᤕᤢᤱ",
+      "desc": "/फेयुङ्/",
+      "group": "BV",
+      "mean": "<p>hilt or handle or the Khukuri.</p>खुकुरीको बीँड ।"
+    },
+    "05040": {
+      "dId": "ᤑᤧᤕᤠᤣ",
+      "desc": "/फेयो/",
+      "group": "BV",
+      "mean": "<p>[Tamor] weir; to make barrier/fence; to divert the flow of a stream or to make a pond-trap to catch fish.</p>[तमर] दुवाली ।"
+    },
+    "05041": {
+      "dId": "ᤑᤧᤖᤧ",
+      "desc": "/फेरे/",
+      "group": "BV",
+      "mean": "<p>breath; width.</p>चौडाइ ।"
+    },
+    "05042": {
+      "dId": "ᤑᤧᤖᤧᤰᤗᤧᤰᤐᤠ",
+      "desc": "/फेरेक्लेक्पा/",
+      "group": "BV",
+      "mean": "<p>babies; kids; littles; small children.</p>भाल्टाङ्-भुल्टुङ् ।"
+    },
+    "05043": {
+      "dId": "ᤗᤧᤗᤧᤰ",
+      "desc": "/फेलेक्/",
+      "group": "BV",
+      "mean": "<p>getting untied unexpectedly/suddenly.</p>फुस्स वा फ्यास्स फुस्कने किसिमले ।"
+    },
+    "05044": {
+      "dId": "ᤗᤧᤸᤗᤢᤰᤛᤣ᤹",
+      "desc": "/फेल्लुक्से/",
+      "group": "BV",
+      "mean": "<p>a kind of flat pulse; horse gram.</p>गहत ।"
+    },
+    "05045": {
+      "dId": "ᤑᤧᤸᤗᤧ",
+      "desc": "/फेल्ले/",
+      "group": "BV",
+      "mean": "<p>than; if; in case.</p>यदि; भने; भन्दा । "
+    },
+    "05046": {
+      "dId": "ᤑᤧᤸᤗᤧᤰ",
+      "desc": "/फेल्लेक्/",
+      "group": "BV",
+      "mean": "<p>a long and thick piece of wood cut for burning.</p>कप्टेरो ।"
+    },
+    "05047": {
+      "dId": "ᤑᤧᤸᤗᤧᤶ",
+      "desc": "/फेल्लेम्/",
+      "group": "BV",
+      "mean": "<p>medal.</p>तक्मा; पदक ।"
+    },
+    "05048": {
+      "dId": "ᤑᤧᤘᤠᤀᤡ ",
+      "desc": "/फेवाइ/",
+      "group": "BV",
+      "mean": "<p>instrumental apparatus.</p>यन्त्र ।"
+    },
+    "05049": {
+      "dId": "ᤑᤧᤘᤠ᤺ᤳ/ᤑᤧᤘᤠᤋ᤻",
+      "desc": "/फेवाःत्/",
+      "group": "BV",
+      "mean": "<p>insects.</p>किटपतङ्ग ।"
+    },
+    "05050": {
+      "dId": "ᤑᤧᤛᤡ᤺ᤰᤁᤪᤠ/ᤑᤧᤛᤡᤁ᤻ᤁᤪᤠ",
+      "desc": "/फेसिःक्क्रा/",
+      "group": "BV",
+      "mean": "<p>a thin pieces of bamboo strips used as bamboo fuel.</p>बाँसको सिक्रा/दाउरा ।"
+    },
+    "05051": {
+      "dId": "ᤑᤧᤛᤡᤵ",
+      "desc": "/फेसिप्/",
+      "group": "BV",
+      "mean": "<p>sheath/scabbard.</p>दाप ।"
+    },
+    "05052": {
+      "dId": "ᤑᤧᤛᤢᤶ",
+      "desc": "/फेसुम्/",
+      "group": "BV",
+      "mean": "<p>light smoke or soot.</p>हल्का ध्वाँसो ।"
+    },
+    "05053": {
+      "dId": "ᤑᤧᤛᤧᤰᤘᤠ",
+      "desc": "/फेसेक्वा/",
+      "group": "BV",
+      "mean": "<p>bamboo leaves.</p>बाँसको पात ।"
+    },
+    "05054": {
+      "dId": "ᤑᤧᤛᤧ᤺ᤵᤐᤠ/ᤑᤧᤛᤧᤐ᤻ᤐᤠ",
+      "desc": "/फेसेःप्पा/",
+      "group": "BV",
+      "mean": "<p>cigarette; smoking.</p>चुरोट; धूमपान ।"
+    },
+    "05055": {
+      "dId": "ᤑᤧᤜᤡ᤺ᤸᤗᤡ/ᤑᤧᤜᤡᤗ᤻ᤗᤡ ",
+      "desc": "/फेहिःल्लि/",
+      "group": "BV",
+      "mean": "<p>a wooden spade used for leveling the paddy field.</p>फ्याउरी; खेतमा माटो हिल्याउने साधन ।"
+    },
+    "05056": {
+      "dId": "ᤑᤧ᤹᤺ᤔᤠ",
+      "desc": "/फेः?मा/",
+      "group": "BV",
+      "mean": "<p>to spread out (mat, bed etc) for someone else.</p>ओछ्याइदिनु; ओछ्याउनु (अरूका लागि) ।"
+    },
+    "05057": {
+      "dId": "ᤑᤧ᤺ᤰᤔᤠ/ᤑᤧᤁ᤻ᤔᤠ",
+      "desc": "/फेःक्मा/",
+      "group": "BV",
+      "mean": "<p>1. to kick down. 2. to scold/chide/rebuke/reproach/abuse. 3. (of sheep) to bleat.</p>१. लातले खाद्नु । २. हप्काउनु; हकार्नु; गाली गर्नु । ३. भेँडा कराउनु ।"
+    },
+    "05058": {
+      "dId": "ᤑᤧ᤺ᤱᤔᤠ/ᤑᤧᤅ᤻ᤔᤠ",
+      "desc": "/फेःङ्मा/",
+      "group": "BV",
+      "mean": "<p>1. to break/burst. 2. to grind maize grains etc coarsely. 3. to cultivate, esp infertile or waste land.</p>१. फुटाउनु । २. मकै आदिका दाना दुई फ्याक हुनेगरी पिंध्नु; पिस्नु; कप्टेरा पार्नु । ३. बारी, खेत आदि बिराउनु; जग्गा आवाद गर्नु ।"
+    },
+    "05059": {
+      "dId": "ᤑᤧ᤺ᤱᤘᤠ/ᤑᤧᤅ᤻ᤘᤠ",
+      "desc": "/फेःङ्वा/",
+      "group": "BV",
+      "mean": "<p>left.</p>देब्रे; बायाँ ।"
+    },
+    "05060": {
+      "dId": "ᤑᤧ᤺ᤵᤔᤠ/ᤑᤧᤐ᤻ᤔᤠ",
+      "desc": "/फेःप्मा/",
+      "group": "BV",
+      "mean": "<p>to shrivel/crush/press. hard sth; to run over sth.</p>क्याच्च/किचिक्क कुच्याउनु/चेप्ट्याउनु ।"
+    },
+    "05061": {
+      "dId": "ᤑᤧ᤺ᤔᤠ",
+      "desc": "/फेःमा/",
+      "group": "BV",
+      "mean": "<p>to spread out (bed, mat etc) (for oneself).</p>ओछ्याउनु (आफ्नो लगि) ।"
+    },
+    "05062": {
+      "dId": "ᤑᤩᤠ᤺ᤰ/ᤑᤩᤠᤁ᤻",
+      "desc": "/फ्याःक्/",
+      "group": "BV",
+      "mean": "<p>1. swordsman. 2. one of the clan-names or Limbu. 3. shattering/smashing/crushing to pieces.</p>१. तरबार भिर्ने मानिस । २. लिम्बूजातिको एउटा थर । ३. प्याट्ट हिर्काएर चकनाचुर पार्ने किसिमले ।"
+    },
+    "05063": {
+      "dId": "ᤑᤩᤠ᤺ᤳᤗᤢᤱ/ᤑᤩᤠᤋ᤻ᤗᤢᤱ",
+      "desc": "/फ्याःत्लुङ्/",
+      "group": "BV",
+      "mean": "<p>whetstone.</p>साँध/सान लगाउने ढुङ्गा; सिलढुङ्गा; हतियार उध्याउने ढुङ्गा । "
+    },
+    "05064": {
+      "dId": "ᤑᤩᤢᤖᤧᤶᤒᤠ",
+      "desc": "/फ्युरेम्बा/",
+      "group": "BV",
+      "mean": "<p>a kind of tree. Ficus sp.</p>पिप्ली ।"
+    },
+    "05065": {
+      "dId": "ᤑᤪᤠᤘᤠᤒᤠ",
+      "desc": "/फ्रावाबा/",
+      "group": "BV",
+      "mean": "<p>sand piper. <i>Tringa.</i></p>हुटिट्याउँ चरो ।"
+    },
+    "05066": {
+      "dId": "ᤑᤪᤧ᤺ᤱ/ᤑᤪᤧ",
+      "desc": "/फ्रेःङ्/",
+      "group": "BV",
+      "mean": "<p>half.</p>आधा ।"
+    },
+    "05067": {
+      "dId": "ᤑᤪᤧ᤺ᤱᤍᤰ/ᤑᤪᤧᤅ᤻ᤍᤰ",
+      "desc": "/फ्रेःङ्दक्/",
+      "group": "BV",
+      "mean": "<p>semicolon; the punctuation mark.</p>अर्धविराम ।"
+    },
+    "05068": {
+      "dId": "ᤑᤫᤠ",
+      "desc": "/फ्वा/",
+      "group": "BV",
+      "mean": "<p>white.</p>सेतो ।"
+    }
+  }
+}

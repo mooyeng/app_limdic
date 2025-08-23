@@ -1,0 +1,676 @@
+{
+  "Dic": {
+    "01858": {
+      "dId": "ᤂᤠᤣᤀᤡᤱ",
+      "desc": "/खेइङ्/",
+      "group": "AQ",
+      "mean": "<p>cause; reason.</p>कारण ।"
+    },
+    "01859": {
+      "dId": "ᤂᤧᤀᤡ᤺ᤶᤒᤣ/ᤂᤧᤀᤡᤔ᤻ᤒᤣ",
+      "desc": "/खेइःम्बे/",
+      "group": "AQ",
+      "mean": "<p>imitation; copy; mimicry.</p>अनुकरण; नक्कल; देखासिकी ।"
+    },
+    "01860": {
+      "dId": "ᤂᤧ᤹",
+      "desc": "/खे?/",
+      "group": "AQ",
+      "mean": "<p>1. decoration; ornamentation. 2. metaphor; figurative speech.</p>१. फूलबुट्टा; शृङ्गार । २. अलङ्कार ।"
+    },
+    "01861": {
+      "dId": "ᤂᤧ᤹ᤕᤠᤣ",
+      "desc": "/खे?याे/",
+      "group": "AQ",
+      "mean": "<p>there (below).</p>त्यहाँ (तल) ।"
+    },
+    "01862": {
+      "dId": "ᤂᤧ᤹ᤛᤢᤱ",
+      "desc": "/खे?सुङ्/",
+      "group": "AQ",
+      "mean": "<p>a paste made from the roots of particular plants. Polygala arillata. etc and used as a yeast to ferment millet beer.</p>मर्चा ।"
+    },
+    "01863": {
+      "dId": "ᤂᤧ᤹ᤛᤡᤱᤘᤠ",
+      "desc": "/खे?सिङ्वा/",
+      "group": "AQ",
+      "mean": "<p>etymology; derivation.</p>निर्वचन; व्यूत्पत्ति ।"
+    },
+    "01864": {
+      "dId": "ᤂᤧᤰ",
+      "desc": "/खेक्/",
+      "group": "AQ",
+      "mean": "<p>in a knocking/ clattering manner.</p>ठक्क वा ठ्वाक्क ठक्कर खाने किसिमले ।"
+    },
+    "01865": {
+      "dId": "ᤂᤧᤰᤁᤪᤡᤒᤠ",
+      "desc": "/खेक्क्रिबा/",
+      "group": "AQ",
+      "mean": "<p>Martin; a small carnivorous creature found in low land.</p>मलसाँप्राे (औलमा पाइने) ।"
+    },
+    "01866": {
+      "dId": "ᤂᤧᤰᤂᤧᤰ",
+      "desc": "/खेक्खेक्/",
+      "group": "AQ",
+      "mean": "<p>lead.</p>सिसा (धातु) ।"
+    },
+    "01867": {
+      "dId": "ᤂᤧᤰᤂᤧᤰᤏᤠ",
+      "desc": "/खेक्खेक्ना/",
+      "group": "AQ",
+      "mean": "<p>a kind of bird.</p>लिसे चरा ।"
+    },
+    "01868": {
+      "dId": "ᤂᤧᤰᤂᤧᤰᤏᤠᤘᤠ",
+      "desc": "/खेक्खेक्नावा/",
+      "group": "AQ",
+      "mean": "<p>a kind of parasitical plant.</p>एक प्रकारकाे परजीवी वनस्पति ।"
+    },
+    "01869": {
+      "dId": "ᤂᤧᤰᤆᤢᤏᤠ/ᤂᤧᤰᤆᤢᤔᤠ",
+      "desc": "/खेक्चुना/खेक्चुमा/",
+      "group": "AQ",
+      "mean": "<p>a kind of king-crow; drongo. Dicrurus.</p>चिबे चरा ।"
+    },
+    "01870": {
+      "dId": "ᤂᤧᤰᤋᤠᤱᤘᤠ",
+      "desc": "/खेक्ताङ्वा/",
+      "group": "AQ",
+      "mean": "<p>a kind of red bird.</p>रानी चराे (राताे) ।"
+    },
+    "01871": {
+      "dId": "ᤂᤧᤰᤋᤧᤒᤠ",
+      "desc": "/खेक्तेबा/",
+      "group": "AQ",
+      "mean": "<p>ripened or dried on the plant itself (eg: corn, fruit etc).</p>बाेटैमा पाकेकाे वा सुकेकाे (मकै; फलफूल आदि) ।"
+    },
+    "01872": {
+      "dId": "ᤂᤧᤰᤐᤠ",
+      "desc": "/खेक्पा/",
+      "group": "AQ",
+      "mean": "<p>fraction; a quantity less than a whole number.</p>भिन्न; भिन्न निकाल्ने हिसाब ।"
+    },
+    "01873": {
+      "dId": "ᤂᤧᤰᤔᤠ",
+      "desc": "/खेक्मा/",
+      "group": "AQ",
+      "mean": "<p>to dry out completely.</p>सर्लङ्ग/ सर्लक्क सुक्नु ।"
+    },
+    "01874": {
+      "dId": "ᤂᤧᤰᤕᤠ",
+      "desc": "/खेक्या/",
+      "group": "AQ",
+      "mean": "<p>dried food.</p>सुकेकाे खाद्यपदार्थ ।"
+    },
+    "01875": {
+      "dId": "ᤂᤧᤰᤗᤧ᤹ᤘᤠ",
+      "desc": "/खेक्ले?वा/",
+      "group": "AQ",
+      "mean": "<p>a kind of tree; a variety of machilus. <i>Machilus gamblei.</i></p>काउलाे; एक प्रकारकाे काउलाे (रूखपात) ।"
+    },
+    "01876": {
+      "dId": "ᤂᤧᤰᤗᤧᤰᤔᤠ",
+      "desc": "/खेक्लेक्मा/",
+      "group": "AQ",
+      "mean": "<p>a kind of tree. <i>Machilus odoratissima.</i></p>भलायाे (रूख) ।"
+    },
+    "01877": {
+      "dId": "ᤂᤧᤰᤘᤠ",
+      "desc": "/खेक्वा/",
+      "group": "AQ",
+      "mean": "<p>1. a quarter; a fourth part. 2. one-fourth of a rupee, eg twenty-five pice.</p>१. चाैथाइ । २. सुका; पच्चीस पैसा ।"
+    },
+    "01878": {
+      "dId": "ᤂᤧᤰᤛᤢᤒᤠ",
+      "desc": "/खेक्सुबा/",
+      "group": "AQ",
+      "mean": "<p>1. Mercury (planet) . 2. Wednesday.</p>१. बुध ग्रह । २. बुधबार ।"
+    },
+    "01879": {
+      "dId": "ᤂᤧᤃᤢ",
+      "desc": "/खेगु/",
+      "group": "AQ",
+      "mean": "<p>rows upon rows.</p>ताँती ।"
+    },
+    "01880": {
+      "dId": "ᤂᤧᤱ",
+      "desc": "/खेङ्/",
+      "group": "AQ",
+      "mean": "<p>bang/ high-pitched sound.</p>ठङ्ठङ् आवाज ।"
+    },
+    "01881": {
+      "dId": "ᤂᤧᤱᤂᤧᤴ ᤛᤡᤱ",
+      "desc": "/खेङ्खेन् सिङ्/",
+      "group": "AQ",
+      "mean": "<p>the first tree in creation; the tree created first of all.</p>सृष्टिकाे पहिलाे रूख ।"
+    },
+    "01882": {
+      "dId": "ᤂᤧᤱᤈᤠ",
+      "desc": "/खेङ्जा/",
+      "group": "AQ",
+      "mean": "<p>ground nut; almond.</p>बदाम; कागजी बदाम ।"
+    },
+    "01883": {
+      "dId": "ᤂᤧᤱᤔᤠ",
+      "desc": "/खेङ्मा/",
+      "group": "AQ",
+      "mean": "<p>1. to kindle. 2. to dry completely. 3. to desiccate meat, apple etc. 4. to shell grains. 5. to break sth. 6. (aux.) an intransitive verb meaning ‘to excite’, ‘to inflame’, ‘to anger’ etc when suffixed to another word (eg: sikkhmeanma = to be angry).</p>१. (आगाे) पार्नु । २. सर्लक्क हुनेगरी सुकाउनु । ३. सुकुटी पार्नु । ४. गेडागुडी छाेडाउनु । ५. फुटाउनु; चाेइटाउनु । ६. कुनै शब्दकाे पछिल्तिर जाेडिएर ‘लाग्नु’; ‘उठ्नु’ जस्ता अर्थ दिने अकर्मक क्रियापद (जस्तै:- सिक्खेङ्मा = रिस उठ्नु ) ।"
+    },
+    "01884": {
+      "dId": "ᤂᤧᤱᤛᤡᤱ",
+      "desc": "/खेङ्सिङ्/",
+      "group": "AQ",
+      "mean": "<p>spalls; small split pieces of wood or firewood.</p>चिर्पट; चिरा पारिएका ससाना काठ वा दाउरा ।"
+    },
+    "01885": {
+      "dId": "ᤂᤧᤱᤛᤢᤰ",
+      "desc": "/खेङ्सुक्/",
+      "group": "AQ",
+      "mean": "<p>one-fourth quarter; one-fourth a ‘tola’ (a small measure of weight); a weight equivalent to that weight (esp of gold, silver, etc).</p>चारआना; एक ताेलाकाे चाैथाइ भाग (खास गरी सुन, चाँदी आदि) ।"
+    },
+    "01886": {
+      "dId": "ᤂᤧᤈᤧᤰ",
+      "desc": "/खेजेक्/",
+      "group": "AQ",
+      "mean": "<p>quarrel.</p>झगडा ।"
+    },
+    "01887": {
+      "dId": "ᤂᤧᤳᤂᤧᤵᤐᤠ",
+      "desc": "/खेत्खेप्पा/",
+      "group": "AQ",
+      "mean": "<p>forcible (or violent) plunder; snatching away by force (or violent).</p>मारामार; हारालुछ ।"
+    },
+    "01888": {
+      "dId": "ᤂᤧᤳᤇᤡᤱᤔᤠ",
+      "desc": "/खेत्छिङ्मा/",
+      "group": "AQ",
+      "mean": "<p>to escape; to escape (or run away) together.</p>भाग्नु; मिलेर भाग्नु ।"
+    },
+    "01889": {
+      "dId": "ᤂᤧᤳᤇᤡᤱᤛᤣ᤹",
+      "desc": "/खेत्छिङ्से?/",
+      "group": "AQ",
+      "mean": "<p>1. black chestnut; a kind of small chestnut. Costanopsis tribuloides.</p>१. कालाे कटुस; सानाे दाना हुने एक प्रकारकाे कटुस; मुसुरे कटुस । २. झाँक्री स्याउली ।"
+    },
+    "01890": {
+      "dId": "ᤂᤧᤳᤇᤧᤰᤘᤠ",
+      "desc": "/खेत्छेक्वा/",
+      "group": "AQ",
+      "mean": "<p>the yam fruit.</p>तरुलकाे लहरामा फल्ने फल; तरुलकाे फल ।"
+    },
+    "01891": {
+      "dId": "ᤂᤧᤳᤋᤠ᤹ᤀᤡ ",
+      "desc": "/खेत्ता?इ/",
+      "group": "AQ",
+      "mean": "<p>a kind of herb used in making a ferment of grewing. Polugala arillata.</p>मर्चा बनाउन जरा प्रयाेग गरिने एक प्रकारकाे जडीबुटी ।"
+    },
+    "01892": {
+      "dId": "ᤂᤧᤋᤪᤰᤐᤠ",
+      "desc": "/खेत्रक्पा/",
+      "group": "AQ",
+      "mean": "<p>a little grown-up tadpole of a green kind of frog; tadpole (esp of an edible green kind of frog).</p>पाहाकाे अलि हुर्केकाे बच्चा; चेपागाँडा (खासगरी पाहाकाे) ।"
+    },
+    "01893": {
+      "dId": "ᤂᤧᤋᤪᤱᤒᤠ",
+      "desc": "/खेत्रङ्बा/",
+      "group": "AQ",
+      "mean": "<p>a kind of tree. Ficus lactor.</p>काभ्राेकाे रूख ।"
+    },
+    "01894": {
+      "dId": "ᤂᤧᤳᤋᤪᤧᤰ",
+      "desc": "/खेत्त्रेक्/",
+      "group": "AQ",
+      "mean": "<p>1. coins of small value. 2. thud, sound made by a small object falling to the ground. 3. bankrupcy; empty-handedness; emptiness.</p>१. खुद्रा पैसा । २. कुनै वस्तु खत्रक्क खसेकाे आवाज । ३. रित्तिएकाे अवस्था; टाकटुक सकिएकाे अवस्था ।"
+    },
+    "01895": {
+      "dId": "ᤂᤧᤳᤏᤠᤶ",
+      "desc": "/खेत्नाम्/",
+      "group": "AQ",
+      "mean": "<p>fame.</p>कीर्ति ।"
+    },
+    "01896": {
+      "dId": "ᤂᤧᤍ᤹",
+      "desc": "/खेद?/",
+      "group": "AQ",
+      "mean": "<p>kidney.</p>मिर्गाैला ।"
+    },
+    "01897": {
+      "dId": "ᤂᤧᤍᤠ᤹",
+      "desc": "/खेदा?/",
+      "group": "AQ",
+      "mean": "<p>story.</p>कथा; कहानि; कुथुङ्ग्री ।"
+    },
+    "01898": {
+      "dId": "ᤂᤧᤍᤡ᤹ᤔ᤺ᤣᤳ/ᤂᤧᤍᤡᤔᤧᤋ᤻",
+      "desc": "/खेदि?मेःत्/",
+      "group": "AQ",
+      "mean": "<p>epilepsy.</p>छारेराेग ।"
+    },
+    "01899": {
+      "dId": "ᤂᤧᤍᤡ᤹ ",
+      "desc": "/खेदि/",
+      "group": "AQ",
+      "mean": "<p>a variety of cane. <i>Calamus latifolius.</i></p>फ्याँक्रे बेत; ढ्याँग्रे बेत ।"
+    },
+    "01900": {
+      "dId": "ᤂᤧᤍᤡᤱ",
+      "desc": "/खेदिङ्/",
+      "group": "AQ",
+      "mean": "<p>doubt.</p>शङ्का ।"
+    },
+    "01901": {
+      "dId": "ᤂᤧᤏᤠ(ᤒᤠ)",
+      "desc": "/खेना(बा)/",
+      "group": "AQ",
+      "mean": "<p>sheep of snowy region; wild sheep.</p>नेहुर (भ्याङ्लुङ्); नाहुर (हिमालमा  पाइने जङ्गली भेडाे) ।"
+    },
+    "01902": {
+      "dId": "ᤂᤧᤏᤡ᤹ ",
+      "desc": "/खेनि?/",
+      "group": "AQ",
+      "mean": "<p>you (plu.).</p>तिमिहरू ।"
+    },
+    "01903": {
+      "dId": "ᤂᤧᤏᤧ᤹",
+      "desc": "/खेने?/",
+      "group": "AQ",
+      "mean": "<p>you (singular).</p>तँ; तिमी ।"
+    },
+    "01904": {
+      "dId": "ᤂᤧᤴ",
+      "desc": "/खेन्/",
+      "group": "AQ",
+      "mean": "<p>he or she; it; this; that.</p>उ; त्याे ।"
+    },
+    "01905": {
+      "dId": "ᤂᤧᤴᤇᤡ ",
+      "desc": "/खेन्छि/",
+      "group": "AQ",
+      "mean": "<p>you; you two.</p>तिमिहरू; तिमिहरू दुईजना ।"
+    },
+    "01906": {
+      "dId": "ᤂᤧᤴᤎᤠ᤺ᤱᤒᤠ/ᤂᤧᤴᤎᤠᤅ᤻ᤒᤠ",
+      "desc": "/खेन्धाःङ्बा/",
+      "group": "AQ",
+      "mean": "<p>a measure of weight equal to ten seers (20 lbs. ).</p>दस सेर बराबरकाे परिमाण; दुई पसेरी (पाँच सेर) बराबरकाे परिमाण ।"
+    },
+    "01907": {
+      "dId": "ᤂᤧᤵᤑᤧᤳᤗᤠ ᤛᤡᤱ",
+      "desc": "/खेप्फेत्ला सिङ्/",
+      "group": "AQ",
+      "mean": "<p>a kind of tree; the leaves of which are shaped like those of the pipal (peepul) tree. <i>Ficus (reliogiosa) sp.</i></p>पीपलपाते रूख ।"
+    },
+    "01908": {
+      "dId": "ᤂᤧᤵᤔᤠ",
+      "desc": "/खेप्मा/",
+      "group": "AQ",
+      "mean": "<p>1. to elope with sb; to kidnap/ abduct sb. 2. to shift/ remove sth away.</p>१. भगाउनु; अपहरण गर्नु । २. पर सार्नु; पन्साउनु ।"
+    },
+    "01909": {
+      "dId": "ᤂᤧᤵᤗᤠᤰ",
+      "desc": "/खेप्लाक्/",
+      "group": "AQ",
+      "mean": "<p>contract.</p>ठेक्का; करार ।"
+    },
+    "01911": {
+      "dId": "ᤂᤧᤒᤰᤐᤠ",
+      "desc": "/खेबक्पा/",
+      "group": "AQ",
+      "mean": "<p>1. crab. 2. lock.</p>१. गँगटाे । २. ताल्चा; ताला ।"
+    },
+    "01912": {
+      "dId": "ᤂᤧᤒᤰ ᤛᤡᤱ",
+      "desc": "/खबेक् सिङ्/",
+      "group": "AQ",
+      "mean": "<p>datepalm. Phoenix sylvestris.</p>खजुरकाे बाेट ।"
+    },
+    "01913": {
+      "dId": "ᤂᤧᤒᤠ᤺ᤴ/ᤂᤧᤒᤠᤏ᤻",
+      "desc": "/खेबाःन्/",
+      "group": "AQ",
+      "mean": "<p>1. figures of speech; metaphor. 2. figurative language; metaphorical expression. 3. idiom; phrase.</p>१. अलङ्कार । २. आलङ्कारिक भाषा; आलङ्कारिक अभिव्याक्ति । ३. मुहावरा; वाक्पद्धति; वाग्धारा ।"
+    },
+    "01914": {
+      "dId": "ᤂᤧᤔᤠᤱ",
+      "desc": "/खेमाङ्/",
+      "group": "AQ",
+      "mean": "<p>darkness.</p>अन्धकार; अन्धकारपन ।"
+    },
+    "01915": {
+      "dId": "ᤂᤣᤶ",
+      "desc": "/खेम्/",
+      "group": "AQ",
+      "mean": "<p>1. beauty; exquisiteness; aesthetic quality or pleasure. 2. figures of speech.</p>१. साैन्दर्य । २. अलङ्कार ।"
+    },
+    "01916": {
+      "dId": "ᤂᤧᤶᤈᤱ",
+      "desc": "/खेम्जङ्/",
+      "group": "AQ",
+      "mean": "<p>divorce initiated by the wife.</p>पत्नीका तर्फबाट गरीने पारपाचुके ।"
+    },
+    "01917": {
+      "dId": "ᤂᤧᤶᤈᤡᤰ",
+      "desc": "/खेम्जिक्/",
+      "group": "AQ",
+      "mean": "<p>stars; planets.</p>तारा; नक्षत्र ।"
+    },
+    "01918": {
+      "dId": "ᤂᤧᤶᤍᤢᤒᤠ",
+      "desc": "/खेम्दुबा/",
+      "group": "AQ",
+      "mean": "<p>fit; charming; attractive; cute; appealing.</p>सुहाँउदाे ।"
+    },
+    "01919": {
+      "dId": "ᤂᤧᤶᤓᤠ",
+      "desc": "/खेम्भा/",
+      "group": "AQ",
+      "mean": "<p>that much.</p>त्यति ।"
+    },
+    "01920": {
+      "dId": "ᤂᤧᤶᤓᤧᤸᤗᤧ",
+      "desc": "/खेम्भेल्ले/",
+      "group": "AQ",
+      "mean": "<p>then; at that time.</p>त्यसबेला ।"
+    },
+    "01921": {
+      "dId": "ᤂᤧᤶᤔᤠ",
+      "desc": "/खेम्मा/",
+      "group": "AQ",
+      "mean": "<p>1. to fit; to suit; to match; to be a match. 2. to split; to make a rift; to cleave. 3. to hear; to listen.</p>१. सुहाउनु । २. चिर्नु; फ्याक पार्नु । ३.  सुन्नु ।"
+    },
+    "01922": {
+      "dId": "ᤂᤧᤶᤗᤠᤒᤠ",
+      "desc": "/खेम्लाबा/",
+      "group": "AQ",
+      "mean": "<p>audible; worth-hearing.</p>श्रवणीय ।"
+    },
+    "01923": {
+      "dId": "ᤂᤧᤶᤛᤠᤒᤠ",
+      "desc": "/खेम्साबा/",
+      "group": "AQ",
+      "mean": "<p>audience.</p>श्राेता ।"
+    },
+    "01924": {
+      "dId": "ᤂᤧᤶᤛᤠᤔᤠ",
+      "desc": "/खेम्सामा/",
+      "group": "AQ",
+      "mean": "<p>(fem.) audience.</p>(स्त्री) श्राेता ।"
+    },
+    "01925": {
+      "dId": "ᤂᤧᤶᤔᤢᤰᤛᤠᤶ",
+      "desc": "/खेम्मुक्साम्/",
+      "group": "AQ",
+      "mean": "<p>capacity to hear; hearing power.</p>श्रवणशक्ति ।"
+    },
+    "01926": {
+      "dId": "ᤂᤧᤵᤕᤠᤴ/ᤂᤧᤵᤕᤧᤴ",
+      "desc": "/खेम्यान्/खेम्येन्/",
+      "group": "AQ",
+      "mean": "<p>four days ago; three days before yesterday.</p>चारदिन अघि; अस्तिकाे अघिल्लाे दिन ।"
+    },
+    "01927": {
+      "dId": "ᤂᤧᤶᤛᤡᤰᤁᤡ ",
+      "desc": "/खेम्सिक्कि/",
+      "group": "AQ",
+      "mean": "<p>a kind of seasonal weed.</p>उदासे झार ।"
+    },
+    "01928": {
+      "dId": "ᤂᤧᤶᤛᤡᤱ",
+      "desc": "/खेम्सिङ्/",
+      "group": "AQ",
+      "mean": "<p>beauty; loveliness.</p>लालित्य; साैन्दर्य; शाेभा ।"
+    },
+    "01929": {
+      "dId": "ᤂᤧᤶᤛᤡᤱᤔᤠ",
+      "desc": "/खेम्सिङ्मा/",
+      "group": "AQ",
+      "mean": "<p>to suit; to fit; to match; to look or to make look more beautiful or gracious; to be fit or suitable for.</p>सुहाउँदाे, सुहाएकाे हुनु वा देखिनु; शाेभा बढाउने खालकाे हुनु ।"
+    },
+    "01930": {
+      "dId": "ᤂᤧᤕᤱ/ᤂᤩᤱ",
+      "desc": "/खेयङ्/ख्यङ्/",
+      "group": "AQ",
+      "mean": "<p>vocation; profession.</p>व्यवसाय ।"
+    },
+    "01931": {
+      "dId": "ᤂᤧᤕᤱᤒᤠ/ᤂᤩᤱᤒᤠ",
+      "desc": "/खेयङ्बा/ख्यङ्बा/",
+      "group": "AQ",
+      "mean": "<p>vocational; occupational; taking to a vocation or occupation; following an occupation.</p>व्यवसायी; व्यवसाय गर्ने; व्यवसायमा लागेकाे ।"
+    },
+    "01932": {
+      "dId": "ᤂᤧᤕᤠᤱᤘᤠ",
+      "desc": "/खेयाङ्वा/",
+      "group": "AQ",
+      "mean": "<p>tibetan crow.</p>भाेटे काग ।"
+    },
+    "01933": {
+      "dId": "ᤂᤧᤖᤠ",
+      "desc": "/खेरा/",
+      "group": "AQ",
+      "mean": "<p>rumour.</p>हल्ला ।"
+    },
+    "01934": {
+      "dId": "ᤂᤧᤖᤠᤒᤣ᤹",
+      "desc": "/खेराबे?/",
+      "group": "AQ",
+      "mean": "<p>a kind of plant used to treating an eye-sore.</p>आँखाकाे राेगकाे उपचारमा प्रयाेग गरिने जडिबुटी ।"
+    },
+    "01935": {
+      "dId": "ᤂᤧᤖᤠ᤺ᤣᤳᤋᤡ/ᤂᤧᤖᤠᤣᤋ᤻ᤋᤡ ",
+      "desc": "/खेराेःत्ति/",
+      "group": "AQ",
+      "mean": "<p>null and void; annulled; rejected.</p>रद्द; खारेज गरिएकाे; अस्वीकृत ।"
+    },
+    "01936": {
+      "dId": "ᤂᤧᤖᤧ",
+      "desc": "/खेरे/",
+      "group": "AQ",
+      "mean": "<p>1. marrow. 2. nerve; pulse.</p>१. मासी । २. नाडी ।"
+    },
+    "01937": {
+      "dId": "ᤂᤧᤖᤧᤰᤘᤠ᤹",
+      "desc": "/खेरेक्वा?/",
+      "group": "AQ",
+      "mean": "<p>a species of small fowl.</p>सानाे खालकाे कुखुरा ।"
+    },
+    "01938": {
+      "dId": "ᤂᤧᤖᤈᤰᤁᤧ",
+      "desc": "/खेरजक्के/",
+      "group": "AQ",
+      "mean": "<p>rash; showy; pompous; restless; fidgety.</p>उत्ताउलाे; चकचके; चुलबुले ।"
+    },
+    "01939": {
+      "dId": "ᤂᤧᤸᤗᤧᤰ",
+      "desc": "/खेल्लेक्/",
+      "group": "AQ",
+      "mean": "<p>half piece or splinter (of sth).</p>आधा टुक्रा ।"
+    },
+    "01940": {
+      "dId": "ᤂᤧᤸᤗᤧᤰᤌᤠ᤺ᤱᤒᤠ/ᤌᤠᤅ᤻ᤒᤠ",
+      "desc": "/खल्लेक्थाःङ्बा/",
+      "group": "AQ",
+      "mean": "<p>the half of a maund; a measure of weight equal to 20 seers (40 lbs.).</p>आधा मन; चार पसेरी बराबरकाे परिमाण ।"
+    },
+    "01941": {
+      "dId": "ᤂᤧᤘᤠ",
+      "desc": "/खेवा/",
+      "group": "AQ",
+      "mean": "<p>red jungle fowl, Gallus gallus.</p>जङ्गली कुखुरा, लाइँचे ।"
+    },
+    "01942": {
+      "dId": "ᤂᤧᤛᤡᤱ",
+      "desc": "/खेसिङ्/",
+      "group": "AQ",
+      "mean": "<p>1. common sense. 2. general knowledge.</p>१. सुझबुझ । २. सामान्यज्ञान; साधारणज्ञान ।"
+    },
+    "01943": {
+      "dId": "ᤂᤧᤛᤡᤵᤐᤠ",
+      "desc": "/खेसिःप्पा/",
+      "group": "AQ",
+      "mean": "<p>hyacinth bean; bonavist, winter green flat bean. Dolichos lablab; Lablab vulgaris.</p>हिउदे सिमी ।"
+    },
+    "01944": {
+      "dId": "ᤂᤧᤛᤢᤔᤠ",
+      "desc": "/खेसुमा/",
+      "group": "AQ",
+      "mean": "<p>bee.</p>माैरी ।"
+    },
+    "01945": {
+      "dId": "ᤂᤧᤛᤧ᤺ᤱ/ᤂᤧᤛᤧᤅ᤻",
+      "desc": "/खेसेःङ्/",
+      "group": "AQ",
+      "mean": "<p>suggestion.</p>सुझाव; राय ।"
+    },
+    "01946": {
+      "dId": "ᤂᤧᤛᤧᤱᤘᤠ",
+      "desc": "/खेसेङ्वा/",
+      "group": "AQ",
+      "mean": "<p>measure of weight equal to about 2 oz.</p>छटाँक ।"
+    },
+    "01947": {
+      "dId": "ᤂᤧ᤺ᤰᤆᤢᤖᤡ/ᤂᤧᤁ᤻ᤆᤢᤖᤡ ",
+      "desc": "/खेःक्चुरि/",
+      "group": "AQ",
+      "mean": "<p>1. hook. 2. pole or beam of a plough.</p>१. आङ्कुसे । २. हरिस ।"
+    },
+    "01948": {
+      "dId": "ᤂᤧ᤺ᤰᤔᤠ/ᤂᤧᤁ᤻ᤔᤠ",
+      "desc": "/खेःक्मा/",
+      "group": "AQ",
+      "mean": "<p>to be flicked away; to break off.</p>चाेइटिनु; चाेइटिएर जानु; उछिट्टिनु ।"
+    },
+    "01949": {
+      "dId": "ᤂᤧ᤺ᤰᤂᤧ᤺ᤰᤐᤠ/ᤂᤧᤁ᤻ᤂᤧᤁ᤻ᤐᤠ",
+      "desc": "/खेःक्खेःक्पा/",
+      "group": "AQ",
+      "mean": "<p>in parts and pieces; partially.</p>टुक्रटुक्र गरेर; आंशिक ।"
+    },
+    "01950": {
+      "dId": "ᤂᤧᤱᤔᤠ",
+      "desc": "/खेङ्मा/",
+      "group": "AQ",
+      "mean": "<p>to break sth into pieces (with hands); to split.</p>चाेइट्याउनु; टुक्र्याउनु ।"
+    },
+    "01951": {
+      "dId": "ᤂᤧ᤺ᤵᤔᤠ/ᤂᤧᤐ᤻ᤔᤠ",
+      "desc": "/खेःप्मा/",
+      "group": "AQ",
+      "mean": "<p>1. to yoke; to put a yoke on (oxen, horse). 2. to reform.</p>१. जुवा नार्नु । २. तह लगाउनु; ठिक पार्नु ।"
+    },
+    "01952": {
+      "dId": "ᤂᤧ᤺ᤵᤛᤡᤱ/ᤂᤧᤐ᤻ᤛᤡᤱ",
+      "desc": "/खेःप्सिङ्/",
+      "group": "AQ",
+      "mean": "<p>yoke.</p>जुवा ।"
+    },
+    "01953": {
+      "dId": "ᤂᤧ᤺ᤶᤔᤠ/ᤂᤧᤔ᤻ᤔᤠ",
+      "desc": "/खेःम्मा/",
+      "group": "AQ",
+      "mean": "<p>1. to scrape; to crave; to make a scratch in sth.</p>१. काेतर्नु; काेत्रनु । २. खुर्कनु (कराइ, भाँडाकुँडा, भित्ता आदि) ।"
+    },
+    "01954": {
+      "dId": "ᤂᤧᤛ᤻",
+      "desc": "/खेःस्/",
+      "group": "AQ",
+      "mean": "<p>1. design or pattern knitted from split bamboos. 2. cloth with patterns similar to those of the split-bamboo mat.</p>१. मान्द्रेबुट्टे बुनाेट । २. मान्द्रे बुनाेटकाे कपडा ।"
+    },
+    "01955": {
+      "dId": "ᤂᤩᤱᤗᤢᤱ",
+      "desc": "/ख्यङ्लुङ्/",
+      "group": "AQ",
+      "mean": "<p>life-style.</p>रहनसहन ।"
+    },
+    "01956": {
+      "dId": "ᤂᤩᤠ",
+      "desc": "/ख्या/",
+      "group": "AQ",
+      "mean": "<p>dog.</p>कुकुर ।"
+    },
+    "01957": {
+      "dId": "ᤂᤩᤠᤄᤣ",
+      "desc": "/ख्याघे/",
+      "group": "AQ",
+      "mean": "<p>a variety of yam. Dioscoria anguinea.</p>कुकुर तरुल ।"
+    },
+    "01958": {
+      "dId": "ᤂᤩᤠᤋᤡ ",
+      "desc": "/ख्याति/",
+      "group": "AQ",
+      "mean": "<p>a kind of thorny creeper (from which tooth-picks are made). Smilax aspera.</p>कुकुरडाइनु; कुकुर बेत ।"
+    },
+    "01959": {
+      "dId": "ᤂᤩᤠ᤺ᤵ/ᤂᤩᤠᤐ᤻",
+      "desc": "/ख्याःप्/",
+      "group": "AQ",
+      "mean": "<p>action.</p>कर्म; कार्य ।"
+    },
+    "01960": {
+      "dId": "ᤂᤩᤠᤶ",
+      "desc": "/ख्याम्/",
+      "group": "AQ",
+      "mean": "<p>all; whole; entire; altogether.</p>सबै; जम्मै; भएभरकाे; भएजति ।"
+    },
+    "01961": {
+      "dId": "ᤂᤩᤠ᤺ᤰ/ᤂᤩᤠᤁ᤻",
+      "desc": "/ख्याःक्/",
+      "group": "AQ",
+      "mean": "<p>experience.</p>अनुभव ।"
+    },
+    "01962": {
+      "dId": "ᤂᤩᤠ᤺ᤰᤁᤡ/ᤂᤩᤠᤁ᤻ᤁᤡ ",
+      "desc": "/ख्याःक्कि/",
+      "group": "AQ",
+      "mean": "<p>experienced.</p>अनुभवी ।"
+    },
+    "01963": {
+      "dId": "ᤂᤩᤠ᤺ᤰᤘᤠ/ᤂᤩᤠᤁ᤻ᤘᤠ",
+      "desc": "/ख्याःक्वा/",
+      "group": "AQ",
+      "mean": "<p>a small kind of Alizia sp.</p>शिरिस; सानाे खालकाे शिरिस ।"
+    },
+    "01964": {
+      "dId": "ᤂᤩᤠ᤺ᤱ/ᤂᤩᤠᤅ᤻",
+      "desc": "/ख्याःङ्/",
+      "group": "AQ",
+      "mean": "<p>cupboard; almirah; shelf.</p>दराज; आल्मारी ।"
+    },
+    "01965": {
+      "dId": "ᤂᤩᤠ᤺ᤸᤗᤡ/ᤂᤩᤠᤗ᤻ᤗᤡ ",
+      "desc": "/ख्याःल्लि/",
+      "group": "AQ",
+      "mean": "<p>poetical dialogue.</p>पद्यात्मक बातचीत (जुवारी) ।"
+    },
+    "01966": {
+      "dId": "ᤂᤩ᤺ᤢᤵ/ᤂᤩᤢᤐ᤻",
+      "desc": "/ख्युप्/",
+      "group": "AQ",
+      "mean": "<p>flour.</p>पिठाे; मेदा ।"
+    },
+    "01967": {
+      "dId": "ᤂᤩᤠᤣ᤹",
+      "desc": "/ख्याे/",
+      "group": "AQ",
+      "mean": "<p>a kind of basket made of bamboo strips to tap the fish.</p>ढडिया; खुँगा; माछा मार्न खाेलामा थापिने टिप ।"
+    },
+    "01968": {
+      "dId": "ᤂᤩᤠ᤺ᤣᤰᤘᤠ/ᤂᤩᤠᤣᤁ᤻ᤘᤠ",
+      "desc": "/ख्याेःक्वा/",
+      "group": "AQ",
+      "mean": "<p>1. a kind of bird which cry resembles a whistle. 2. whistling.</p>१. सुसेली बजाएकाे जस्ताे आवाज निकाल्ने एक प्रकारकाे चरा । २. सुसेली ।"
+    },
+    "01969": {
+      "dId": "ᤂᤫᤡᤂᤫᤡ ",
+      "desc": "/ख्विख्वि/",
+      "group": "AQ",
+      "mean": "<p>1. turning round and round; dizzily; whirling or reeling about. 2. giddiness.</p>१. फनफन; फनन; भनभन; भनन; कुनै वस्तु बसकरी घुम्ने वा घुमाउने गरी । २. भनन रिङटा चल्ने किसिमले ।"
+    },
+    "01970": {
+      "dId": "ᤂᤫᤧ᤹",
+      "desc": "/ख्वे?/",
+      "group": "AQ",
+      "mean": "<p>resin; the gum exuded from a pine tree.</p>खाेटाे; सल्लाकाे खाेटाे ।"
+    }
+  }
+}

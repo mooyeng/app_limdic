@@ -1,0 +1,526 @@
+{
+  "Dic": {
+    "04810": {
+      "dId": "ᤑᤢ",
+      "desc": "/फु/",
+      "group": "BT",
+      "mean": "<p>mine.</p>खानी ।"
+    },
+    "04811": {
+      "dId": "ᤑᤢᤀᤣ᤺ᤸᤗᤣ᤺ᤰ/ᤑᤢᤀᤣᤗ᤻ᤗᤣᤁ᤻",
+      "desc": "/फुएःल्लेःक्/",
+      "group": "BT",
+      "mean": "<p>pot-shred; broken piece of earthenwares/egg cell/bamboo bark when dry.</p>फुटेको माटाको भाँडो, अन्डा वा बाँसको खबटो ।"
+    },
+    "04812": {
+      "dId": "ᤑᤢ᤹/ᤑᤢ",
+      "desc": "/फु?/फु/",
+      "group": "BT",
+      "mean": "<p>elder brother.</p>दाजु ।"
+    },
+    "04813": {
+      "dId": "ᤑᤢ᤹ᤋᤢᤰᤔᤠ",
+      "desc": "/फु?तुक्मा/",
+      "group": "BT",
+      "mean": "<p>dysentry.</p>रगतमासी ।"
+    },
+    "04814": {
+      "dId": "ᤑᤢ᤹ᤔᤠ",
+      "desc": "/फु?मा/",
+      "group": "BT",
+      "mean": "<p>1. to server; to snap. 2. to settle/decide (a matter).</p>१. चुडाल्नु । २. (कुरा आदि) छिन्नु; टुङ्ग्याउनु ।"
+    },
+    "04815": {
+      "dId": "ᤑᤢ᤹ᤗᤢᤶ/ᤑᤢᤸᤗᤢᤶ",
+      "desc": "/फु?लुम्/फुल्लुम्/",
+      "group": "BT",
+      "mean": "<p>(smoking/dust etc) smoking in lumps.</p>धूवाँ, धूलो आदि बुङ्गै उड्ने वा उठ्ने काम ।"
+    },
+    "04816": {
+      "dId": "ᤑᤢ᤹ᤗᤧᤛᤣ᤹",
+      "desc": "/फु?लेसे?/",
+      "group": "BT",
+      "mean": "<p>pomegranate; sweet pomegranate. <i>Punica granatum.</i></p>दारिम; अनार ।"
+    },
+    "04817": {
+      "dId": "ᤑᤢ᤹ᤛᤢᤶᤒᤠ",
+      "desc": "/फु?सुम्बा/",
+      "group": "BT",
+      "mean": "<p>smoky; black; blackened; dark.</p>ध्वाँसे; धूवाँ लागेको ।"
+    },
+    "04818": {
+      "dId": "ᤑᤢᤰᤁᤢ",
+      "desc": "/फुक्कु/",
+      "group": "BT",
+      "mean": "<p>cave; den; cavern.</p>गुफा; ओडार ।"
+    },
+    "04819": {
+      "dId": "ᤑᤢᤃᤰᤘᤠ",
+      "desc": "/फुगःक्वा/",
+      "group": "BT",
+      "mean": "<p>commodity.</p>वस्तु ।"
+    },
+    "04820": {
+      "dId": "ᤑᤢᤅᤧᤳ/ᤑᤢᤅᤧ᤹",
+      "desc": "/फुङेत्/फुङे?/",
+      "group": "BT",
+      "mean": "<p>1. bottle-gourd from which small vessels are made for holding water, liquor etc. Lagenaria siceraria. 2. a (water, wine etc) vessel made of dried bottle gourd.</p>१. लौका । २. चिन्डो; सुकेको लौकाको पानी, रक्सी आदि राख्ने भाँडो ।"
+    },
+    "04821": {
+      "dId": "ᤑᤢᤱ",
+      "desc": "/फुङ्/",
+      "group": "BT",
+      "mean": "<p>flower.</p>फूल ।"
+    },
+    "04822": {
+      "dId": "ᤑᤢᤱᤃᤠᤶ",
+      "desc": "/फुङ्गाम्/",
+      "group": "BT",
+      "mean": "<p>flower-pot; vase.</p>गमला ।"
+    },
+    "04823": {
+      "dId": "ᤑᤢᤱᤃᤡᤴ",
+      "desc": "/फुङ्गिन्/",
+      "group": "BT",
+      "mean": "<p>insolvent; bankrupt; penniless.</p>टाट पल्टेको; कङ्गाल; फुङ्गो ।"
+    },
+    "04824": {
+      "dId": "ᤑᤢᤱᤃᤣ᤺ᤰ/ᤑᤢᤱᤃᤣᤁ᤻",
+      "desc": "/फुङ्गेःक्/",
+      "group": "BT",
+      "mean": "<p>tola’; a Nepalese measurement equal to 1/80 ‘seer’.</p>तोला; सेरको ८० औं भाग ।"
+    },
+    "04825": {
+      "dId": "ᤑᤢᤱᤃᤧᤴ",
+      "desc": "/फुङ्गेन्/",
+      "group": "BT",
+      "mean": "<p>1. decoration for the gate. 2. welcome gate; festooned archery; a long-festoon of flower.</p>१. तोरण । २. तोरणद्वार; स्वागतद्वार ।"
+    },
+    "04826": {
+      "dId": "ᤑᤢᤱᤄᤧᤱ",
+      "desc": "/फुङ्घेङ्/",
+      "group": "BT",
+      "mean": "<p>half tola ( a Nepalese measurement equal to 1/40 seer).</p>आधा तोला ।"
+    },
+    "04827": {
+      "dId": "ᤑᤢᤱᤄᤣ",
+      "desc": "/फुङ्घे/",
+      "group": "BT",
+      "mean": "<p>a kind of yam.</p>रानी तरुल; फूलतरुल ।"
+    },
+    "04828": {
+      "dId": "ᤑᤢᤱᤄᤠᤣ",
+      "desc": "/फुङ्घो/",
+      "group": "BT",
+      "mean": "<p>decoration; medal.</p>विभूषण; तक्मा ।"
+    },
+    "04829": {
+      "dId": "ᤑᤢᤱᤈᤣᤖᤡᤔᤠ",
+      "desc": "/फुङ्जेरिमा/",
+      "group": "BT",
+      "mean": "<p>flower-peaker. <i>Dicaediae.</i></p>फूल चरो ।"
+    },
+    "04830": {
+      "dId": "ᤑᤢᤱᤈᤠᤣ",
+      "desc": "/फुङ्जो/",
+      "group": "BT",
+      "mean": "<p>basket.</p>टोकरी ।"
+    },
+    "04831": {
+      "dId": "ᤑᤢᤱᤏᤧᤰᤂᤡ",
+      "desc": "/फुङ्नेक्खि/",
+      "group": "BT",
+      "mean": "<p>cauliflower. <i>Brassica oleracea.</i></p>फूलकोपी; काउली ।"
+    },
+    "04832": {
+      "dId": "ᤑᤢᤱᤏᤧᤰᤂᤠᤣ᤹",
+      "desc": "/फुङ्नेक्खो/",
+      "group": "BT",
+      "mean": "<p>calyx or sepal; leaves which make the outer perianth (of a flower).</p>फूलको वाह्य पत्रका रूपमा हुने पातहरू, फुलको पाते खोल ।"
+    },
+    "04833": {
+      "dId": "ᤑᤢᤱᤒᤡᤳ",
+      "desc": "/फुङ्बित्/",
+      "group": "BT",
+      "mean": "<p>yak.</p>चौंरी गाई ।"
+    },
+    "04834": {
+      "dId": "ᤑᤢᤱᤒᤢᤵ",
+      "desc": "/फुङ्बुप्/",
+      "group": "BT",
+      "mean": "<p>sprout; bud.</p>मञ्जरी; कोपिला ।"
+    },
+    "04835": {
+      "dId": "ᤑᤢᤱᤓᤢᤱᤃᤣ",
+      "desc": "/फुङ्भुङ्गे/",
+      "group": "BT",
+      "mean": "<p>Lycopodium creeper. <i>Lycopodium clavatum.</i></p>नागबेली (लहरा) ।"
+    },
+    "04836": {
+      "dId": "ᤑᤢᤱᤔᤠ",
+      "desc": "/फुङ्मा/",
+      "group": "BT",
+      "mean": "<p>1. to mix; to blend; to mingle sth (non-living) together. 2. to collect/gather (living beings).</p>१. मिसाउनु; (निर्जिव वस्तु) जम्मा गर्नु; छ्यासमिस पार्नु । २. जम्मा गर्नु; (प्राणी) मिसाउनु ।"
+    },
+    "04837": {
+      "dId": "ᤑᤢᤱᤔᤡᤱ",
+      "desc": "/फुङ्मिङ्/",
+      "group": "BT",
+      "mean": "<p>pet name; nick name</p>बोलाउने नाम; उपनाम ।"
+    },
+    "04838": {
+      "dId": "ᤑᤢᤱᤔᤣ᤺ᤳ/ᤑᤢᤱᤔᤣᤋ᤻",
+      "desc": "/फुङ्मेःत्/",
+      "group": "BT",
+      "mean": "<p>carpel. or gynoecium.</p>पराग कोष ।"
+    },
+    "04839": {
+      "dId": "ᤑᤢᤱᤕᤠᤱᤍᤠᤱ",
+      "desc": "/फुङ्याङ्दाङ्/",
+      "group": "BT",
+      "mean": "<p>ovary.</p>डिम्बाशय; अण्डाशय ।"
+    },
+    "04840": {
+      "dId": "ᤑᤢᤱᤗᤧᤵ",
+      "desc": "/फुङ्लेप्/",
+      "group": "BT",
+      "mean": "<p>tika; religious mark worn/placed/received/offered on the forehead.</p>टीका ।"
+    },
+    "04841": {
+      "dId": "ᤑᤢᤱᤘᤠ",
+      "desc": "/फुङ्वा/",
+      "group": "BT",
+      "mean": "<p>1. name of a constellation. 2. fortune; fate; luck.</p>१. शत विशा नक्षत्र । २. भाग्य ।"
+    },
+    "04842": {
+      "dId": "ᤑᤢᤱᤘᤠ-ᤆᤠᤱᤔᤠ",
+      "desc": "/फुङ्वा-चाङ्मा/",
+      "group": "BT",
+      "mean": "<p>1. ceremonials of restoring bloom to a withered flower through spells. 2. rituals preformed during Tongsing Mundhum for power, fortune and welfare, esp for adolescent and young women.</p>१. मन्त्र शक्ति द्वारा ओइलाएको फूललाई पहिलाकै जस्तो फक्रेको तुल्याउने अनुष्ठान । २. तङ्सिङ् मुन्धुमको सन्दर्भमा शक्ति, शौर्य र कल्याणको लागि शिर उठाउन गरिने पूजा (विशेषतः किशोरी र तरूनी केटीहरूको लागि ) ।"
+    },
+    "04843": {
+      "dId": "ᤑᤢᤱᤘᤠ᤺ᤳᤇᤡᤱᤔᤠ/ᤑᤢᤱᤘᤠᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/फुङ्वाःत्छिङ्मा/",
+      "group": "BT",
+      "mean": "<p>1. to put/wear a ‘tika’. 2. to put/offer ‘tika’.</p>१. टीका लगाउनु; फूल टीका लगाउनु । २. परस्पर टीका/फूलटीका लगाउनु ।"
+    },
+    "04844": {
+      "dId": "ᤑᤢᤱᤘᤠ᤺ᤳᤋᤡ/ᤑᤢᤱᤘᤠᤋ᤻ᤋᤡ ",
+      "desc": "/फुङ्वाःत्ति/",
+      "group": "BT",
+      "mean": "<p>ornaments.</p>गहना; गरगहना ।"
+    },
+    "04845": {
+      "dId": "ᤑᤢᤱᤘᤠ᤺ᤶᤔᤠ/ᤑᤢᤱᤘᤠᤔ᤻ᤔᤠ",
+      "desc": "/फुङ्वाःम्मा/",
+      "group": "BT",
+      "mean": "<p>spring (season).</p>वसन्त (ऋतु) ।"
+    },
+    "04846": {
+      "dId": "ᤑᤢᤱᤛᤠ",
+      "desc": "/फुङ्सा/",
+      "group": "BT",
+      "mean": "<p>musk deer.</p>कस्तुरी मृग ।"
+    },
+    "04847": {
+      "dId": "ᤑᤢᤱᤛᤠᤶ",
+      "desc": "/फुङ्साम्/",
+      "group": "BT",
+      "mean": "<p>ghost; goblin; hag; an evil or jungle spirit.</p>मानिसलाई दुःख दिने भूत, प्रेत, पिशाच वा जङ्गली आत्मा । "
+    },
+    "04848": {
+      "dId": "ᤑᤢᤱᤛᤠᤔᤠ",
+      "desc": "/फुङ्साःमा/",
+      "group": "BT",
+      "mean": "<p>a dear girl, a princess, etc (a term or an address to an unmarried girl or a young married woman; a pet name for child, one’s junior).</p>स्वास्नीमानिसलाई माया जनाएर सम्बोधन गर्ने शब्दः मैया; नानी ।"
+    },
+    "04849": {
+      "dId": "ᤑᤢᤱᤛᤡᤱᤔᤠ",
+      "desc": "/फुङ्सिङ्मा/",
+      "group": "BT",
+      "mean": "<p>to get mixed; to collect/gather.</p>मिसिनु; बटुलिनु; जम्मा हुनु ।"
+    },
+    "04850": {
+      "dId": "ᤑᤢᤱᤛᤡᤖᤡ ",
+      "desc": "/फुङ्सिरि/",
+      "group": "BT",
+      "mean": "<p>pollen (dust).</p>परग; फूलभित्रको सुगन्ध भएको धूलो ।"
+    },
+    "04851": {
+      "dId": "ᤑᤢᤱᤛᤣ᤹",
+      "desc": "/फुङ्से?/",
+      "group": "BT",
+      "mean": "<p>fruit.</p>फल ।"
+    },
+    "04852": {
+      "dId": "ᤑᤢᤱᤛᤣ",
+      "desc": "/फुङ्से/",
+      "group": "BT",
+      "mean": "<p>an honorific term of address (eg: dear ones).</p>सम्मानजन्य सम्बोधन शब्द; हजुर; प्रियबन्धु ।"
+    },
+    "04853": {
+      "dId": "ᤑᤢᤱᤛᤧᤶᤔᤠ",
+      "desc": "/फुङ्सेम्मा/",
+      "group": "BT",
+      "mean": "<p>1. according to a story in Mundhum, to divine the fate of the two brothers - a man and a tiger- who had gone away to fight by seeing whether their symbolic flowers withered or not. 2. to separate flowers (god and evil).</p>१. मुन्धुम अनुसार युद्धमा गएका मानिस र बाघ दुई दाजुभाइका प्रतीक फूल ओइलाए नओइलाएको हेरी उनीहरूको भविष्य छुट्याउनु; फूल राम्रो नराम्रो छुट्याइ जोखना हेर्नु । २. फूल (शुभ अशुभ) छुट्याउनु ।"
+    },
+    "04854": {
+      "dId": "ᤑᤢᤈᤡᤰ",
+      "desc": "/फुजिक्/",
+      "group": "BT",
+      "mean": "<p>an earthen cooking-pot. (for cooking rice, pulse, soup and other liquid foods).</p>माटोको पकाउने भाँडो; भात, तिहुन आदि पकाउने माटोको भाँडो ।"
+    },
+    "04855": {
+      "dId": "ᤑᤢᤳᤆᤡᤰ",
+      "desc": "/फुत्चिक्/",
+      "group": "BT",
+      "mean": "<p>pulling out abruptly; stripping off by force.</p>प्वाक्क निक्लने वा निकाल्ने चालाले ।"
+    },
+    "04856": {
+      "dId": "ᤑᤢᤳᤆᤡᤱᤈᤠᤱ",
+      "desc": "/फुत्चिङ्जाङ्/",
+      "group": "BT",
+      "mean": "<p>scattering in all directions.</p>छरपस्ट; छ्याल्लब्याल्ल; छिन्नभिन्न ।"
+    },
+    "04857": {
+      "dId": "ᤑᤢᤳᤆᤡᤱᤈᤡᤱ",
+      "desc": "/फुत्चिङ्जिङ्/",
+      "group": "BT",
+      "mean": "<p>bristling or standing (of hair); in a manner of being disordered/disheveled/matted/gristly/bristled.</p>जगल्टो, जिङ्रिङ्ग पर्ने (कपाल, रौं, भुत्ला आदि) ।"
+    },
+    "04858": {
+      "dId": "ᤑᤢᤳᤆᤡᤱᤈᤡᤱᤒᤠ",
+      "desc": "/फुत्चिङ्जिङ्बा/",
+      "group": "BT",
+      "mean": "<p>a man with matted/disordered hair; shock-headed man.</p>जगल्टे ।"
+    },
+    "04859": {
+      "dId": "ᤑᤢᤳᤆᤡᤱᤈᤡᤱᤔᤠ",
+      "desc": "/फुत्चिङ्जिङ्मा/",
+      "group": "BT",
+      "mean": "<p>a woman with matted/disordered/disheveled/bristly hair.</p>जगल्टी ।"
+    },
+    "04860": {
+      "dId": "ᤑᤢᤳᤆᤡᤱᤈᤡᤱᤏᤠ",
+      "desc": "/फुत्चिङ्जिङ्ना/",
+      "group": "BT",
+      "mean": "<p>a woman with matted and disheveled hair.</p>कपाल नकोरी छरेर वा लट्टा पारेर बस्ने स्त्री ।"
+    },
+    "04861": {
+      "dId": "ᤑᤢᤳᤆᤧᤰ",
+      "desc": "/फुत्चेक्/",
+      "group": "BT",
+      "mean": "<p>quickly; with a great speed; in a manner of cutting into two parts suddenly.</p>च्वाट्ट ।"
+    },
+    "04862": {
+      "dId": "ᤑᤢᤳᤋᤢᤱᤃᤣ ᤔᤢᤕᤠ",
+      "desc": "/फुत्तुङ्गे मुया/",
+      "group": "BT",
+      "mean": "<p>a kind of hawk. <i>Accipiter.</i></p>हुचील ।"
+    },
+    "04863": {
+      "dId": "ᤑᤢᤳᤋᤪᤡ᤺ᤱ/ᤑᤢᤳᤋᤪᤡᤅ᤻",
+      "desc": "/फुत्त्रिःङ्/",
+      "group": "BT",
+      "mean": "<p>(of hairs) in a manner of growing completely gray/white.</p>कपाल आदि सेतै फुल्ने चालाले ।"
+    },
+    "04864": {
+      "dId": "ᤑᤢᤳᤗᤢᤶ",
+      "desc": "/फुत्लुम्/",
+      "group": "BT",
+      "mean": "<p>(boiled potato, sweet potato, yam etc) thoroughly loose/brittle.</p>फसफस हुने गरी; उसिनेको आलु, तरूल, सखरखण्ड, पिंडालु आदि फसफस हुने किसिमले ।"
+    },
+    "04865": {
+      "dId": "ᤑᤢᤍᤢᤶᤒᤠ",
+      "desc": "/फुदुम्बा/",
+      "group": "BT",
+      "mean": "<p>a kind of Machilus. Machilus Gamblei.</p>काउलो ।"
+    },
+    "04866": {
+      "dId": "ᤑᤢᤍᤠᤣᤱ",
+      "desc": "/फुदोङ्/",
+      "group": "BT",
+      "mean": "<p>hospitality (with a feast of mutton, chicken etc).</p>भोजसहित सत्कार; मेजमानी; अतिथिको सम्मानमा दिइने (खसी, कुखुरा आदि जीव मारेर) भोज, सत्कार ।"
+    },
+    "04867": {
+      "dId": "ᤑᤢᤍᤪᤣ",
+      "desc": "/फुद्रे/",
+      "group": "BT",
+      "mean": "<p>elder sister’s husband (a term used by woman).</p>भिनाजु (स्त्री जातिले प्रयोग गर्ने शब्द) ।"
+    },
+    "04868": {
+      "dId": "ᤑᤢᤏᤡᤶ",
+      "desc": "/फुनिम्/",
+      "group": "BT",
+      "mean": "<p>mineral substance.</p>खनिज पदार्थ ।"
+    },
+    "04869": {
+      "dId": "ᤑᤢᤶᤑᤢ᤹",
+      "desc": "/फुप्फु?/",
+      "group": "BT",
+      "mean": "<p>elder brother; a special and endearing address/term for the elder brother or elders.</p>दाजु; दाजै ।"
+    },
+    "04870": {
+      "dId": "ᤑᤢᤵᤔᤠ",
+      "desc": "/फुप्मा/",
+      "group": "BT",
+      "mean": "<p>to mix/mingle/muddle/blend.</p>मिसाउनु ।"
+    },
+    "04871": {
+      "dId": "ᤑᤢᤒᤢᤜᤡ᤺ᤰᤏᤠ/ᤑᤢᤒᤢᤜᤡᤁ᤻ᤏᤠ",
+      "desc": "/फुबुहिःक्ना/",
+      "group": "BT",
+      "mean": "<p>a kind of pheasant bird.</p>पिउरो ।"
+    },
+    "04872": {
+      "dId": "ᤑᤢᤔᤠ",
+      "desc": "/फुमा/",
+      "group": "BT",
+      "mean": "<p>mineral substance; minerals.</p>द्रव्य; खनिज ।"
+    },
+    "04873": {
+      "dId": "ᤑᤢᤔᤠᤈᤡᤰ",
+      "desc": "/फुमाजिक्/",
+      "group": "BT",
+      "mean": "<p>mineralogy.</p>खनिज (पदार्थ) विज्ञान ।"
+    },
+    "04874": {
+      "dId": "ᤑᤢᤔᤡᤱ",
+      "desc": "/फुमिङ्/",
+      "group": "BT",
+      "mean": "<p>material noun.</p>द्रव्यवाचक नाम ।"
+    },
+    "04875": {
+      "dId": "ᤑᤢᤶ",
+      "desc": "/फुम्/",
+      "group": "BT",
+      "mean": "<p>1. perception; sense; knowledge; consciousness. 2. remembrance; memory.</p>१. बोध; चेतना । २. सम्झना ।"
+    },
+    "04876": {
+      "dId": "ᤑᤢᤶᤔᤠ",
+      "desc": "/फुम्मा/",
+      "group": "BT",
+      "mean": "<p>1. to grind (grains into flour). 2. to open; to unscrew; to pull out sth by shaking or twisting lid.</p>१. (अन्न ढिकी वा ओखलमा कुटेर) पिठो बनाउनु; पीठो पार्नु । २. उघार्नु वा उखेल्नु; बिर्को हल्लाएर वा बटारेर झिक्नु ।"
+    },
+    "04877": {
+      "dId": "ᤑᤢᤖᤢᤰᤔᤠ",
+      "desc": "/फुरुक्मा/",
+      "group": "BT",
+      "mean": "<p>to overflow.</p>(सतहमाथि) बग्नु; भेल चल्नु ।"
+    },
+    "04878": {
+      "dId": "ᤑᤢᤖᤢᤖᤢ",
+      "desc": "/फुरुरु/",
+      "group": "BT",
+      "mean": "<p>1. manner of birds flying with a noise. a little/bit more.</p>१. भुर्र; भुरुरु चराचुरुङ्गी उड्ने चालाले । २. केही ज्यादा; अलिकति धेर/बढी । "
+    },
+    "04879": {
+      "dId": "ᤑᤢᤷᤁᤠ",
+      "desc": "/फुर्का/",
+      "group": "BT",
+      "mean": "<p>tassel.</p>लाछा ।"
+    },
+    "04880": {
+      "dId": "ᤑᤢᤷᤗᤢ",
+      "desc": "/फुर्लु/",
+      "group": "BT",
+      "mean": "<p>filled up to the brim.</p>झुसि ।"
+    },
+    "04881": {
+      "dId": "ᤑᤢᤷᤛᤢᤴ",
+      "desc": "/फुर्सुन्/",
+      "group": "BT",
+      "mean": "<p>pickles.</p>अचार ।"
+    },
+    "04882": {
+      "dId": "ᤑᤢᤗᤰ",
+      "desc": "/फुलक्/",
+      "group": "BT",
+      "mean": "<p>a Nepalese measurement equal to eight manas/pounds.</p>पाथी; आठ माना बराबरको नापो ।"
+    },
+    "04883": {
+      "dId": "ᤑᤢᤸᤗᤢ/ᤑᤢᤗᤢ",
+      "desc": "/फुल्लु/फुलु/",
+      "group": "BT",
+      "mean": "<p>flapped up to the brim.</p>बीटसम्म झुसी; चुली ।"
+    },
+    "04884": {
+      "dId": "ᤑᤢᤘᤠ",
+      "desc": "/फुवा/",
+      "group": "BT",
+      "mean": "<p>substance; matter.</p>द्रव्य ।"
+    },
+    "04885": {
+      "dId": "ᤑᤢᤛᤢ",
+      "desc": "/फुसु/",
+      "group": "BT",
+      "mean": "<p>wishpering.</p>कानेखुसी गर्दै/ खुसुखुसु गर्दै वा साउती गर्दै बोल्ने चालाले ।"
+    },
+    "04886": {
+      "dId": "ᤑᤢᤛᤢ᤺ᤵᤐᤠ/ᤑᤢᤛᤢᤐ᤻ᤐᤠ",
+      "desc": "/फुसुःप्पा/",
+      "group": "BT",
+      "mean": "<p>1. smoking. 2. cigarette, bidi.</p>१. धूमपान । २. धूमपान गर्ने वस्तु चुरोट, बिडी आदि ।"
+    },
+    "04887": {
+      "dId": "ᤑᤢᤛᤠᤣ᤺ᤶᤗᤢᤱ/ᤑᤢᤛᤠᤣᤔ᤻ᤗᤢᤱ",
+      "desc": "/फुसोःम्लुङ्/",
+      "group": "BT",
+      "mean": "<p>touch-stone.</p>कसौटी (ढुङ्गा); कसी ।"
+    },
+    "04888": {
+      "dId": "ᤑᤢ᤺ᤳ/ᤑᤢᤋ᤻",
+      "desc": "/फुःत्/",
+      "group": "BT",
+      "mean": "<p>fishing net/trap made of split bamboos.</p>ढडिया; खुँगी ।"
+    },
+    "04889": {
+      "dId": "ᤑᤢ᤺ᤳᤋᤰᤐᤠ/ᤑᤢᤋ᤻ᤋᤰᤐᤠ",
+      "desc": "/फुःत्तक्पा/",
+      "group": "BT",
+      "mean": "<p>whitish.</p>गोरो-गोरो; गोरे ।"
+    },
+    "04890": {
+      "dId": "ᤑᤢ᤺ᤳᤋᤢᤰᤔᤠ/ᤑᤢᤋ᤻ᤋᤢᤰᤔᤠ",
+      "desc": "/फुःत्तुक्मा/",
+      "group": "BT",
+      "mean": "<p>dysentry.</p>अतिसार ।"
+    },
+    "04891": {
+      "dId": "ᤑᤢ᤺ᤳᤋᤠᤣ/ᤑᤢᤋ᤻ᤋᤠᤣ",
+      "desc": "/फुःत्तो/",
+      "group": "BT",
+      "mean": "<p>becoming pale due to over-ripening (fruit); becoming pale due to tiredness (human).</p>गलेर पहेंलिने अवस्था ।"
+    },
+    "04892": {
+      "dId": "ᤑᤢ᤺ᤳᤋᤠᤣᤘᤠ/ᤑᤢᤋ᤻ᤋᤠᤣᤘᤠ",
+      "desc": "/फुःत्तोवा/",
+      "group": "BT",
+      "mean": "<p>bad luck;  ill luck; misfortune.</p>दुर्भाग्य ।"
+    },
+    "04893": {
+      "dId": "ᤑᤢ᤺ᤳᤗᤠ/ᤑᤢᤋ᤻ᤗᤠ",
+      "desc": "/फुःत्ला/",
+      "group": "BT",
+      "mean": "<p>1. (of hair) brown; grey. 2. whitish-grey.</p>१. (कपाल) खैरो; फुस्रो । २. सेतै फुलेको ।"
+    },
+    "04894": {
+      "dId": "ᤑᤢ᤺ᤳᤗᤠᤒᤠ/ᤑᤢᤋ᤻ᤗᤠᤒᤠ",
+      "desc": "/फुःत्लाबा/",
+      "group": "BT",
+      "mean": "<p>1. gray or grey haired. 2. grey-eyed.</p>१. (कपाल) फुलेको । २. (आँखा) फुलो परेको; खैरो आँखा भएको खैरे ।"
+    },
+    "04895": {
+      "dId": "ᤔᤡᤶᤑᤢ᤺ᤳᤗᤠ/ᤔᤡᤰᤑᤢᤋ᤻ᤗᤠ",
+      "desc": "/मिक्फुःत्ला/",
+      "group": "BT",
+      "mean": "<p>grey-eyed; a term in Limbu or other Himalayan languages used for the foreigners (esp Britons).</p>कुइरे/कुइरेनी; विदेशीहरू (विशेषत अङ्ग्रेज जाति) को लागी प्रयोग हुने लिम्बू वा हिमाली भाषाको शब्द ।"
+    },
+    "04896": {
+      "dId": "ᤑᤢ᤺ᤵᤔᤠ/ᤑᤢᤐ᤻ᤔᤠ",
+      "desc": "/फुःप्मा/",
+      "group": "BT",
+      "mean": "<p>1. to be white. 2. to grey; to turn grey; to be grey; to be grey-haired; to be grey-beard (due to old age).</p>१. सेतो हुनु । २. (उमेर ढल्केर कपाल) सेतै फुल्नु; कपाल फुल्नु ।"
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "Dic": {
+    "01699": {
+      "dId": "ᤂᤡ ",
+      "desc": "/खि/",
+      "group": "AO",
+      "mean": "<p>thread (cotton thread); fiber.</p>धागाे; सुत (सुती धागाे) ।"
+    },
+    "01700": {
+      "dId": "ᤂᤡᤀᤡᤱ",
+      "desc": "/खिइङ्/",
+      "group": "AO",
+      "mean": "<p>telephone.</p>टेलिफोन ।"
+    },
+    "01701": {
+      "dId": "ᤂᤡ᤹ᤔᤠ",
+      "desc": "/खि?मा/",
+      "group": "AO",
+      "mean": "<p>(nerve, muscles) to be strained due to exhaustion.</p>(थकाइले हातखुट्टा आदि) गल्नु ।"
+    },
+    "01702": {
+      "dId": "ᤂᤡᤰᤂᤡᤰ",
+      "desc": "/खिक्खिक्/",
+      "group": "AO",
+      "mean": "<p>in a chuckling manner.</p>खितखित हाँस्ने किसिमले ।"
+    },
+    "01703": {
+      "dId": "ᤂᤡᤰᤏᤢᤍᤡ᤹ ",
+      "desc": "/खिक्नुदि?/",
+      "group": "AO",
+      "mean": "<p>fenugreek. Trigonella foenum-graecum.</p>मेथी ।"
+    },
+    "01704": {
+      "dId": "ᤂᤡᤰᤔᤠ",
+      "desc": "/खिक्मा/",
+      "group": "AO",
+      "mean": "<p>go nearly die of laughing or weeping.</p>(हाँस्दा वा रुँदा) हुरुक्क हुनु ।"
+    },
+    "01705": {
+      "dId": "ᤂᤡᤰᤛᤢᤰᤐᤠ",
+      "desc": "/खिक्सुक्पा/",
+      "group": "AO",
+      "mean": "<p>titanus.</p>धनुष्टङ्कार राेग ।"
+    },
+    "01706": {
+      "dId": "ᤂᤡᤄᤡ ",
+      "desc": "/खिधि/",
+      "group": "AO",
+      "mean": "<p>cotton thread.</p>सुती धागाे ।"
+    },
+    "01707": {
+      "dId": "ᤂᤡᤄᤡᤕᤠ",
+      "desc": "/खिधिया/",
+      "group": "AO",
+      "mean": "<p>spindle.</p>फिर्के; धागाे बटार्ने यन्त्र (तानकाे सामान) ।"
+    },
+    "01708": {
+      "dId": "ᤂᤡᤱ",
+      "desc": "/खिङ्/",
+      "group": "AO",
+      "mean": "<p>bile; gall.</p>पित्त ।"
+    },
+    "01709": {
+      "dId": "ᤂᤡᤱᤔᤠ",
+      "desc": "/खिङ्मा/",
+      "group": "AO",
+      "mean": "<p>to stretch sth/sb.</p>तन्काउनु ।"
+    },
+    "01710": {
+      "dId": "ᤂᤡᤱᤔᤠ ᤛᤡᤱ",
+      "desc": "/खिजङ् सिङ्/",
+      "group": "AO",
+      "mean": "<p>a variety of Albizzia.</p>गुहे शिरीष ।"
+    },
+    "01711": {
+      "dId": "ᤂᤡᤈᤠᤣᤖᤠ",
+      "desc": "/खिजाेरा/",
+      "group": "AO",
+      "mean": "<p>a strand or ply of thread; skein ( of thread).</p>धागाेकाे पाेया; धागाेकेा डल्लाे ।"
+    },
+    "01712": {
+      "dId": "ᤂᤡᤈᤪᤡ ",
+      "desc": "/खिज्रि/",
+      "group": "AO",
+      "mean": "<p>1. mixture of various articles. 2. coins of small value; small coin.</p>१. छ्यासमिस; मिसमास । २. खुद्रा; चानचुन ( पैसा) ।"
+    },
+    "01713": {
+      "dId": "ᤂᤡᤍᤠᤶᤒᤠ",
+      "desc": "/खिदाम्बा/",
+      "group": "AO",
+      "mean": "<p>cotton; Gossypium.</p>कपास; रुवा ।"
+    },
+    "01714": {
+      "dId": "ᤂᤡᤍᤡᤰ-ᤗᤡ᤹ ",
+      "desc": "/खिदिक्-लि?/",
+      "group": "AO",
+      "mean": "<p>cotton-gin.</p>कपास फट्कार्ने धनु ।"
+    },
+    "01715": {
+      "dId": "ᤂᤡᤍᤡᤵᤐᤠ",
+      "desc": "/खिदिप्पा/",
+      "group": "AO",
+      "mean": "<p>jackal.</p>स्याल ।"
+    },
+    "01716": {
+      "dId": "ᤂᤡᤍᤢᤶᤒᤠᤰ",
+      "desc": "/खिदुम्बाक्/",
+      "group": "AO",
+      "mean": "<p>male  cuckoo; Cuculus indicus.</p>ढाेंडे काेइली ।"
+    },
+    "01717": {
+      "dId": "ᤂᤡᤍᤠᤣ᤺ᤰᤏᤠ",
+      "desc": "/खिदाेःक्ना/",
+      "group": "AO",
+      "mean": "<p>spindle; needle of the spinning-wheel on which cotton or wool is spun.</p>कपास बाट धागाे कात्दा धागाे बेर्ने सुइराे; चर्खाकाे सुइराे ।"
+    },
+    "01718": {
+      "dId": "ᤂᤡᤡᤎᤡᤰᤔᤠ",
+      "desc": "/खिधिक्मा/",
+      "group": "AO",
+      "mean": "<p>to spin thread.</p>धागाे फट्कार्नु ।"
+    },
+    "01719": {
+      "dId": "ᤂᤡᤏᤠᤰᤒᤠᤣ",
+      "desc": "/खिनाम्बाे/",
+      "group": "AO",
+      "mean": "<p>a kind of seaweed.</p>समुन्द्री झार; एक प्रकारकाे झार ।"
+    },
+    "01720": {
+      "dId": "ᤂᤡᤏᤠᤶᤗᤠᤶ",
+      "desc": "/खिनाम्लाम्/",
+      "group": "AO",
+      "mean": "<p>a small basket for keeping threads, spinning materials ( of loom).</p>धागाे राख्ने ढाकी; तानकाे सामान ।"
+    },
+    "01721": {
+      "dId": "ᤂᤡᤏᤡ᤹ ",
+      "desc": "/खिनि?/",
+      "group": "AO",
+      "mean": "<p>you (plu.).</p>तिमिहरू ।"
+    },
+    "01722": {
+      "dId": "ᤂᤡᤴᤇᤡ᤹ ",
+      "desc": "/खिन्छि?/",
+      "group": "AO",
+      "mean": "<p>you (du.).</p>तिमिहरू ।"
+    },
+    "01723": {
+      "dId": "ᤂᤡᤏᤧ᤺ᤱ-ᤂᤡᤏᤧ᤺ᤱ/ᤂᤡᤏᤧᤅ᤻-ᤂᤡᤏᤧᤅ᤻",
+      "desc": "/खिनेःङ् -खिनेःङ्/",
+      "group": "AO",
+      "mean": "<p>stickily; smudging, smearing sth.</p>लतपत; गिलाे वा पन्यालाे लिस्याइलाे  वस्तु जथाभावी वा जताततै लाग्ने किसिमले ।"
+    },
+    "01724": {
+      "dId": "ᤂᤡᤵᤋᤡ ",
+      "desc": "/खिप्ति/",
+      "group": "AO",
+      "mean": "<p>1. industriousness. 2. persistence; obstinacy.</p>१. अध्यवसाय । २. ढिपी ।"
+    },
+    "01725": {
+      "dId": "ᤂᤡᤵᤋᤡᤒᤢ᤺ᤳ/ᤂᤡᤵᤋᤡᤒᤢᤋ᤻",
+      "desc": "/खिप्पिबुःत्/",
+      "group": "AO",
+      "mean": "<p>badge.</p>ब्याज ।"
+    },
+    "01726": {
+      "dId": "ᤂᤡᤵᤔᤠ",
+      "desc": "/खिप्मा/",
+      "group": "AO",
+      "mean": "<p>to be or get stuck; to be adhered. to stick to adhere sth.</p>टाँसिनु; टाँस्नु ।"
+    },
+    "01727": {
+      "dId": "ᤂᤡᤒᤠᤣ",
+      "desc": "/खिबाे/",
+      "group": "AO",
+      "mean": "<p>cotton field.</p>कपास बारी ।"
+    },
+    "01728": {
+      "dId": "ᤂᤡᤒᤠᤣᤔᤠ",
+      "desc": "/खिबाेमा/",
+      "group": "AO",
+      "mean": "<p>a kind of hornet.</p>एक जातकाे अरिङ्गाल ।"
+    },
+    "01729": {
+      "dId": "ᤂᤡᤒᤠᤣ᤺ᤰ/ᤂᤡᤒᤠᤣᤁ᤻",
+      "desc": "/खिबाेःक्/",
+      "group": "AO",
+      "mean": "<p>ginned cotton.</p>कातेकाे कपास ।"
+    },
+    "01730": {
+      "dId": "ᤂᤡᤓᤧᤳᤗᤧ",
+      "desc": "/खिभेत्ले/",
+      "group": "AO",
+      "mean": "<p>cotton bud/ flower.</p>कपास; काेसामै फुलिरहेकाे कपास ।"
+    },
+    "01731": {
+      "dId": "ᤂᤡᤔᤢᤰ-ᤂᤡᤔᤢᤰ",
+      "desc": "/खिमुक्-खिमुक्/",
+      "group": "AO",
+      "mean": "<p>manner of rub-down/ rub-up/ hard rubbing.</p>माडमुड; बेस्सरी माड्ने चालाले ।"
+    },
+    "01732": {
+      "dId": "ᤂᤡᤶ",
+      "desc": "/खिम्/",
+      "group": "AO",
+      "mean": "<p>home; house.</p>घर ।"
+    },
+    "01733": {
+      "dId": "ᤂᤡᤶᤛᤡᤱᤔᤠ",
+      "desc": "/खिम्सिङ्मा/",
+      "group": "AO",
+      "mean": "<p>1. to lean; recline over sth/sb. 2. to stick/ cling tightly to sb or sth. 3. cling to each other.</p>१. ढल्किनु/ लेप्सिनु । २. टाँसिनु; आफै टाँसिनु । ३. परस्परमा टाँसिनु ।"
+    },
+    "01734": {
+      "dId": "ᤂᤡᤕᤠᤣ᤺ᤱᤏᤠ/ᤂᤡᤕᤠᤣᤅ᤻ᤏᤠ ᤔᤠᤱ",
+      "desc": "/खियाेःङ्नामाङ्/",
+      "group": "AO",
+      "mean": "<p>1. fairy; elf. 2. nymph; celestial damsel.</p>१. परी । २. अप्सरा ।"
+    },
+    "01735": {
+      "dId": "ᤂᤡᤖᤠᤒᤣ ᤑᤢᤱ",
+      "desc": "/खिराबे फुङ्/",
+      "group": "AO",
+      "mean": "<p>chrysanthemum (double flower).</p>गाेदावरी फूल ।"
+    },
+    "01736": {
+      "dId": "ᤂᤡᤖᤡ ",
+      "desc": "/खिरि/",
+      "group": "AO",
+      "mean": "<p>to turn around (suddenly).</p>फनक्क; फरक्क ।"
+    },
+    "01737": {
+      "dId": "ᤂᤡᤖᤡᤰ",
+      "desc": "/खिरिक्/",
+      "group": "AO",
+      "mean": "<p>quickly; immediately; instantly.</p>झट्टै; तुरुन्त; चाँडै ।"
+    },
+    "01738": {
+      "dId": "ᤂᤡᤖᤡᤰᤗᤡᤰ",
+      "desc": "/खिरिक्लिक्/",
+      "group": "AO",
+      "mean": "<p>restlessness.</p>छटपटी ।"
+    },
+    "01739": {
+      "dId": "ᤂᤡᤖᤡᤰᤗᤡᤰᤐᤠ",
+      "desc": "/खिरिक्लिक्पा/",
+      "group": "AO",
+      "mean": "<p>agile; restless.</p>छट्पटे; छुकछुके ।"
+    },
+    "01740": {
+      "dId": "ᤂᤡᤖᤡᤵᤐᤠ",
+      "desc": "/खिरिप्पा/",
+      "group": "AO",
+      "mean": "<p>spider.</p>माकुराे ।"
+    },
+    "01741": {
+      "dId": "ᤂᤡᤖᤡᤒᤢᤵᤐᤠ",
+      "desc": "/खिरिबुप्पा/",
+      "group": "AO",
+      "mean": "<p>Mimosa, a tree of Albizzia sp.</p>सिरिस ।"
+    },
+    "01742": {
+      "dId": "ᤂᤡᤖᤡ᤺ᤱᤍᤢᤰᤔᤠ/ᤂᤡᤖᤡᤅ᤻ᤍᤢᤰᤔᤠ",
+      "desc": "/खिरिःङ्दुक्मा/",
+      "group": "AO",
+      "mean": "<p>a kind of edible frog.</p>पिरे पाहा ।"
+    },
+    "01743": {
+      "dId": "ᤂᤡᤖᤡ᤺ᤱᤒᤠ/ᤂᤠᤖᤡᤅ᤻ᤒᤠ",
+      "desc": "/खिरिःङ्बा/",
+      "group": "AO",
+      "mean": "<p>lion.</p>सिंह ।"
+    },
+    "01744": {
+      "dId": "ᤂᤡᤖᤧᤒᤠ",
+      "desc": "/खिरेबा/",
+      "group": "AO",
+      "mean": "<p>stag.</p>जरायाे ।"
+    },
+    "01745": {
+      "dId": "ᤂᤡᤷᤏᤠᤒᤠ",
+      "desc": "/खिर्नाबा/",
+      "group": "AO",
+      "mean": "<p>the leather strap which connects the yoke of the plough to its pole.</p>हल्लुँडाे ।"
+    },
+    "01746": {
+      "dId": "ᤂᤡᤷᤗᤡ ",
+      "desc": "/खिर्लि/",
+      "group": "AO",
+      "mean": "<p>around; all around.</p>फनन; वरिपरि घुम्ने गरी ।"
+    },
+    "01747": {
+      "dId": "ᤂᤡᤷᤗᤡ᤺ᤏᤠ",
+      "desc": "/खिर्लिःना/",
+      "group": "AO",
+      "mean": "<p>manner of sth/ sb revolving, turning swiftly.</p>फनफन; फनफनी ।"
+    },
+    "01748": {
+      "dId": "ᤂᤡᤗ᤺ᤶᤔᤠ/ᤂᤡᤗᤔ᤻ᤔᤠ",
+      "desc": "/खिलःम्मा/",
+      "group": "AO",
+      "mean": "<p>to spin thread.</p>धागाे कात्नु ।"
+    },
+    "01749": {
+      "dId": "ᤂᤡᤛᤢᤵ",
+      "desc": "/खिसुप्/",
+      "group": "AO",
+      "mean": "<p>stape of yam; spool.</p>धागाेकाे डल्लाे; सुतकाे गाेला; लरी ।"
+    },
+    "01750": {
+      "dId": "ᤂᤡ᤺ᤰ/ᤂᤡᤁ᤻",
+      "desc": "/खिःक्/",
+      "group": "AO",
+      "mean": "<p>1. bitter. 2. costly; dear; expensive.</p>१. तिताे । २. महँगाे ।"
+    },
+    "01751": {
+      "dId": "ᤂᤡ᤺ᤰᤑᤧᤰᤘᤠ/ᤂᤡᤁ᤻ᤑᤧᤰᤘᤠ",
+      "desc": "/खिःक्फेक्वा/",
+      "group": "AO",
+      "mean": "<p>a kind of creeping sorrel. Oxalis corniculata.</p>तीनपाते (झार); चरिअमिलाे ।"
+    },
+    "01752": {
+      "dId": "ᤂᤡ᤺ᤰᤑᤧᤳᤗᤠ/ᤂᤡᤁ᤻ᤑᤧᤳᤗᤠ",
+      "desc": "/खिःक्फेत्ला/",
+      "group": "AO",
+      "mean": "<p>neem margosa tree. Melia indica.</p>नीम; नीमकाे बाेट ।"
+    },
+    "01753": {
+      "dId": "ᤂᤡ᤺ᤰᤔᤠ/ᤂᤡᤁ᤻ᤔᤠ",
+      "desc": "/खिःक्मा/",
+      "group": "AO",
+      "mean": "<p>1. dearness. 2. to be costly; to be expensive. 3. to be bitter.</p>१. महँगी; महँगाइ । २. महँगाे हुनु । ३. तीताे हुनु ।"
+    },
+    "01754": {
+      "dId": "ᤂᤡ᤺ᤰᤘᤠ/ᤂᤡᤁ᤻ᤘᤠ",
+      "desc": "/खिःक्वा/",
+      "group": "AO",
+      "mean": "<p>1. whistle; whistling. 2. a whistle.</p>१. सुसेली । २. सिटी ।"
+    },
+    "01755": {
+      "dId": "ᤂᤡ᤺ᤰᤛᤣ᤹/ᤂᤡᤁ᤻ᤛᤣ᤹",
+      "desc": "/खिःक्से?/",
+      "group": "AO",
+      "mean": "<p>a bitter gourd. <i>Momordica charantia.</i></p>तीतेकरेला ।"
+    },
+    "01756": {
+      "dId": "ᤂᤡ᤺ᤱᤕᤠᤔᤠ/ᤂᤡᤅ᤻ᤕᤠᤔᤠ",
+      "desc": "/खिःङ्यामा/",
+      "group": "AO",
+      "mean": "<p>bitter duck wheat. <i>Fagopyurum tataricum.</i></p>तिते फापर ।"
+    },
+    "01757": {
+      "dId": "ᤂᤡ᤺ᤵᤛᤣ᤹/ᤂᤡᤐ᤻ᤛᤣ᤹",
+      "desc": "/खिःप्से?/",
+      "group": "AO",
+      "mean": "<p>a kind of tree. <i>Ficus nemoralis.</i></p>दुधिलाे ।"
+    },
+    "01758": {
+      "dId": "ᤂᤡ᤺ᤶᤒᤠᤧᤣ/ᤂᤡᤔ᤻ᤒᤠᤣ",
+      "desc": "/खिःम्बाे/",
+      "group": "AO",
+      "mean": "<p> a kind of bacteria ( found in mud) which causes the clefts of the toes to rot.</p>जाेतने किराे ।"
+    },
+    "01759": {
+      "dId": "ᤂᤡ᤺ᤶᤒᤪᤠᤰ/ᤂᤡᤔ᤻ᤒᤪᤠᤰ",
+      "desc": "/खिःम्ब्राक्/",
+      "group": "AO",
+      "mean": "<p>avarice; covetousness; greediness; miserliness.</p>लाेभ; लालच । "
+    },
+    "01760": {
+      "dId": "ᤂᤡ᤺ᤶᤔᤠ/ᤂᤡᤔ᤻ᤔᤠ",
+      "desc": "/खिःम्मा/",
+      "group": "AO",
+      "mean": "<p>1. to be greedy; to covert. 2. to be pasted; to be stuck.</p>१. लाेभ गर्नु; लालची हुनु । २. टाँसिनु ।"
+    }
+  }
+}

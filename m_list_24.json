@@ -1,0 +1,580 @@
+{
+  "Dic": {
+    "02513": {
+      "dId": "ᤆᤧ᤹ᤕᤠ",
+      "desc": "/चे?या/",
+      "group": "AX",
+      "mean": "<p>1. abuse; bad language. 2. tale-bearing; back- biting; telling tales. 3. house-fire.</p>१. दुर्वचन; गाली । २. झोसपोल; चुक्ली; छुल्याइँ । ३. घरमा हुने आगलागी ।"
+    },
+    "02514": {
+      "dId": "ᤆᤧ᤹ᤘᤠ",
+      "desc": "/चे?वा/",
+      "group": "AX",
+      "mean": "<p>a flat spoon to ladle out rice; spatula.</p>पन्यूँ; पनिउँ ।"
+    },
+    "02515": {
+      "dId": "ᤆᤧᤰᤔᤠ",
+      "desc": "/चेक्मा/",
+      "group": "AX",
+      "mean": "<p>1. to be/get broken; to break. 2. to narrate sth to someone about sb (3rd person). 3. to discuss about sb or sth.</p>१. भाँचिनु; ठुन्कनु; टुक्रनु । २. अर्कालाई भन्नु; सुनाउनु । ३. अर्काको कुरा गर्नु ।"
+    },
+    "02516": {
+      "dId": "ᤆᤧᤰᤗᤠ",
+      "desc": "/चेक्ला/",
+      "group": "AX",
+      "mean": "<p>1. granulated maize; maize ground into rough grain-like pieces. 2. rice of granulated maize.</p>१. च्याँख्ला; मकैको चामल । २. च्याँख्लाको भात ।"
+    },
+    "02517": {
+      "dId": "ᤆᤧᤰᤕᤠᤗᤠ",
+      "desc": "/चेक्याला/",
+      "group": "AX",
+      "mean": "<p>irony.</p>व्यङ्ग्य ।"
+    },
+    "02518": {
+      "dId": "ᤆᤧᤰᤛᤡᤱᤔᤠ",
+      "desc": "/चेक्सिङ्मा/",
+      "group": "AX",
+      "mean": "<p>to talk/ narrate to each other about sb else.</p>परस्पर (अर्कैको बारेमा) भन्नु वा कुरा गर्नु ।"
+    },
+    "02519": {
+      "dId": "ᤆᤧᤰᤛᤡᤱ",
+      "desc": "/चेक्सिङ्/",
+      "group": "AX",
+      "mean": "<p>a piece of wood at the base of a big bamboo basket where the tokmak is put to support the load in the baskets.</p>ढाकरको पिंधमा भएको तोक्मा अड्याउने तेर्सो काठ ।"
+    },
+    "02520": {
+      "dId": "ᤆᤧᤃᤠᤶ",
+      "desc": "/चेगाम्/",
+      "group": "AX",
+      "mean": "<p>balance.</p>सन्तुलन ।"
+    },
+    "02521": {
+      "dId": "ᤆᤧᤣᤛᤠᤣ᤺ᤴ/ᤆᤧᤃᤣᤛᤠᤣᤏ᤻",
+      "desc": "/चेगेसोःन्/",
+      "group": "AX",
+      "mean": "<p>half-yearly examination; terminal test; semester examination.</p>अर्धवार्षिक परीक्षा ।"
+    },
+    "02522": {
+      "dId": "ᤆᤧᤱ",
+      "desc": "/चेङ्/",
+      "group": "AX",
+      "mean": "<p>saying; statement; speech.</p>कथन; भनाइ; कुरो ।"
+    },
+    "02523": {
+      "dId": "ᤆᤧᤱᤄᤶᤒᤠ",
+      "desc": "/चेङ्घम्बा/",
+      "group": "AX",
+      "mean": "<p>meanineer.</p>इन्जिनियर ।"
+    },
+    "02524": {
+      "dId": "ᤆᤧᤱᤔᤠ",
+      "desc": "/चेङ्मा/",
+      "group": "AX",
+      "mean": "<p>1. to report; to narrate; to tell in detail. 2. to explain; to discuss.</p>१. बताउनु; बेलीविस्तार लाउनु । २. सम्झाउनु; कुरा गर्नु ।"
+    },
+    "02525": {
+      "dId": "ᤆᤧᤱᤖᤡᤒᤳ",
+      "desc": "/चेङ्रिबत्/",
+      "group": "AX",
+      "mean": "<p>a kind of plant. Eurya acuminata.</p>झिङ्गनी ।"
+    },
+    "02526": {
+      "dId": "ᤆᤧᤱᤗᤠ",
+      "desc": "/चेङ्ला/",
+      "group": "AX",
+      "mean": "<p>lean; thin.</p>पातलो ।"
+    },
+    "02527": {
+      "dId": "ᤆᤧᤳᤌᤩᤠ",
+      "desc": "/चेथ्या/",
+      "group": "AX",
+      "mean": "<p>dish; plate.</p>थाल ।"
+    },
+    "02528": {
+      "dId": "ᤆᤧᤍᤡ ",
+      "desc": "/चेदि/",
+      "group": "AX",
+      "mean": "<p>giant intestinal roundworm. Ascaris lumbricoides.</p>चेप्टे जुका; पेट भित्र रहने ठूलो खालको जुका ।"
+    },
+    "02529": {
+      "dId": "ᤆᤧᤍᤢ᤺ᤳ/ᤆᤧᤍᤢᤋ᤻",
+      "desc": "/चेदुःत्/",
+      "group": "AX",
+      "mean": "<p>small intenstine.</p>सानो आन्द्रा ।"
+    },
+    "02530": {
+      "dId": "ᤆᤧᤍᤠᤣ",
+      "desc": "/चेदो/",
+      "group": "AX",
+      "mean": "<p>salutation; obeisance.</p>नमस्कार; प्रणाम; जदौ ।"
+    },
+    "02531": {
+      "dId": "ᤆᤧᤎᤣ",
+      "desc": "/चेधे/",
+      "group": "AX",
+      "mean": "<p>[Pdedape] food; dish.</p>[फेदापे] खानेकुरा ।"
+    },
+    "02532": {
+      "dId": "ᤆᤧᤏᤠ",
+      "desc": "/चेना/",
+      "group": "AX",
+      "mean": "<p>rust.</p>खिया ।"
+    },
+    "02533": {
+      "dId": "ᤆᤧᤏᤠᤒᤠ",
+      "desc": "/चेनाबा/",
+      "group": "AX",
+      "mean": "<p>rusty.</p>खिया लागेको ।"
+    },
+    "02534": {
+      "dId": "ᤆᤧᤏᤡ᤺ᤵᤔᤠ/ᤆᤧᤏᤡᤐ᤻ᤔᤠ",
+      "desc": "/चेनिःप्मा/",
+      "group": "AX",
+      "mean": "<p>spices.</p>मसाला ।"
+    },
+    "02535": {
+      "dId": "ᤆᤧᤴ",
+      "desc": "/चेन्/",
+      "group": "AX",
+      "mean": "<p>1. snare; trap; noose. 2. rope ladder. 3. machine.</p>१. पासो; धराप । २. डोरीको भर्याङ् । ३. कल; यन्त्र ।"
+    },
+    "02536": {
+      "dId": "ᤆᤧᤴᤈᤡᤒᤠ",
+      "desc": "/चेन्जिःबा/",
+      "group": "AX",
+      "mean": "<p>chin .</p>चिउडो ।"
+    },
+    "02537": {
+      "dId": "ᤆᤧᤴᤍᤡᤖᤡ ",
+      "desc": "/चेन्दिरि/",
+      "group": "AX",
+      "mean": "<p>awl; saw.</p>आरा; करौंती ।"
+    },
+    "02538": {
+      "dId": "ᤆᤧᤴᤎᤱ",
+      "desc": "/चेन्धङ्/",
+      "group": "AX",
+      "mean": "<p>guerrilla war.</p>ढुकेर, लुकेर वा शत्रुलाई धोका दिएर गरिने लडाइँ ।"
+    },
+    "02539": {
+      "dId": "ᤆᤧᤴᤔᤧᤳ",
+      "desc": "/चेन्मेत्/",
+      "group": "AX",
+      "mean": "<p>(act of) printing.</p>मुद्रण (कार्य); छपाइ; छाप्ने काम ।"
+    },
+    "02540": {
+      "dId": "ᤆᤧᤵ",
+      "desc": "/चेप्/",
+      "group": "AX",
+      "mean": "<p>1. seal; stamp; mark; impression. 2. propriety; appropriateness. 3. bed-bug.</p>१. सीलछाप; मोहर (छाप) । २. सटिकपन; सुहाउँदिलोपना । ३. उडुस ।"
+    },
+    "02541": {
+      "dId": "ᤆᤧᤵᤐᤠ",
+      "desc": "/चेप्पा/",
+      "group": "AX",
+      "mean": "<p>permanent.</p>स्थायी ।"
+    },
+    "02542": {
+      "dId": "ᤆᤧᤵᤑᤣ",
+      "desc": "/चेप्फे/",
+      "group": "AX",
+      "mean": "<p>khukuri-like weapon; knife.</p>चुपी; खुकुरी झैं एक प्रकारको हतियार ।"
+    },
+    "02543": {
+      "dId": "ᤆᤧᤵᤔᤠ",
+      "desc": "/चेप्मा/",
+      "group": "AX",
+      "mean": "<p>to cut (with khukuri, swart, etc).</p>काट्नु ( खुकुरी, चुपी, तरवार आदिले) ।"
+    },
+    "02544": {
+      "dId": "ᤆᤧᤵᤗᤧᤰᤗᤧᤰ",
+      "desc": "/चेप्लेक्लेक्/",
+      "group": "AX",
+      "mean": "<p>flattened.</p>चेप्टो ।"
+    },
+    "02545": {
+      "dId": "ᤆᤧᤵᤗᤧᤰᤗᤧᤰᤐᤠ",
+      "desc": "/चेप्लेक्लेक्पा/",
+      "group": "AX",
+      "mean": "<p>with a flattened face.</p>च्याप्टे; च्याप्टो परेको; च्याप्टो अनुहार भएको ।"
+    },
+    "02546": {
+      "dId": "ᤆᤧᤵᤛᤠᤗᤠ",
+      "desc": "/चेप्साप्ला/",
+      "group": "AX",
+      "mean": "<p>document.</p>लिखत; अभिलेख; दस्ताबेज; मिसिल ।"
+    },
+    "02547": {
+      "dId": "ᤆᤧᤵᤛᤡᤱᤔᤠ",
+      "desc": "/चेप्सिङ्मा/",
+      "group": "AX",
+      "mean": "<p>to cut each other.</p>परस्पर काटाकाट गर्नु ।"
+    },
+    "02548": {
+      "dId": "ᤆᤧᤒᤠᤣ᤺ᤳ/ᤆᤧᤒᤠᤣᤋ᤻",
+      "desc": "/चेबोःत्/",
+      "group": "AX",
+      "mean": "<p>throat.</p>गला ;कण्ठ ।"
+    },
+    "02549": {
+      "dId": "ᤆᤧᤒᤠᤣ᤺ᤵᤔᤠ/ᤆᤧᤒᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/चबोःप्मा/",
+      "group": "AX",
+      "mean": "<p>a vocal organ dividing the wind pipe and trachea.</p>श्वास नली र अन्न नली छुट्टिने स्थान ।"
+    },
+    "02550": {
+      "dId": "ᤆᤧᤓᤢ",
+      "desc": "/चेभु/",
+      "group": "AX",
+      "mean": "<p>protein.</p>प्रोटिन ।"
+    },
+    "02551": {
+      "dId": "ᤆᤧᤓᤧ᤹",
+      "desc": "/चेभे?/",
+      "group": "AX",
+      "mean": "<p>(small jingling or tickling) bells.</p>घण्टी; घँगला । "
+    },
+    "02552": {
+      "dId": "ᤆᤧᤓᤧᤳᤗᤠ",
+      "desc": "/चेभेत्ला/",
+      "group": "AX",
+      "mean": "<p>grass (of fodder) having twigs.</p>डाले घाँस ।"
+    },
+    "02553": {
+      "dId": "ᤆᤧᤓᤧᤛᤠᤴ",
+      "desc": "/चेभेसान्/",
+      "group": "AX",
+      "mean": "<p>a kind of thorny and big cactus-like flowering plant.</p>हात्तिबार; एक प्रकारको काँडेदार पोथ्रा ।"
+    },
+    "02554": {
+      "dId": "ᤆᤧᤶᤓᤧᤴ",
+      "desc": "/चेम्भेन्/",
+      "group": "AX",
+      "mean": "<p>a variety of exotic sunflower. Guizotia abyssinica.</p>झुसे तिल ।"
+    },
+    "02555": {
+      "dId": "ᤆᤧᤶᤒᤕᤠᤔᤠ",
+      "desc": "/चेम्बयामा/",
+      "group": "AX",
+      "mean": "<p>a kind of long, red-petalled flower. Euphorbia pulcherrima.</p>लालुपाते ।"
+    },
+    "02556": {
+      "dId": "ᤆᤧᤶᤒᤡ ",
+      "desc": "/चेम्बि/",
+      "group": "AX",
+      "mean": "<p>soyabean. Glycine max.</p>भटमास ।"
+    },
+    "02557": {
+      "dId": "ᤆᤧᤶᤒᤡᤃᤡ᤺ᤰ/ᤆᤧᤶᤒᤡᤃᤡᤁ᤻",
+      "desc": "/चेम्बिगिःक्/",
+      "group": "AX",
+      "mean": "<p>[Phedape] a kind of dish prepared from fermented soyabean.</p>[फेदापे] किनामा; भटमास कुहाएर बनाइएको खाद्यविशेष ।"
+    },
+    "02558": {
+      "dId": "ᤆᤧᤶᤓᤴ",
+      "desc": "/चेम्भन्/",
+      "group": "AX",
+      "mean": "<p>1. trap; noose; snare. 2. deception; subterfuge; treachery; betrayal. 3. plot; conspiracy.</p>१. सोला; पासो; धराप । २. धोका; विश्वासघात । ३. षड्यन्त्र ।"
+    },
+    "02559": {
+      "dId": "ᤆᤧᤶᤓᤶᤔᤠ",
+      "desc": "/चेम्भम्मा/",
+      "group": "AX",
+      "mean": "<p>1. to trap/ snare. 2. to conspire against sb; to trap.</p>१. सोला; पासो थाप्नु । २. षड्यन्त्रमा पार्नु ।"
+    },
+    "02560": {
+      "dId": "ᤓᤧᤶᤓᤢ",
+      "desc": "/चेम्भु/",
+      "group": "AX",
+      "mean": "<p>big; gigantic.</p>ठूलो; विराट्; विशाल ।"
+    },
+    "02561": {
+      "dId": "ᤓᤧᤶᤓᤢᤰᤘᤠ",
+      "desc": "/चेम्भुक्वा/",
+      "group": "AX",
+      "mean": "<p>big cave.</p>ठूलो ओडार ।"
+    },
+    "02562": {
+      "dId": "ᤆᤧᤶᤓᤢᤏᤠ",
+      "desc": "/चेम्भुना/",
+      "group": "AX",
+      "mean": "<p>a variety of eugenia.</p>भाले जमुना (रूख) ।"
+    },
+    "02563": {
+      "dId": "ᤆᤧᤶᤔᤠ",
+      "desc": "/चेम्मा/",
+      "group": "AX",
+      "mean": "<p>1. [Phedape] to dazzle; to glare; to be unpleasantly bright. 2. to saw; to rip up; to split; to cleave.</p>१. [फेदापे] तिरमिरिनु; तिरमिर्याउनु । २. चिर्नु; फ्याक पारी चिर्नु; फग्ल्याँटो पार्नु; चिरा पार्नु ।"
+    },
+    "02564": {
+      "dId": "ᤆᤧᤶᤗᤧᤱ",
+      "desc": "/चेम्लेङ्/",
+      "group": "AX",
+      "mean": "<p>at a glance; at a glimpse; twinkling/ flashing for a moment.</p>झलक्क; कुनै वस्तु, मान्छे वा उज्यालो क्षणभर मात्र देखा पर्ने किसिमले ।"
+    },
+    "02565": {
+      "dId": "ᤆᤧᤶᤗᤱᤔᤠ",
+      "desc": "/चेम्लेङ्मा/",
+      "group": "AX",
+      "mean": "<p>to shine or glitter momentarily.</p>झिलिक्क झल्कनु; टिलिक्क टल्कनु ।"
+    },
+    "02566": {
+      "dId": "ᤆᤧᤕᤠᤱᤎᤠᤣ᤺ᤰ/ᤆᤧᤕᤠᤱᤎᤠᤣᤁ᤻",
+      "desc": "/चेयाङ्धोःक्/",
+      "group": "AX",
+      "mean": "<p>hotel (with lodging and boarding facility).</p>भोजनालय; होटेल (खान र सुत्न प्रबन्ध भएको ) ।"
+    },
+    "02567": {
+      "dId": "ᤆᤧᤕᤠ᤺ᤶᤓᤠᤣ/ᤆᤧᤕᤠᤔ᤻ᤓᤠᤣ",
+      "desc": "/चेयाःम्भो/",
+      "group": "AX",
+      "mean": "<p>bad condition; adverse circumstance; problem.</p>दुर्दशा; समस्या ।"
+    },
+    "02568": {
+      "dId": "ᤆᤧᤖᤢᤱᤔᤠ",
+      "desc": "/चेरूङ्मा/",
+      "group": "AX",
+      "mean": "<p>a deity or benevolent spirit which protects human being form the impact of evil look.</p>नराम्रो दृष्टिबाट जोगाउने देवी ।"
+    },
+    "02569": {
+      "dId": "ᤆᤧᤖᤢᤶᤓᤠᤣ᤺ᤰ/ᤆᤧᤖᤢᤶᤓᤠᤣᤁ᤻",
+      "desc": "/चेरुम्भोःक्/",
+      "group": "AX",
+      "mean": "<p>nutritious; nutirent; nourishing.</p>शक्तिवर्धक ।"
+    },
+    "02570": {
+      "dId": "ᤆᤧᤖᤧᤱᤄᤡᤶ",
+      "desc": "/चेरेङ्घिम्/",
+      "group": "AX",
+      "mean": "<p>restaurant.</p>चमेनाघर ।"
+    },
+    "02571": {
+      "dId": "ᤆᤧᤖᤧᤱᤏᤠᤶ",
+      "desc": "/चेरेङ्नाम्/",
+      "group": "AX",
+      "mean": "<p>Chait or Chaitra, 12th Nepalese month (Mar-Apr).</p>चैत्र; चैत महिना ।"
+    },
+    "02572": {
+      "dId": "ᤆᤧᤖᤧᤱᤛᤱᤒᤠ",
+      "desc": "/चेरेङ्सङ्बा/",
+      "group": "AX",
+      "mean": "<p>sweetmeat seller; sweetmeat-maker; confectioner.</p>हलुबाइ; मोदी ।"
+    },
+    "02573": {
+      "dId": "ᤆᤧᤖᤧᤱᤘᤠ",
+      "desc": "/चेरेङ्वा/",
+      "group": "AX",
+      "mean": "<p>a kind of bird.</p>धुइँचे चरो ।"
+    },
+    "02574": {
+      "dId": "ᤆᤧᤖᤧᤵᤔᤠ",
+      "desc": "/चेरेप्मा/",
+      "group": "AX",
+      "mean": "<p>a kind of bird.</p>पादुरी चरो ।"
+    },
+    "02575": {
+      "dId": "ᤆᤧᤖᤧ᤺ᤰᤂᤠ/ᤆᤧᤖᤧᤁ᤻ᤂᤠ",
+      "desc": "/चेरेःक्खा/",
+      "group": "AX",
+      "mean": "<p>spinning wheel.</p>चर्खा ।"
+    },
+    "02576": {
+      "dId": "ᤆᤧᤷᤈᤧᤰᤏᤠ",
+      "desc": "/चेरजेक्ना/",
+      "group": "AX",
+      "mean": "<p>warbler; a kind of small ground warbler. <i>Sylviidae.</i></p>फिस्टो चरो ।"
+    },
+    "02577": {
+      "dId": "ᤆᤧᤗᤧᤶᤔᤠ",
+      "desc": "/चेलेम्मा/",
+      "group": "AX",
+      "mean": "<p>to get blisters; to get holes into wound.</p>मासु फुट्नु ।"
+    },
+    "02578": {
+      "dId": "ᤆᤧᤸᤗᤧᤰᤂᤠᤣ",
+      "desc": "/चेल्लेक्खो/",
+      "group": "AX",
+      "mean": "<p>restless; naughty; coquettish; unduly forward.</p>उत्ताउलो; चञ्चल; बाइफाले ।"
+    },
+    "02579": {
+      "dId": "ᤆᤧᤸᤗᤧᤰᤗᤧᤰᤐᤠ",
+      "desc": "/चेल्लेक्लेक्पा/",
+      "group": "AX",
+      "mean": "<p>adult; adolescent; lively; full of zest; rash; boisterous.</p>किशोर; चुलबुल; चञ्चल; बैंसालु ।"
+    },
+    "02580": {
+      "dId": "ᤆᤧᤸᤗᤧᤰᤗᤧᤰᤔᤠ",
+      "desc": "/चेल्लेक्लेक्मा/",
+      "group": "AX",
+      "mean": "<p>(fem.) adult; adolescent; rash; boisterous; youthful.</p>(स्त्री) किशोरी; चुलबुली; उत्ताउली; बैंसालु ।"
+    },
+    "02581": {
+      "dId": "ᤆᤧᤸᤗᤧᤰᤘᤠ",
+      "desc": "/चेल्लेक्वा/",
+      "group": "AX",
+      "mean": "<p>adolescence; puberty.</p>कुखुरे बैंस ।"
+    },
+    "02582": {
+      "dId": "ᤆᤧᤸᤗᤧᤰᤛᤣ᤹",
+      "desc": "/चेल्लेक्से/",
+      "group": "AX",
+      "mean": "<p>grape.</p>अङ्गूर ।"
+    },
+    "02583": {
+      "dId": "ᤆᤧᤘᤠ",
+      "desc": "/चेवा/",
+      "group": "AX",
+      "mean": "<p>water in which rice has been washed.</p>चौलानी; चामल पखालेको पानी ।"
+    },
+    "02584": {
+      "dId": "ᤆᤧᤛᤠᤰ",
+      "desc": "/चेसाक्/",
+      "group": "AX",
+      "mean": "<p>food grain; provisions.</p>सातुसामल; खाद्य सामग्री ।"
+    },
+    "02585": {
+      "dId": "ᤆᤧᤛᤢᤱ",
+      "desc": "/चेसुङ्/",
+      "group": "AX",
+      "mean": "<p>present of cooked meat, vegetable, liquor, beer etc (esp bought by a daughter from her husband’s house or by a daughter-in-law from her parental house).</p>सौगात (विशेष गरी छोरीचेलीले लोग्नेको घर वा बुहारीले माइतबाट ल्याएको कोसेली) ।"
+    },
+    "02586": {
+      "dId": "ᤆᤧᤛᤣ᤹",
+      "desc": "/चेसे?/",
+      "group": "AX",
+      "mean": "<p>fruits (mango, banana, etc).</p>फल (आँप, सुन्तला आदि) ।"
+    },
+    "02587": {
+      "dId": "ᤆᤧᤛᤣ᤺ᤰᤐᤠ/ᤆᤧᤛᤣᤁ᤻ᤐᤠ",
+      "desc": "/चेसेःक्पा/",
+      "group": "AX",
+      "mean": "<p>vine; grape.</p>अङ्गुर; दाख ।"
+    },
+    "02588": {
+      "dId": "ᤆᤧᤛᤩᤠ-ᤑᤢᤱᤛᤩᤠ",
+      "desc": "/चेस्या-फुङ्स्या/",
+      "group": "AX",
+      "mean": "<p>groceries; miscellaneous goods.</p>खुद्रखुद्री सामान; किराना माल ।"
+    },
+    "02589": {
+      "dId": "ᤆᤧ᤺ᤰᤔᤠ/ᤆᤧᤁ᤻ᤔᤠ",
+      "desc": "/चेःक्मा/",
+      "group": "AX",
+      "mean": "<p>1. to white-wash or paint walls. 2. to paint (in different colors).</p>१. लिपपोत गर्नु; पोत्नु । २. (विभिन्न रङ्गमा) रङ्गाउनु ।"
+    },
+    "02590": {
+      "dId": "ᤆᤧ᤺ᤱᤕᤠ/ᤆᤧᤅ᤻ᤕᤠ",
+      "desc": "/चेःङ्या/",
+      "group": "AX",
+      "mean": "<p>sideward; manner of lying down on one side.</p>कोल्टे ।"
+    },
+    "02591": {
+      "dId": "ᤆᤧ᤺ᤱᤕᤠᤔᤠ/ᤆᤧᤅ᤻ᤕᤠᤔᤠ",
+      "desc": "/चेःङ्यामा/",
+      "group": "AX",
+      "mean": "<p>common buck-wheat; sweet buckwheat. <i>Fagopyrum esculentum.</i></p>मीठे फापर ।"
+    },
+    "02592": {
+      "dId": "ᤆᤧ᤺ᤇᤡᤰ",
+      "desc": "/चेःछिक्/",
+      "group": "AX",
+      "mean": "<p>[Tamor] a little; less; scanty; scantily.</p>[तमर] अलिकति; थोरै; कम्ती; थोरै मात्रामा ।"
+    },
+    "02593": {
+      "dId": "ᤆᤧ᤺ᤴᤈᤡ᤹(ᤒᤠ)/ᤆᤧᤏ᤻ᤈᤡ(ᤒᤠ)",
+      "desc": "/चेःन्जि?(बा)/",
+      "group": "AX",
+      "mean": "<p>shin-bone.</p>नलीहाड ।"
+    },
+    "02594": {
+      "dId": "ᤆᤧ᤺ᤵ/ᤆᤧᤐ᤻",
+      "desc": "/चेःप्/",
+      "group": "AX",
+      "mean": "<p>purse-shaped flat netted basket made of woven of split bamboo.</p>पेरूङ्गो; आँखा जस्तो प्वाल पारी बुनिएको चोयाको चेप्टो पात्र ।"
+    },
+    "02595": {
+      "dId": "ᤆᤧ᤺ᤵᤐᤣ/ᤆᤧᤐ᤻ᤐᤣ",
+      "desc": "/चेःप्पे/",
+      "group": "AX",
+      "mean": "<p>playing-cards.</p>तास ।"
+    },
+    "02596": {
+      "dId": "ᤆᤩᤠ᤹",
+      "desc": "/च्य?/",
+      "group": "AX",
+      "mean": "<p>little; a bit; slightly; somewhat.</p>थोरै; अलिकति ।"
+    },
+    "02597": {
+      "dId": "ᤆᤩᤠᤱ",
+      "desc": "/च्याङ्/",
+      "group": "AX",
+      "mean": "<p>1. evil stars. 2. malevolent or jungle spirits or deities.</p>१. योगिनी । २. अनिष्टकारी जङ्गली आत्मा वा देवीदेवता ।"
+    },
+    "02598": {
+      "dId": "ᤆᤩᤠᤱᤒᤠ",
+      "desc": "/च्याङ्वा/",
+      "group": "AX",
+      "mean": "<p>a kind of bird which feeds on fish, a bird like a king fisher.</p>माछा खाने एक प्रकारको चरो ।"
+    },
+    "02599": {
+      "dId": "ᤆᤩᤠᤛᤠᤱ",
+      "desc": "/च्यासाङ्/",
+      "group": "AX",
+      "mean": "<p>1. at any rate; at all events; whatsoever; by all means. 2. whatever; anything.</p>१. जे भए पनि; जस्तो भए पनि; जे परे पनि; जस्तो परे पनि । २. जे पनि; जस्तोसुकै पनि ।"
+    },
+    "02600": {
+      "dId": "ᤆᤩᤧᤐᤠ",
+      "desc": "/च्येपा/",
+      "group": "AX",
+      "mean": "<p>a kind of grass.</p>फुर्के घाँस ।"
+    },
+    "02601": {
+      "dId": "ᤆᤩᤐ᤻ᤆᤢᤶ",
+      "desc": "/च्यःप्चुम्/",
+      "group": "AX",
+      "mean": "<p>a kind of mushroom (grown in rainy season).</p>झरी च्याउ/ बगाले च्याउ ।"
+    },
+    "02602": {
+      "dId": "ᤆᤩᤠᤰ-ᤆᤩᤠᤰ",
+      "desc": "/च्याक्-च्याक्/",
+      "group": "AX",
+      "mean": "<p>bitingly; acutely; terribly; with a smart (stinging pain).</p>चस्सचस्स ।"
+    },
+    "02603": {
+      "dId": "ᤆᤩᤠ᤺ᤰ-ᤆᤩᤠ᤺ᤰ/ᤆᤩᤠᤁ᤻-ᤆᤩᤠᤁ᤻",
+      "desc": "/च्याःक्-च्याःक्/",
+      "group": "AX",
+      "mean": "<p>chirp; chirrup (cries of chickens).</p>चल्ला कराएको आवाज ।"
+    },
+    "02604": {
+      "dId": "ᤆᤫᤠ",
+      "desc": "/च्वा/",
+      "group": "AX",
+      "mean": "<p>water.</p>पानी ।"
+    },
+    "02605": {
+      "dId": "ᤆᤫᤠᤋᤠᤜᤠᤱᤒᤠ",
+      "desc": "/च्वाताहाङ्बा/",
+      "group": "AX",
+      "mean": "<p>terminalia; a kind of  tree. <i>Teminalia myriocarpa.</i></p>पानी साज ।"
+    },
+    "02606": {
+      "dId": "ᤆᤫᤠ-ᤐᤧᤸᤗᤠ᤺ᤰᤘᤠ/ᤐᤧᤸᤗᤠᤁ᤻ᤘᤠ",
+      "desc": "/च्वा-पेल्लाःक्वा/",
+      "group": "AX",
+      "mean": "<p>duck; swan.</p>पानी हाँस ।"
+    },
+    "02607": {
+      "dId": "ᤆᤫᤠ-ᤗᤠ᤺ᤰᤘᤠ/ᤗᤠᤁ᤻ᤘᤠ",
+      "desc": "/च्वा-लाःक्वा/",
+      "group": "AX",
+      "mean": "<p>a kind of roller. <i>Coracias bmeanhalensis.</i></p>ठ्यौवा चरो; काग झैं चरो ।"
+    },
+    "02608": {
+      "dId": "ᤆᤫᤠ᤺ᤳ/ᤆᤫᤠᤋ᤻",
+      "desc": "/च्वाःत्/",
+      "group": "AX",
+      "mean": "<p>water.</p>पानी ।"
+    }
+  }
+}

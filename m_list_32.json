@@ -1,0 +1,634 @@
+{
+  "Dic": {
+    "03349": {
+      "dId": "ᤌᤡ᤹ᤔᤠ",
+      "desc": "/थि?मा/",
+      "group": "BF",
+      "mean": "<p>1. to be fascinated/ captivated/ allured by sb (esp in sexual desire). 2. to get ill due to eating of bad foods.</p>१. सङ्गतले बिग्रिनु; प्रभाव (नराम्रो) पर्नु । २. खानाको कारण स्वास्थ्य बिग्रनु; रोग बिसाउनु ।"
+    },
+    "03350": {
+      "dId": "ᤌᤡ/ᤌᤡ᤺ ",
+      "desc": "/थि/थिः/",
+      "group": "BF",
+      "mean": "<p>unfiltered liquor; millet-grain beer.</p>जाँड ।"
+    },
+    "03351": {
+      "dId": "ᤌᤡᤰ",
+      "desc": "/थिक्/",
+      "group": "BF",
+      "mean": "<p>1. one; the number and figure ‘1’. 2. unit. 3. suffix denoting a definite number or meaning.</p>१. एक; एकको संख्या वा अङ्क १ । २. एकाइ । ३. शब्दको पछाडि आएर निश्चित सङ्ख्या वा अर्थ बुझाउने प्रत्यय ।"
+    },
+    "03352": {
+      "dId": "ᤌᤡᤰᤁᤡᤒᤣ᤺ᤰ/ᤌᤡᤰᤁᤡᤒᤣᤁ᤻",
+      "desc": "/थिक्किबेःक्/",
+      "group": "BF",
+      "mean": "<p>uniform.</p>एकरुपता; समानता ।"
+    },
+    "03353": {
+      "dId": "ᤌᤡᤰᤁᤠᤣᤒᤠ",
+      "desc": "/थिक्कोबा/",
+      "group": "BF",
+      "mean": "<p>ordinary; common.</p>साधारण; सामान्य ।"
+    },
+    "03354": {
+      "dId": "ᤌᤡᤁᤪᤠᤣᤒᤠ",
+      "desc": "/थिक्क्रोबा/",
+      "group": "BF",
+      "mean": "<p>1. one sided. 2. attentive.</p>१. एकोहोरे । २. एकग्रता भएको ।"
+    },
+    "03355": {
+      "dId": "ᤌᤡᤰᤐᤠ",
+      "desc": "/थिक्पा/",
+      "group": "BF",
+      "mean": "<p>one (human only).</p>एकजना (मनुष्यमात्र) ।"
+    },
+    "03356": {
+      "dId": "ᤌᤡᤰ-ᤐᤠᤸᤗᤠ",
+      "desc": "/थिक्-पाल्ला/",
+      "group": "BF",
+      "mean": "<p>singular number.</p>एक वचन ।"
+    },
+    "03357": {
+      "dId": "ᤌᤡᤰᤐᤡ ",
+      "desc": "/थिक्पि/",
+      "group": "BF",
+      "mean": "<p>number.</p>प्रति ।"
+    },
+    "03358": {
+      "dId": "ᤌᤡᤰᤐᤣ",
+      "desc": "/थिक्पे/",
+      "group": "BF",
+      "mean": "<p>subjective case ending.</p>प्रथमा (विभक्ति) ।"
+    },
+    "03359": {
+      "dId": "ᤌᤡᤰᤐᤣᤒᤠ",
+      "desc": "/थिक्पेबा/",
+      "group": "BF",
+      "mean": "<p>having only one meaning.</p>एकार्थी; एउटा मात्र अर्थ हुने ।"
+    },
+    "03360": {
+      "dId": "ᤌᤡᤰᤐᤣᤕᤠᤰ",
+      "desc": "/थिक्पेयाक्/",
+      "group": "BF",
+      "mean": "<p>equivalent word; synonym.</p>समान अर्थ भएको; समानार्थी; पर्यायवाची ।"
+    },
+    "03361": {
+      "dId": "ᤌᤡᤰᤐᤧᤴᤈᤡ ",
+      "desc": "/थिक्पेन्जि/",
+      "group": "BF",
+      "mean": "<p>monopoly.</p>एकलौटी; एकाधिकार ।"
+    },
+    "03362": {
+      "dId": "ᤌᤡᤰᤔᤠ",
+      "desc": "/थिक्मा/",
+      "group": "BF",
+      "mean": "<p>1. to accuse sb. 2. to blame/ defame sb.</p>१. आरोप लगाउनु । २. अपजस दिनु ।"
+    },
+    "03363": {
+      "dId": "ᤌᤡᤰᤗᤧᤰᤐᤠ",
+      "desc": "/थिक्लेक्पा/",
+      "group": "BF",
+      "mean": "<p>one-sided (man).</p>एकलकाँटे ।"
+    },
+    "03364": {
+      "dId": "ᤌᤡᤰᤛᤠ",
+      "desc": "/थिक्सा/",
+      "group": "BF",
+      "mean": "<p>alike; similarly.</p>उस्तै; जस्तै ।"
+    },
+    "03365": {
+      "dId": "ᤌᤡᤰᤛᤡᤱ",
+      "desc": "/थिक्सिङ्/",
+      "group": "BF",
+      "mean": "<p>unit.</p>एकाइ ।"
+    },
+    "03366": {
+      "dId": "ᤌᤡᤰᤛᤣ᤺ᤰ/ᤌᤡᤰᤛᤣᤁ᤻",
+      "desc": "/थिक्सेःक्/",
+      "group": "BF",
+      "mean": "<p>each; everyone.</p>प्रत्येक; एकएक ।"
+    },
+    "03367": {
+      "dId": "ᤌᤡᤰᤜᤢᤵ",
+      "desc": "/थिक्हुप्/",
+      "group": "BF",
+      "mean": "<p>solidarity; unity.</p>ऐक्यबद्धता ।"
+    },
+    "03368": {
+      "dId": "ᤌᤡᤰᤜᤢᤵᤐᤠ",
+      "desc": "/थिक्हुप्पा/",
+      "group": "BF",
+      "mean": "<p>united.</p>ऐक्यबद्ध ।"
+    },
+    "03369": {
+      "dId": "ᤌᤡᤰᤜᤢᤶ",
+      "desc": "/थिक्हुम्/",
+      "group": "BF",
+      "mean": "<p>unity.</p>एकता ।"
+    },
+    "03370": {
+      "dId": "ᤌᤡᤱ",
+      "desc": "/थिङ्/",
+      "group": "BF",
+      "mean": "<p>rough/ coarse.</p>खस्रो; मोटो ।"
+    },
+    "03371": {
+      "dId": "ᤌᤡᤱᤃᤠ",
+      "desc": "/थिङ्गा/",
+      "group": "BF",
+      "mean": "<p>existence.</p>अस्तित्व; अस्मिता ।"
+    },
+    "03372": {
+      "dId": "ᤌᤡᤱᤃᤡ ",
+      "desc": "/थिङ्गि/",
+      "group": "BF",
+      "mean": "<p>bush; thicket.</p>झाडी; घारी ।"
+    },
+    "03373": {
+      "dId": "ᤌᤡᤱᤃᤧ",
+      "desc": "/थिङ्गे/",
+      "group": "BF",
+      "mean": "<p>a kind of small bamboo or reed.</p>निगालो ।"
+    },
+    "03374": {
+      "dId": "ᤌᤡᤱᤃᤧ-ᤀᤣ᤺ᤵᤐᤠ/ᤀᤣᤐ᤻ᤐᤠ",
+      "desc": "/थिङ्गे-एःप्पा/",
+      "group": "BF",
+      "mean": "<p>a kind of small bamboo or reed which grows in low land. <i>Arundinaira falcata.</i></p>औले निगालो ।"
+    },
+    "03375": {
+      "dId": "ᤌᤡᤱᤓᤢᤱ",
+      "desc": "/थिङ्भुङ्/",
+      "group": "BF",
+      "mean": "<p>opium.</p>अफीम ।"
+    },
+    "03376": {
+      "dId": "ᤌᤡᤱᤔᤠ",
+      "desc": "/थिङ्मा/",
+      "group": "BF",
+      "mean": "<p>1. to stretch/ straighten (a rope). 2. to tighten (with a rope) sb.</p>१. तन्काउनु; सीधा पार्नु । २. पाता फर्काउनु ।"
+    },
+    "03377": {
+      "dId": "ᤌᤡᤱᤖᤧᤱᤏᤠ",
+      "desc": "/थिङ्रेङ्ना/",
+      "group": "BF",
+      "mean": "<p>[Tamor] cockroach.</p>[तमर] साङ्ले (कीरो) ।"
+    },
+    "03378": {
+      "dId": "ᤌᤡᤱᤛᤡᤱᤔᤠ",
+      "desc": "/थिङ्सिङ्मा/",
+      "group": "BF",
+      "mean": "<p>to stretch (ones limbs) oneself.</p>तन्किनु ।"
+    },
+    "03379": {
+      "dId": "ᤌᤡᤏᤢ᤹ᤔᤠ",
+      "desc": "/थिनु?मा/",
+      "group": "BF",
+      "mean": "<p>fried meat; curry.</p>तरकारी; सितन ।"
+    },
+    "03380": {
+      "dId": "ᤌᤡᤔᤠᤣᤛᤠᤱ",
+      "desc": "/थिमोसाङ्/",
+      "group": "BF",
+      "mean": "<p>drug; alcohol.</p>मद; मादक पदार्थ । "
+    },
+    "03381": {
+      "dId": "ᤌᤡᤔᤠᤣ᤺ᤛᤠᤱᤒᤠ",
+      "desc": "/थिमोःसाङ्बा/",
+      "group": "BF",
+      "mean": "<p>drunkard; alcoholic; drug addict.</p>मादक पदार्थ सेवन गर्ने बानी भएको (रक्स्याहा; जँड्याहा; गँजडीया; अफिम्ची नसेबाज; मतवाला) ।"
+    },
+    "03382": {
+      "dId": "ᤌᤡᤶ",
+      "desc": "/थिम्/",
+      "group": "BF",
+      "mean": "<p>1. usage; custom; rite. 2. rules and regulation.</p>१. चलन; रीतिथिति । २. नियम; दस्तुर ।"
+    },
+    "03383": {
+      "dId": "ᤌᤡᤶᤈᤠᤱᤘᤠ",
+      "desc": "/थिम्जाङ्वा/",
+      "group": "BF",
+      "mean": "<p>amendment; correction.</p>संशोधन ।"
+    },
+    "03384": {
+      "dId": "ᤌᤡᤶᤈᤡᤰ",
+      "desc": "/थिम्जिक्/",
+      "group": "BF",
+      "mean": "<p>behaviour.</p>आचार व्याहार ।"
+    },
+    "03385": {
+      "dId": "ᤌᤡᤶᤒᤱ(ᤒᤠ)",
+      "desc": "/थिम्बङ्(बा)/",
+      "group": "BF",
+      "mean": "<p>urine bladder.</p>मुत्राशय; पिसाब रहने थैलो ।"
+    },
+    "03386": {
+      "dId": "ᤌᤡᤶᤒᤣ",
+      "desc": "/थिम्बे/",
+      "group": "BF",
+      "mean": "<p>programmeकार्यक्रम; कार्ययोजना ।"
+    },
+    "03387": {
+      "dId": "ᤌᤡᤶᤔᤠ",
+      "desc": "/थिम्मा/",
+      "group": "BF",
+      "mean": "<p>to fill; to make full.</p>भर्नु; भरि पार्नु ।"
+    },
+    "03388": {
+      "dId": "ᤌᤡᤶᤛᤰ",
+      "desc": "/थिम्सक्/",
+      "group": "BF",
+      "mean": "<p>form; memo.</p>प्रपत्र; प्रज्ञापन पत्र ।"
+    },
+    "03389": {
+      "dId": "ᤌᤡᤖᤡᤱᤍᤰ",
+      "desc": "/थिरिङ्दक्/",
+      "group": "BF",
+      "mean": "<p>a small earthen jar; pitcher.</p>घैंटो ।"
+    },
+    "03390": {
+      "dId": "ᤌᤡ᤺ᤰᤔᤠ/ᤌᤡᤁ᤻ᤔᤠ",
+      "desc": "/थिःक्मा/",
+      "group": "BF",
+      "mean": "<p>to peel off (the skin of fruits, body, maize etc).</p>काढ्नु (छाला); नङ्ग्याउनु; ताछ्नु; छोडाउनु (फलफुल, मकै आदि) ।"
+    },
+    "03391": {
+      "dId": "ᤌᤡ᤺ᤱᤃᤡ᤺ᤰ-ᤌᤡ᤺ᤱᤃᤡ᤺ᤰ/ᤌᤡᤅ᤻ᤃᤡᤁ᤻-ᤌᤡᤅ᤻ᤃᤡᤁ᤻",
+      "desc": "/थिःङ्गिःक् थिःङ्गिःक्/",
+      "group": "BF",
+      "mean": "<p>in a manner of walking with long steps.</p>लमक लमक ।"
+    },
+    "03392": {
+      "dId": "ᤌᤡ᤺ᤱᤔᤠ/ᤌᤡᤅ᤻ᤔᤠ",
+      "desc": "/थिःङ्मा/",
+      "group": "BF",
+      "mean": "<p>to pull back the foreskin (of penis).</p>खुल्क्याउनु; नेपर्नु; लिङ्गको छाला तर्नु । "
+    },
+    "03393": {
+      "dId": "ᤌᤡ᤺ᤳᤋᤡ/ᤌᤡᤋ᤻ᤋᤡ ",
+      "desc": "/थिःत्ति/",
+      "group": "BF",
+      "mean": "<p>custom; customs and practices.</p>थिति; रीतिथिति ।"
+    },
+    "03394": {
+      "dId": "ᤌᤡ᤺ᤳᤋᤠᤣ/ᤌᤡᤋ᤻ᤋᤠᤣ",
+      "desc": "/थिःत्तो/",
+      "group": "BF",
+      "mean": "<p>mortgage (of things).</p>धितो ।"
+    },
+    "03395": {
+      "dId": "ᤌᤡ᤺ᤴ/ᤌᤡᤏ᤻",
+      "desc": "/थिःन्/",
+      "group": "BF",
+      "mean": "<p>egg.</p>फुल; अण्डा; डिम्बा ।"
+    },
+    "03396": {
+      "dId": "ᤌᤡ᤺ᤴᤍᤠᤱ-ᤔᤠᤱ/ᤌᤡᤏ᤻ᤍᤠᤱ-ᤔᤠᤱ",
+      "desc": "/थिःन्दाङ्-माङ्/",
+      "group": "BF",
+      "mean": "<p>self revealing/ created God.</p>स्वयं उत्पन्न हुने ईश्वर; स्वयम्भु ।"
+    },
+    "03397": {
+      "dId": "ᤌᤡ᤺ᤴᤍᤠᤧᤣᤗᤢᤱ/ᤌᤡᤏ᤻ᤍᤠᤣᤗᤢᤱ",
+      "desc": "/थिःन्दोलुङ्/",
+      "group": "BF",
+      "mean": "<p>self created God.</p>स्वयं प्रकट भएको; स्वयम्भु ।"
+    },
+    "03398": {
+      "dId": "ᤌᤡ᤺ᤶᤔᤠ/ᤌᤡᤔ᤻ᤔᤠ",
+      "desc": "/थिःम्मा/",
+      "group": "BF",
+      "mean": "<p>to lay an egg.</p>फुल पार्नु ।"
+    },
+    "03399": {
+      "dId": "ᤌᤡ᤺ᤕᤢ᤺ᤔᤠ",
+      "desc": "/थिःयुःमा/",
+      "group": "BF",
+      "mean": "<p>to distill wine.</p>रक्सी पार्नु ।"
+    },
+    "03400": {
+      "dId": "ᤌᤡ᤺ᤛᤠᤵ",
+      "desc": "/थिःसाप्/",
+      "group": "BF",
+      "mean": "<p>a cane basket used for keeping unfiltered millet-grain beer.</p>जाँड हाल्ने चोयाको टोकरी ।"
+    },
+    "03401": {
+      "dId": "ᤌᤢ᤹ᤔᤠ",
+      "desc": "/थु?मा/",
+      "group": "BF",
+      "mean": "<p>1. to fold. 2. to bend.</p>१. दोब्र्याउनु; पट्याउनु । २. नुवाउनु; बङ्ग्याउनु ।"
+    },
+    "03402": {
+      "dId": "ᤌᤢᤰᤁᤧᤃᤢ᤺ᤒᤠ",
+      "desc": "/थुक्केगुःबा/",
+      "group": "BF",
+      "mean": "<p>ill/unwell (person).</p>रोगी; बिरामी; शारीरिकरूपले अशक्त ।"
+    },
+    "03403": {
+      "dId": "ᤌᤢᤰᤔᤠ",
+      "desc": "/थुक्मा/",
+      "group": "BF",
+      "mean": "<p>to get possessed by spirits or divine power (as Phedangma in trance).</p>आङ्मा देवता चढ्नु ।"
+    },
+    "03404": {
+      "dId": "ᤌᤢᤰᤘᤠ",
+      "desc": "/थुक्वा/",
+      "group": "BF",
+      "mean": "<p>landslide.</p>पहिरो ।"
+    },
+    "03405": {
+      "dId": "ᤌᤢᤰᤛᤡᤱᤔᤠ",
+      "desc": "/थुक्सिङ्मा/",
+      "group": "BF",
+      "mean": "<p>to assist one’s friend in fight.</p>धुर पस्नु; धुर लाग्नु ।"
+    },
+    "03406": {
+      "dId": "ᤌᤢᤱᤃᤪᤢᤰᤘᤠ",
+      "desc": "/थुङ्ग्रुक्वा/",
+      "group": "BF",
+      "mean": "<p>a kind of bird.</p>हुचिल ।"
+    },
+    "03407": {
+      "dId": "ᤌᤢᤱᤄᤡ ",
+      "desc": "/थुङ्घि/",
+      "group": "BF",
+      "mean": "<p>cotton cloth; a kind of thick hand-woven cotton cloth.</p>घरबुना कपडा; खाँडी; खद्दर (कपडा) ।"
+    },
+    "03408": {
+      "dId": "ᤌᤢᤱᤎᤠᤱ",
+      "desc": "/थुङ्धाङ्/",
+      "group": "BF",
+      "mean": "<p>on; upon.</p>माथि; उपर ।"
+    },
+    "03409": {
+      "dId": "ᤌᤢᤱᤎᤠᤱᤒᤠ",
+      "desc": "/थुङ्धाङ्बा/",
+      "group": "BF",
+      "mean": "<p>sun (planet).</p>सुर्य ।"
+    },
+    "03410": {
+      "dId": "ᤌᤢᤱᤎᤢᤱ",
+      "desc": "/थुङ्धुङ्/",
+      "group": "BF",
+      "mean": "<p>(of liquids) manner of being thick.</p>बाक्लो वा लतत हुने किसिमले (तरल पदार्थ) ।"
+    },
+    "03411": {
+      "dId": "ᤌᤢᤱᤔᤠ",
+      "desc": "/थुङ्मा/",
+      "group": "BF",
+      "mean": "<p>1. (of liquids) to be thick; (of solids) to be muscular. 2. to drink; to smoke. 3. to cause sb to drink or smoke; to let sb drink/ smoke.</p>१. बाक्लो (मोटो) हुनु । २. पिउनु (पानी); पान गर्नु (धुम्रपान) । ३. पिलाउनु (रक्सी, पानी, चुरोट आदि) ।"
+    },
+    "03412": {
+      "dId": "ᤌᤢᤱᤘᤠᤔᤠ",
+      "desc": "/थुङ्वामा/",
+      "group": "BF",
+      "mean": "<p>mist.</p>तुवाँलो ।"
+    },
+    "03413": {
+      "dId": "ᤌᤢᤱᤘᤠᤛᤣ᤹",
+      "desc": "/थुङ्वासे?/",
+      "group": "BF",
+      "mean": "<p>milky way.</p>आकाशगङ्गा ।"
+    },
+    "03414": {
+      "dId": "ᤌᤢᤱᤛᤠᤵ",
+      "desc": "/थुङ्साप्/",
+      "group": "BF",
+      "mean": "<p>oral tradition; oral religious scripture; folk literature.</p>श्रुतिशास्त्र; लौकिक धर्मशास्त्र; लोकवाङ्मय ।"
+    },
+    "03415": {
+      "dId": "ᤌᤢᤱᤛᤠ᤺ᤶᤒᤣ/ᤌᤢᤱᤛᤠᤔ᤻ᤒᤣ",
+      "desc": "/थु्ङ्साःम्बे/",
+      "group": "BF",
+      "mean": "<p>1. oral/ folk literature (epic). 2. verse; poetical work.</p>१. श्रुतिकाब्य; लोककाव्य । २. काव्य ।"
+    },
+    "03416": {
+      "dId": "ᤌᤢᤳᤌᤢ᤹ᤖᤡᤒᤠ",
+      "desc": "/थुत्थुरिबा/",
+      "group": "BF",
+      "mean": "<p>Narasingha; a kind of Nepali folk musical instrument; one of nine components of Naumati Baja or Panchai Baja.</p>नरसिङ्गा (बाजा); नौमती बाजामध्ये एक ।"
+    },
+    "03417": {
+      "dId": "ᤌᤢᤎᤢᤱ",
+      "desc": "/थुधुङ्/",
+      "group": "BF",
+      "mean": "<p>thickness; breath.</p>बाक्लोपन; मोटाइ ।"
+    },
+    "03418": {
+      "dId": "ᤌᤢᤵᤐᤠᤗᤢᤱ",
+      "desc": "/थुप्पालुङ्/",
+      "group": "BF",
+      "mean": "<p>alum.</p>फिटकिरी ।"
+    },
+    "03419": {
+      "dId": "ᤌᤢᤵᤐᤧᤳ",
+      "desc": "/थुप्पेत्/",
+      "group": "BF",
+      "mean": "<p>printing.</p>मुद्रण; छापा ।"
+    },
+    "03420": {
+      "dId": "ᤌᤢᤵᤔᤠ",
+      "desc": "/थुप्मा/",
+      "group": "BF",
+      "mean": "<p>1. to stab/ poke. 2. to pierce; to make hole by piercing. 3. to kindle (by thrusting); to kindle a torch poking in a burning torch. 4. to dip, immerse eatables in curry, pickles etc. 5. [Phedape/ Tamor] to cave in; to collapse (by itself).</p>१. रोप्नु (छुरी आदिले); घोंच्नु । २. छेंड्नु (घोचेर वा रोपेर) । ३. झोस्नु (राँको) । ४. चोप्नु; खानेकुरो दाल अचार आदिमा चोप्नु । ५. [फेदापे/ तमर] धस्कनु; भत्कनु; लड्नु ।"
+    },
+    "03421": {
+      "dId": "ᤌᤢᤵᤔᤧ᤺ᤵᤐᤠ/ᤌᤢᤵᤔᤧᤐ᤻ᤐᤠ",
+      "desc": "/थुप्मेःप्पा/",
+      "group": "BF",
+      "mean": "<p>short (in hight); not tall.</p>पुड्के; गान्टे; होंचो ।"
+    },
+    "03422": {
+      "dId": "ᤌᤢᤶ",
+      "desc": "/थुम्/",
+      "group": "BF",
+      "mean": "<p>1. physical strmeanth; power; capacity. 2. industriousness. 3. difficulty. 4. district; an administrative sub-division.</p>१. बल; तागत; शक्ति । २. पौरख; जाँगर । ३. कठिनाइ । ४. जिल्ला; प्रशासनिक इलाका । "
+    },
+    "03423": {
+      "dId": "ᤁᤣᤎᤢᤶᤒᤠ",
+      "desc": "/केधुम्बा/",
+      "group": "BF",
+      "mean": "<p>1. strong; capable. 2. difficult.</p>१. तागतिलो; पौरखी । २. कठिन ।"
+    },
+    "03424": {
+      "dId": "ᤌᤢᤶᤔᤡᤒᤠ",
+      "desc": "/थुम्मिबा/",
+      "group": "BF",
+      "mean": "<p>powerful; strong.</p>शक्तिशाली; बलियो ।"
+    },
+    "03425": {
+      "dId": "ᤌᤢᤶᤔᤢᤒᤠ",
+      "desc": "/थुम्मुबा/",
+      "group": "BF",
+      "mean": "<p>grown up; adult.</p>बढेको; वयस्क ।"
+    },
+    "03426": {
+      "dId": "ᤌᤢᤶᤍᤠᤱᤒᤠ",
+      "desc": "/थुम्दाङ्बा/",
+      "group": "BF",
+      "mean": "<p>district officer.</p>जिल्ला अधिकारी ।"
+    },
+    "03427": {
+      "dId": "ᤌᤢᤶᤄᤠᤣ",
+      "desc": "/थुम्घो/",
+      "group": "BF",
+      "mean": "<p>prize; reward.</p>पुरस्कार; इनाम ।"
+    },
+    "03428": {
+      "dId": "ᤌᤢᤶᤍᤡ᤺ᤰ/ᤌᤢᤶᤍᤡᤁ᤻",
+      "desc": "/थुम्दिःक्/",
+      "group": "BF",
+      "mean": "<p>expedition.</p>खोजयात्रा ।"
+    },
+    "03429": {
+      "dId": "ᤌᤢᤶᤍᤢᤶ",
+      "desc": "/थुम्दुम्/",
+      "group": "BF",
+      "mean": "<p>certainty; a firm decision.</p>अठोट; निधो; निश्चय ।"
+    },
+    "03430": {
+      "dId": "ᤌᤢᤶᤍᤠᤣ᤺ᤰᤁᤡ/ᤌᤢᤶᤍᤠᤣᤁ᤻ᤁᤡ ",
+      "desc": "/थुम्दोक्कि/",
+      "group": "BF",
+      "mean": "<p>chemical mixture.</p>यौगिक; रासायनिक ।"
+    },
+    "03431": {
+      "dId": "ᤌᤢᤶᤒᤖᤠᤱ/ᤌᤢᤶᤒᤪᤠᤱ",
+      "desc": "/थुम्बराङ्/थुम्ब्राङ्/",
+      "group": "BF",
+      "mean": "<p>kneeling down.</p>घुँडा टेकेर बस्ने काइदा ।"
+    },
+    "03432": {
+      "dId": "ᤌᤢᤶᤒᤡ᤹ ",
+      "desc": "/थुम्बि?/",
+      "group": "BF",
+      "mean": "<p>vitamin.</p>बलबर्दक वस्तु (खाना, औषधी आदि); भिटामिन ।"
+    },
+    "03433": {
+      "dId": "ᤌᤢᤶᤒᤡ᤹ᤒᤠ",
+      "desc": "/थुम्बि?बा/",
+      "group": "BF",
+      "mean": "<p>nourishing; energetic; nutritious.</p>बलबर्दक; शक्तिदायी ।"
+    },
+    "03434": {
+      "dId": "ᤌᤢᤶᤒᤢ",
+      "desc": "/थुम्बु/",
+      "group": "BF",
+      "mean": "<p>wax.</p>मैन ।"
+    },
+    "03435": {
+      "dId": "ᤌᤢᤶᤒᤠᤣ᤹",
+      "desc": "/थुम्बो?/",
+      "group": "BF",
+      "mean": "<p>knee.</p>घुँडा ।"
+    },
+    "03436": {
+      "dId": "ᤌᤢᤶᤒᤧ᤺ᤵᤐᤠ/ᤌᤢᤶᤒᤧᤐ᤻ᤐᤠ",
+      "desc": "/थुम्बेःप्पा/",
+      "group": "BF",
+      "mean": "<p>stooping.</p>निहुरिएको ।"
+    },
+    "03437": {
+      "dId": "ᤌᤢᤶᤒᤪᤢᤰᤘᤠ",
+      "desc": "/थुम्ब्रुक्वा/",
+      "group": "BF",
+      "mean": "<p>a kind of sour tasting wild fruit. Chaerospondies axillaris; Spondias axillaris.</p>लप्सी ।"
+    },
+    "03438": {
+      "dId": "ᤌᤢᤶᤔᤠ",
+      "desc": "/थुम्मा/",
+      "group": "BF",
+      "mean": "<p>1. to cause ot cave in/ collapse; to demolise. 2. to disturb; to stir up; to strike/ agitate (an old wounds). 3. to be energetic; to be persevering in one’s work; to be industrious. 4. to be strong/ capable.</p>१. धस्काउनु; लडाउनु; भत्काउनु । २. खल्बल्याउनु; बिथोल्नु; चलाएर बिगार्नु/ बल्झाउनु (घाउ) । ३. फुर्तिलो हुनु; जाँगरिलो हुनु; पौरखी हुनु । ४. बलशाली हुनु; क्षमताशाली हुनु ।"
+    },
+    "03439": {
+      "dId": "ᤌᤢᤶᤕᤠᤶ",
+      "desc": "/थुम्याम्/",
+      "group": "BF",
+      "mean": "<p>good health.</p>स्वस्थता ।"
+    },
+    "03440": {
+      "dId": "ᤌᤢᤶᤕᤠᤶᤒᤠ",
+      "desc": "/थुम्याम्बा/",
+      "group": "BF",
+      "mean": "<p>healthy.</p>स्वस्थ ।"
+    },
+    "03441": {
+      "dId": "ᤌᤢᤶᤗᤧᤵ",
+      "desc": "/थुम्लेप्/",
+      "group": "BF",
+      "mean": "<p>gum; glue.</p>गम; माड ।"
+    },
+    "03442": {
+      "dId": "ᤌᤢᤶᤛᤠᤶ",
+      "desc": "/थुम्साम्/",
+      "group": "BF",
+      "mean": "<p>capability; ability; power; efficiency.</p>क्षमता; बुता; बलबर्कत ।"
+    },
+    "03443": {
+      "dId": "ᤌᤢᤶᤛᤠᤒᤠ",
+      "desc": "/थुम्साबा/",
+      "group": "BF",
+      "mean": "<p>efficient; capable; powerful.</p>पराक्रमी; वीर; क्षमतावान ।"
+    },
+    "03444": {
+      "dId": "ᤌᤢᤸᤗᤢᤰ",
+      "desc": "/थुल्लुक्/",
+      "group": "BF",
+      "mean": "<p>manner of doing sth suddenly or at once.</p>झ्वाट्ट; स्वाट्ट ।"
+    },
+    "03445": {
+      "dId": "ᤌᤢᤘᤠ",
+      "desc": "/थुवा/",
+      "group": "BF",
+      "mean": "<p>menstrual excertion.</p>स्त्रीको रज; धातु ।"
+    },
+    "03446": {
+      "dId": "ᤌᤢ᤺ᤱᤔᤠ/ᤌᤢᤅ᤻ᤔᤠ",
+      "desc": "/थुःङ्मा/",
+      "group": "BF",
+      "mean": "<p>1. to bend. 2. to bend/ twist sth.</p>१. निहुराउनु; नुवाउनु; झुकाउनु । २. बङ्ग्याउनु; बाङ्गो पार्नु ।"
+    },
+    "03447": {
+      "dId": "ᤌᤢ᤺ᤱᤛᤡᤱᤔᤠ/ᤌᤢᤅ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/थुःङ्सिङ्मा/",
+      "group": "BF",
+      "mean": "<p>1. to bow. 2. to bow down to each other.</p>१. निहुरनु; झुक्नु । २. परस्परमा बिनयी भावले झुक्नु/ बिनित हुनु ।"
+    },
+    "03448": {
+      "dId": "ᤌᤢ᤺ᤵ/ᤌᤢᤐ᤻",
+      "desc": "/थुःप्/",
+      "group": "BF",
+      "mean": "<p>acrid; astringent; bitter in taste.</p>टर्रो ।"
+    },
+    "03449": {
+      "dId": "ᤌᤢ᤺ᤵᤔᤠ/ᤌᤢᤐ᤻ᤔᤠ",
+      "desc": "/थुःप्मा/",
+      "group": "BF",
+      "mean": "<p>1. to be acrid in taste. 2. to bent/ twisted. ; to undergo a spasm or tremor (through body); to shiver.</p>१. टर्रो हुनु । २. [फेदापे] शरीरको कुनै अङ्ग बटारिनु, झट्किनु, तन्किनु ।; काम्नु वा जिरिङ्ग हुनु ।"
+    },
+    "03450": {
+      "dId": "ᤌᤢ᤺ᤵᤛᤣ᤹/ᤌᤢᤐ᤻ᤛᤣ᤹",
+      "desc": "/थुःप्से?/",
+      "group": "BF",
+      "mean": "<p>a kind of citron lemon; otaheite. <i>Citrus limon.</i></p>निबुवा ।"
+    },
+    "03451": {
+      "dId": "ᤌᤢ᤺ᤶᤒᤠ/ᤌᤢᤔ᤻ᤒᤠ",
+      "desc": "/थुःम्बा/",
+      "group": "BF",
+      "mean": "<p>male sheep (not castrated).</p>भाले भेँडो ।"
+    },
+    "03452": {
+      "dId": "ᤌᤢ᤺ᤶᤒᤪᤢᤰ/ᤌᤢᤔ᤻ᤒᤪᤢᤰ",
+      "desc": "/थुःम्ब्रुक्/",
+      "group": "BF",
+      "mean": "<p>1. half-husked paddy grain. 2. a piece of maize corn.</p>१. धानको बियाँ; धान कुट्दा चामल नबनेको धान । २. मकैको फप्लेटो ।"
+    },
+    "03453": {
+      "dId": "ᤌᤢ᤺ᤶᤔᤠ/ᤌᤢᤔ᤻ᤔᤠ",
+      "desc": "/थुःम्मा/",
+      "group": "BF",
+      "mean": "<p>to repair (basket); to mend; to stich; to sew up tightly.</p>फाटेको टालटुल गर्नु; टाल्नु।"
+    }
+  }
+}

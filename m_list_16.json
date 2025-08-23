@@ -1,0 +1,580 @@
+{
+  "Dic": {
+    "01762": {
+      "dId": "ᤂᤢ",
+      "desc": "/खु/",
+      "group": "AP",
+      "mean": "<p>1. honey. 2. juice; syrup.</p>१. मह । २. शरबत ।"
+    },
+    "01763": {
+      "dId": "ᤂᤢᤰᤔᤠ",
+      "desc": "/खुक्मा/",
+      "group": "AP",
+      "mean": "<p>to throw sth far away.</p>कटाउनु; नघाउनु (फ्याँकेर) ।"
+    },
+    "01764": {
+      "dId": "ᤂᤢᤰᤕᤠ᤺ᤱ/ᤂᤢᤰᤕᤠᤅ᤻",
+      "desc": "/खुक्याःङ्/",
+      "group": "AP",
+      "mean": "<p>contribution in cash or kind from kinsmen or maternal uncles during funerals.</p>मर्दा- पर्दा वंशज, नातागाेता, मामा-मावली बाट काज किरियामा सघाइने नगद, अन्न वा जिन्सी सहयाेग ।"
+    },
+    "01765": {
+      "dId": "ᤂᤢᤰᤘᤠᤔᤡ ",
+      "desc": "/खुक्वामि/",
+      "group": "AP",
+      "mean": "<p>a kind of insect that eats vegetables.</p>लाई (किराे) ।"
+    },
+    "01766": {
+      "dId": "ᤂᤢᤱᤏᤠᤔᤠ",
+      "desc": "/खुङ्नामा/",
+      "group": "AP",
+      "mean": "<p>a kind of thorny plant.</p>अडेरी; काँडा हुने पाेथ्रा विशेष ।"
+    },
+    "01767": {
+      "dId": "ᤂᤢᤳᤋᤡᤋᤩᤠᤱ",
+      "desc": "/खुत्तित्याङ्/",
+      "group": "AP",
+      "mean": "<p>a kind of bird, sandpiper. <i>Tringa.</i></p>हुटिट्याउँ ।"
+    },
+    "01768": {
+      "dId": "ᤂᤢᤋᤪᤢᤰᤗᤢᤰᤐᤠ",
+      "desc": "/खुत्त्रुक्लुक्पा/",
+      "group": "AP",
+      "mean": "<p>cartilage.</p>कुरकुरे हाड ।"
+    },
+    "01769": {
+      "dId": "ᤂᤢᤍᤡ ",
+      "desc": "/खुदि/",
+      "group": "AP",
+      "mean": "<p>small broken pieces of rice/ grains.</p>कनिका ।"
+    },
+    "01770": {
+      "dId": "ᤂᤢᤍᤠᤣ",
+      "desc": "/खुदाे/",
+      "group": "AP",
+      "mean": "<p>thick juice of raw sugar; syrup; treacle.</p>खुदाे ।"
+    },
+    "01771": {
+      "dId": "ᤂᤢᤏᤡ᤹ ",
+      "desc": "/खुनि?/",
+      "group": "AP",
+      "mean": "<p>they.</p>उनीहरु ।"
+    },
+    "01772": {
+      "dId": "ᤂᤢᤏᤧ᤹",
+      "desc": "/खुने?/",
+      "group": "AP",
+      "mean": "<p>he or she (applied to human beings only).</p>ऊ; त्याे; उहाँ (मान्छे मात्र) ।"
+    },
+    "01773": {
+      "dId": "ᤂᤢᤴᤇᤡ᤹ ",
+      "desc": "/खुन्छि?/",
+      "group": "AP",
+      "mean": "<p>they two.</p>उनीहरु ।"
+    },
+    "01774": {
+      "dId": "ᤂᤢᤓᤠᤣ᤺ᤶᤔᤠ/ᤂᤢᤓᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/खुभाेःम्मा/",
+      "group": "AP",
+      "mean": "<p>to use.</p>उपयाेग गर्नु ।"
+    },
+    "01775": {
+      "dId": "ᤂᤢᤶᤈᤠᤣ᤺ᤰᤔᤠ/",
+      "desc": "/खुम्जाेःक्मा/",
+      "group": "AP",
+      "mean": "<p>to make sb suffer; to torture sb.</p>दुःख दिनु ।"
+    },
+    "01776": {
+      "dId": "ᤂᤢᤶᤍᤡᤱ ",
+      "desc": "/खुम्दिङ्/",
+      "group": "AP",
+      "mean": "<p>punishment.</p>सजाय; दण्ड ।"
+    },
+    "01777": {
+      "dId": "ᤂᤢᤶᤓᤧᤰᤘᤠ",
+      "desc": "/खुम्भेक्वा/",
+      "group": "AP",
+      "mean": "<p>a kind of tree whose leaves are eaten as curry.</p>टाँकी ।"
+    },
+    "01778": {
+      "dId": "ᤂᤢᤶᤔᤠ",
+      "desc": "/खुम्मा/",
+      "group": "AP",
+      "mean": "<p>1. to be harassed. 2. to be tamed; to be trained/ improved. 3. to be cheated. 4. to bend down ( and deform) sth.</p>१. सताइनु । २. तह लाग्नु; सुध्रिनु । ३. ठगिनु । ४. कुनै वस्तु बङ्ग्याएर कुप्र्याउनु ।"
+    },
+    "01779": {
+      "dId": "ᤂᤢᤶᤗᤡ ᤛᤡᤱ",
+      "desc": "/खुम्लि सिङ्/",
+      "group": "AP",
+      "mean": "<p>cherry tree. <i>Prunus puddum.</i></p>पैँयुकाे रूख ।"
+    },
+    "01780": {
+      "dId": "ᤂᤢᤶᤛᤡᤱᤔᤠ",
+      "desc": "/खुम्सिङ्मा/",
+      "group": "AP",
+      "mean": "<p>to be harassed; to be tamed; to be brought under control or discipline.</p>सताइनु; तह लाग्नु ।"
+    },
+    "01781": {
+      "dId": "ᤂᤢᤖᤢᤰ",
+      "desc": "/खुरूक्/",
+      "group": "AP",
+      "mean": "<p>a kind of umbrella made of interlaced bamboo strips and leaves.</p>घुम; स्याखु ।"
+    },
+    "01782": {
+      "dId": "ᤂᤢᤖᤢᤶᤒᤡ ",
+      "desc": "/खुरुम्बि/",
+      "group": "AP",
+      "mean": "<p>marble ball; round piece of marble.</p>काँच वा सङ्गमर्मरकाे गाेली ।"
+    },
+    "01783": {
+      "dId": "ᤂᤢᤖᤧᤰᤘᤠ",
+      "desc": "/खुरेक्वा/",
+      "group": "AP",
+      "mean": "<p>green dove.</p>हलेसाे ।"
+    },
+    "01784": {
+      "dId": "ᤂᤢᤘᤠ",
+      "desc": "/खुवा/",
+      "group": "AP",
+      "mean": "<p>1. authority; land under one’s ownership. 2. juice.</p>१. खुवा; हकभाेग भित्रकाे जग्गा । २. रस ।"
+    },
+    "01785": {
+      "dId": "ᤂᤢᤘᤠᤍᤠᤱᤒᤠ",
+      "desc": "/खुवादाङ्बा/",
+      "group": "AP",
+      "mean": "<p>1. [Sikkim] magistrate; district magistrate. 2. Kazi; a landlord with magisterial power.</p>१. [सिक्किम] मजिस्ट्रेट; जिल्लापाल । २. काजी; ठेकेदार ।"
+    },
+    "01786": {
+      "dId": "ᤂᤢᤛᤢᤶᤒᤣ᤹",
+      "desc": "/खुसुम्बे/",
+      "group": "AP",
+      "mean": "<p>a kind of pilea weed. Elatostemma.</p>गग्लेटाे; गाैलेताे; सिम, खाेल्साखाल्सिमा हुने एक प्रकारकाे झार ।"
+    },
+    "01787": {
+      "dId": "ᤂ᤺ᤢᤰᤂᤩᤠᤱ/ᤂᤢᤁ᤻ᤂᤩᤠᤱ",
+      "desc": "/खुःक्ख्याङ्/",
+      "group": "AP",
+      "mean": "<p>condolence.</p>समवेदना ।"
+    },
+    "01788": {
+      "dId": "ᤂ᤺ᤢᤰᤔᤠ/ᤂᤢᤁ᤻ᤔᤠ",
+      "desc": "/खुःक्मा/",
+      "group": "AP",
+      "mean": "<p>1. to hoot or cry ( of an owl, cuckoo etc). 2. to cause sb to wear a shawl or a hat; to cover sb with sth; to make someone put on/ wrap up sth.</p>१. लाटाेकाेसेराे कराउनु; काेइली बास्नु । २. ओढाउनु; ढाक्नु ।"
+    },
+    "01789": {
+      "dId": "ᤂ᤺ᤢᤰᤘᤠ/ᤂᤢᤁ᤻ᤘᤠ",
+      "desc": "/खुःक्वा/",
+      "group": "AP",
+      "mean": "<p>cuckoo. <i>Cuculus indicus.</i></p>काेइली ।"
+    },
+    "01790": {
+      "dId": "ᤂ᤺ᤢᤱᤄᤰ/ᤂᤢᤅ᤻ᤄᤰ ᤌᤡᤶ",
+      "desc": "/खुःङ्घक् थिम्/",
+      "group": "AP",
+      "mean": "<p>custom or practice of contributing in cash or kind during funerals.</p>अन्त्येष्टि क्रियामा धन वा अरू थाेक दिएर सघाउने रीत वा चलन ।"
+    },
+    "01791": {
+      "dId": "ᤂ᤺ᤢᤱᤔᤠ/ᤂᤢᤅ᤻ᤔᤠ",
+      "desc": "/खुःङ्मा/",
+      "group": "AP",
+      "mean": "<p>to wear (cap, shawl, umbrella, etc); to cover or wrap up with sth.</p>ओढ्नु ।"
+    },
+    "01792": {
+      "dId": "ᤂ᤺ᤢᤱᤛᤡᤱ/ᤂᤢᤅ᤻ᤛᤡᤱ",
+      "desc": "/खुःङ्सिङ्/",
+      "group": "AP",
+      "mean": "<p>coffin.</p>मुर्दा हाल्ने बाकस; कफिन ।"
+    },
+    "01793": {
+      "dId": "ᤂ᤺ᤢᤳ/ᤂᤢᤋ᤻",
+      "desc": "/खुःत्/",
+      "group": "AP",
+      "mean": "<p>black fern shoot; a kind of edible fern. Dryopteris cochleata.</p>कालाे निगुराे; कालाे निहुराे ।"
+    },
+    "01794": {
+      "dId": "ᤂ᤺ᤢᤳᤆᤡᤒᤠ/ᤂᤢᤋ᤻ᤆᤡᤒᤠ",
+      "desc": "/खुःत्चिबा/",
+      "group": "AP",
+      "mean": "<p>1. dacoity; theft; robbery. 2. marriage by kidnapping or elopement.</p>१. चाेरी; डकैती । २. चाेरी विवाह ।"
+    },
+    "01795": {
+      "dId": "ᤂ᤺ᤢᤳᤋᤢᤒᤠ/ᤂᤢᤋ᤻ᤋᤢᤒᤠ",
+      "desc": "/खुःत्तुबा/",
+      "group": "AP",
+      "mean": "<p>a small kind of bird looking like sparrow.</p>काेटेराे (चराे); बगेडी ।"
+    },
+    "01796": {
+      "dId": "ᤂ᤺ᤢᤳᤗᤠᤶ/ᤂᤢᤋ᤻ᤗᤠᤶ",
+      "desc": "/खुःत्लाम्/",
+      "group": "AP",
+      "mean": "<p>by pass; short cut.</p>चाेरबाटाे ।"
+    },
+    "01797": {
+      "dId": "ᤂ᤺ᤢᤴᤍᤠᤣᤗᤧᤵ/ᤂᤢᤏ᤻ᤍᤠᤣᤗᤧᤵ",
+      "desc": "/खुःन्दाेलेप्/",
+      "group": "AP",
+      "mean": "<p>honey comb.</p>चाका ।"
+    },
+    "01798": {
+      "dId": "ᤂ᤺ᤢᤴᤍᤪᤡᤰᤐᤠ/ᤂᤢᤏ᤻ᤍᤪᤡᤰᤐᤠ",
+      "desc": "/खुःन्द्रिक्पा/",
+      "group": "AP",
+      "mean": "<p>thief; dacoit/ bandit; robber.</p>चाेर; डाँकु । "
+    },
+    "01799": {
+      "dId": "ᤂ᤺ᤢᤔᤠ",
+      "desc": "/खुःमा/",
+      "group": "AP",
+      "mean": "<p>1. to be felt sth eg: to fear, to afraid of. 2. ( of breeze, wind) to blow.</p>१. केहि भएकाे जस्ताे हुनु, जस्तै - डर लाग्नु । २. हावा/ वतास लाग्नु/ चल्नु ।"
+    },
+    "01800": {
+      "dId": "ᤂ᤺ᤢᤶᤔᤠ/ᤂᤢᤔ᤻ᤔᤠ",
+      "desc": "/खुःम्मा/",
+      "group": "AP",
+      "mean": "<p>to steal.</p>चाेर्नु ।"
+    },
+    "01801": {
+      "dId": "ᤂᤣ",
+      "desc": "/खे/",
+      "group": "AP",
+      "mean": "<p>1. yam. 2. [Phedape] potato; underground seed/ fruit/ yam.</p>१. तरूल । २. [फेदापे] आलु; जमिन भित्र फल्ने फल ।"
+    },
+    "01802": {
+      "dId": "ᤂᤣ᤹ᤔᤠ",
+      "desc": "/खे?मा/",
+      "group": "AP",
+      "mean": "<p>1. to have or suffer from burning or itching sensations on the skin from the sap exuding from certain trees. 2. to have an affect of evil spirits. 3. to have food poisoning.</p>१. चाेपले चिलाउनु; चाेपले पाेल्नु । २. लागाे लाग्नु; देवीदेवताकाे दाेष लाग्नु । ३. नराम्राे खानाले बिसाउनु ।"
+    },
+    "01803": {
+      "dId": "ᤂᤣ᤹ᤕᤠ",
+      "desc": "/खे?या/",
+      "group": "AP",
+      "mean": "<p>an earthen pot (used for parching) .</p>हाँडी ।"
+    },
+    "01804": {
+      "dId": "ᤂᤣ᤹ᤛᤢᤱᤗᤠᤵᤔᤠ",
+      "desc": "/खे?सुङ्लाप्मा/",
+      "group": "AP",
+      "mean": "<p>a kind of fern tree.</p>पिरे उन्यूँ ।"
+    },
+    "01805": {
+      "dId": "ᤂᤣᤍᤢᤶ",
+      "desc": "/खेदुम्/",
+      "group": "AP",
+      "mean": "<p>flour.</p>पिठाे ।"
+    },
+    "01806": {
+      "dId": "ᤂᤣᤔᤠ᤹",
+      "desc": "/खेमा?/",
+      "group": "AP",
+      "mean": "<p>a dead soul/ spirit.</p>प्रेतात्मा; मृतात्मा ।"
+    },
+    "01807": {
+      "dId": "ᤂᤣᤔᤠ᤹-ᤋᤱᤛᤡᤱ",
+      "desc": "/खेमा?-तङ्सिङ्/",
+      "group": "AP",
+      "mean": "<p>Tongsing symbol of the dead.</p>मृतककाे प्रतिक (तङ्सिङ्) ।"
+    },
+    "01808": {
+      "dId": "ᤂᤣᤔᤠ᤹-ᤑᤢᤱ",
+      "desc": "/खेमा?-फुङ्/",
+      "group": "AP",
+      "mean": "<p>a kind of flower ( eg: Mikjiri) which is offered to the dead body.</p>मुर्दामाथि चढाइने एक प्रकारकाे फुल, जस्तै:- मिक्जिरि फुल । "
+    },
+    "01809": {
+      "dId": "ᤂᤣᤔᤠ᤹-ᤕᤛᤱ",
+      "desc": "/खेमा?-यङ्सङ्/",
+      "group": "AP",
+      "mean": "<p>1. the nether world; the lower world; the world of dead spirits. 2. hell; the infernal region/ inferno.</p>१. पाताल; प्रेतात्मा वा मृतात्मा बास गर्ने ठाँउ वा लाेक । २. नर्क ।"
+    },
+    "01810": {
+      "dId": "ᤂᤣᤔᤠ᤹ᤜᤡᤶ",
+      "desc": "/खेमा?हिम्/",
+      "group": "AP",
+      "mean": "<p>1. the house of the dead (souls); a house made during three-night ceremony of Tongsing to separate the souls of the dead from the living ones. 2. a temporary roofed house to offer cooked foods during the purification ceremony in a family.</p>१. मृतात्माकाे घर; तीनराते तङ्सिङ् पूजा गर्दा जीवितहरुवाट मृतककाे आत्मा छुट्याउने अनुष्ठान गर्दा बनाइने मृतात्माकाे घर । २. परिवारमा भएकाे मृत्युपश्चात शुद्ध्याँइकाे कार्य गर्दा घरबाहिर पिण्ड चढाउनकाे लागी बनाइएकाे अस्थायी छाप्राकाे घर ।"
+    },
+    "01811": {
+      "dId": "ᤂᤣᤔᤠ",
+      "desc": "/खेमा/",
+      "group": "AP",
+      "mean": "<p>quarrel.</p>झगडा; कल ।"
+    },
+    "01812": {
+      "dId": "ᤂᤣᤛᤢ᤹ᤔᤠ",
+      "desc": "/खेसु?मा/",
+      "group": "AP",
+      "mean": "<p>[Phedape] bee.</p>[फेदापे] माैरी; माहुरी"
+    },
+    "01813": {
+      "dId": "ᤂᤣᤛᤣ/ᤂᤣᤛᤣ᤹",
+      "desc": "/खेसे/खेसे?/",
+      "group": "AP",
+      "mean": "<p>star.</p>तारा ।"
+    },
+    "01814": {
+      "dId": "ᤂᤣᤛᤣᤴ-ᤐᤡᤛᤠᤱ",
+      "desc": "/खेसेन् -पिसाङ्/",
+      "group": "AP",
+      "mean": "<p>the south-western corner or direction.</p>नैऋत्य काेण ।"
+    },
+    "01815": {
+      "dId": "ᤂ᤺ᤣᤰᤕᤠ/ᤂᤣᤁ᤻ᤕᤠ",
+      "desc": "/खेःक्या/",
+      "group": "AP",
+      "mean": "<p>1. an earthen pot for partching maize, soyabeans, etc. 2. (cooking ) pan; cauldron; iron pot for frying etc.</p>१. हाँडी । २. कराही ।"
+    },
+    "01816": {
+      "dId": "ᤂ᤺ᤣᤰᤛᤣ/ᤂᤣᤁ᤻ᤛᤣ",
+      "desc": "/खेःक्से?/",
+      "group": "AP",
+      "mean": "<p>papaya; pawpaw. Carica papaya.</p>मेवा ।"
+    },
+    "01817": {
+      "dId": "ᤂ᤺ᤣᤱ/ᤂᤣᤅ᤻",
+      "desc": "/खेःङ्/",
+      "group": "AP",
+      "mean": "<p>fishing-hook.</p>बल्छी ।"
+    },
+    "01818": {
+      "dId": "ᤂ᤺ᤣᤱᤔᤠ/ᤂᤣᤅ᤻ᤔᤠ",
+      "desc": "/खेःङ्मा/",
+      "group": "AP",
+      "mean": "<p>1. to tie; to bind; to tether (cattle). 2. [Phedape] to take/ serve or pour out of the pot and eat.</p>१. बाँध्नु । २. [फेदापे] भाँडाेबाट खानेकुरा झिकेर, पस्केर, खन्याएर वा उतारेर खानु ।"
+    },
+    "01819": {
+      "dId": "ᤂ᤺ᤣᤱᤗᤠ/ᤂᤣᤅ᤻ᤗᤠ",
+      "desc": "/खेःङ्ला/",
+      "group": "AP",
+      "mean": "<p>a peg partly buried in the ground to tie or tether the cattle with a rope.</p>किलाे (गाईवस्तु बाँध्ने) । "
+    },
+    "01820": {
+      "dId": "ᤂ᤺ᤣᤱᤛᤡᤱᤔᤠ/ᤂᤣᤅ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/खेःङ्सिङ्मा/",
+      "group": "AP",
+      "mean": "<p>to be tied; to be bound.</p>बाँधिनु (आफु) ।"
+    },
+    "01821": {
+      "dId": "ᤂ᤺ᤣᤵᤔᤠ/ᤂᤣᤐ᤻ᤔᤠ",
+      "desc": "/खेःप्मा/",
+      "group": "AP",
+      "mean": "<p>to quarrel over sth; to dispute with (or against) a person  on (or about) a subject.</p>कुनै चीज वा वस्तुकाे लागि बाझ्नु; झगडा गर्नु वा खाेसाखाेस गर्नु ।"
+    },
+    "01822": {
+      "dId": "ᤂ᤺ᤣᤔᤠ",
+      "desc": "/खेःमा/",
+      "group": "AP",
+      "mean": "<p>to quarrel.</p>बाझ्नु; किचलाे गर्नु ।"
+    },
+    "01823": {
+      "dId": "ᤂ᤺ᤣᤛᤡᤱᤔᤠ",
+      "desc": "/खेःसिङ्मा/",
+      "group": "AP",
+      "mean": "<p>to quarrel oneself; to quarrel each other.</p>बाझ्नु; एकआपसमा बाझ्नु ।"
+    },
+    "01824": {
+      "dId": "ᤂᤠᤣ᤹ᤒᤢ",
+      "desc": "/खाे?बु/",
+      "group": "AP",
+      "mean": "<p>a kind of big monkey.</p>ढेंडु (बाँदर ) ।"
+    },
+    "01825": {
+      "dId": "ᤂᤠᤣ᤹ᤗᤠᤱ",
+      "desc": "/खाे?लङ्/",
+      "group": "AP",
+      "mean": "<p>a wooden spoon or ladle.</p>दाबिलाे ।"
+    },
+    "01826": {
+      "dId": "ᤂᤠᤣ᤹ᤛᤠ/ᤛᤠ᤺",
+      "desc": "/खाे?सा/साः/",
+      "group": "AP",
+      "mean": "<p>a bastard; an illegitimate child; a foundling; a child whose father is not declared or ascertained.</p>बतासे (सन्तान); बाबुकाे टुङ्गाे नलागेकाे बच्चा; अवैध सन्तान ।"
+    },
+    "01827": {
+      "dId": "ᤂᤠᤣ",
+      "desc": "/खाे/",
+      "group": "AP",
+      "mean": "<p>shield; bucklar.</p>ढाल ।"
+    },
+    "01828": {
+      "dId": "ᤂᤠᤣᤈᤢᤶ-ᤂᤠᤣᤕᤠ",
+      "desc": "/खाेजुम्-खाेया/",
+      "group": "AP",
+      "mean": "<p>a kind of small Nepali water pot.</p>लाेहाेटा ।"
+    },
+    "01829": {
+      "dId": "ᤂᤠᤣᤍᤧᤵᤔᤠ",
+      "desc": "/खाेदेप्मा/",
+      "group": "AP",
+      "mean": "<p>to be available.</p>भेटिनु; पाइनु; पाइन सक्नु । "
+    },
+    "01830": {
+      "dId": "ᤂᤠᤣᤍᤠᤣᤁᤩᤣ",
+      "desc": "/खाेदाेक्ये/",
+      "group": "AP",
+      "mean": "<p>a wedding preformed with little or light ceremonies at bride’s house.</p>कुम्ले विवाह; साटसुट गरिने विवाह; लिम्बूजातिमा केटिकाे घरमा गएर छाेटाे चालाले गरिने विवाह ।"
+    },
+    "01831": {
+      "dId": "ᤂᤠᤣᤏᤡ᤺ᤴ/ᤂᤠᤣᤏᤡᤏ᤻",
+      "desc": "/खाेनिःन्/",
+      "group": "AP",
+      "mean": "<p>a marks obtained or received.</p>प्राप्ताङ्क; लब्धाङ्क ।"
+    },
+    "01832": {
+      "dId": "ᤂᤠᤣᤓᤣ",
+      "desc": "/खाेभे/",
+      "group": "AP",
+      "mean": "<p>a kind of tree. Oroxylum indicum.</p>टाेटाेला; एक प्रकारकाे काेसे फुलकाे रूख ।"
+    },
+    "01833": {
+      "dId": "ᤂᤠᤣᤔᤠᤣᤀᤡ ᤜᤡᤶ",
+      "desc": "/खाेमाेइ हिम्/",
+      "group": "AP",
+      "mean": "<p>laboratory.</p>प्रयाेगशाला ।"
+    },
+    "01834": {
+      "dId": "ᤂᤠᤣᤔᤧᤴᤍᤧᤳ",
+      "desc": "/खाेमेन्देत्/",
+      "group": "AP",
+      "mean": "<p>hard to obtained; rare; unattainable.</p>दुर्लभ ।"
+    },
+    "01835": {
+      "dId": "ᤂᤠᤣᤶᤛᤡᤱ",
+      "desc": "/खाेम्सिङ्/",
+      "group": "AP",
+      "mean": "<p>a kind of thorny plant. Angiopteris evecta.</p>गाईखुरे काँडा; एक प्रकारकाे पाेथ्रा ।"
+    },
+    "01836": {
+      "dId": "ᤂᤠᤣᤕᤠᤣ᤹ᤏᤠ",
+      "desc": "/खाेयाे?ना/",
+      "group": "AP",
+      "mean": "<p>a kind of plant whose roots are used to make yeast for brewing. Polygala arillata.</p>मर्चा बनाउन जरा प्रयाेग गरिने एक प्रकारकाे बाेट ।"
+    },
+    "01837": {
+      "dId": "ᤂᤠᤣᤖᤡ ",
+      "desc": "/खाेरि/",
+      "group": "AP",
+      "mean": "<p>1. the handle of a bamboo pellet-bow or sling. 2. cutch or catechu tree. Acacia catechu.</p>१. बाँसकाे धनुष आकारकाे गुलेलीकाे मुठ । २. खयर ।"
+    },
+    "01838": {
+      "dId": "ᤂᤠᤣᤷᤆᤠ",
+      "desc": "/खाेर्चा/",
+      "group": "AP",
+      "mean": "<p>small leafy cups.</p>दुना ।"
+    },
+    "01839": {
+      "dId": "ᤂᤠᤣᤖᤩᤠ",
+      "desc": "/खाेर्या/",
+      "group": "AP",
+      "mean": "<p>bowl; cup; drinking peg.</p>कचाैराे; बटुकाे; प्याला ।"
+    },
+    "01840": {
+      "dId": "ᤂᤠ᤺ᤣᤰ/ᤂᤠᤣᤁ᤻",
+      "desc": "/खाेःक्/",
+      "group": "AP",
+      "mean": "<p>crust (of cooked rice) .</p>माम्री ।"
+    },
+    "01841": {
+      "dId": "ᤂᤠ᤺ᤣᤰᤑᤠᤱ/ᤂᤠᤣᤁ᤻ᤑᤠᤱ",
+      "desc": "/खाेःक्फाङ्/",
+      "group": "AP",
+      "mean": "<p>[Tamor] then; afterwards; thereafter.</p>[तमर] त्यसपछि ।"
+    },
+    "01842": {
+      "dId": "ᤂᤠ᤺ᤣᤰᤔᤢᤍᤠ/ᤂᤠᤣᤁ᤻ᤔᤢᤍᤠ",
+      "desc": "/खाेःक्मुदा/",
+      "group": "AP",
+      "mean": "<p>(adj.) obstinate. (n.) a kind of fish.</p>(वि.) ढिट; अटेरी । (ना.) हिलेमाछा ।"
+    },
+    "01843": {
+      "dId": "ᤂᤠ᤺ᤣᤰᤘᤠ/ᤂᤠᤣᤁ᤻ᤘᤠ",
+      "desc": "/खाेःक्वा/",
+      "group": "AP",
+      "mean": "<p>1. man inspired by diety; possessed man. 2. collection.</p>१. देवता चढेकाे मान्छे । २. सङ्कलन/ सङ्ग्रह ।"
+    },
+    "01844": {
+      "dId": "ᤂᤠ᤺ᤣᤰᤘᤠᤗᤢᤵ/ᤂᤠᤣᤁ᤻ᤘᤠᤗᤢᤵ",
+      "desc": "/खाेःक्वालुप्/",
+      "group": "AP",
+      "mean": "<p>name of an ancient army of the Kirats.</p>प्राचीनकालीन एक किराँती सेनाकाे नाम ।"
+    },
+    "01845": {
+      "dId": "ᤂᤠ᤺ᤣᤰᤛᤠ/ᤂᤠᤣᤁ᤻ᤛᤠ",
+      "desc": "/खाेःक्सा/",
+      "group": "AP",
+      "mean": "<p>carcass.</p>सिनु ।"
+    },
+    "01846": {
+      "dId": "ᤂᤠ᤺ᤣᤱ/ᤂᤠᤣᤅ᤻",
+      "desc": "/खाेङ्/",
+      "group": "AP",
+      "mean": "<p>wooden trough.</p>डुँड; वस्तुभाउलाई आहारा खुवाउने काठकाे भाँडाे ।"
+    },
+    "01847": {
+      "dId": "ᤂᤠ᤺ᤣᤱᤀᤡᤱ/ᤂᤠᤣᤅ᤻ᤀᤡᤱ",
+      "desc": "/खाेःङ्इङ्/",
+      "group": "AP",
+      "mean": "<p>copper.</p>तामा (धातु) ।"
+    },
+    "01848": {
+      "dId": "ᤂᤠ᤺ᤣᤱᤒᤣ/ᤂᤠᤣᤅ᤻ᤒᤣ",
+      "desc": "/खाेःङ्बे/",
+      "group": "AP",
+      "mean": "<p>1. boat. 2. ship.</p>१. डुङ्गा; नाउ । २. जहाज ।"
+    },
+    "01849": {
+      "dId": "ᤂᤠ᤺ᤣᤱᤔᤡᤒᤠ/ᤂᤠᤣᤅ᤻ᤔᤡᤒᤠ",
+      "desc": "/खाेःङ्मिबा/",
+      "group": "AP",
+      "mean": "<p>1. oarsman; boatman; sailor. 2. navigator.</p>१. बाेटे; डुङ्गा खियाउने मानिस । २. नाविक । "
+    },
+    "01850": {
+      "dId": "ᤂᤠ᤺ᤣᤱᤗᤡᤔᤠ/ᤂᤠᤣᤅ᤻ᤗᤡᤔᤠ ᤛᤡᤱ",
+      "desc": "/खाेःङ्लिमा सिङ्/",
+      "group": "AP",
+      "mean": "<p>a kind of tree with large leaves. Macaranga denticulata; Mallotus.</p>मलाताेकाे रूख ।"
+    },
+    "01851": {
+      "dId": "ᤂᤠ᤺ᤣᤳᤇᤡᤱᤔᤠ/ᤂᤠᤣᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/खाेःत्छिङ्मा/",
+      "group": "AP",
+      "mean": "<p>1. to comb (one’s own hair). 2. to comb each other’s hair.</p>१. काेर्नु (कपाल, केश) ।  २. एकअर्काकाे कपाल काेर्नु ।"
+    },
+    "01852": {
+      "dId": "ᤂᤠ᤺ᤣᤵᤔᤠ/ᤂᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/खाेःप्मा/",
+      "group": "AP",
+      "mean": "<p>1. to comb; scrape. 2. to cover; to cover completely (as when hugging sb); to reach around.</p>१. कपाल काेर्नु । २. पूरे ढाक्नु (अँगालाे मारे झै); खाम्नु ।"
+    },
+    "01853": {
+      "dId": "ᤂᤠ᤺ᤣᤵᤗᤧᤖᤧᤰᤏᤠ/ᤂᤠᤣᤐ᤻ᤗᤧᤖᤧᤰᤏᤠ",
+      "desc": "/खाेःप्लेरेक्ना/",
+      "group": "AP",
+      "mean": "<p>a kind of small snail.</p>सानाेखाले शङ्खे कीरा ।"
+    },
+    "01854": {
+      "dId": "ᤂᤠ᤺ᤣᤔᤠ",
+      "desc": "/खाेःमा/",
+      "group": "AP",
+      "mean": "<p>1. to obtain; to find; to get. 2. aux verb denoting , ‘can’, ‘be’, ‘able’, ‘ to find time’, ‘to do sth’ with the help of another verb (eg: pe:kma kho:ma = can go, be able to  go, etc).</p>१. पाउनु; भेट्टाउनु (हराएकाे वा खाेजेकाे चिज); फेला पार्नु । २. सहायक क्रिया ‘पाउनु’ वा ‘सक्नु’ भन्ने अर्थ बुझाउने क्रियापद (जस्तै:- पेःक्मा खाेमा = जान पाउनु; जान सक्नु ) ।"
+    },
+    "01855": {
+      "dId": "ᤂᤠ᤺ᤣᤶ/ᤂᤠᤣᤔ᤻",
+      "desc": "/खाेःम्/",
+      "group": "AP",
+      "mean": "<p>meanraving; carving; inscribing.</p>कुँदाइ ।"
+    },
+    "01856": {
+      "dId": "ᤂᤠ᤺ᤣᤶᤍᤡᤱ/ᤂᤠᤣᤔ᤻ᤍᤡᤶ",
+      "desc": "/खाेःम्दिङ्/",
+      "group": "AP",
+      "mean": "<p>to meanrave; to inscribe; to carve.</p>कुँद्नु; खाेप्नु ।"
+    },
+    "01857": {
+      "dId": "ᤂᤠ᤺ᤣᤶᤛᤪᤧᤱᤏᤠ/ᤂᤠᤣᤔ᤻ᤛᤪᤧᤱᤏᤠ",
+      "desc": "/खाेःम्स्रेङ्ना/",
+      "group": "AP",
+      "mean": "<p>1. pupa. 2. a kind of insect living underground and supposed as unlucky.</p>१. पुतलीकाे पूर्वरूप; प्युपा । २. कुकुल्ढुक कीरा; लाेदरे किरा ।"
+    }
+  }
+}

@@ -1,0 +1,940 @@
+{
+  "Dic": {
+    "04102": {
+      "dId": "ᤐ",
+      "desc": "/प/",
+      "group": "BM",
+      "mean": "<p>1. the fourteenth consonant letter of the Sirijunga alphabet. 2/. a prefix often preceding an adjectival word denoting excessiveness.</p>१. सिरिजङ्गा वर्णमालाको चौधौँ व्यन्जनवर्ण । २. मात्रात्मक वा गुणात्मक आधिक्य बुझाउन प्रायः विशेषण पदको अगाडि जोडिएर आउने उपसर्ग ।"
+    },
+    "04103": {
+      "dId": "ᤐᤀᤡᤰ",
+      "desc": "/पइक्/",
+      "group": "BM",
+      "mean": "<p>simile.</p>उपमा ।"
+    },
+    "04104": {
+      "dId": "ᤐᤀᤡ᤺ᤳ/ᤐᤀᤡᤋ᤻",
+      "desc": "/पइःत्/",
+      "group": "BM",
+      "mean": "<p>cucumber.</p>काँक्रो ।"
+    },
+    "04105": {
+      "dId": "ᤐᤀᤧ᤺ᤵᤐᤠ/ᤐᤀᤧᤐ᤻ᤐᤠ",
+      "desc": "/पएःप्पा/",
+      "group": "BM",
+      "mean": "<p>[Phedape] Fig, common fig. <i>Ficus auriculata.</i></p>[फेदापे] नेभारो ।"
+    },
+    "04106": {
+      "dId": "ᤐ᤹ᤀ᤹",
+      "desc": "/प?अ?/",
+      "group": "BM",
+      "mean": "<p>a vulgar or obscene word uttered spontaneously by one going to fall.</p>झन्डै लड्न लाग्दा अनायास मुख बाट निस्कने अश्लील शब्दविशेष ।"
+    },
+    "04107": {
+      "dId": "ᤐ᤹ᤔᤠ",
+      "desc": "/प?मा/",
+      "group": "BM",
+      "mean": "<p>1. (of bone, earth etc) to crack. 2. to cleave lmeanthwise.</p>१. चर्कनु (हाड, भूइँ आदि) । २. धाँजा पर्नु; चिरा पर्नु ।"
+    },
+    "04108": {
+      "dId": "ᤐ᤹ᤕᤠ᤺ᤰ/ᤐ᤹ᤕᤠᤁ᤻",
+      "desc": "/प?याःक्/",
+      "group": "BM",
+      "mean": "<p>1. (manner of lifting or uprooting) smartly/ jauntily/ with a jerk. 2. holding or clasping smartly/ tightly. 3. bristling or standing of the hairs of the head.</p>१. जुरूक्क, जडैदेखि उखेलिने गरी । २. च्याप्प; ठ्याप्प । ३. जिङ्रिङ्ग । "
+    },
+    "04109": {
+      "dId": "ᤐ᤹ᤗᤵᤐᤠ-ᤂᤣ",
+      "desc": "/प?लप्पा-खे/",
+      "group": "BM",
+      "mean": "<p>the root of chayote. Sechium edule.</p>इस्कुसको जरा ।"
+    },
+    "04110": {
+      "dId": "ᤐ᤹ᤘᤠ",
+      "desc": "/प?वा/",
+      "group": "BM",
+      "mean": "<p>pond; well.</p>पोखरी; कुवा ।"
+    },
+    "04111": {
+      "dId": "ᤐᤁᤋᤡ ",
+      "desc": "/पकति/",
+      "group": "BM",
+      "mean": "<p>a small basket made of split bamboo; a basket of split bamboo used as a measuring unit equivalent to a Pathi.</p>चोयाको सानो डालो (थुन्से आकारको); पाथी ।"
+    },
+    "04112": {
+      "dId": "ᤐᤰ",
+      "desc": "/पक्/",
+      "group": "BM",
+      "mean": "<p>falling with a sound like that of spitting or that of gently striking; falling down with a thunder/ dashing sound.</p>फ्याट्ट, प्यात्त, प्याच्च, प्वाक्क वा ड्वाङ्ग खस्ने किसिमले । "
+    },
+    "04113": {
+      "dId": "ᤐᤰᤁᤴᤍᤡ ",
+      "desc": "/पक्कन्दि/",
+      "group": "BM",
+      "mean": "<p>a cry/shout  of delight/joy; a word to express joy; delight cheer.</p>खुशीको स्वर; खुशियाली व्यक्त गर्ने ध्वनि; खुशीको भाव प्रकट गर्ने शब्दविशेष; कुर्रै ।"
+    },
+    "04114": {
+      "dId": "ᤐᤰᤁᤸᤗᤠᤣ",
+      "desc": "/पक्कल्लो/",
+      "group": "BM",
+      "mean": "<p>pod; cone.</p>बुङ्गो ।"
+    },
+    "04115": {
+      "dId": "ᤐᤰᤁᤢᤴᤍᤣ",
+      "desc": "/पक्कुन्दे/",
+      "group": "BM",
+      "mean": "<p>a sound of delight.</p>कुर्लाइ; हर्षको आवाज ।"
+    },
+    "04116": {
+      "dId": "ᤐᤰᤁᤧᤏᤠ",
+      "desc": "/पक्केना/",
+      "group": "BM",
+      "mean": "<p>1. china-berry. Melia azedarach; Azedarachta indica. 2. a kind of fly which is found in cow-dung and human shits.</p>१. बकाइनु । २. गुहे झिँगा ।"
+    },
+    "04117": {
+      "dId": "ᤐᤁᤪᤏᤠᤶᤒᤠ",
+      "desc": "/पक्रानाम्बा/",
+      "group": "BM",
+      "mean": "<p>musk-deer (of plains or lower region).</p>कस्तुरी मृग (औलको) ।"
+    },
+    "04118": {
+      "dId": "ᤐᤁᤪᤠᤣ᤹ᤒᤠ",
+      "desc": "/पक्रो?बा/",
+      "group": "BM",
+      "mean": "<p>round.</p>डल्लो ।"
+    },
+    "04119": {
+      "dId": "ᤐᤰᤆᤏᤠ",
+      "desc": "/पक्चाना/",
+      "group": "BM",
+      "mean": "<p>a deity (or spirit) residing on the cross roads.</p>दोबाटे देवता (वा जीवात्मा) ।"
+    },
+    "04120": {
+      "dId": "ᤐᤰᤆᤠᤛᤣ᤹",
+      "desc": "/पक्चासे?/",
+      "group": "BM",
+      "mean": "<p>a low growing plant with nodules at its roots. <i>Nephrolepis cordifolia.</i></p>पानी अमला ।"
+    },
+    "04121": {
+      "dId": "ᤐᤰᤆᤠᤣ",
+      "desc": "/पक्चो?/",
+      "group": "BM",
+      "mean": "<p>bundle.</p>पोको (सामानको); गठरी ।"
+    },
+    "04122": {
+      "dId": "ᤐᤰᤋᤢᤒᤠ",
+      "desc": "/पक्तुबा/",
+      "group": "BM",
+      "mean": "<p>full of flesh or grains.</p>खँदिलो; पोटिलो ।"
+    },
+    "04123": {
+      "dId": "ᤐᤰᤋᤢᤛᤢᤱ",
+      "desc": "/पक्तुसुङ्/",
+      "group": "BM",
+      "mean": "<p>naughtiness; wickedness; agility.</p>चुलबुलेपन; छुकछुकेपन; नटखटेपन ।"
+    },
+    "04124": {
+      "dId": "ᤐᤰᤌᤠ᤺ᤔᤠ",
+      "desc": "/पक्थाःमा/",
+      "group": "BM",
+      "mean": "<p>to leave sth/sb behind; to overtake sb or sth.</p>उछिन्नु (छाडेर जानु) ।"
+    },
+    "04125": {
+      "dId": "ᤐᤰᤏᤠᤶᤒᤠ",
+      "desc": "/पक्नाम्बा/",
+      "group": "BM",
+      "mean": "<p>a kind of grass called Ilame.</p>इलामे झार ।"
+    },
+    "04126": {
+      "dId": "ᤐᤰᤏᤢ᤹ᤏᤢ᤹ᤒᤠ",
+      "desc": "/पक्नु?नु?बा/",
+      "group": "BM",
+      "mean": "<p>with healthy rosy cheeks; rose-checked.</p>भुक्क गाला उठेको; रातो गाला भएको ।"
+    },
+    "04127": {
+      "dId": "ᤐᤰᤏᤧ᤹ᤏᤧ᤹ᤒᤠ",
+      "desc": "/पक्ने?ने?बा/",
+      "group": "BM",
+      "mean": "<p>1. fleshy (filled with grains); (of body) healthy. 2. obese; very fat (with bulging/ protruding stomach).</p>१. पोटिलो । २. एकदमै मोटो (भुँडी भुक्क उठेको); लम्बोदर ।"
+    },
+    "04128": {
+      "dId": "ᤐᤰᤐᤡᤳ",
+      "desc": "/पक्पित्/",
+      "group": "BM",
+      "mean": "<p>ox.</p>गोरू ।"
+    },
+    "04129": {
+      "dId": "ᤐᤰᤑᤧ᤹ᤔᤠ",
+      "desc": "/पक्फे?मा/",
+      "group": "BM",
+      "mean": "<p>a kind of sickle (without teeth).</p>खुर्मी ।"
+    },
+    "04130": {
+      "dId": "ᤐᤰᤔᤡᤰᤗᤠ",
+      "desc": "/पक्मिक्ला/",
+      "group": "BM",
+      "mean": "<p>a particular kind of reed ( used to make furniture). Arundineria artistata.</p>निगालो ।"
+    },
+    "04131": {
+      "dId": "ᤐᤰᤗᤠ",
+      "desc": "/पक्ला/",
+      "group": "BM",
+      "mean": "<p>Virgo, sign of zodiac.</p>कन्या (राशि) ।"
+    },
+    "04132": {
+      "dId": "ᤐᤰᤗᤡᤶ",
+      "desc": "/पक्लिम्/",
+      "group": "BM",
+      "mean": "<p>sweets; sweetmeats.</p>मिठाई; मिष्टान्न ।"
+    },
+    "04133": {
+      "dId": "ᤐᤰᤗᤢᤱ",
+      "desc": "/पक्लुङ्/",
+      "group": "BM",
+      "mean": "<p>stone ball used for shot put.</p>छेलो हान्ने ढुङ्गो ।"
+    },
+    "04134": {
+      "dId": "ᤐᤰᤘᤠ",
+      "desc": "/पक्वा/",
+      "group": "BM",
+      "mean": "<p>1. tuber; edible roots (yam, potatoes etc). 2. well; lake; pond. 3. a basket with feet.</p>१. फल; कन्दमुल (तरुल आलु आदि) । २. कुवा; पोखरी । ३. डालो ।"
+    },
+    "04135": {
+      "dId": "ᤐᤰᤘᤣ᤹ᤔᤠ",
+      "desc": "/पक्वे?मा/",
+      "group": "BM",
+      "mean": "<p>a patch of (cultivating) land.</p>टुक्रा बारी ।"
+    },
+    "04136": {
+      "dId": "ᤐᤰᤛᤠ",
+      "desc": "/पक्सा/",
+      "group": "BM",
+      "mean": "<p>cattle-fly.</p>डाँठ झिँगा; बस्तुभाउको जीउमा टाँसिने एक प्रकारको झिँगा; कुकुर झिँगा ।"
+    },
+    "04137": {
+      "dId": "ᤐᤰᤛᤠᤔᤠ",
+      "desc": "/पक्सामा/",
+      "group": "BM",
+      "mean": "<p>witch.</p>बोक्सी ।"
+    },
+    "04138": {
+      "dId": "ᤐᤰᤛᤢᤰᤏᤠ",
+      "desc": "/पक्सुक्ना/",
+      "group": "BM",
+      "mean": "<p>(fem.) short and fat.</p>डल्लई र मोटी ।"
+    },
+    "04139": {
+      "dId": "ᤐᤰᤛᤢ᤺ᤰᤘᤠ/ᤐᤰᤛᤢᤁ᤻ᤘᤠ",
+      "desc": "/पक्सुःक्वा/",
+      "group": "BM",
+      "mean": "<p>knapsack.</p>पिठ्यूँमा बोक्ने झोला ।"
+    },
+    "04140": {
+      "dId": "ᤐᤰᤜᤡᤵ",
+      "desc": "/पक्हिप्/",
+      "group": "BM",
+      "mean": "<p>boxing.</p>बक्सिङ् खेल ।"
+    },
+    "04141": {
+      "dId": "ᤐᤃᤡᤔᤠ",
+      "desc": "/पगिमा/",
+      "group": "BM",
+      "mean": "<p>white-cheeked bulbul. Pycnonotus Leucogenys.</p>सेतो जुरेली ।"
+    },
+    "04142": {
+      "dId": "ᤐᤃᤣ᤺ᤶ/ᤐᤃᤣᤔ᤻",
+      "desc": "/पगेःम्/",
+      "group": "BM",
+      "mean": "<p>longer; taller.</p>झन् लामो/ अग्लो ।"
+    },
+    "04143": {
+      "dId": "ᤐᤃᤢ",
+      "desc": "/पगु/",
+      "group": "BM",
+      "mean": "<p>1. the things which are produced (eg: crops). 2. production. 3. food grains.</p>१. उब्जाएको, फलाएको वस्तु (धान, अन्न आदि) । २. उत्पादन । ३. खाद्यान्न ।"
+    },
+    "04144": {
+      "dId": "ᤐᤅᤧᤶ",
+      "desc": "/पङेम्/",
+      "group": "BM",
+      "mean": "<p>speciality; characteristic.</p>विशेषता ।"
+    },
+    "04145": {
+      "dId": "ᤐᤅᤧᤶᤔᤡᤒᤠ",
+      "desc": "/पङेम्मिबा/",
+      "group": "BM",
+      "mean": "<p>special.</p>विशेष ।"
+    },
+    "04146": {
+      "dId": "ᤐᤅᤧᤶᤒᤠ",
+      "desc": "/पङेम्बा/",
+      "group": "BM",
+      "mean": "<p>specialist.</p>विशेषज्ञ ।"
+    },
+    "04147": {
+      "dId": "ᤐᤱ",
+      "desc": "/पङ्/",
+      "group": "BM",
+      "mean": "<p>a pot or wooden vessel for keeping liquor, millet beer etc.</p>चौंठो; जाँड रक्सी राख्ने माटो वा काठको भाँडो ।"
+    },
+    "04148": {
+      "dId": "ᤐᤱᤃᤧᤴ",
+      "desc": "/पङ्गेन्/",
+      "group": "BM",
+      "mean": "<p>handkerchief.</p>हाते रूमाल ।"
+    },
+    "04149": {
+      "dId": "ᤐᤱᤃᤧᤴᤈᤠᤣ",
+      "desc": "/पङ्गेन्जो/",
+      "group": "BM",
+      "mean": "<p>review.</p>मुल्याङ्कन ।"
+    },
+    "04150": {
+      "dId": "ᤐᤱᤃᤧᤴᤈᤠᤣᤒᤠ",
+      "desc": "/पङ्गेन्जोबा/",
+      "group": "BM",
+      "mean": "<p>reviewer.</p>मुल्याङ्कनकर्ता ।"
+    },
+    "04151": {
+      "dId": "ᤐᤱᤍᤵᤐᤠ",
+      "desc": "/पङ्दप्पा/",
+      "group": "BM",
+      "mean": "<p>(of man) lazy; slow; dull.</p>ढिलो; सुस्त; बोधो ।"
+    },
+    "04152": {
+      "dId": "ᤐᤱᤒᤢ᤺ᤳ/ᤐᤱᤒᤢᤋ᤻",
+      "desc": "/पङ्बुःत्/",
+      "group": "BM",
+      "mean": "<p>mule.</p>खच्चर ।"
+    },
+    "04153": {
+      "dId": "ᤐᤱᤔᤠ",
+      "desc": "/पङ्मा/",
+      "group": "BM",
+      "mean": "<p>1. (of market) be broken up; to come to an end. 2. to blow/carry off; to carry/wash away. 3. to lift up with one’s hand; to raise to carry in one’s hand.</p>१. हाट, बजार, सभा आदि सकिनु । २. पानी वा हावा आदिले बोक्नु; उडाएर बगाएर लजानु । ३. उचाल्नु; बोक्नु (हातले) ।"
+    },
+    "04154": {
+      "dId": "ᤐᤱᤔᤧᤳ",
+      "desc": "/पङ्मेत्/",
+      "group": "BM",
+      "mean": "<p>cucumber.</p>काँक्रो ।"
+    },
+    "04155": {
+      "dId": "ᤐᤱᤕ᤺ᤰ/ᤐᤱᤕᤁ᤻",
+      "desc": "/पङ्यःक्/",
+      "group": "BM",
+      "mean": "<p>in a manner of rising lazily and slowly.</p>आलस्यपूर्ण ढाँचाले; बिस्तारै उठ्ने चालाले ।"
+    },
+    "04156": {
+      "dId": "ᤐᤱᤕᤠᤱ",
+      "desc": "/पङ्याङ्/",
+      "group": "BM",
+      "mean": "<p>1. financial help. 2. financial help given during a wedding.</p>१. आर्थिक सहयोग; पैसाको मद्दत । २. लिम्बू जातिमा बिहेमा अरूले दिने नगद सहयोग; त्यस्तो सहयोगको नगद ।"
+    },
+    "04157": {
+      "dId": "ᤐᤱᤖᤱᤃᤣ",
+      "desc": "/पङ्रङ्गे/",
+      "group": "BM",
+      "mean": "<p>rice bean; red bean. Phaseolus calcaratus.</p>मस्याम्; वनमारा दाल ।"
+    },
+    "04158": {
+      "dId": "ᤐᤱᤗᤠ",
+      "desc": "/पङ्ला/",
+      "group": "BM",
+      "mean": "<p>spirit; enthusiasm; encouragement.</p>हौसला ।"
+    },
+    "04159": {
+      "dId": "ᤐᤱᤗᤧᤶ",
+      "desc": "/पङ्लेम्/",
+      "group": "BM",
+      "mean": "<p>principal amount; capital money.</p>मूलधन ।"
+    },
+    "04160": {
+      "dId": "ᤐᤱᤘᤠ",
+      "desc": "/पङ्वा/",
+      "group": "BM",
+      "mean": "<p>game; play; amusement; entertainment.</p>खेल; रमिता ।"
+    },
+    "04161": {
+      "dId": "ᤐᤱᤘᤠᤔᤠ",
+      "desc": "/पङ्वामा/",
+      "group": "BM",
+      "mean": "<p>to play walk.</p>खेल्नु; घुमफिर गर्नु ।"
+    },
+    "04162": {
+      "dId": "ᤐᤱᤘᤠᤛᤣ᤺ᤰ/ᤐᤱᤘᤠᤛᤣᤁ᤻",
+      "desc": "/पङ्वासेःक्/",
+      "group": "BM",
+      "mean": "<p>a variety of edible berries.</p>ऐँसेलु ।"
+    },
+    "04163": {
+      "dId": "ᤐᤱᤘᤠ᤺ᤵᤔᤠ/ᤐᤱᤘᤠᤐ᤻ᤔᤠ",
+      "desc": "/पङ्वाःप्मा/",
+      "group": "BM",
+      "mean": "<p>1. to cradle; to baby-sit (also baby-sit). 2. to make sb play; to ask to play; to put to games.</p>१. खेलाउनु (शिशुलाई) । २. खेल्न लगाउनु ।"
+    },
+    "04164": {
+      "dId": "ᤐᤱᤛᤱ",
+      "desc": "/पङ्सङ्/",
+      "group": "BM",
+      "mean": "<p>1. a kind of bird. 2. extremely large or very loose; fluttering; oversized.</p>१. गोलसिमल चरो । २. ह्वार्लाङ् ह्वाङ्लाङ् ।"
+    },
+    "04165": {
+      "dId": "ᤐᤱᤛᤠᤱ",
+      "desc": "/पङ्साङ्/",
+      "group": "BM",
+      "mean": "<p>1. a Limbu custom of asking the guests to leave their seats (during marriage or purification ceremony). 2. a kind of Chyabrung dance danced while requesting the guest to leave their seats during a marriage ceremony.</p>१. उठौनी; (विवाह, भोज वा जूठो बाट चोख्याउने कार्यमा आउने आगन्तुक अतिथिहरूलाई) आसनबाट उठाउन गरिने रीत । २. विवाह कार्यमा आउने अथितिहरूलाई आसनबाट उठाउँदा नाचिने च्याब्रुङ् नाचको विशेष प्रकार ।"
+    },
+    "04166": {
+      "dId": "ᤐᤱᤛᤡᤱᤔᤠ",
+      "desc": "/पङ्सिङ्मा/",
+      "group": "BM",
+      "mean": "<p>1. to carry each other. 2. to help/ support each other; to lend mutual support; to co-operate mutually.</p>१. एकले अर्कोलाई बोक्नु/ उचाल्नु । २. परस्पर सहयोग गर्नु ।"
+    },
+    "04167": {
+      "dId": "ᤐᤱᤛᤢ᤺ᤳ/ᤐᤱᤛᤢᤋ᤻",
+      "desc": "/पङ्सुःत्/",
+      "group": "BM",
+      "mean": "<p>stomach trouble caused by an evil look while eating.</p>चोखे; खाँदा अरू कसैको नराम्रो आँखा लागेर पेट दुख्ने बिमारी ।"
+    },
+    "04168": {
+      "dId": "ᤐᤈ᤹",
+      "desc": "/पज?/",
+      "group": "BM",
+      "mean": "<p>a manner of sitting or clustering in small groups.</p>झुरूप्प/ झुरूम्म बस्ने काइदाले ।"
+    },
+    "04169": {
+      "dId": "ᤐᤈᤈ",
+      "desc": "/पजज/",
+      "group": "BM",
+      "mean": "<p>with a splash.</p>छ्वाल्ल ।"
+    },
+    "04170": {
+      "dId": "ᤐᤈᤵ",
+      "desc": "/पजप्/",
+      "group": "BM",
+      "mean": "<p>in a manner of drying up/stiffening/freezing hard.</p>कक्रक्क (सुकेर)/ स्वाट्टै ।"
+    },
+    "04171": {
+      "dId": "ᤐᤈᤠ᤹",
+      "desc": "/पजा?/",
+      "group": "BM",
+      "mean": "<p>too hard/ harsh/ stern.</p>साह्रै कडा ।"
+    },
+    "04172": {
+      "dId": "ᤐᤈᤠᤳᤆᤠᤳ",
+      "desc": "/पजात्चात्/",
+      "group": "BM",
+      "mean": "<p>swiftness.</p>शीघ्रता ।"
+    },
+    "04173": {
+      "dId": "ᤐᤈᤠᤵᤁᤧᤈᤠᤵᤔᤠ",
+      "desc": "/पजाप्केजाप्पा/",
+      "group": "BM",
+      "mean": "<p>very swift.</p>साह्रै फुर्तिलो; साह्रै छिटो ।"
+    },
+    "04174": {
+      "dId": "ᤐᤈᤡᤰᤈᤡᤰ",
+      "desc": "/पजिक्जिक्/",
+      "group": "BM",
+      "mean": "<p>constant grumbling; prattling; murmuring.</p>गनगन; कचकच ।"
+    },
+    "04175": {
+      "dId": "ᤐᤈᤢ᤹",
+      "desc": "/पजु?/",
+      "group": "BM",
+      "mean": "<p>in a heap/crowd/cluster.</p>झुप्प; झुरूप्प ।"
+    },
+    "04176": {
+      "dId": "ᤐᤈᤢᤰ",
+      "desc": "/पजुक्/",
+      "group": "BM",
+      "mean": "<p>too short/small/young; shorter/younger/smaller.</p>(निक्कै/झन्) सानो ।"
+    },
+    "04177": {
+      "dId": "ᤐᤈᤢᤶ",
+      "desc": "/पजुम्/",
+      "group": "BM",
+      "mean": "<p>in a group; in a cluster.</p>झुरुप्प ।"
+    },
+    "04178": {
+      "dId": "ᤐᤳᤆᤩᤠᤱ",
+      "desc": "/पत्च्याङ्/",
+      "group": "BM",
+      "mean": "<p>a rough stony track/path.</p>राम्ररी नबनेको ढुङ्गैढुङ्गा भएको बाटो ।"
+    },
+    "04179": {
+      "dId": "ᤐᤳᤆᤧᤁᤠ",
+      "desc": "/पत्चेका/",
+      "group": "BM",
+      "mean": "<p>squirt; syringe; pump.</p>पिचकारी ।"
+    },
+    "04180": {
+      "dId": "ᤐᤳᤋᤱᤃᤣ",
+      "desc": "/पत्तङ्गे/",
+      "group": "BM",
+      "mean": "<p>a particular kind of small drum.</p>डमरु ।"
+    },
+    "04181": {
+      "dId": "ᤐᤳᤋᤱᤍᤱᤒᤠ",
+      "desc": "/पत्तङ्दङ्बा/",
+      "group": "BM",
+      "mean": "<p>a kind of small drum.</p>ट्याम्को (बाजा) ।"
+    },
+    "04182": {
+      "dId": "ᤐᤳᤋᤡ",
+      "desc": "/पत्ति/",
+      "group": "BM",
+      "mean": "<p>(medicines) tablet; pill.</p>औषधिको सानो गोली; चक्की ।"
+    },
+    "04183": {
+      "dId": "ᤐᤋᤗ",
+      "desc": "/पतल/",
+      "group": "BM",
+      "mean": "<p>bottle.</p>बदल ।"
+    },
+    "04184": {
+      "dId": "ᤐᤍ᤹",
+      "desc": "/पद?/",
+      "group": "BM",
+      "mean": "<p>(coming) unexpectedly; accidentally; instantly; quickly.</p>फुत्त, झ्वास्स वा झ्वाट्ट आउन् किसिमले ।"
+    },
+    "04185": {
+      "dId": "ᤐᤍ᤹ᤋ᤹",
+      "desc": "/पद?त?/",
+      "group": "BM",
+      "mean": "<p>lazily.</p>अल्सी पाराले; चाक गह्रौ पारेर बस्ने काइदाले ।"
+    },
+    "04186": {
+      "dId": "ᤐᤍ᤹ᤋ᤹ᤒᤠ",
+      "desc": "/पद?त?बा/",
+      "group": "BM",
+      "mean": "<p>1. lazy. 2. a person without manner.</p>१. अल्सी । २. ग्वाँगे; विनाढङ्गको मान्छे; ढङ्गरङ्ग नभएको मान्छे ।"
+    },
+    "04187": {
+      "dId": "ᤐᤍ᤹ᤋ᤹ᤔᤠ",
+      "desc": "/पद?त?मा/",
+      "group": "BM",
+      "mean": "<p>(fem.) 1. lazy. 2. a person without manner.</p>(स्त्री) १. अल्सी । २. ढङ्ग नभएकी ।"
+    },
+    "04188": {
+      "dId": "ᤐᤍ᤺ᤰ/ᤐᤍᤁ᤻",
+      "desc": "/पदःक्/",
+      "group": "BM",
+      "mean": "<p>frog; toad.</p>भ्यागुतो ।"
+    },
+    "04189": {
+      "dId": "ᤐᤍ᤺ᤵᤋ᤺ᤵᤐᤠ/ᤐᤍᤐ᤻ᤋᤐ᤻ᤐᤠ",
+      "desc": "/पदःप्तःप्पा/",
+      "group": "BM",
+      "mean": "<p>sluggish; lazy; slack; slothful; sluggard.</p>लोसे; लोते; ढिलो; सुस्त; ढिलोखालको ।"
+    },
+    "04190": {
+      "dId": "ᤐᤍ᤺ᤵᤋ᤺ᤵᤔᤠ/ᤐᤍᤐ᤻ᤋᤐ᤻ᤔᤠ",
+      "desc": "/पदःप्तःप्मा/",
+      "group": "BM",
+      "mean": "<p>(fem.) sluggish; lazy; slack; slothful; sluggard.</p>(स्त्री) लोसी; लोते; ढिलो; सुस्त; ढिलोखालकी ।"
+    },
+    "04191": {
+      "dId": "ᤐᤍ᤺ᤵᤐᤠ/ᤐᤍᤐ᤻ᤐᤠ",
+      "desc": "/पदःप्पा/",
+      "group": "BM",
+      "mean": "<p>lazy; slack; slothful; sluggish; indolent.</p>लोसे; ढिलो-ढिलो; सुस्त ।"
+    },
+    "04192": {
+      "dId": "ᤐᤍᤡᤛᤣ᤺ᤰ/ᤐᤍᤡᤛᤣᤁ᤻",
+      "desc": "/पदिसेःक्/",
+      "group": "BM",
+      "mean": "<p>a kind of large tree-climbing lizard; a species of crocodile; iguana.</p>गोहोरो ।"
+    },
+    "04193": {
+      "dId": "ᤐᤍᤢᤰ",
+      "desc": "/पदुक्/",
+      "group": "BM",
+      "mean": "<p>causing extreme/acute pain.</p>साह्रै दुख्ने किसिमले ।"
+    },
+    "04194": {
+      "dId": "ᤐᤍᤢᤶ",
+      "desc": "/पदुम्/",
+      "group": "BM",
+      "mean": "<p>(of fruits) in a manner of overripening.</p>साह्रै वा फ्यात्त पाक्ने किसिमले ।"
+    },
+    "04195": {
+      "dId": "ᤐᤍᤣᤏᤠ",
+      "desc": "/पदेना/",
+      "group": "BM",
+      "mean": "<p>mint; thyme; pennyroyal. <i>Mentha stiva.</i></p>पदिना; पुदीना झार ।"
+    },
+    "04196": {
+      "dId": "ᤐᤎᤠᤱᤒᤠ",
+      "desc": "/पधाङ्बा/",
+      "group": "BM",
+      "mean": "<p>distinguished; distinctive.</p>विशिष्ट ।"
+    },
+    "04197": {
+      "dId": "ᤐᤎᤠ᤺ᤵᤐᤠ/ᤐᤎᤠᤐ᤻ᤐᤠ",
+      "desc": "/पधाःप्पा/",
+      "group": "BM",
+      "mean": "<p>1. distinct; transparent. 2. specific; particular.</p>१. स्पष्ट; पारदर्शी । २. विशेष ।"
+    },
+    "04198": {
+      "dId": "ᤐᤎᤢᤶ",
+      "desc": "/पधुम्/",
+      "group": "BM",
+      "mean": "<p>very valiantly/gallantly.</p>खूब पराक्रमी चाला ।"
+    },
+    "04199": {
+      "dId": "ᤐᤎᤣ",
+      "desc": "/पधे/",
+      "group": "BM",
+      "mean": "<p>1. hornet. 2. iguana, a large tree-climbing lizard.</p>१. अरिङ्गाल । २. गोहोरो ।"
+    },
+    "04200": {
+      "dId": "ᤐᤎᤣ᤺ᤵ/ᤐᤎᤣᤐ᤻",
+      "desc": "/पधेःप्/",
+      "group": "BM",
+      "mean": "<p>shutter of a window; window-pans.</p>झ्यालको पल्ला; झ्यालको खापा ।"
+    },
+    "04201": {
+      "dId": "ᤐᤎᤧᤰ",
+      "desc": "/पधेक्/",
+      "group": "BM",
+      "mean": "<p>huddled (or pressed) together.</p>खाँदाखाँद ।"
+    },
+    "04202": {
+      "dId": "ᤐᤏᤢ᤺",
+      "desc": "/पनुः/",
+      "group": "BM",
+      "mean": "<p>excellent; best; very pretty; very beautiful; exquisite.</p>अति राम्रो/ राम्री ।"
+    },
+    "04203": {
+      "dId": "ᤐᤏᤠᤣ",
+      "desc": "/पनो/",
+      "group": "BM",
+      "mean": "<p>good.</p>शुभ ।"
+    },
+    "04204": {
+      "dId": "ᤐᤏᤠᤣᤀᤡ᤺ᤳ/ᤐᤏᤠᤣᤀᤡᤋ᤻",
+      "desc": "/पनोइःत्/",
+      "group": "BM",
+      "mean": "<p>good luck; complements; good wishes.</p>शुभकामना ।"
+    },
+    "04205": {
+      "dId": "ᤐᤏᤠᤣᤃᤧᤴ",
+      "desc": "/पनोगेन्/",
+      "group": "BM",
+      "mean": "<p>1. conducive to happiness; pleasant. 2. benevolent.</p>१. सुखदायी । २. कल्याणकारी । "
+    },
+    "04206": {
+      "dId": "ᤐᤏᤠᤣᤒᤠ",
+      "desc": "/पनोबा/",
+      "group": "BM",
+      "mean": "<p>very good; excellent.</p>असल; उत्कृष्ट ।"
+    },
+    "04207": {
+      "dId": "ᤐᤏᤧ᤹ᤏᤧ᤹ᤒᤠ",
+      "desc": "/पने?ने?बा/",
+      "group": "BM",
+      "mean": "<p>fat and round; stout; chubby.</p>मोटोधाटो ।"
+    },
+    "04208": {
+      "dId": "ᤐᤴᤇᤣ",
+      "desc": "/पन्छे/",
+      "group": "BM",
+      "mean": "<p>oldest Limbu ornament; amber; coral beads.</p>प्वाँलो; मणिमाला; तृणमणि ।"
+    },
+    "04209": {
+      "dId": "ᤐᤴᤈᤡᤖᤡ ",
+      "desc": "/पन्जिरि/",
+      "group": "BM",
+      "mean": "<p>certificate.</p>प्रमाणपत्र ।"
+    },
+    "04210": {
+      "dId": "ᤐᤴᤕᤧᤶ",
+      "desc": "/पन्येम्/",
+      "group": "BM",
+      "mean": "<p>cause; reason.</p>कारण ।"
+    },
+    "04211": {
+      "dId": "ᤐᤴᤗᤠᤒᤰ",
+      "desc": "/पन्लाबक्/",
+      "group": "BM",
+      "mean": "<p>turnip. Brassica rapa.</p>सलगम ।"
+    },
+    "04212": {
+      "dId": "ᤐᤵᤐ᤺ᤴᤍᤠ/ᤐᤵᤐᤏ᤻ᤍᤠ",
+      "desc": "/पप्पःन्दा/",
+      "group": "BM",
+      "mean": "<p>a loaf; a flat bread.</p>पाउरोटी; च्यप्टो रोटी ।"
+    },
+    "04213": {
+      "dId": "ᤐᤵᤔᤠ",
+      "desc": "/पप्मा/",
+      "group": "BM",
+      "mean": "<p>1. (fruit) to grow. 2. to be meanaged in/to take to work; to be busy. 3. (adhesive) to be (eg- wound). 4. to be suspended; to be in a hanging position (eg- moon). 5. to continue; to be incessant; to go on non-stop (eg- keep raining, burning); to rain/ burn incessantly. 6. a verb used to show continuity of work/ continuous tense.</p>१. फल लाग्नु । २. काममा लाग्नु । ३. (टाँसिएर रहेको) हुनु; रहेको जस्तो हुनु (जस्तै- घाउ) । ४ (टाँगिएर, झुन्डिएर रहेको) हुनु (जस्तै- जुन) । ५. कुनै घटना वा काममा लगातार भइरहनु (जस्तै- पानी परिरहनु वा आगो बलिरहनु ) । ६. कुनै अर्को कृयापदसंग आई काम भइरहेको तर नटुङ्गिएको अर्थ बुझाउने सहायक कृयापद ।"
+    },
+    "04214": {
+      "dId": "ᤐᤶᤒᤖᤧ-ᤛᤠᤣ",
+      "desc": "/पम्बरे-से?/",
+      "group": "BM",
+      "mean": "<p>strawberry. Rubus calycinus.</p>भुइँऐँसेलु ।"
+    },
+    "04215": {
+      "dId": "ᤐᤶᤒᤣ",
+      "desc": "/पम्बे/",
+      "group": "BM",
+      "mean": "<p>a portion.</p>बिलो ।"
+    },
+    "04216": {
+      "dId": "ᤐᤶᤔᤠ",
+      "desc": "/पम्मा/",
+      "group": "BM",
+      "mean": "<p>1. to make a bundle; to mat one’s hair; to ball up/hump one’s hair into a bun. 2. to fence/enclose/surround (the plants).</p>१. पोको पार्नु; कपाल आदि गुजुल्टो पार्नु । २. बिरुवा बार्नु; बिरुवालाई बारबेर गर्नु ।"
+    },
+    "04217": {
+      "dId": "ᤐᤕᤱ",
+      "desc": "/पयङ्/",
+      "group": "BM",
+      "mean": "<p>oscillation.</p>दोलन ।"
+    },
+    "04218": {
+      "dId": "ᤐᤕ᤺ᤱ/ᤐᤕᤅ᤻",
+      "desc": "/पयःङ्/",
+      "group": "BM",
+      "mean": "<p>to hang in bunches like grapes.</p>झुप्पाझुप्पा झुन्डेको हुनु ।"
+    },
+    "04219": {
+      "dId": "ᤐᤕᤶ",
+      "desc": "/पयम्/",
+      "group": "BM",
+      "mean": "<p>bigger (comparative).</p>झन् ठूलो (तुलनात्मक) ।"
+    },
+    "04220": {
+      "dId": "ᤐᤕ᤺ᤱᤗᤢᤱᤒᤠ/ᤐᤕᤅ᤻ᤗᤢᤱᤒᤠ",
+      "desc": "/पयःङ्लुङ्बा/",
+      "group": "BM",
+      "mean": "<p>Jupiter (planet).</p>वृहस्पति (ग्रह) ।"
+    },
+    "04221": {
+      "dId": "ᤐᤕᤠ᤺",
+      "desc": "/पयाः/",
+      "group": "BM",
+      "mean": "<p>titillation; tickle.</p>कुतकुती; काउकुती ।"
+    },
+    "04222": {
+      "dId": "ᤐᤕᤠ᤺ᤱ/ᤐᤕᤠᤅ᤻",
+      "desc": "/पयाःङ्/",
+      "group": "BM",
+      "mean": "<p>shuddering, trembling due to fear; feeling a fearful sensation while reaching the top of tree or sth edge of a high rock.</p>डरले चिउँचिउँ हुने किसिमले ।"
+    },
+    "04223": {
+      "dId": "ᤐᤕᤠᤣᤕᤠᤣᤔᤠ",
+      "desc": "/पयोयोमा/",
+      "group": "BM",
+      "mean": "<p>enough; sufficient; as much as desired; ot one’s heart’s content.</p>यथेष्ट ।"
+    },
+    "04224": {
+      "dId": "ᤐᤖᤰ",
+      "desc": "/परक्/",
+      "group": "BM",
+      "mean": "<p>1. in bunches growing/bearing fruits etc; clusters. 2. easily; wholly; jerkily; jauntily.</p>१. लटरम्म; लटरम्म फल्ने गरी । २. घ्वाच्चै; ल्वात्तै; हुत्तै ।"
+    },
+    "04225": {
+      "dId": "ᤐᤖ᤺ᤱᤃᤠ/ᤐᤖᤅ᤻ᤃᤠ",
+      "desc": "/परःङ्गा/",
+      "group": "BM",
+      "mean": "<p>discussion; debate.</p>बहस; छलफल ।"
+    },
+    "04226": {
+      "dId": "ᤐᤖᤠ(ᤒᤠ)",
+      "desc": "/परा(बा)/",
+      "group": "BM",
+      "mean": "<p>wolf.</p>ब्वाँसो ।"
+    },
+    "04227": {
+      "dId": "ᤐᤖᤠᤰ",
+      "desc": "/पराक्/",
+      "group": "BM",
+      "mean": "<p>bubbling up.</p>गजज गरेर उम्लने चालाले ।"
+    },
+    "04228": {
+      "dId": "ᤐᤖᤠᤱᤄᤣ᤺ᤰ/ᤐᤖᤠᤱᤄᤣᤁ᤻",
+      "desc": "/पराङ्घेःक्/",
+      "group": "BM",
+      "mean": "<p>sitting on the ground with crossed or folded legs.</p>पलेँटी; सुखासन; खुट्टा दोब्र्याएर बसिने आसन ।"
+    },
+    "04229": {
+      "dId": "ᤐᤖᤠᤴ",
+      "desc": "/परान्/",
+      "group": "BM",
+      "mean": "<p>life; vitality; being at the point/on the verge of death due to wearieness; tireness, exhaustion.</p>प्राण; ज्यान; प्राण जालाजस्तो थाकेर लखतरान भएको ।"
+    },
+    "04230": {
+      "dId": "ᤐᤖᤠᤴᤗᤠ",
+      "desc": "/परान्ला/",
+      "group": "BM",
+      "mean": "<p>purple; violet color.</p>बैजनी ।"
+    },
+    "04231": {
+      "dId": "ᤐᤖᤠ᤺ᤔᤠ/ᤐᤠᤖᤠ᤺ᤔᤠ",
+      "desc": "/पराःमा/पाराःमा/",
+      "group": "BM",
+      "mean": "<p>a particular kind of millet. Panicum cruss-galli.</p>जुनेलो ।"
+    },
+    "04232": {
+      "dId": "ᤐᤖᤡ ",
+      "desc": "/परि/",
+      "group": "BM",
+      "mean": "<p>comb.</p>काङ्गियो; काँइयो ।"
+    },
+    "04233": {
+      "dId": "ᤐᤖᤡᤰ",
+      "desc": "/परिक्/",
+      "group": "BM",
+      "mean": "<p>kind; sort; type.</p>किसिम; प्रकार ।"
+    },
+    "04234": {
+      "dId": "ᤐᤖᤢᤵᤐᤠ",
+      "desc": "/परुप्पा/",
+      "group": "BM",
+      "mean": "<p>bunch; cluster.</p>झुप्पो; झुत्तो ।"
+    },
+    "04235": {
+      "dId": "ᤐᤷᤈᤰ",
+      "desc": "/पर्जक्/",
+      "group": "BM",
+      "mean": "<p>in a manner of falling down by slipping.</p>सुलुत्त चिप्लेर लड्ने, झर्ने वा खस्ने चालाले ।"
+    },
+    "04236": {
+      "dId": "ᤐᤷᤔᤠᤱᤃᤡ ",
+      "desc": "/पर्माङ्गि/",
+      "group": "BM",
+      "mean": "<p>witness; evidence; testimony.</p>साक्षी; प्रमाण ।"
+    },
+    "04237": {
+      "dId": "ᤐᤷᤕᤠ",
+      "desc": "/पर्या/",
+      "group": "BM",
+      "mean": "<p>large earthen jar.</p>घैँटो; घ्याम्पो ।"
+    },
+    "04238": {
+      "dId": "ᤐᤷᤕᤠᤔᤠ",
+      "desc": "/पर्यामा/",
+      "group": "BM",
+      "mean": "<p>a kind of small earthen pot (jar).</p>माटोको सानो खालको भाँडो ।"
+    },
+    "04239": {
+      "dId": "ᤐᤗᤠᤶ",
+      "desc": "/पलाम्/",
+      "group": "BM",
+      "mean": "<p>a window with many holes.</p>आँखीझ्याल ।"
+    },
+    "04240": {
+      "dId": "ᤐᤗᤡᤶ",
+      "desc": "/पलिम्/",
+      "group": "BM",
+      "mean": "<p>being too sweet/ sweeter.</p>निकै गुलियो ।"
+    },
+    "04241": {
+      "dId": "ᤐᤗᤡ᤺ᤵ/ᤐᤗᤡᤡᤐ᤻",
+      "desc": "/पलिःप्/",
+      "group": "BM",
+      "mean": "<p>being too heavy (weight).</p>निकै गह्रुङ्गो ।"
+    },
+    "04242": {
+      "dId": "ᤐᤸᤗᤠ",
+      "desc": "/पल्ला/",
+      "group": "BM",
+      "mean": "<p>door at the entrance/ threshold.</p>दैलोको खापा; पल्ला ।"
+    },
+    "04243": {
+      "dId": "ᤐᤛᤢᤵ",
+      "desc": "/पसुप्/",
+      "group": "BM",
+      "mean": "<p>slamming/ banging door etc.</p>ढ्याम्म वा ढ्याप्प थुन्ने किसिमले ।"
+    },
+    "04244": {
+      "dId": "ᤐᤛᤢ᤺",
+      "desc": "/पसुः/",
+      "group": "BM",
+      "mean": "<p>being very slow/slack.</p>ढिलो/ ढलाइ गर्ने चालाले ।"
+    },
+    "04245": {
+      "dId": "ᤐᤛᤢ᤺ᤳ/ᤐᤛᤢᤋ᤻",
+      "desc": "/पसुःत्/",
+      "group": "BM",
+      "mean": "<p>being extremely sour/pungent/bitter.</p>निकै अमिलो ।"
+    },
+    "04246": {
+      "dId": "ᤐᤛᤠᤣ᤺",
+      "desc": "/पसोः/",
+      "group": "BM",
+      "mean": "<p>being very fatty; in the manner of itching badly.</p>१. साह्रै बोस्याइलो । २. चिल्चिलाउने किसिमले ।"
+    },
+    "04247": {
+      "dId": "ᤐᤛᤠᤣ᤺ᤶ/ᤐᤛᤠᤣᤔ᤻",
+      "desc": "/पसोःम्/",
+      "group": "BM",
+      "mean": "<p>being juicy/ succulent.</p>रसपूर्ण; रसमय; रसिलो ।"
+    },
+    "04248": {
+      "dId": "ᤐᤜᤡ᤺ᤶ/ᤐᤜᤡᤔ᤻",
+      "desc": "/पहिःम्/",
+      "group": "BM",
+      "mean": "<p>being dejected/ disappointed/ disheartened.</p>विरक्त, निराश, हताश हुने चालाले ।"
+    },
+    "04249": {
+      "dId": "ᤐ᤺ᤱᤃᤣ/ᤐᤅ᤻ᤃᤣ",
+      "desc": "/पःङ्गे/",
+      "group": "BM",
+      "mean": "<p>small bell; gong.</p>घण्टी ।"
+    },
+    "04250": {
+      "dId": "ᤐ᤺ᤱᤔᤠ/ᤐᤅ᤻ᤔᤠ",
+      "desc": "/पःङ्मा/",
+      "group": "BM",
+      "mean": "<p>to crack open; to crack and brust.</p>चर्कनु; चर्केर फुट्नु ।"
+    },
+    "04251": {
+      "dId": "ᤐ᤺ᤳ/ᤐᤋ᤻",
+      "desc": "/पःत्/",
+      "group": "BM",
+      "mean": "<p>mushroom.</p>च्याउ ।"
+    },
+    "04252": {
+      "dId": "ᤐ᤺ᤳᤌᤠᤱ/ᤐᤋ᤻ᤌᤠᤱ",
+      "desc": "/पःत्थाङ/",
+      "group": "BM",
+      "mean": "<p>shawl; female head-dress.</p>मजेत्रो ।"
+    },
+    "04253": {
+      "dId": "ᤐ᤺ᤍᤠ",
+      "desc": "/पःदा/",
+      "group": "BM",
+      "mean": "<p>bean.</p>सिमी ।"
+    },
+    "04254": {
+      "dId": "ᤐ᤺ᤵᤔᤠ/ᤐᤐ᤻ᤔᤠ",
+      "desc": "/पःप्मा/",
+      "group": "BM",
+      "mean": "<p>1. to throw stones etc at sb. 2. to add more. 3. to make ridge or terrace (eg: of a rice field).</p>१. ढुङ्गा-मुढा गर्नु; केहि चिजले हान्नु । २. थप्नु । ३. आली लाउनु ।"
+    },
+    "04255": {
+      "dId": "ᤐ᤺ᤶᤒᤩᤠᤣ᤺ᤰ/ᤐᤔ᤻ᤒᤩᤠᤣᤁ᤻",
+      "desc": "/पःम्ब्योःक्/",
+      "group": "BM",
+      "mean": "<p>egg plant; brinjal. Solanum melongena.</p>बैगुन ।"
+    },
+    "04256": {
+      "dId": "ᤐ᤺ᤶᤔᤠ/ᤐᤔ᤻ᤔᤠ",
+      "desc": "/पःम्मा/",
+      "group": "BM",
+      "mean": "<p>to migrate; to sharm out (ants).</p>बसाइँ सर्नु ।"
+    },
+    "04257": {
+      "dId": "ᤁᤣᤒ᤺ᤶᤒᤠ/ᤁᤣᤒᤔ᤻ᤒᤠ",
+      "desc": "/केबःम्बा/",
+      "group": "BM",
+      "mean": "<p>1. migratory. 2. landless.</p>१. डुलुवा; बसाइँ सरी हिड्ने । २. सुकुमवासी ।"
+    }
+  }
+}

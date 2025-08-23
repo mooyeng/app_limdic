@@ -1,0 +1,910 @@
+{
+  "Dic": {
+    "01544": {
+      "dId": "ᤂᤠ",
+      "desc": "/खा/",
+      "group": "AN",
+      "mean": "<p>1. an intensifier, prefixed to a verb or an adjective. 2. right now; instantly; in time; nearly; near about. 3. denoting right this or right that, okay etc.</p>१. अर्थमा गम्भिरता प्रदान गर्नका लागि क्रियापद वा विशेषणका अगाडि जाेडिने उपसर्ग । २. तत्क्षण; झण्डै । ३. लाै, ला, नै आदि बुझाउने निपात । "
+    },
+    "01545": {
+      "dId": "ᤂᤠᤀᤡᤋᤪᤱᤒᤠ",
+      "desc": "/खाइत्रङ्बा/",
+      "group": "AN",
+      "mean": "<p>a kind of tree with edible shoots. Ficus lacor.</p>काभ्राे (रुख) ।"
+    },
+    "01546": {
+      "dId": "ᤂᤠᤀᤡᤰ",
+      "desc": "/खाइक्/",
+      "group": "AN",
+      "mean": "<p>divination; act or practice of foreseeing or foretelling future events by an astrologer or by a Phedangma ( see another entry) .</p>जाेखाना; लेखा वा भाग्यकाे विचार वा अडकल गर्ने काम; शुभ, अशुभ, दाेष, विकार आदि फल जान्न विभिन्न उपाय द्वारा गरिने विचार ।"
+    },
+    "01547": {
+      "dId": "ᤂᤠᤀᤡᤰᤔᤠ",
+      "desc": "/खाइक्मा/",
+      "group": "AN",
+      "mean": "<p>1. to divine; to foresee or foretell the future. 2. to divine; to augur; to foresee or foretell the future by analyzing signs.</p>१. जाेखाना हेर्नु वा बताउनु । २. शुभ अशुभकाे फल, भाग्य आदि हेर्नु वा बताउनु ।"
+    },
+    "01548": {
+      "dId": "ᤂᤠᤀᤡᤰ-ᤔᤢᤴᤎᤢᤶ",
+      "desc": "/खाइक्-मुन्धुम्/",
+      "group": "AN",
+      "mean": "<p>astrology.</p>ज्याेतिषशास्त्र ।"
+    },
+    "01549": {
+      "dId": "ᤂᤠᤀᤡ᤺ᤔᤠ",
+      "desc": "/खाइःमा/",
+      "group": "AN",
+      "mean": "<p>to promise to worship a deity or a god wishing for some boon.</p>भाकल गर्नु ।"
+    },
+    "01550": {
+      "dId": "ᤍᤠᤀᤢᤛᤣ᤹",
+      "desc": "/खाउसे?/",
+      "group": "AN",
+      "mean": "<p>walnut. Juglaus regia.</p>ओखर ।"
+    },
+    "01551": {
+      "dId": "ᤍᤠᤀᤢ᤺ᤔᤠ",
+      "desc": "/खाउःमा/",
+      "group": "AN",
+      "mean": "<p>(n.) the last rites of the purification ceremony after the death of a relative. (vt.) to announce publicly that a deceased person no longer belongs to human society and the mourners are purified now at the last rites of the purification ceremony after the death of relative.</p>(ना.) मृत्यु संस्कारकाे अन्तिम विधि; सुद्धयाइँकाे कर्म । (सक्रि.) आशाैच बार्नेलाई शुद्ध गराउनु, फलाक्नु; लिम्बू पुराहित ले सुद्धयाइँका दिन मृतकलाई ‘अब उप्रान्त तिमी मानव रहेनाै’ र जुठाे बार्नेलाई  ‘आज देखि तिमी शुद्ध भयाै’ भनि फुकुवा गर्नका लागि फलाक्नु । "
+    },
+    "01552": {
+      "dId": "ᤂᤠᤀᤠᤣ᤺ᤳ/ᤂᤠᤀᤠᤣᤋ᤻",
+      "desc": "/खाओःत्/",
+      "group": "AN",
+      "mean": "<p>light.</p>उज्यालाे; प्रकाश ।"
+    },
+    "01553": {
+      "dId": "ᤂᤠᤀᤠᤣ᤺ᤵᤔᤠ/ᤂᤠᤀᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/खाओःप्मा/",
+      "group": "AN",
+      "mean": "<p>to be clear, bright (at down); to down.</p>विहान छर्लङ्ग उज्यालाे हुनु ।"
+    },
+    "01554": {
+      "dId": "ᤂᤠ᤹ᤂᤠ-ᤂᤢ᤹ᤂᤢ",
+      "desc": "/खा?खा-खु?खु/",
+      "group": "AN",
+      "mean": "<p>1. hesitation. 2. act of clearing the throat.</p>१. अनकनाइ; आनेकाने गराइ । २  खाकखाक-खुकखुक  गर्नु ।"
+    },
+    "01555": {
+      "dId": "ᤂᤠ᤹ᤂᤡᤒᤠ",
+      "desc": "/खा?खिबा/",
+      "group": "AN",
+      "mean": "<p>stammerer; stutterer.</p>भकभके ।"
+    },
+    "01556": {
+      "dId": "ᤂᤠ᤹ᤂᤡᤔᤠ",
+      "desc": "/खा?खिमा/",
+      "group": "AN",
+      "mean": "<p>(fem.) stammerer; stutterer; to stammer/ stutter.</p>(स्त्री) भकभके ।; भकभकाउनु ।"
+    },
+    "01557": {
+      "dId": "ᤂᤠ᤹ᤏᤠᤶ",
+      "desc": "/खा?नाम/",
+      "group": "AN",
+      "mean": "<p>head strap; a band passed round the forehead for supporting the load carried on the back.</p>नाम्लाे ।"
+    },
+    "01558": {
+      "dId": "ᤂᤠᤰᤆᤡᤱ",
+      "desc": "/खाक्चिङ्/",
+      "group": "AN",
+      "mean": "<p>Nepal pepper prickly ash, a kind of herb. Xanthoxylum hamiltonianum.</p>खानाक्पा; एक प्रकारकाे जडीबुटी विशेष ।"
+    },
+    "01559": {
+      "dId": "ᤂᤠᤰᤇᤡᤱ ᤛᤡᤱ",
+      "desc": "/खाक्छिङ् सिङ्/",
+      "group": "AN",
+      "mean": "<p>a variety of short spice tree. Xanthoxylum.</p>बाेके टिम्मुर ।"
+    },
+    "01560": {
+      "dId": "ᤂᤠᤰᤔᤠ",
+      "desc": "/खाक्मा/",
+      "group": "AN",
+      "mean": "<p>to freeze hard; to stiffen.</p>जमेर कडा हुनु; गिलाे पदार्थ जम्नु ।"
+    },
+    "01561": {
+      "dId": "ᤂᤠᤰᤂᤠᤰᤐᤠ",
+      "desc": "/खाक्खाक्पा/",
+      "group": "AN",
+      "mean": "<p>hard; rough; coarse.</p>कडा; साह्राे ।"
+    },
+    "01562": {
+      "dId": "ᤂᤠᤰᤗᤢ᤺ᤰᤛᤣ᤹/ᤂᤠᤰᤗᤢᤁ᤻ᤛᤣ᤹",
+      "desc": "/खाक्लुःक्से?/",
+      "group": "AN",
+      "mean": "<p>a kind of thorny chestnut. Castanopsis indica.</p>काँडे कटुस ।"
+    },
+    "01563": {
+      "dId": "ᤂᤠᤄᤠᤒᤠ",
+      "desc": "/खघाबा/",
+      "group": "AN",
+      "mean": "<p>eating/ feeding/ having enough to one’s satisfaction.</p>भरपेट; अघाउन्जेल; अघाउँजी ।"
+    },
+    "01564": {
+      "dId": "ᤂᤠᤱᤂᤠᤱ",
+      "desc": "/खाङ्खाङ्/",
+      "group": "AN",
+      "mean": "<p>dry; free from moisture.</p>ओबानाे ।"
+    },
+    "01565": {
+      "dId": "ᤂᤠᤱᤂᤡᤱ",
+      "desc": "/खाङ्खिङ्/",
+      "group": "AN",
+      "mean": "<p>1. disturbance; rowdism. 2. hammering; beating; ramming; pressing.</p>१. उपद्रव । २.  ठाेकठाक; ठाङठाङ-ठुङठुङ ।"
+    },
+    "01566": {
+      "dId": "ᤂᤠᤱᤔᤠ",
+      "desc": "/खाङ्मा/",
+      "group": "AN",
+      "mean": "<p>to strike with a stick; to cane.</p>ठटाउनु; लाैराले पिट्नु ।"
+    },
+    "01567": {
+      "dId": "ᤂᤠᤱᤗᤧ᤺ᤰ/ᤂᤠᤱᤗᤧᤁ᤻",
+      "desc": "/खाङ्लेःक्/",
+      "group": "AN",
+      "mean": "<p>1. lever; a bar to lift or move a heavy object or to make a breach. 2. a boil without a opening.</p>१. गल (औजार) । २. पिलाे (मुख नभएकाे) ।"
+    },
+    "01568": {
+      "dId": "ᤂᤠᤇᤧᤱᤇᤧᤱ",
+      "desc": "/खाछेङ्छेङ्/",
+      "group": "AN",
+      "mean": "<p>a kind of bird, titmice. Parus major.</p>चिचिन्काेटे चराे ।"
+    },
+    "01569": {
+      "dId": "ᤂᤠᤈᤠᤱᤘᤠ",
+      "desc": "/खाजाङ्वा/",
+      "group": "AN",
+      "mean": "<p>a kind of sand pipers. Tringa.</p>हुटिट्याउँ ।"
+    },
+    "01570": {
+      "dId": "ᤂᤠᤈᤡᤔᤠᤱ",
+      "desc": "/खाजिमाङ्/",
+      "group": "AN",
+      "mean": "<p>twilight of early dawn; faint light of early morning.</p>बिहान हुने बेलाकाे रिमरिम उज्यालाे ।"
+    },
+    "01571": {
+      "dId": "ᤂᤠᤳᤋᤩᤠᤣ",
+      "desc": "/खात्त्याे/",
+      "group": "AN",
+      "mean": "<p>[Tamor] down there.</p>[तमर] त्यहाँ (तल) ।"
+    },
+    "01572": {
+      "dId": "ᤂᤠᤳᤋᤩᤧ",
+      "desc": "/खात्त्ये/",
+      "group": "AN",
+      "mean": "<p>tea made from roasted rice.</p>भुटेकाे चामलकाे चिया ।"
+    },
+    "01576": {
+      "dId": "ᤂᤠᤍᤠᤵᤔᤠ",
+      "desc": "/खादाप्मा/",
+      "group": "AN",
+      "mean": "<p>1. to get dark. 2. to get late due to darkness.</p>१. अँध्याराे हुनु । २. अँध्याराे भएर ढिलाे हुनु ।"
+    },
+    "01577": {
+      "dId": "ᤂᤠᤍᤠᤶ",
+      "desc": "/खादाम्/",
+      "group": "AN",
+      "mean": "<p>darkness.</p>अँध्याराे; अन्धकार । "
+    },
+    "01578": {
+      "dId": "ᤂᤠᤍᤠᤶᤔᤠ",
+      "desc": "/खादाम्मा/",
+      "group": "AN",
+      "mean": "<p>to fall night; to be/ become dark.</p>रात पर्नु; झमक्क अँध्याराे हुनु ।"
+    },
+    "01579": {
+      "dId": "ᤂᤠᤍᤡ ",
+      "desc": "/खादि/",
+      "group": "AN",
+      "mean": "<p>carpet (esp woolen).</p>गलैंचा ।"
+    },
+    "01580": {
+      "dId": "ᤂᤠᤍᤡᤱ",
+      "desc": "/खादिङ्/",
+      "group": "AN",
+      "mean": "<p>doubt; suspicion.</p>शङ्का ।"
+    },
+    "01581": {
+      "dId": "ᤂᤠᤍᤡᤶᤒᤠ",
+      "desc": "/खादिम्बा/",
+      "group": "AN",
+      "mean": "<p>agent; broker.</p>अभिकर्ता; गुमास्ता; दलाल ।"
+    },
+    "01582": {
+      "dId": "ᤂᤠᤍᤧᤶᤒᤠ",
+      "desc": "/खादेम्बा/",
+      "group": "AN",
+      "mean": "<p>fog.</p>हुस्से ।"
+    },
+    "01583": {
+      "dId": "ᤂᤠᤍᤠᤣᤛᤃᤡ ",
+      "desc": "/खादाे सगि/",
+      "group": "AN",
+      "mean": "<p>a variety of nettle (esp having large leaves and grown on hill-tops). <i>Girardinia heterophylla.</i></p>अल्लाे; अल्गाे बाेट हुने लेकाली सिस्नु ।"
+    },
+    "01584": {
+      "dId": "ᤂᤠᤍᤠᤣ᤺ᤒᤠ",
+      "desc": "/खादाेःबा/",
+      "group": "AN",
+      "mean": "<p>foul-mouthed; abusive.</p>मुखाले; मुख लाग्ने (अरु संग) ।"
+    },
+    "01585": {
+      "dId": "ᤂᤠᤏᤠᤰᤐᤠ",
+      "desc": "/खानाक्पा/",
+      "group": "AN",
+      "mean": "<p>Nepal pepper prickly ash, a kind of herb.<i> Xanthoxylum hamiltonianum.</i></p>बहबिस; एक प्रकारकाे  जडिबुटीकाे रुख ।"
+    },
+    "01586": {
+      "dId": "ᤍᤠᤏᤡᤱ",
+      "desc": "/खानिङ्/",
+      "group": "AN",
+      "mean": "<p>computer.</p>कम्प्युटर ।"
+    },
+    "01587": {
+      "dId": "ᤂᤠᤏᤡ᤺ᤳ/ᤂᤠᤏᤡᤋ᤻",
+      "desc": "/खानित्/",
+      "group": "AN",
+      "mean": "<p>account.</p>हिसाब; गणना ।"
+    },
+    "01588": {
+      "dId": "ᤂᤠᤏᤡ᤺ᤴ/ᤂᤠᤏᤡᤏ᤻",
+      "desc": "/खानिःन्/",
+      "group": "AN",
+      "mean": "<p>figure; digit; numerical figure; 1, 2, 3 etc.</p>अङ्क; संख्या बुझाउने चिन्ह; ‘१’, ‘२’, ‘३’ आदि चिन्ह ।"
+    },
+    "01589": {
+      "dId": "ᤂᤠᤏᤡ᤺ᤵᤔᤠ/ᤂᤠᤏᤡᤐ᤻ᤔᤠ",
+      "desc": "/खानिःप्मा/",
+      "group": "AN",
+      "mean": "<p>to count; to calculate.</p>गन्नु; गणना गर्नु; हिसाब गर्नु ।"
+    },
+    "01590": {
+      "dId": "ᤂᤠᤵ",
+      "desc": "/खाप्/",
+      "group": "AN",
+      "mean": "<p>1. pile; layer; crust. 2. a cover or a wrap.</p>१. खात; तह; पत्र । २. कुनै कुराकाे छाेप्ने वा ढाक्ने वस्तु; छाेपाे ।"
+    },
+    "01591": {
+      "dId": "ᤂᤠᤵᤐᤢ",
+      "desc": "/खाप्पु/",
+      "group": "AN",
+      "mean": "<p>ash.</p>खरानी ।"
+    },
+    "01592": {
+      "dId": "ᤂᤠᤵᤔᤠ",
+      "desc": "/खाप्मा/",
+      "group": "AN",
+      "mean": "<p>1. to cover sb/sth with (a shawl). 2. to thatch the roof; to roof.</p>१. ओढाउनु । २. छाउनु; छाना लाउनु ।"
+    },
+    "01593": {
+      "dId": "ᤂᤠᤵᤛᤡᤱᤔᤠ",
+      "desc": "/खाप्सिङ्मा/",
+      "group": "AN",
+      "mean": "<p>1. to cover oneself. 2. to cover each other.</p>१. ओढ्नु (आफै); ढाकिनु । २. परस्पर ओढाउनु ।"
+    },
+    "01594": {
+      "dId": "ᤂᤠᤒᤠᤣ᤺ᤋᤢ ᤐᤢ",
+      "desc": "/खाबाेःतु पु/",
+      "group": "AN",
+      "mean": "<p>a kind of treepie bird. <i>Dendrocitta.</i></p>काेकले चराे ।"
+    },
+    "01595": {
+      "dId": "ᤂᤠᤔᤠᤰ",
+      "desc": "/खामाक्/",
+      "group": "AN",
+      "mean": "<p>1. nightfall; evening dusk. 2. darkness.</p>१. साँझ पखकाे झिसमिसे अँध्याराे । २. अँध्याराे ।"
+    },
+    "01596": {
+      "dId": "ᤂᤠᤔᤠᤰᤔᤠ",
+      "desc": "/खामाक्मा/",
+      "group": "AN",
+      "mean": "<p>to get dark; to become night.</p>अँध्याराे हुनु; रात पर्नु ।अँध्याराे हुनु; रात पर्नु ।"
+    },
+    "01597": {
+      "dId": "ᤂᤠᤶ",
+      "desc": "/खाम्/",
+      "group": "AN",
+      "mean": "<p>1. soil; clay. 2. land; ground. 3. earth.</p>१. माटाे । २. जमिन; भुइँ । ३. पृथ्वी ।"
+    },
+    "01598": {
+      "dId": "ᤂᤠᤶᤀᤡᤰ",
+      "desc": "/खाम्इक्/",
+      "group": "AN",
+      "mean": "<p>antares ( scorpii); one of the constellation.</p>ज्येष्ठा नक्षत्र ।"
+    },
+    "01599": {
+      "dId": "ᤂᤠᤶ-ᤀᤣ᤺ᤱ/ᤀᤣᤅ᤻",
+      "desc": "/खाम्-एङ्/",
+      "group": "AN",
+      "mean": "<p>land-tax; revenue.</p>भुमिकर; मालपाेत ।"
+    },
+    "01600": {
+      "dId": "ᤂᤠᤶᤄᤀᤠ ᤛᤡᤱ",
+      "desc": "/खाम्घआ सिङ्/",
+      "group": "AN",
+      "mean": "<p>yellow or black chebulic Myfobalan harro, herbal plant. <i>Terminalia chebula.</i></p>हर्राे; हर्राेकाे रुख ।"
+    },
+    "01601": {
+      "dId": "ᤂᤠᤶᤄᤠᤶᤒᤢ",
+      "desc": "/खाम्घाम्बु/",
+      "group": "AN",
+      "mean": "<p>a cemented roof; a concrete roof.</p>सिमेन्टिकाे छाना; ढलान गरिएकाे छाना ।"
+    },
+    "01602": {
+      "dId": "ᤂᤠᤶᤄᤢ",
+      "desc": "/खाम्घु/",
+      "group": "AN",
+      "mean": "<p>province; a state.</p>प्रदेश; राज्य ।"
+    },
+    "01603": {
+      "dId": "ᤂᤠᤈᤱᤃᤣ",
+      "desc": "/खाजङ्गे/",
+      "group": "AN",
+      "mean": "<p>Nepalese tobacco pope made of earthenware.</p>चिलिम ।"
+    },
+    "01604": {
+      "dId": "ᤂᤠᤶᤈᤠᤱᤓᤢᤱ",
+      "desc": "/खाम्जाङ्भुङ्/",
+      "group": "AN",
+      "mean": "<p>a kind of scented plant. Kaempheria rotunda.</p>भुइँचम्पा ।"
+    },
+    "01605": {
+      "dId": "ᤂᤠᤶᤈᤡ ",
+      "desc": "/खाम्जि/",
+      "group": "AN",
+      "mean": "<p>dust of earth.</p>माटाेकाे धुलाे ।"
+    },
+    "01606": {
+      "dId": "ᤂᤠᤶᤈᤡᤰ",
+      "desc": "/खाम्जिक्/",
+      "group": "AN",
+      "mean": "<p>geological or pertaining to geology or the earth.</p>भाैगर्भिक; भूगर्भ सम्बन्धी ।"
+    },
+    "01607": {
+      "dId": "ᤂᤠᤶᤈᤡᤖᤡ ᤂᤠᤶᤒᤠᤣ᤺ᤱᤒᤠ/ᤂᤠᤶᤒᤠᤣᤅ᤻ᤒᤠ",
+      "desc": "/खाम्जिरि खाम्बाेःङ्बा/",
+      "group": "AN",
+      "mean": "<p>1. ancient tribe; aborigines; indigenous people. 2. the Kirant tribe; the ancient Kirant tribe which came into existence along with earth or clay.</p>१. प्राचिन जाति; आदिवासी । २. किराँत जाति; माटाेसँगै उब्जेकाे वा जन्मेकाे प्राचीनतम किराँत जाति ।"
+    },
+    "01608": {
+      "dId": "ᤂᤠᤶᤍᤠᤰᤏᤠ",
+      "desc": "/खाम्दक्ना/",
+      "group": "AN",
+      "mean": "<p>mud; slime; muddy soil.</p>हिलाे; हिलाेमाटाे ।"
+    },
+    "01609": {
+      "dId": "ᤂᤠᤶᤍᤠᤶᤒᤠ",
+      "desc": "/खाम्दम्बा/",
+      "group": "AN",
+      "mean": "<p>mist.</p>कुइराे ।"
+    },
+    "01610": {
+      "dId": "ᤂᤠᤶᤍᤠᤱ ᤐᤢ",
+      "desc": "/खाम्दाङ् पु/",
+      "group": "AN",
+      "mean": "<p>a kind of bird, minivet. Pericrocotus.</p>रानी चराे ।"
+    },
+    "01611": {
+      "dId": "ᤂᤠᤶᤍᤠᤱᤒᤠ",
+      "desc": "/खाम्दाङ्बा/",
+      "group": "AN",
+      "mean": "<p>1. landowner. 2. landlord. 3. [Tamor] like that; of that quality or kind or category.</p>१. जग्गाधनी; भूमिपति । २. जमिन्दार । ३. [तमर] त्यस्ताे; त्यस्ताे खालकाे; त्यस किसिमकाे ।"
+    },
+    "01612": {
+      "dId": "ᤂᤠᤶᤍᤠ᤺ᤰᤐᤠ/ᤂᤠᤶᤍᤠᤁ᤻ᤐᤠ",
+      "desc": "/खाम्दा:क्पा/",
+      "group": "AN",
+      "mean": "<p>spider.</p>माकुराे ।"
+    },
+    "01613": {
+      "dId": "ᤂᤠᤶᤍᤠ᤺ᤰᤔᤠ/ᤂᤠᤶᤍᤠᤁ᤻ᤔᤠ",
+      "desc": "/खाम्दाःक्मा/",
+      "group": "AN",
+      "mean": "<p>a white sloth used by the Limbus to cover a dead body before putting earth on it.</p>लिम्बूजातिले मुर्दा गाडेपछि माटाेले छाेप्नुअघि त्यसलाई ढाक्ने सेताे कपडा ।"
+    },
+    "01614": {
+      "dId": "ᤂᤠᤶᤏᤠᤒᤠ",
+      "desc": "/खाम्नाबा/",
+      "group": "AN",
+      "mean": "<p>quilt; shawl; blanket, etc.</p>ओढ्ने वस्तु (सिरक आदि) ।"
+    },
+    "01615": {
+      "dId": "ᤂᤠᤶᤏᤡ᤺ᤱᤃᤣ᤹/ᤂᤠᤶᤏᤡᤅ᤻ᤃᤧ᤹",
+      "desc": "/खाम्-निःङ्गे?/",
+      "group": "AN",
+      "mean": "<p>kerosene oil.</p>मट्टीतेल।"
+    },
+    "01616": {
+      "dId": "ᤂᤠᤶᤒᤠᤰᤂᤣ",
+      "desc": "/खाम्बक्खे/",
+      "group": "AN",
+      "mean": "<p>root/ yam of Sechium edule.</p>इस्कुसकाे जरा वा तरुल ।"
+    },
+    "01617": {
+      "dId": "ᤂᤠᤶᤒᤰᤏᤠ",
+      "desc": "/खाम्बक्ना/",
+      "group": "AN",
+      "mean": "<p>1. a lump of clay; a clod of earth. 2. a kind of bird.</p>१. माटाेकाे डल्लाे । २. मुस्टे चरा ।"
+    },
+    "01618": {
+      "dId": "ᤂᤠᤶᤒᤰ ᤐ᤺ᤳ/ᤐᤋ᤻",
+      "desc": "/खाम्बक्पःत्/",
+      "group": "AN",
+      "mean": "<p>round variety of mushroom.</p>डल्ले च्याउ ।"
+    },
+    "01619": {
+      "dId": "ᤂᤠᤶᤒᤢ",
+      "desc": "/खाम्बु/",
+      "group": "AN",
+      "mean": "<p>roof.</p>छाना ।"
+    },
+    "01620": {
+      "dId": "ᤂᤠᤶᤒᤢᤰ",
+      "desc": "/खाम्बुक्/",
+      "group": "AN",
+      "mean": "<p>1. ridge in cultivated field/ land. 2. ridge; the raised part between the furrows in a ploughed field.</p>१. ड्याङ । २. खेतीका लागि दुईतिर कुलेसा बनाई उठाएकाे माटाेकाे हाेचाे डिल ।"
+    },
+    "01621": {
+      "dId": "ᤂᤠᤶᤒᤢᤳᤋᤪᤠ",
+      "desc": "/खाम्बुत्त्रा/",
+      "group": "AN",
+      "mean": "<p>dust.</p>धूलाे (माटाेकाे) ।"
+    },
+    "01622": {
+      "dId": "ᤂᤠᤶᤒᤢᤳᤏᤠ",
+      "desc": "/खाम्बुत्ना/",
+      "group": "AN",
+      "mean": "<p>lawn-grass. Cynodon dctylon.</p>दुबाे झार ।"
+    },
+    "01623": {
+      "dId": "ᤂᤠᤶᤒᤢᤍᤡᤰ",
+      "desc": "/खाम्बुदिक्/",
+      "group": "AN",
+      "mean": "<p>cock chafer, a kind of white worm.</p>खुम्ले कीराे ।"
+    },
+    "01624": {
+      "dId": "ᤂᤠᤶᤒᤢᤍᤡᤰ ᤐ᤺ᤳ/ᤐ᤻",
+      "desc": "/खाम्बुदिक् पत्/",
+      "group": "AN",
+      "mean": "<p>umbrella-shaped mushroom.</p>कलुङ्गे च्याउ; एक्लै उम्रने ठूलाे खालकाे छाते च्याउ ।"
+    },
+    "01625": {
+      "dId": "ᤂᤠᤶᤒᤢ᤺ᤶᤒᤠ/ᤂᤠᤶᤒᤢᤔ᤻ᤒᤠ",
+      "desc": "/खाम्बुःम्बा/",
+      "group": "AN",
+      "mean": "<p>tractor.</p>ट्रयाक्टर ।"
+    },
+    "01626": {
+      "dId": "ᤂᤠᤶᤒᤣ᤺ᤰ/ᤂᤠᤔ᤻ᤒᤣᤰ",
+      "desc": "/खाम्बेःक्/",
+      "group": "AN",
+      "mean": "<p>1. land; soil. 2. site; plot (of land); spot. 3. one of the three worlds; earth; world.</p>१. जमिन; माटाे । २. स्थल; ठाउँ । ३. तीन त्रिलाेक मध्येकाे एक लाेक; धरती; पृथ्वी; संसार ।"
+    },
+    "01627": {
+      "dId": "ᤂᤠᤶᤒᤠᤣ᤺ᤰᤂᤣᤏᤠ/ᤂᤠᤶᤒᤠᤣᤁ᤻ᤂᤣᤏᤠ",
+      "desc": "/खाम्बाेःक्खेना/",
+      "group": "AN",
+      "mean": "<p>cush-cush; yam-pee. Dioscorea deltoidea.</p>भ्यागुर ।"
+    },
+    "01628": {
+      "dId": "ᤂᤠᤶᤒᤠᤣ᤺ᤱᤒᤠ/ᤂᤠᤶᤒᤠᤣᤅ᤻ᤒᤠ",
+      "desc": "/खाम्बाेःङ्बा/",
+      "group": "AN",
+      "mean": "<p>aborigines; original (or aboriginal) tribe.</p>आदिवबसी; आदिम जाति ।"
+    },
+    "01629": {
+      "dId": "ᤂᤠᤶᤒᤧᤴ",
+      "desc": "/खाम्बेन्/",
+      "group": "AN",
+      "mean": "<p>1. ground floor. 2. floor; storey. 3. surface.</p>१. भुइँतला । २. तला । ३. सतह; तल ।"
+    },
+    "01630": {
+      "dId": "ᤂᤠᤶᤒᤪᤢᤰᤔᤠ",
+      "desc": "/खाम्ब्रुक्मा/",
+      "group": "AN",
+      "mean": "<p>burnt earthen beads; wreaths of clay.</p>माला उन्न माटाेबाट बनाइएका ससाना दाना ।"
+    },
+    "01632": {
+      "dId": "ᤂᤠᤶᤓᤢ᤹ᤗᤠ",
+      "desc": "/खाम्भु?ला/ ",
+      "group": "AN",
+      "mean": "<p>chalk; white clay.</p>कमेराे ।"
+    },
+    "01633": {
+      "dId": "ᤂᤠᤶᤓᤢᤰ",
+      "desc": "/खाम्भुक्/",
+      "group": "AN",
+      "mean": "<p>creast of hill; hill top; ridge; mount.</p>माटाेकाे ढिस्काे; थुम्काे ।"
+    },
+    "01634": {
+      "dId": "ᤂᤠᤶᤓᤧᤏᤠ",
+      "desc": "/खाम्भेना/",
+      "group": "AN",
+      "mean": "<p>pineapple. Ananas comosus.</p>भुइँकटहर ।"
+    },
+    "01635": {
+      "dId": "ᤂᤠᤶᤓᤧᤖᤍ᤺ᤳ/ᤂᤠᤶᤓᤧᤴᤍᤋ᤻",
+      "desc": "/खाम्भुन्दःत्/",
+      "group": "AN",
+      "mean": "<p>cabbage. Brassica oleracea var. Capitata.</p>बन्दा; बन्दाकाेपी ।"
+    },
+    "01636": {
+      "dId": "ᤂᤠᤶᤓᤧᤒᤠ",
+      "desc": "/खाम्भेबा/",
+      "group": "AN",
+      "mean": "<p>a man who smoothness the surface of a rice field and who leads the sowing of paddy seedlings.</p>बाउसे; राेपाइँकाे काममा नेतृत्व गर्ने व्याक्ति; राेपाइँमा खेतकाे हिलाे सम्याउने व्याक्ति; लाठे ।"
+    },
+    "01637": {
+      "dId": "ᤂᤠᤶᤓᤧ᤺ᤖᤢᤶ",
+      "desc": "/खाम्भेःरुम्/",
+      "group": "AN",
+      "mean": "<p>dust.</p>धुलाे ।"
+    },
+    "01638": {
+      "dId": "ᤂᤠᤶᤔᤠ",
+      "desc": "/खाम्मा/",
+      "group": "AN",
+      "mean": "<p>to cover body with sth.</p>ओढ्नु (सुतेर/ लेटेर सिरक आदि) ।"
+    },
+    "01639": {
+      "dId": "ᤂᤠᤶᤕᤢᤰᤛᤧ᤺ᤵ/ᤂᤠᤶᤕᤢᤰᤛᤧᤐ᤻",
+      "desc": "/खाम्-युक्सेःप्/",
+      "group": "AN",
+      "mean": "<p>sovereignty.</p>सार्वभाैमिकता ।"
+    },
+    "01640": {
+      "dId": "ᤂᤠᤶᤕᤢᤰᤛᤧ᤺ᤵᤐᤠ/ᤂᤠᤶᤕᤢᤰᤛᤧᤐ᤻ᤐᤠ",
+      "desc": "/खाम्युक्सेःप्पा/",
+      "group": "AN",
+      "mean": "<p>sovereign.</p>सार्वभाैम ।"
+    },
+    "01641": {
+      "dId": "ᤂᤠᤶᤕᤧ᤺ᤰ/ᤂᤠᤶᤕᤧᤁ᤻",
+      "desc": "/खाम्येःक्/",
+      "group": "AN",
+      "mean": "<p>1. dry barren land. 2. desert.</p>१. रुखाे माटाे । २. मरुभुमि ।"
+    },
+    "01642": {
+      "dId": "ᤂᤠᤶᤗᤠ",
+      "desc": "/खाम्ला/",
+      "group": "AN",
+      "mean": "<p>(adj.) gray; grizzled; ash-colored; pale. (n.) gray; paleness.</p>(वि.) धुस्राेफुस्राे । (ना.) धुस्राेपन; फुस्राेपन ।"
+    },
+    "01643": {
+      "dId": "ᤂᤠᤶᤗᤠᤎᤠ",
+      "desc": "/खाम्लाधा/",
+      "group": "AN",
+      "mean": "<p>moror car, jeep, bus etc.</p>गाडी; माेटरगाडी आदि ।"
+    },
+    "01644": {
+      "dId": "ᤂᤠᤶᤗᤠᤘᤠ",
+      "desc": "/खाम्लावा/",
+      "group": "AN",
+      "mean": "<p>clay which is used to smear the bottom of  cooking pots and pans.</p>पकाइतुल्याइ गर्ने भाँडाकाे पीँधमा दल्ने माटाे ।"
+    },
+    "01645": {
+      "dId": "ᤂᤠᤶᤗᤢᤱ",
+      "desc": "/खाम्लुङ्/",
+      "group": "AN",
+      "mean": "<p>tantra.</p>तन्त्र ।"
+    },
+    "01646": {
+      "dId": "ᤂᤠᤶᤗᤢᤵᤏᤠ ᤛᤠᤵ",
+      "desc": "/खाम्लुप्ना साप्/",
+      "group": "AN",
+      "mean": "<p>the equator.</p>विषुवत रेखा ।"
+    },
+    "01647": {
+      "dId": "ᤂᤠᤶᤗᤧᤵ",
+      "desc": "/खाम्लेप्/",
+      "group": "AN",
+      "mean": "<p>1. clod of earth. 2. a Nepalese kind of small tile for roofing.</p>१. माटाकाे चपरी । २. झिँगटी ।"
+    },
+    "01648": {
+      "dId": "ᤂᤠᤶᤘᤠ",
+      "desc": "/खाम्वा/",
+      "group": "AN",
+      "mean": "<p>fertility (of land); fertile land.</p>(जमिनकाे) उर्वरशक्ति; उर्वरा भुमि ।"
+    },
+    "01649": {
+      "dId": "ᤂᤠᤶᤘᤠᤛᤡᤵ",
+      "desc": "/खाम्वासिप्/",
+      "group": "AN",
+      "mean": "<p>1. soil erosion; erosion of land caused by land-slide, flood etc. 2. exhaustion of the fertility of land; impoverishment.</p>१. भुक्षय; बाढी, पहिराे आदिले हुने भुमिकाे क्षति । २. भुक्षरण; जमिनकाे उर्वरा शक्तिकाे ह्रास ।"
+    },
+    "01650": {
+      "dId": "ᤂᤠᤶᤛᤠᤵ",
+      "desc": "/खाम्साप्/",
+      "group": "AN",
+      "mean": "<p>geometry.</p>रेखागणित ।"
+    },
+    "01651": {
+      "dId": "ᤂᤠᤶᤛᤠᤛᤣ᤹",
+      "desc": "/खाम्सासे?/",
+      "group": "AN",
+      "mean": "<p>gram; chick-pea.</p>चना ।"
+    },
+    "01652": {
+      "dId": "ᤂᤠᤶᤛᤡ᤺ᤰ/ᤂᤠᤶᤛᤡᤁ᤻",
+      "desc": "/खाम्सिःक्/",
+      "group": "AN",
+      "mean": "<p>survey; land-survey.</p>सर्वेक्षण; भू सर्वेक्षण; जग्गानापी ।"
+    },
+    "01653": {
+      "dId": "ᤂᤠᤶᤛᤠᤣ᤺ᤳ/ᤂᤠᤶᤛᤠᤣᤋ᤻",
+      "desc": "/खाम्साेःत्/",
+      "group": "AN",
+      "mean": "<p>ground-nut; almond. Archis hupogaea.</p>बदाम ।"
+    },
+    "01654": {
+      "dId": "ᤂᤠᤕᤠᤔᤠ ᤛᤡᤱ",
+      "desc": "/खायामा सिङ्/",
+      "group": "AN",
+      "mean": "<p>a kind of herbal tree. Bischafia javanica.</p>कैंजलकाे रुख ।"
+    },
+    "01655": {
+      "dId": "ᤂᤠᤕᤢ ᤛᤡᤱ",
+      "desc": "/खायु सिङ्/",
+      "group": "AN",
+      "mean": "<p>walnut tree. Juglans regia.</p>ओखरकाे बाेट ।"
+    },
+    "01656": {
+      "dId": "ᤂᤠᤖᤠ",
+      "desc": "/खारा/",
+      "group": "AN",
+      "mean": "<p>justice.</p>न्याय; निसाफ ।"
+    },
+    "01657": {
+      "dId": "ᤂᤠᤖᤠᤰ",
+      "desc": "/खाराक्/",
+      "group": "AN",
+      "mean": "<p>1. all; entire; whole. 2. up to.</p>१. भएजति; टाकटुक । २. सम्म ।"
+    },
+    "01658": {
+      "dId": "ᤂᤠᤖᤠᤣ᤺ᤴ(ᤗᤠᤣ᤺ᤴ)",
+      "desc": "/खाराेः(लाेः)न्/",
+      "group": "AN",
+      "mean": "<p>judgement; verdict.</p>फैसला; ठहर ।"
+    },
+    "01659": {
+      "dId": "ᤂᤠᤖᤧ",
+      "desc": "/खारे/",
+      "group": "AN",
+      "mean": "<p>the main beam on which rafters rest.</p>निदाल ।"
+    },
+    "01660": {
+      "dId": "ᤂᤠᤖᤧᤴ",
+      "desc": "/खारेन्/",
+      "group": "AN",
+      "mean": "<p>injustice.</p>अन्याय ।"
+    },
+    "01661": {
+      "dId": "ᤂᤠᤗᤱ-ᤕᤠᤰᤂᤣ",
+      "desc": "/खालङ्-याक्खे/",
+      "group": "AN",
+      "mean": "<p> a kind of yam.</p>जाँते तरुल ।"
+    },
+    "01662": {
+      "dId": "ᤂᤠᤗᤠᤣ᤺ᤔᤠ/ᤂᤠᤗᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/खालाेःम्मा/",
+      "group": "AN",
+      "mean": "<p>1. to divine; to foretell. 2. to impart justice; to decide a case; to determine.</p>१. जाेखना बताउनु । २. न्याय दिनु; न्याय गर्नु; फैसला गर्नु ।"
+    },
+    "01663": {
+      "dId": "ᤂᤠᤗᤧᤵ",
+      "desc": "/खालेप्/",
+      "group": "AN",
+      "mean": "<p>blank; empty; vacant.</p>खाली; रिक्त; रित्ताे ।"
+    },
+    "01664": {
+      "dId": "ᤂᤠᤘᤠ",
+      "desc": "/खावा/",
+      "group": "AN",
+      "mean": "<p>1. the wall of earth made around the field; enclosure; compound wall; fence. 2. tunnel; trench.</p>१. जग्गा- जमिन, घरबारी आदि चारैतिरबाट छेक्न माटाे उठाई लगाइएकाे पर्खाल, हाता वा घेराबार । २. सुरुङ; सुरक्षाका लागि वरिपरि खनिएकाे खाडल ।"
+    },
+    "01665": {
+      "dId": "ᤂᤠᤘᤠᤰ",
+      "desc": "/खावाक्/",
+      "group": "AN",
+      "mean": "<p>1. harrow; spiked  plough; an implement to stir/ move the grains while drying them up in the sun. 2. harrow, a wooden implement to level the mud in paddy fields while sowing paddy plants.</p>१. फ्याउरी; बिस्कुन चलाउने, फिजाउने साधन । २. खेत उठाउन, सम्याउन प्रयाेग गरिने दाँते जस्ताे औजार ।"
+    },
+    "01666": {
+      "dId": "ᤂᤠᤘᤠ ᤐᤢ",
+      "desc": "/खावा पु/",
+      "group": "AN",
+      "mean": "<p>egret; cattle egret. <i>Bubulcus ibis.</i></p>बकुल्ला (चराे) ।"
+    },
+    "01667": {
+      "dId": "ᤂᤠᤘᤠᤔᤠ",
+      "desc": "/खावामा/",
+      "group": "AN",
+      "mean": "<p>a steep hill stream which runs and dries up quickly; small stream; rivulet; brook.</p>खहरे; खाेल्साे ।"
+    },
+    "01668": {
+      "dId": "ᤂᤠᤘᤧᤛᤠᤣᤌᤠ᤺ᤰᤑᤢ᤺ᤳ/ᤂᤠᤘᤧᤛᤠᤣᤌᤠᤁ᤻ᤑᤢᤋ᤻ ᤔᤠᤱ",
+      "desc": "/खावेसाेथाःक्फुःत् माङ्/",
+      "group": "AN",
+      "mean": "<p>the household or family deity.</p>गृह देवता; घरका देवता । "
+    },
+    "01669": {
+      "dId": "ᤂᤠᤘᤧᤛᤠᤣᤌᤠ᤺ᤰᤑᤢ᤺ᤳ/ᤂᤠᤘᤧᤛᤠᤣᤌᤠᤁ᤻ᤑᤢᤋ᤻ -ᤛᤠᤶᤍᤢᤰ",
+      "desc": "/खावेसाेथाःक्फुःत्-साम्दुक्/",
+      "group": "AN",
+      "mean": "<p>1. headache or dizziness caused by wrath of an evil  diety/ spirit. 2. dizziness; giddiness.</p>१. अशुभ आत्मा वा देवताकाे काेपले हुने टाउकाे दुख्ने तथा रिङटा लाग्ने बिमारी । २. रिङटा लाग्ने बिमारी ।"
+    },
+    "01670": {
+      "dId": "ᤂᤠᤛᤠ",
+      "desc": "/खासा/",
+      "group": "AN",
+      "mean": "<p>thick woolen blanket.</p>राडी ।"
+    },
+    "01671": {
+      "dId": "ᤂᤠᤛᤠᤂᤠᤍᤡ ",
+      "desc": "/खासाखादि/",
+      "group": "AN",
+      "mean": "<p>felt; thick woolen material (rug, blanket etc) through which water does not easily soak.</p>जमाेठ; हतपत पानी नछिर्ने बाक्लाे ऊनी कपडा  (राडी, पाखी आदि) ।"
+    },
+    "01672": {
+      "dId": "ᤂᤠᤛᤠᤱ",
+      "desc": "/खासाङ्/",
+      "group": "AN",
+      "mean": "<p>nevertheless; anyway.</p>उसैपनि; त्यसैपनि ।"
+    },
+    "01673": {
+      "dId": "ᤂᤠᤛᤠᤵ/ᤂᤠᤛᤠᤵᤗᤠ",
+      "desc": "/खासाप्/खासाप्ला/",
+      "group": "AN",
+      "mean": "<p>exercise book; notebook; record book; account book.</p>कापी; खाता ।"
+    },
+    "01674": {
+      "dId": "ᤂᤠᤛᤠᤶ",
+      "desc": "/खासाम्/",
+      "group": "AN",
+      "mean": "<p>civilisation.</p>सभ्यता ।"
+    },
+    "01675": {
+      "dId": "ᤂᤠᤛᤠᤶᤒᤠ",
+      "desc": "/खासाम्बा/",
+      "group": "AN",
+      "mean": "<p>civilised.</p>सभ्य ।"
+    },
+    "01676": {
+      "dId": "ᤂᤠᤛᤡᤱ",
+      "desc": "/खासिङ्/",
+      "group": "AN",
+      "mean": "<p>1. rationality; knowledge.  2. general knowledge; common sense.</p>१. विवेक; बुद्धि । २. सामान्य ज्ञान ।"
+    },
+    "01677": {
+      "dId": "ᤂᤠᤛᤢᤰ",
+      "desc": "/खासुक्/",
+      "group": "AN",
+      "mean": "<p>1. sharpness. 2. sharp edge.</p>१. तीक्ष्णता । २. धार ।"
+    },
+    "01678": {
+      "dId": "ᤂᤠᤛᤢᤰᤐᤠ",
+      "desc": "/खासुक्पा/",
+      "group": "AN",
+      "mean": "<p>1. sharp; sharp-edged; keen-edged. 2. keen in intelligence; sharp-witted; gifted; ingenious; talented.</p>१. धारीलाे; लाग्ने; धार लाग्ने । २. तीब्र बुद्धि भएकाे; तीक्ष्ण बुद्धिकाे ।"
+    },
+    "01679": {
+      "dId": "ᤂᤠᤛᤢᤰᤔᤠ",
+      "desc": "/खासुक्मा/",
+      "group": "AN",
+      "mean": "<p>1. to be sharp-edged. 2. to be smart; to be active.</p>१. धारीलाे हुनु (हतियार) । २. तीब्र बुद्धिकाे हुनु; फुर्तिलाे हुनु।"
+    },
+    "01680": {
+      "dId": "ᤂᤠᤛᤢᤛᤠᤒᤠ",
+      "desc": "/खासुसाबा/",
+      "group": "AN",
+      "mean": "<p>lawyer; pleader; solicitor.</p>वकिल ।"
+    },
+    "01681": {
+      "dId": "ᤂᤠᤛᤢᤗᤰ",
+      "desc": "/खासेलक्/",
+      "group": "AN",
+      "mean": "<p>doggendness; zealotry.</p>हठ; हठवादिता ।"
+    },
+    "01682": {
+      "dId": "ᤂᤠᤛᤧᤴ",
+      "desc": "/खासेन्/",
+      "group": "AN",
+      "mean": "<p>justice.</p>न्याय ।"
+    },
+    "01683": {
+      "dId": "ᤂᤠᤛᤧᤴᤗᤠᤣ᤺ᤶᤒᤠ/ᤂᤠᤛᤧᤴᤗᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/खासेन्लाेःम्बा/",
+      "group": "AN",
+      "mean": "<p>judge.</p>न्यायधीश ।"
+    },
+    "01684": {
+      "dId": "ᤂᤠᤛᤧᤶᤒᤠ",
+      "desc": "/खासेम्बा/",
+      "group": "AN",
+      "mean": "<p>1. wise; intelligent; knowledgeable; rational. 2. judge.</p>१. बुद्धिमान; ज्ञानी; विवेकी । २. न्यायकर्ता ।"
+    },
+    "01685": {
+      "dId": "ᤂᤠᤛᤧᤶᤔᤠ",
+      "desc": "/खासेम्मा/",
+      "group": "AN",
+      "mean": "<p>1. to be divined out. 2. to be done or given justice.</p>१. जाेखना खुट्टिनु । २. न्याय निसाफ हुनु, गरिनु ।"
+    },
+    "01686": {
+      "dId": "ᤂᤠᤜᤢᤴ",
+      "desc": "/खाहुन्/",
+      "group": "AN",
+      "mean": "<p>precept; instruction; admonishment.</p>अर्ति; उपदेश ।"
+    },
+    "01687": {
+      "dId": "ᤂᤠ᤺ᤰᤔᤠ/ᤂᤠᤁ᤻ᤔᤠ",
+      "desc": "/खाःक्मा/",
+      "group": "AN",
+      "mean": "<p>1. to come out (as tooth); to break off ( as teeth of Khukuri or saw); to break off partially. 2. to be blunt.</p>१. दाँत झर्नु (खुकुरी आदि हतियारकाे); थाेते हुनु (हतियार) । २. भुत्ते हुनु ।"
+    },
+    "01688": {
+      "dId": "ᤂᤠ᤺ᤰᤘᤣᤳ/ᤂᤠᤁ᤻ᤘᤣᤳ",
+      "desc": "/खाःक्वेत्/",
+      "group": "AN",
+      "mean": "<p>phlegm; sputum.</p>खकार ।"
+    },
+    "01689": {
+      "dId": "ᤂᤠ᤺ᤱᤔᤠ/ᤂᤠᤅ᤻ᤔᤠ",
+      "desc": "/खाःङ्मा/",
+      "group": "AN",
+      "mean": "<p>to cause to break off partially; to make slices; to slice.</p>चाेइट्याउनु ।"
+    },
+    "01690": {
+      "dId": "ᤂᤠ᤺ᤳᤇᤡᤱᤔᤠ/ᤂᤠᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/खाःत्छिङ्मा/",
+      "group": "AN",
+      "mean": "<p>1. to eat (food) to one’s satisfaction. 2. to eat to each other’s satisfaction.</p>१. अघाउने गरी खानु । २. परस्परमा अघाउने गरी खानु । "
+    },
+    "01691": {
+      "dId": "ᤂᤠ᤺ᤴᤁᤡ/ᤂᤠᤏ᤻ᤁᤡ",
+      "desc": "/खाःन्की/",
+      "group": "AN",
+      "mean": "<p>land under one’s own possession.</p>भाेगचलन भित्रकाे एकलाैटी जमिन, जग्गा ।"
+    },
+    "01692": {
+      "dId": "ᤂᤠ᤺ᤵᤐᤠ/ᤂᤠᤐ᤻ᤐᤠ",
+      "desc": "/खाःप्पा/",
+      "group": "AN",
+      "mean": "<p>fire-pot; a small portable earthenware pot to put fire into (get hit in winter).</p>मकल ।"
+    },
+    "01693": {
+      "dId": "ᤂᤠ᤺ᤵᤔᤠ/ᤂᤠᤐ᤻ᤔᤠ",
+      "desc": "/खाःप्मा/",
+      "group": "AN",
+      "mean": "<p>1. to satiate someone with food; to feed someone to his/her full satisfaction; to satiate. 2. to satisfy sb. 3. to shift/ move sth a bit further.</p>१. अघाउन्जेल खुवाउनु अघाउन लगाउनु । २. सन्तुष्ट  पार्नु (खुवाएर) ।३. पर सार्नु; पर पन्छाउनु ।"
+    },
+    "01694": {
+      "dId": "ᤂᤠ᤺ᤵᤔᤡ᤺ᤳ/ᤂᤠᤐ᤻ᤔᤐᤋ᤻",
+      "desc": "/खाःप्मिःत्/",
+      "group": "AN",
+      "mean": "<p>cloud.</p>बादल; मेघ ।"
+    },
+    "01695": {
+      "dId": "ᤂᤠ᤺ᤵᤔᤣᤎ᤺ᤶᤒᤠ/ᤂᤠᤐ᤻ᤔᤣᤎᤔ᤻ᤒᤠ",
+      "desc": "/खाःप्मेधःम्बा/",
+      "group": "AN",
+      "mean": "<p>1. mist. 2. mist that hovers over a river.</p>१. कुइराे; कुहिराे । २. खाेलामाथिमाथि उड्ने कुइराे ।"
+    },
+    "01696": {
+      "dId": "ᤂᤠ᤺ᤔᤠ",
+      "desc": "/खाःमा/",
+      "group": "AN",
+      "mean": "<p>to be satiated after food; to eat to the full.</p>अघाउनु ।"
+    },
+    "01697": {
+      "dId": "ᤂᤠ᤺ᤔᤧᤴᤍᤱ",
+      "desc": "/खाःमेन्दङ्/",
+      "group": "AN",
+      "mean": "<p>liking loneliness; eschewing company; fond of being alone; living isolated.</p>एकलकाँटे ।"
+    },
+    "01698": {
+      "dId": "ᤂᤠ᤺ᤶᤔᤠ/ᤂᤠᤔ᤻ᤔᤠ",
+      "desc": "/खाःम्मा/",
+      "group": "AN",
+      "mean": "<p>1. yawning. 2. to hurt sb; to wound sb. 3. to chew. 4. to yawn.</p>१. हाई; हाई गराइ । २. अरुलाई चाेट पुर्याउनु; चाेट पार्नु । ३. चपाउनु । ४. हाई गर्नु ।"
+    }
+  }
+}

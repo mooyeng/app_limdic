@@ -1,0 +1,1006 @@
+{
+  "Dic": {
+    "03775": {
+      "dId": "ᤏᤡ ",
+      "desc": "/नि/",
+      "group": "BJ",
+      "mean": "<p>1. two; the number and the figure 2. 2. emphatic particle, so.</p>१. दुई; २ को अङ्क । २. पो; नै ।"
+    },
+    "03776": {
+      "dId": "ᤏᤡᤃᤵᤗᤠᤣ᤺ᤰ/ᤏᤡᤃᤵᤗᤠᤣᤁ᤻",
+      "desc": "/निगप्लोःक्/",
+      "group": "BJ",
+      "mean": "<p>two wheeler (eg: bicycle).</p>दुई पाङ्ग्रे गाडी (जस्तै साइकल) ।"
+    },
+    "03777": {
+      "dId": "ᤏᤡᤰᤔᤠ",
+      "desc": "/निक्मा/",
+      "group": "BJ",
+      "mean": "<p>to have sex with someone; to fuck; to copulate.</p>सम्भोग गर्नु; चिक्नु ।"
+    },
+    "03778": {
+      "dId": "ᤏᤡᤰᤛᤡᤱᤔᤠ",
+      "desc": "/निक्सिङ्मा/",
+      "group": "BJ",
+      "mean": "<p>to fuck or copulate with each other.</p>परस्परमा सम्भोग गर्नु ।"
+    },
+    "03779": {
+      "dId": "ᤏᤡᤎᤠᤣ",
+      "desc": "/निघो/",
+      "group": "BJ",
+      "mean": "<p>feeling; experience.</p>अनुभुति; महसुस ।"
+    },
+    "03780": {
+      "dId": "ᤏᤡᤱ ",
+      "desc": "/निङ्/",
+      "group": "BJ",
+      "mean": "<p>1. thatch. 2. poison.</p>१. खर । २. विष । "
+    },
+    "03781": {
+      "dId": "ᤏᤡᤱᤄᤡᤛᤠᤶᤒᤠ",
+      "desc": "/निङ्घिसाम्बा/",
+      "group": "BJ",
+      "mean": "<p>a doctor of Vaidya healing the effect of poison.</p>विष मार्ने वा झार्ने वैद्य वा विज्ञ ।"
+    },
+    "03782": {
+      "dId": "ᤏᤡᤱᤗᤣᤂᤢ",
+      "desc": "/निङ्लेखु/",
+      "group": "BJ",
+      "mean": "<p>poisonous.</p>विषालु ।"
+    },
+    "03783": {
+      "dId": "ᤏᤡᤱᤃᤠᤷ",
+      "desc": "/निङ्गार/",
+      "group": "BJ",
+      "mean": "<p>the foam of fermented but unfiltered rice or millet beer.</p>नछानेको जाँडको छोक्राबाट निस्कने रस; निगार ।"
+    },
+    "03784": {
+      "dId": "ᤏᤡᤱᤄᤴ",
+      "desc": "/निङ्घन्/",
+      "group": "BJ",
+      "mean": "<p>mineral substance; metals.</p>धातु ।"
+    },
+    "03785": {
+      "dId": "ᤏᤡᤱᤄᤶ",
+      "desc": "/निङ्घम्/",
+      "group": "BJ",
+      "mean": "<p>worries; unrest.</p>चिन्ता ।"
+    },
+    "03786": {
+      "dId": "ᤏᤡᤱᤄᤡᤔᤠ",
+      "desc": "/निङ्घिमा/",
+      "group": "BJ",
+      "mean": "<p>a poison-girl.</p>विषकन्या ।"
+    },
+    "03787": {
+      "dId": "ᤏᤡᤱᤄᤡᤶ",
+      "desc": "/निङ्घिम्/",
+      "group": "BJ",
+      "mean": "<p>selflessness; unselfishness.</p>निःस्वार्थपन ।"
+    },
+    "03788": {
+      "dId": "ᤏᤡᤱᤄᤡᤶᤒᤠ",
+      "desc": "/निङ्घिम्बा/",
+      "group": "BJ",
+      "mean": "<p>selfless; unselfish.</p>निःस्वार्थ; स्वार्थ नभएको ।"
+    },
+    "03789": {
+      "dId": "ᤏᤡᤱᤄᤢᤳᤋᤡ ",
+      "desc": "/निङ्घुत्ति/",
+      "group": "BJ",
+      "mean": "<p>physical balance to weigh gold or silver.</p>सुन चाँदि तौलने सानो खालको तराजु ।"
+    },
+    "03790": {
+      "dId": "ᤏᤡᤱᤄᤢᤶ",
+      "desc": "/निङ्घुम्/",
+      "group": "BJ",
+      "mean": "<p>supperssion; atrocity; opperssion.</p>अत्याचार; शोषण ।"
+    },
+    "03791": {
+      "dId": "ᤏᤡᤱᤄᤢᤘᤠ",
+      "desc": "/निङ्घुवा/",
+      "group": "BJ",
+      "mean": "<p>locust.</p>सलह ।"
+    },
+    "03792": {
+      "dId": "ᤏᤡᤱᤄᤧᤱ",
+      "desc": "/निङ्घेङ्/",
+      "group": "BJ",
+      "mean": "<p>bracelet.</p>चुरा ।"
+    },
+    "03793": {
+      "dId": "ᤏᤡᤱᤄᤧᤴ",
+      "desc": "/निङ्घेन्/",
+      "group": "BJ",
+      "mean": "<p>1. noise; irritating noise. 2. sound pollution.</p>१. कान खाने/ कर्कश आवाज । २. आवाज प्रदुषण ।"
+    },
+    "03794": {
+      "dId": "ᤏᤡᤱᤄᤧᤶᤔᤠ",
+      "desc": "/निङ्घेम्मा/",
+      "group": "BJ",
+      "mean": "<p>1. to be disturbed (with noise). 2. to feel irritated.</p>१. कान खानु । २. दिक्क मान्नु/ हुनु ।"
+    },
+    "03795": {
+      "dId": "ᤏᤡᤱᤈᤡᤈᤡ ",
+      "desc": "/निङ्जिजि/",
+      "group": "BJ",
+      "mean": "<p>grieveness; sadness.</p>दिक्दारी; खिन्नता ।"
+    },
+    "03796": {
+      "dId": "ᤏᤡᤱᤈᤠᤣ",
+      "desc": "/निङ्जो/",
+      "group": "BJ",
+      "mean": "<p>tactfulness; efficiency.</p>कार्यकौशल ।"
+    },
+    "03797": {
+      "dId": "ᤏᤡᤱᤈᤧᤰ",
+      "desc": "/निङ्जेक्/",
+      "group": "BJ",
+      "mean": "<p>awareness.</p>सचेतता ।"
+    },
+    "03798": {
+      "dId": "ᤏᤡᤱᤈᤧᤰᤔᤠ",
+      "desc": "/निङ्जेक्मा/",
+      "group": "BJ",
+      "mean": "<p>to cause sb to be aware; to spread awareness.</p>सचेत पार्नु; चेतना फैलाउनु ।"
+    },
+    "03799": {
+      "dId": "ᤏᤡᤱᤈᤧᤵ",
+      "desc": "/निङ्जेप्/",
+      "group": "BJ",
+      "mean": "<p>1. assumption. 2. hypothesis.</p>१. अन्दाज; अड्कल । २. अवधारणा; परिकल्पना ।"
+    },
+    "03800": {
+      "dId": "ᤏᤡᤱᤈᤧᤵᤔᤠ",
+      "desc": "/निङ्जेप्मा/",
+      "group": "BJ",
+      "mean": "<p>to guess; to assume.</p>अड्कल गर्नु; परिकल्पना गर्नु ।"
+    },
+    "03801": {
+      "dId": "ᤏᤡᤱᤍᤱ",
+      "desc": "/निङ्दङ्/",
+      "group": "BJ",
+      "mean": "<p>understanding.</p>समझदारी ।"
+    },
+    "03802": {
+      "dId": "ᤏᤡᤱᤍᤡ᤺ᤰ/ᤏᤡᤱᤍᤡᤁ᤻",
+      "desc": "/निङ्दिःक्/",
+      "group": "BJ",
+      "mean": "<p>determination.</p>अठोट; दृढता ।"
+    },
+    "03803": {
+      "dId": "ᤏᤡᤱᤍᤢᤰ",
+      "desc": "/निङ्दुक्/",
+      "group": "BJ",
+      "mean": "<p>virus.</p>सुक्ष्म कीटाणु ।"
+    },
+    "03804": {
+      "dId": "ᤏᤡᤱᤍᤠᤣ᤺ᤰᤔᤠ/ᤏᤡᤱᤍᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/निङ्दोःक्मा/",
+      "group": "BJ",
+      "mean": "<p>(n.) aversion; distaste; disgust. (vi.) to feel aversion; to be fed up.</p>(ना.) अरूचि; अमन । (अक्रि.) अरूचि हुनु; वाक्क हुनु ।"
+    },
+    "03805": {
+      "dId": "ᤏᤡᤱᤎᤧᤴ",
+      "desc": "/निङ्धेन्/",
+      "group": "BJ",
+      "mean": "<p>sleep; slumber.</p>निद्रा ।"
+    },
+    "03806": {
+      "dId": "ᤏᤡᤱᤏᤡ ",
+      "desc": "/निङ्नि/",
+      "group": "BJ",
+      "mean": "<p>electron.</p>विद्युत अणु ।"
+    },
+    "03807": {
+      "dId": "ᤏᤡᤱᤏᤡᤱ",
+      "desc": "/निङ्निङ्/",
+      "group": "BJ",
+      "mean": "<p>mind; mental temperament.</p>मानस; मानसिकता ।"
+    },
+    "03809": {
+      "dId": "ᤏᤡᤱᤏᤡᤱᤒᤠ",
+      "desc": "/निङ्निङ्बा/",
+      "group": "BJ",
+      "mean": "<p>subjective; mental.</p>मनोगत; मानसिक ।"
+    },
+    "03810": {
+      "dId": "ᤏᤡᤱᤏᤡᤱ ᤔᤢᤴᤎᤢᤶ",
+      "desc": "/निङ्निङ् मुन्धुम्/",
+      "group": "BJ",
+      "mean": "<p>psychology.</p>मनोविज्ञान ।"
+    },
+    "03811": {
+      "dId": "ᤏᤡᤱᤔᤡ ",
+      "desc": "/निङ्मि/",
+      "group": "BJ",
+      "mean": "<p>foe; enemy.</p>शत्रु; वैरी ।"
+    },
+    "03812": {
+      "dId": "ᤏᤡᤱᤕᤠ᤺ᤶ/ᤏᤡᤱᤕᤠᤔ᤻",
+      "desc": "/निङ्याःम्/",
+      "group": "BJ",
+      "mean": "<p>hesitation; dilemma; uncertainty.</p>दोमन; अन्यमनस्कता; दुविधा ।"
+    },
+    "03813": {
+      "dId": "ᤏᤡᤱᤗᤠᤵ",
+      "desc": "/निङ्लाप्/",
+      "group": "BJ",
+      "mean": "<p>basket made of split-bamboo.</p>ढाकी; डालो ।"
+    },
+    "03814": {
+      "dId": "ᤏᤡᤱᤗᤠᤶ",
+      "desc": "/निङ्लाम्/",
+      "group": "BJ",
+      "mean": "<p>counsel; recommendation.</p>सल्लाह; सुझाव ।"
+    },
+    "03815": {
+      "dId": "ᤏᤡᤱᤗᤠᤶᤍᤠᤣᤒᤠ",
+      "desc": "/निङ्लाम्दोबा/",
+      "group": "BJ",
+      "mean": "<p>counsellor; advisor.</p>सल्लाहकार ।"
+    },
+    "03816": {
+      "dId": "ᤏᤡᤱᤗᤧ᤹ᤔᤠ",
+      "desc": "/निङ्ले?मा/",
+      "group": "BJ",
+      "mean": "<p>1. to be sick of nausea; to feel like vomiting (by overeating). 2. to have distaste; to loose appetite. 3. to feel disgusted.</p>१. अमन हुनु । २. अरुचि हुनु । ३. वाक्क हुनु ।"
+    },
+    "03817": {
+      "dId": "ᤏᤡᤱᤗᤧ᤹ᤗᤧ᤹",
+      "desc": "/निङ्ले?ले?/",
+      "group": "BJ",
+      "mean": "<p>becoming sick of nausea; feeling of sickness/ vomiting/ nausea.</p>वाकवाक; वाकवाकी; वाक्क ।"
+    },
+    "03818": {
+      "dId": "ᤏᤡᤱᤗᤧᤱᤔᤠ",
+      "desc": "/निङ्लेङ्मा/",
+      "group": "BJ",
+      "mean": "<p>aversion; dislike.</p>अरुचि ।"
+    },
+    "03819": {
+      "dId": "ᤏᤡᤱᤗᤧᤶ",
+      "desc": "/निङ्लेम्/",
+      "group": "BJ",
+      "mean": "<p>intrigue; conspiracy.</p>षड्यन्त्र ।"
+    },
+    "03820": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹",
+      "desc": "/निङ्वा?/",
+      "group": "BJ",
+      "mean": "<p>1. mind; mental state. 2. conscience; thinking. 3. will; wish; desire.</p>१. मन; मानसिक स्थिति । २. विचार; विवेक । ३. इच्छा; अभिरुचि ।"
+    },
+    "03821": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤕᤠᤱᤔᤠ",
+      "desc": "/निङ्वा?याङ्मा/",
+      "group": "BJ",
+      "mean": "<p>1. brain power; wisdom.</p>१. बुद्धिमत्ता । २. बौद्धिक शक्ति ।"
+    },
+    "03822": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤁᤣᤍᤒᤠ",
+      "desc": "/निङ्वा? केदाबा/",
+      "group": "BJ",
+      "mean": "<p>convincing; satisfactory.</p>चित्तबुझ्ने ।"
+    },
+    "03823": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤁᤣᤔᤠᤒᤠ",
+      "desc": "/निङ्वा? केमाबा/",
+      "group": "BJ",
+      "mean": "<p>wonderful; strange; surprising.</p>आश्चार्यजनक; छक्क पर्दो/ पार्दो ।"
+    },
+    "03824": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤒᤠ",
+      "desc": "/निङ्वा?बा/",
+      "group": "BJ",
+      "mean": "<p>mental; of inside the mind.</p>मानसिक; मनभित्रको ।"
+    },
+    "03825": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤒᤠ ᤐᤠᤴ",
+      "desc": "/निङ्वा?बा पान्/",
+      "group": "BJ",
+      "mean": "<p>desire; wish.</p>मनको/ भित्रको कुरा ।"
+    },
+    "03826": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤒᤠ᤺ᤴ",
+      "desc": "/निङ्वा?बा:न्/",
+      "group": "BJ",
+      "mean": "<p>of inside the mind.</p>मनको (कुरा) ।"
+    },
+    "03827": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤀᤡ᤺ᤵᤔᤠ",
+      "desc": "/निङ्वा? इःप्मा/",
+      "group": "BJ",
+      "mean": "<p>1. to remember; to recall. 2. to think over.</p>१. सम्झनु; याद गर्नु । २. विचार गर्नु ।"
+    },
+    "03828": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤀᤡ᤺ᤔᤠ",
+      "desc": "/निङ्वा? इःमा/",
+      "group": "BJ",
+      "mean": "<p>1. to feel giddy. 2. not to be able to concentrate.</p>१. रिङ्टा लाग्नु । २. मन डुल्नु वा घुम्नु; मन बहकिनु ।"
+    },
+    "03829": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ᤀᤢᤱᤔᤠ",
+      "desc": "/निङ्वा? उङ्मा/",
+      "group": "BJ",
+      "mean": "<p>1. to draw one’s mind; to attract. 2. to win someone’s mind or heart.</p>१. मन तान्नु; आकर्षित गर्नु । २. मन जित्नु ।"
+    },
+    "03830": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤁᤣ᤺ᤶᤔᤠ/ᤁᤣᤔ᤻ᤔᤠ",
+      "desc": "/निङ्वा? केःम्मा/",
+      "group": "BJ",
+      "mean": "<p>to be far sighted.</p>दूरदृष्टि/ दूरदर्शी हुनु ।"
+    },
+    "03831": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤁᤠᤣ᤺ᤵᤔᤠ/ᤁᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/निङ्वा? कोःप्मा/",
+      "group": "BJ",
+      "mean": "<p>to search other’s mind or heart.</p>अरूको मन खोतल्नु; मन चोर्नु वा मनपेट लिनु ।"
+    },
+    "03832": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤁᤣᤵᤔᤠ",
+      "desc": "/निङ्वा? केप्मा/",
+      "group": "BJ",
+      "mean": "<p>to be fed up with.</p>मन अघाउनु; दिक्क हुनु ।"
+    },
+    "03833": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤆᤢᤰᤔᤠ",
+      "desc": "/निङ्वा? चुक्मा/",
+      "group": "BJ",
+      "mean": "<p>to be narrow minded.</p>मन सानो हुनु; सङ्कुचित मनको हुनु; सानो मन हुनु ।"
+    },
+    "03834": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤆᤣᤰᤔᤠ",
+      "desc": "/निङ्वा? चेक्मा/",
+      "group": "BJ",
+      "mean": "<p>to be disheartened; to be heart broken.</p>(मन भाँचिनु) निराश हुनु ।"
+    },
+    "03835": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤱᤔᤠ",
+      "desc": "/निङ्वा? तङ्मा/",
+      "group": "BJ",
+      "mean": "<p>to share similar views or have the same views.</p>मन मिल्नु ।"
+    },
+    "03836": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤠᤰᤔᤠ",
+      "desc": "/निङ्वा? ताक्मा/",
+      "group": "BJ",
+      "mean": "<p>to be non-pulsed; to be dumbfounded; to be fuddled.</p>मन भरङ्ग हुनु; स्तम्भित हुनु ।"
+    },
+    "03837": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤠᤔᤠ",
+      "desc": "/निङ्वा? तामा/",
+      "group": "BJ",
+      "mean": "<p>to be as one thinks; to be satisfied/ gratified.</p>भने जस्तो हुनु; सोचेजस्तो हुनु; चित्त बुझ्नु ।"
+    },
+    "03838": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤠᤶᤔᤠ",
+      "desc": "/निङ्वा? ताम्मा/",
+      "group": "BJ",
+      "mean": "<p>1. to brood over. 2. to doubt.</p>१. घोरिनु । २. शङ्का लाग्नु ।"
+    },
+    "03839": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤠ᤺ᤔᤠ",
+      "desc": "/निङ्वा? ताःमा/",
+      "group": "BJ",
+      "mean": "<p>to please; satisfy or convince sb.</p>(अरूको) चित्त बुझाउनु; विश्वास दिलाउनु ।"
+    },
+    "03840": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤢᤰᤔᤠ",
+      "desc": "/निङ्वा? तुक्मा/",
+      "group": "BJ",
+      "mean": "<p>be matured (in mind and thinking).</p>बुद्धि छिप्पिनु; परिपक्व हुनु ।"
+    },
+    "03841": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤧ᤺ᤔᤠ",
+      "desc": "/निङ्वा? तेःमा/",
+      "group": "BJ",
+      "mean": "<p>to think; to ponder.</p>सोचविचार गर्नु ।"
+    },
+    "03842": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤋᤧᤶᤔᤠ",
+      "desc": "/निङ्वा? तेम्मा/",
+      "group": "BJ",
+      "mean": "<p>to be acceptable.</p>स्वीकार गर्नु ।"
+    },
+    "03843": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤏᤢᤰᤔᤠ",
+      "desc": "/निङ्वा? नुःक्मा/",
+      "group": "BJ",
+      "mean": "<p>to cause sb to change his/her mind.</p>(मन फर्काउनु) मन बदलिदिनु ।"
+    },
+    "03844": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤏᤢ᤺ᤱᤔᤠ/ᤏᤢᤅ᤻ᤔᤠ",
+      "desc": "/निङ्वा? नुःङ्मा/",
+      "group": "BJ",
+      "mean": "<p>to change one’s mind.</p>मन फर्कनु; मन बदलिनु ।"
+    },
+    "03845": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤏᤢ᤺ᤔᤠ",
+      "desc": "/निङ्वा? नुःमा/",
+      "group": "BJ",
+      "mean": "<p>to ve of fair mind; to be kind; to be generous.</p>चोखो मनको हुनु; सहृदयी हुनु ।"
+    },
+    "03846": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤐᤡᤔᤠ",
+      "desc": "/निङ्वा? पिमा/",
+      "group": "BJ",
+      "mean": "<p>1. to give inkling of sth. 2. to pay attention.</p>१. मन दिनु । २. ध्यान दिनु ।"
+    },
+    "03847": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤑᤣ᤹ᤔᤠ",
+      "desc": "/निङ्वा? फे?मा/",
+      "group": "BJ",
+      "mean": "<p>to forget.</p>बिर्सनु ।"
+    },
+    "03848": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤔᤠ᤺ᤔᤠ",
+      "desc": "/निङ्वा? माःमा/",
+      "group": "BJ",
+      "mean": "<p>to feel amazed; flabbergasted.</p>(मन हराउनु) छक्क पर्नु; अचम्म हुनु ।"
+    },
+    "03849": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤔᤢᤵᤔᤠ",
+      "desc": "/निङ्वा? मुप्मा/",
+      "group": "BJ",
+      "mean": "<p>to forget; to slip from someone’s mind.</p>बिर्सनु; मनमा नरहनु ।"
+    },
+    "03850": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤕᤰᤔᤠ",
+      "desc": "/निङ्वा? यक्मा/",
+      "group": "BJ",
+      "mean": "<p>to coax sth out of sb’s mind.</p>कन कोट्याउनु; मनको कुरा खोतल्नु ।"
+    },
+    "03851": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤕᤠᤶᤔᤠ",
+      "desc": "/निङ्वा? यम्मा/",
+      "group": "BJ",
+      "mean": "<p>to have a broad-mind; to be broad-minded.</p>मन फराकिलो पार्नु; चित्त ठूलो पार्नु ।"
+    },
+    "03852": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤕᤠᤰᤔᤠ",
+      "desc": "/निङ्वा? याक्मा/",
+      "group": "BJ",
+      "mean": "<p>to remember.</p>सम्झना(मा) हुनु; याद हुनु ।"
+    },
+    "03853": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤕᤠ᤺ᤰᤔᤠ/ᤕᤠᤁ᤻ᤔᤠ",
+      "desc": "/निङ्वा? याःक्मा/",
+      "group": "BJ",
+      "mean": "<p>to doubt.</p>शङ्का गर्नु ।"
+    },
+    "03854": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤗᤣᤱᤔᤠ",
+      "desc": "/निङ्वा? लेङ्मा/",
+      "group": "BJ",
+      "mean": "<p>to be unconsious; to be numb-founded; to faint.</p>अचेत हुनु; बेहोस हुनु; मुर्छा पर्नु ।"
+    },
+    "03855": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤛᤶᤔᤠ",
+      "desc": "/निङ्वा? सम्मा/",
+      "group": "BJ",
+      "mean": "<p>to be worried.</p>चिन्तित हुनु ।"
+    },
+    "03856": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤛᤵᤔᤠ",
+      "desc": "/निङ्वा? सप्मा/",
+      "group": "BJ",
+      "mean": "<p>to be delighted.</p>मन प्रफुल्ल हुनु ।"
+    },
+    "03857": {
+      "dId": "ᤏᤡᤱᤛ᤺ᤵᤔᤠ/ᤏᤡᤱᤛᤐ᤻ᤔᤠ",
+      "desc": "/निङ्सःप्मा/",
+      "group": "BJ",
+      "mean": "<p>happiness; delight.</p>खुशी; प्रफुल्लता ।"
+    },
+    "03858": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤛᤣ᤺ᤔᤠ",
+      "desc": "/निङ्वा? सेःमा/",
+      "group": "BJ",
+      "mean": "<p>to come sense; to become intelligent or wise.</p>चेत फिर्नु; बुद्धि फिर्नु ।"
+    },
+    "03859": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤛᤠᤣ᤺ᤔᤠ",
+      "desc": "/निङ्वा? सोःम्मा/",
+      "group": "BJ",
+      "mean": "<p>to think over.</p>घोत्लनु; गम्भिरतापूर्वक विचार गर्नु ।"
+    },
+    "03860": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤛᤧᤵᤔᤠ",
+      "desc": "/निङ्वा? सेप्मा/",
+      "group": "BJ",
+      "mean": "<p>to give up; to be disappointed.</p>मन मार्नु ।"
+    },
+    "03861": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤜᤡᤔᤠ",
+      "desc": "/निङ्वा? हिःमा/",
+      "group": "BJ",
+      "mean": "<p>(of mind) to wander/ get diverted; to feel sad/ melancholic.</p>मन घुम्नु/ बरालिनु; विरह चल्नु ।"
+    },
+    "03862": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤜᤢ᤹ᤔᤠ",
+      "desc": "/निङ्वा? हु?मा/",
+      "group": "BJ",
+      "mean": "<p>to influence; to impress.</p>मनमा छाप पार्नु; प्रभाव पार्नु ।"
+    },
+    "03863": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤜᤣᤵᤔᤠ",
+      "desc": "/निङ्वा? हेप्मा/",
+      "group": "BJ",
+      "mean": "<p>to listen with attention; to pay attention.</p>कान थापेर सुन्नु; ध्यान दिनु ।"
+    },
+    "03864": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤑᤢ/ᤏᤡᤱᤘᤠ᤹ᤑᤢᤔᤠ",
+      "desc": "/निङ्वा?फु/निङ्वा?फुमा/",
+      "group": "BJ",
+      "mean": "<p>almighty God; God.</p>परमेश्वर; ईश्वर ।"
+    },
+    "03865": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤛᤠᤣ",
+      "desc": "/निङ्वा?सो/",
+      "group": "BJ",
+      "mean": "<p>memory; remembrance.</p>स्मृति; स्मरण; सम्झना ।"
+    },
+    "03866": {
+      "dId": "ᤏᤡᤱᤘᤠ᤹ ᤛᤠᤣ᤺ᤰ",
+      "desc": "/निङ्वा?सोःक्/",
+      "group": "BJ",
+      "mean": "<p>aspiration; wish.</p>आकाङ्क्षा ।"
+    },
+    "03867": {
+      "dId": "ᤏᤡᤱᤛᤶ",
+      "desc": "/निङ्सम्/",
+      "group": "BJ",
+      "mean": "<p>consolation; sympathy.</p>सान्तावना; सहानुभूति ।"
+    },
+    "03868": {
+      "dId": "/निङ्सम्मा/",
+      "desc": "/निङ्सम्मा/",
+      "group": "BJ",
+      "mean": "<p>eagerness; to take interest.</p>उत्सुकता; चासो/ जिज्ञासा राख्नु   ।"
+    },
+    "03869": {
+      "dId": "ᤏᤡᤱᤛᤠ᤹ᤀᤡ ᤛᤠᤣ᤺ᤶ/ᤛᤠᤣᤔ᤻",
+      "desc": "/निङ्सा?इ सोःम्/",
+      "group": "BJ",
+      "mean": "<p>interview.</p>अन्तर्वार्ता; भेटवार्ता ।"
+    },
+    "03870": {
+      "dId": "ᤏᤡᤱᤛᤠᤱ",
+      "desc": "/निङ्साङ्/",
+      "group": "BJ",
+      "mean": "<p>hope.</p>आशा ।"
+    },
+    "03871": {
+      "dId": "ᤏᤡᤱᤛᤠᤵ",
+      "desc": "/निङ्साप्/",
+      "group": "BJ",
+      "mean": "<p>skill.</p>कौशल ।"
+    },
+    "03872": {
+      "dId": "ᤏᤡᤱᤛᤡᤶ",
+      "desc": "/निङ्सिम्/",
+      "group": "BJ",
+      "mean": "<p>satisfaction.</p>तृप्ति ।"
+    },
+    "03873": {
+      "dId": "ᤏᤡᤱᤃᤢᤶᤒᤠ",
+      "desc": "/निङ्गुम्बा/",
+      "group": "BJ",
+      "mean": "<p>pleasing; attractive; amusing.</p>चित्ताकर्षक; मनमोहक ।"
+    },
+    "03874": {
+      "dId": "ᤏᤡᤱᤛᤡᤛᤡ ",
+      "desc": "/निङ्सिसि/",
+      "group": "BJ",
+      "mean": "<p>disgust.</p>वाक्क; अमन; अरूचि ।"
+    },
+    "03875": {
+      "dId": "ᤏᤡᤱᤛᤢᤶ",
+      "desc": "/निङ्सुम्/",
+      "group": "BJ",
+      "mean": "<p>thinking; outlook.</p>विचार; दृष्टिकोण ।"
+    },
+    "03876": {
+      "dId": "ᤏᤡᤱᤛᤣ᤺ᤰ/ᤏᤡᤱᤛᤣᤁ᤻",
+      "desc": "/निङ्सेःक्/",
+      "group": "BJ",
+      "mean": "<p>planning; plan.</p>योजना ।"
+    },
+    "03877": {
+      "dId": "ᤏᤡᤱᤛᤧ᤺ᤵ/ᤏᤡᤱᤛᤧᤐ᤻",
+      "desc": "/निङ्सेःप्/",
+      "group": "BJ",
+      "mean": "<p>protection; preservation.</p>संरक्षण; आरक्षण ।"
+    },
+    "03878": {
+      "dId": "ᤏᤡᤇᤠᤵ",
+      "desc": "/निछाप्/",
+      "group": "BJ",
+      "mean": "<p>text; written (education) material.</p>पाठ; लिखित (पाठ्य) सामाग्री ।"
+    },
+    "03879": {
+      "dId": "ᤏᤡᤇᤠᤶ",
+      "desc": "/निछाम्/",
+      "group": "BJ",
+      "mean": "<p>education.</p>शिक्षा ।"
+    },
+    "03880": {
+      "dId": "ᤏᤡᤇᤠᤶᤒᤠ",
+      "desc": "/निछाम्बा/",
+      "group": "BJ",
+      "mean": "<p>student.</p>विद्यार्थी; छात्र ।"
+    },
+    "03881": {
+      "dId": "ᤏᤡᤇᤠᤶᤔᤠ",
+      "desc": "/निछाम्मा/",
+      "group": "BJ",
+      "mean": "<p>(fem.) student.</p>(स्त्री) विद्यार्थी; छात्रा ।"
+    },
+    "03882": {
+      "dId": "ᤏᤡᤇᤠᤶᤛᤠ",
+      "desc": "/निछाम्सा/",
+      "group": "BJ",
+      "mean": "<p>student; reader.</p>विद्यार्थी; पाठक ।"
+    },
+    "03883": {
+      "dId": "ᤏᤡᤇᤠᤶᤛᤠᤔᤠ",
+      "desc": "/निछाम्सामा/",
+      "group": "BJ",
+      "mean": "<p>(fem.) student; reader.</p>(स्त्री) छात्रा; पाठिका ।"
+    },
+    "03884": {
+      "dId": "ᤏᤡᤍᤢ᤺ᤱ/ᤏᤡᤍᤢᤅ᤻",
+      "desc": "/निदुःङ्/",
+      "group": "BJ",
+      "mean": "<p>viewpoint.</p>दृष्टिकोण ।"
+    },
+    "03885": {
+      "dId": "ᤏᤡᤍᤢ᤺ᤶ/ᤏᤡᤍᤢᤔ᤻",
+      "desc": "/निदुःम्/",
+      "group": "BJ",
+      "mean": "<p>meeting; (of kings) audience.</p>दर्शन; दर्शनभेट ।"
+    },
+    "03886": {
+      "dId": "ᤏᤡᤍᤧᤵᤔᤠ",
+      "desc": "/निदेप्मा/",
+      "group": "BJ",
+      "mean": "<p>to be able to be seen or visible.</p>देखापर्न सक्नु; देखिनु ।"
+    },
+    "03887": {
+      "dId": "ᤏᤡᤎᤠ᤺ᤵᤔᤠ/ᤏᤡᤎᤠᤐ᤻ᤔᤠ",
+      "desc": "/निधाःप्मा/",
+      "group": "BJ",
+      "mean": "<p>to be visible.</p>देखिनु ।"
+    },
+    "03888": {
+      "dId": "ᤏᤡᤎᤠ᤺ᤵᤐᤠ/ᤏᤡᤎᤠᤐ᤻ᤁᤐᤠ",
+      "desc": "/निधाःप्पा/",
+      "group": "BJ",
+      "mean": "<p>transparent.</p>पारदर्शी ।"
+    },
+    "03889": {
+      "dId": "ᤏᤡ ᤏᤠ᤹ᤏᤡ ",
+      "desc": "/नि ना?नि/",
+      "group": "BJ",
+      "mean": "<p>sentence pcle; a term which comes at the end of a sentence and denotes the meaning of whether or not (negative context).</p>वाक्यांश; क्रियापदभन्दा पछाडि प्रयोग भएर “होस कि नहोस” जस्तो नकारात्मक अर्थ बुझाउने वाक्यांश ।"
+    },
+    "03890": {
+      "dId": "ᤏᤡᤏᤡ᤺ᤒᤠ",
+      "desc": "/निनिःबा/",
+      "group": "BJ",
+      "mean": "<p>intentionally; deliberately; knowingly with an intention.</p>जानीजानी; देखादेखी (नियतका साथ) ।"
+    },
+    "03891": {
+      "dId": "ᤏᤡᤵᤐᤴ",
+      "desc": "/निप्पन्/",
+      "group": "BJ",
+      "mean": "<p>Japan.</p>जापान (देश) ।"
+    },
+    "03892": {
+      "dId": "ᤏᤡᤒᤢᤵᤔᤠ",
+      "desc": "/निबुप्मा/",
+      "group": "BJ",
+      "mean": "<p>joint.</p>जोर्नी ।"
+    },
+    "03893": {
+      "dId": "ᤏᤡᤓᤢᤵᤔᤠ",
+      "desc": "/निभुप्मा/",
+      "group": "BJ",
+      "mean": "<p>nostril.</p>नाथ्री ।"
+    },
+    "03894": {
+      "dId": "ᤏᤡᤶᤔᤠ",
+      "desc": "/निम्मा/",
+      "group": "BJ",
+      "mean": "<p>to cave in.</p>धस्किनु ।"
+    },
+    "03895": {
+      "dId": "ᤏᤡᤶᤖᤠ᤺ᤰ/ᤏᤡᤶᤖᤠᤁ᤻",
+      "desc": "/निम्राःक्/",
+      "group": "BJ",
+      "mean": "<p>navel.</p>नाइटो ।"
+    },
+    "03896": {
+      "dId": "ᤏᤡᤕᤠ",
+      "desc": "/निया/",
+      "group": "BJ",
+      "mean": "<p>1. visible world; nature. 2. father’s sister (parental aunt); uncle’s wife.</p>१. दृश्यजगत; प्रकृति । २. फुपू; माइजू ।"
+    },
+    "03897": {
+      "dId": "ᤏᤡᤕᤠᤒᤠ",
+      "desc": "/नियाबा/",
+      "group": "BJ",
+      "mean": "<p>(n.) nose ridge; (adj.) original.</p>नाकको डाँडी; मौलिक/ सक्कली ।"
+    },
+    "03898": {
+      "dId": "ᤏᤡᤕᤠᤔᤧ᤺ᤶᤒᤠ/ᤏᤡᤕᤠᤔᤧᤔ᤻ᤒᤠ",
+      "desc": "/नियामेःम्बा/",
+      "group": "BJ",
+      "mean": "<p>artificial; fake.</p>कृतिम; नक्कली ।"
+    },
+    "03899": {
+      "dId": "ᤏᤡᤕᤠᤖᤠ",
+      "desc": "/नियारा/",
+      "group": "BJ",
+      "mean": "<p>sight; scene; view.</p>दृष्य ।"
+    },
+    "03900": {
+      "dId": "ᤏᤡᤖᤡᤰ",
+      "desc": "/निरिक्/",
+      "group": "BJ",
+      "mean": "<p>1. clean; pure; clear; distinct. 2. rightly and appropriately.</p>१. शुद्ध; स्पष्ट । २. राम्रो र ठिक सँग ।"
+    },
+    "03901": {
+      "dId": "ᤏᤡᤖᤡᤰᤗᤡᤰ",
+      "desc": "/निरिक्लिक्/",
+      "group": "BJ",
+      "mean": "<p>1. clearly; in a clear cut manner; purely. 2. correct.</p>१. स्पष्टसँग; विशुद्धरूपले । २. शुद्ध ।"
+    },
+    "03902": {
+      "dId": "ᤏᤡᤖᤡᤰᤘᤠ",
+      "desc": "/निरिक्वा/",
+      "group": "BJ",
+      "mean": "<p>earring.</p>कुण्डल; कानमा लाउने एक प्रकारको गहना ।"
+    },
+    "03903": {
+      "dId": "ᤏᤡᤖᤢ᤺ᤵᤐᤠ/ᤏᤡᤖᤢᤐ᤻ᤐᤠ",
+      "desc": "/निरुःप्पा/",
+      "group": "BJ",
+      "mean": "<p>1. simple; innocent; gentle. 2. natural.</p>१. सहज; सरल; छक्कापन्जा नजान्ने; विनम्र । २. स्वभाविक ।"
+    },
+    "03904": {
+      "dId": "ᤏᤡᤖᤧᤶᤒᤠ",
+      "desc": "/निरेम्बा/",
+      "group": "BJ",
+      "mean": "<p>calreless; negligent.</p>लापरवाह ।"
+    },
+    "03905": {
+      "dId": "ᤏᤡᤗᤠᤎᤠ",
+      "desc": "/निलाधा/",
+      "group": "BJ",
+      "mean": "<p>bycycle; hand-driven cart.</p>दुइचक्के गाडा; ठेलागाडा ।"
+    },
+    "03906": {
+      "dId": "ᤏᤡᤗᤠᤶ",
+      "desc": "/निलाम्/",
+      "group": "BJ",
+      "mean": "<p>means; way.</p>उपाय; युक्ति ।"
+    },
+    "03907": {
+      "dId": "ᤏᤡᤗᤧᤱᤔᤠ",
+      "desc": "/निलेङ्मा/",
+      "group": "BJ",
+      "mean": "<p>1. review; criticism. 2. to repeat. 3. to review.</p>१. समिक्षा । २. दोहोर्याउनु । ३. समिक्षा गर्नु ।"
+    },
+    "03908": {
+      "dId": "ᤏᤡᤛ᤺ᤵᤔᤠ/ᤏᤡᤛᤐ᤻ᤔᤠ",
+      "desc": "/निसःप्मा/",
+      "group": "BJ",
+      "mean": "<p>to be very much pleased/ delighted; to be overflowed with joy.</p>गदगद हुनु; खुसीले विभोर हुनु ।"
+    },
+    "03909": {
+      "dId": "ᤏᤡᤛᤠ",
+      "desc": "/निसा/",
+      "group": "BJ",
+      "mean": "<p>1. flag. 2. player flags.</p>१. निसान; झन्डा । २. ध्वजा; पताका ।"
+    },
+    "03910": {
+      "dId": "ᤏᤡᤛᤠᤶ",
+      "desc": "/निसाम्/",
+      "group": "BJ",
+      "mean": "<p>1. knowledge; learning. 2. education.</p>१. ज्ञान; विद्या । २. शिक्षा ।"
+    },
+    "03911": {
+      "dId": "ᤏᤡᤛᤠ᤺ᤶᤓᤣ/ᤏᤡᤛᤠᤔ᤻ᤓᤣ",
+      "desc": "/निसाम्भे/",
+      "group": "BJ",
+      "mean": "<p>novel.</p>उपन्यास ।"
+    },
+    "03912": {
+      "dId": "ᤏᤡᤛᤠᤶᤒᤠ",
+      "desc": "/निसाम्बा/",
+      "group": "BJ",
+      "mean": "<p>1. intellectual. 2. wise; (a man) of wisdom.</p>१. बुद्धिजीवी । २. ज्ञानीमानी; ज्ञानबृद्ध ।"
+    },
+    "03913": {
+      "dId": "ᤏᤡᤛᤡ᤺ᤰ(ᤐᤠ)/ᤏᤡᤛᤡᤁ᤻(ᤐᤠ)",
+      "desc": "/निसिःक्(पा)/",
+      "group": "BJ",
+      "mean": "<p>brain; intellect.</p>गिदी; बुद्धि; विवेक ।"
+    },
+    "03914": {
+      "dId": "ᤏᤡᤛᤣ᤺ᤰ/ᤏᤡᤛᤣᤁ᤻",
+      "desc": "/निसेःक्/",
+      "group": "BJ",
+      "mean": "<p>objectives.</p>उद्देश्य ।"
+    },
+    "03915": {
+      "dId": "ᤏᤡᤛᤣ᤺ᤴ/ᤏᤡᤛᤣᤏ᤻",
+      "desc": "/निसेःन्/",
+      "group": "BJ",
+      "mean": "<p>example; illustration.</p>उदाहरण; दृष्टान्त ।"
+    },
+    "03916": {
+      "dId": "ᤏᤡᤜᤡ᤺ᤰᤐᤠ/ᤏᤡᤜᤡᤁ᤻ᤐᤠ",
+      "desc": "/निहिःक्पा/",
+      "group": "BJ",
+      "mean": "<p>mucus from the nose.</p>सिँगान ।"
+    },
+    "03917": {
+      "dId": "ᤏᤡᤜᤣ᤺ᤰ/ᤏᤡᤜᤣᤁ᤻-ᤕᤧᤶ",
+      "desc": "/निहेःक्-येम्/",
+      "group": "BJ",
+      "mean": "<p>academic session.</p>शैक्षिक सत्र ।"
+    },
+    "03918": {
+      "dId": "ᤏᤡ᤺ᤰᤘᤠ/ᤏᤡᤁ᤻ᤘᤠ",
+      "desc": "/निःक्वा/",
+      "group": "BJ",
+      "mean": "<p>pus.</p>पिप ।"
+    },
+    "03919": {
+      "dId": "ᤏᤡ᤺ᤱᤃᤣ/ᤏᤡᤅ᤻ᤃᤣ",
+      "desc": "/निङ्गे/",
+      "group": "BJ",
+      "mean": "<p>(esp mustered) oil.</p>(तोरीको) तेल ।"
+    },
+    "03920": {
+      "dId": "ᤏᤡ᤺ᤱᤃᤪᤡᤰᤔᤠ/ᤏᤡᤅ᤻ᤃᤪᤡᤰᤔᤠ",
+      "desc": "/निःङ्ग्रिक्मा/",
+      "group": "BJ",
+      "mean": "<p>Cicada; a particular kind of noisy beetle.</p>झ्याउँकीरी ।"
+    },
+    "03921": {
+      "dId": "ᤏᤡ᤺ᤱᤃᤪᤡᤰᤐᤠ/ᤏᤡᤅ᤻ᤃᤪᤡᤰᤐᤠ",
+      "desc": "/निःङ्ग्रिक्पा/",
+      "group": "BJ",
+      "mean": "<p>cockroach.</p>साङ्ले किरा ।"
+    },
+    "03922": {
+      "dId": "ᤏᤡ᤺ᤱᤃᤪᤡᤔᤠ/ᤏᤡᤅ᤻ᤃᤪᤡᤔᤠ",
+      "desc": "/निल्ङ्ग्रिमा/",
+      "group": "BJ",
+      "mean": "<p>a small kind of rat.</p>डुहुरे मुसो ।"
+    },
+    "03923": {
+      "dId": "ᤏᤡᤱᤔᤠ",
+      "desc": "/निङ्मा/",
+      "group": "BJ",
+      "mean": "<p>neck; nape.</p>गर्दन; घुच्चुक ।"
+    },
+    "03924": {
+      "dId": "ᤏᤡ᤺ᤱᤗᤧᤵ/ᤏᤡᤅ᤻ᤗᤧᤵ",
+      "desc": "/निःङ्लेप्/",
+      "group": "BJ",
+      "mean": "<p>collar (of shirt, coat etc).</p>कल्लर; कोट आदिको घाँटिमा दोब्य्राई फर्काइने कठालो ।"
+    },
+    "03925": {
+      "dId": "ᤏᤡ᤺ᤳ/ᤏᤡᤋ᤻",
+      "desc": "/निःत्/",
+      "group": "BJ",
+      "mean": "<p>near by.</p>नजिक ।"
+    },
+    "03926": {
+      "dId": "ᤏᤡ᤺ᤳᤆᤡᤖᤡ/ᤏᤡᤋ᤻ᤆᤡᤖᤡ ",
+      "desc": "/निःत्चिरि/",
+      "group": "BJ",
+      "mean": "<p>serial number.</p>क्रम सङ्ख्या; अंक क्रम ।"
+    },
+    "03927": {
+      "dId": "ᤏᤡ᤺ᤳᤇᤡᤱᤔᤠ/ᤏᤡᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/निःत्छिङ्मा/",
+      "group": "BJ",
+      "mean": "<p>[Phedape] 1. to wake up. 2. to come to consciousness.</p>[फेदापे] १. ब्युँझनु । २. चेतना फिर्नु; बिउँतनु; होसमा आउनु ।"
+    },
+    "03928": {
+      "dId": "ᤏᤡ᤺ᤳᤋᤠᤱ/ᤏᤡᤋ᤻ᤋᤠᤱ",
+      "desc": "/निःत्ताङ्/",
+      "group": "BJ",
+      "mean": "<p>near by; close by.</p>नजिक; नजिकै; छेवैमा ।"
+    },
+    "03929": {
+      "dId": "ᤏᤡ᤺ᤳᤔᤡᤱ/ᤏᤡᤋ᤻ᤔᤡᤱ",
+      "desc": "/निःत्मिङ्/",
+      "group": "BJ",
+      "mean": "<p>name-list.</p>नामावली ।"
+    },
+    "03930": {
+      "dId": "ᤏᤡ᤺ᤳᤔᤧᤴᤇᤠᤵ/ᤏᤡᤋ᤻ᤔᤧᤴᤇᤠᤵ",
+      "desc": "/निःत्मेन्छाप्/",
+      "group": "BJ",
+      "mean": "<p>illiteracy.</p>निराक्षरता ।"
+    },
+    "03931": {
+      "dId": "ᤏᤡ᤺ᤳᤗᤠᤣ/ᤏᤡᤋ᤻ᤗᤠᤣ",
+      "desc": "/निःत्लो/",
+      "group": "BJ",
+      "mean": "<p>leafy vegetables.</p>सागपात (हरियो) ।"
+    },
+    "03932": {
+      "dId": "ᤏᤡ᤺ᤴᤎᤠᤣ/ᤏᤡ᤺ᤴᤎᤠᤣ",
+      "desc": "/निःन्धो/",
+      "group": "BJ",
+      "mean": "<p>1. confirmation. 2. decision; determination.</p>१. निधो; टुङ्गो । २. निर्णय ।"
+    },
+    "03933": {
+      "dId": "ᤏᤡ᤺ᤵᤔᤠ/ᤏᤡᤐ᤻ᤔᤠ",
+      "desc": "/निःप्मा/",
+      "group": "BJ",
+      "mean": "<p>1. to be near; to be close by. 2. to mix sth (in food in order to make in tasty). 3. to sink. 4. to count; to read.</p>१. नजिक हुनु; समीप हुनु । २. (स्वादका लागि खानेकुरामा केहि चिज) मिसाउनु । ३. डुब्नु । ४. गन्नु; पढ्नु ।"
+    },
+    "03934": {
+      "dId": "ᤏᤡ᤺ᤔᤠ",
+      "desc": "/निःमा/",
+      "group": "BJ",
+      "mean": "<p>to see.</p>देख्नु ।"
+    },
+    "03935": {
+      "dId": "ᤏᤡ᤺ᤶ/ᤏᤡᤔ᤻",
+      "desc": "/निःम्/",
+      "group": "BJ",
+      "mean": "<p>1. white and, male of white ant. 2. quantity; dose; a specified quantity; measure; scale.</p>१. छिछिमिरा (किरो) । २. मात्रा; मान; परिमाण ।"
+    },
+    "03936": {
+      "dId": "ᤏᤡ᤺ᤶᤓᤠ/ᤏᤡᤔ᤻ᤓᤠ",
+      "desc": "/निःम्भा/",
+      "group": "BJ",
+      "mean": "<p>a particular kind of small bamboo. <i>Dendrocalamus sp.</i></p>निभा बाँस ।"
+    },
+    "03937": {
+      "dId": "ᤏᤡ᤺ᤶᤔᤠ/ᤏᤡᤔ᤻ᤔᤠ",
+      "desc": "/निःम्मा/",
+      "group": "BJ",
+      "mean": "<p>to dip; to sink sb; to immerse sth into liquid.</p>डुबाउनु ।"
+    },
+    "03938": {
+      "dId": "ᤏᤡ᤺ᤶᤛᤡᤱᤔᤠ/ᤏᤡᤔ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/निःम्सिङ्मा/",
+      "group": "BJ",
+      "mean": "<p>1. to sink (oneself/itself). 2. to sink with each other.</p>१. डुब्नु । २. एक अर्को संग डुब्नु ।"
+    },
+    "03939": {
+      "dId": "ᤏᤡ᤺ᤛᤡᤱ",
+      "desc": "/निःसिङ्/",
+      "group": "BJ",
+      "mean": "<p>1. act of seeing or knowing each other. 2. introduction; acquaintance.</p>१. देखादेख; एकले अर्कोलाई परस्पर देख्ने काम । २. परिचय; चिनाजानी ।"
+    },
+    "03940": {
+      "dId": "ᤏᤡ᤺ᤛᤡᤱᤔᤠ",
+      "desc": "/निःसिङ्मा/",
+      "group": "BJ",
+      "mean": "<p>to be seen (oneself); to be visible.</p>देखिनु ।"
+    },
+    "03941": {
+      "dId": "ᤏᤡ᤺ᤛᤢᤶ",
+      "desc": "/निःसुम्/",
+      "group": "BJ",
+      "mean": "<p>1. introduction; acquaintance. 2. identity.</p>१. परिचय; चिनाजानी । २. पहिचान ।"
+    },
+    "03942": {
+      "dId": "ᤏᤡ᤺ᤛ᤻ᤛᤣ",
+      "desc": "/निःस्से/",
+      "group": "BJ",
+      "mean": "<p>1. truth; reality; fact. 2. certainty; determination.</p>१. सत्य; साँचो । २. निश्चय; अठोट ।"
+    }
+  }
+}

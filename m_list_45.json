@@ -1,0 +1,538 @@
+{
+  "Dic": {
+    "04721": {
+      "dId": "ᤑᤠ",
+      "desc": "/फा/",
+      "group": "BS",
+      "mean": "<p>bamboo.</p>बाँस ।"
+    },
+    "04722": {
+      "dId": "ᤑᤠᤀᤡᤸᤗᤧ",
+      "desc": "/फाइल्ले/",
+      "group": "BS",
+      "mean": "<p>attitude particle denoting “if, so ” etc.</p>“यदि, भने” आदि अर्थ बुझाउने संयोजक शब्द । "
+    },
+    "04723": {
+      "dId": "ᤑᤠ᤹",
+      "desc": "/फा?/",
+      "group": "BS",
+      "mean": "<p>help; co-operation; assistance.</p>सहयोग ।"
+    },
+    "04724": {
+      "dId": "ᤑᤠ᤹ᤆᤢᤶᤓᤠᤣ",
+      "desc": "/फा?चुम्भो/",
+      "group": "BS",
+      "mean": "<p>sub-committee.</p>उप समिति ।"
+    },
+    "04725": {
+      "dId": "ᤑᤠ᤹ᤀᤠᤱ",
+      "desc": "/फा?आङ्/",
+      "group": "BS",
+      "mean": "<p>particle denoting ‘that’, ‘for’.</p>भनेर; लागि; निम्ति ।"
+    },
+    "04726": {
+      "dId": "ᤑᤠ᤹ᤀᤡᤔᤠᤣ",
+      "desc": "/फा?इमो/",
+      "group": "BS",
+      "mean": "<p>altruism; benevolence; favour; grace; obligation.</p>परोपकार; अनुग्रह ।"
+    },
+    "04727": {
+      "dId": "ᤑᤠ᤹ᤆᤠ",
+      "desc": "/फा?चा/",
+      "group": "BS",
+      "mean": "<p>help or assistance in terms of crops.</p>अन्न दिइ गरिने सहयोग ।"
+    },
+    "04728": {
+      "dId": "ᤑᤠ᤹_ᤌᤰᤗᤡᤒᤠ",
+      "desc": "/फा?-थक्लिबा/",
+      "group": "BS",
+      "mean": "<p>lieutenant.</p>उपसेनानी; लप्टन ।"
+    },
+    "04729": {
+      "dId": "ᤑᤠ᤹ᤏᤧ-ᤜᤡᤱᤏᤧ",
+      "desc": "/फा?ने-हिङ्ने/",
+      "group": "BS",
+      "mean": "<p>help; support; assistance.</p>मद्दत; होस्टेमा हैंसे ।"
+    },
+    "04730": {
+      "dId": "ᤑᤠ᤹ᤑᤠ᤹ᤒᤠ",
+      "desc": "/फा?फा?बा/",
+      "group": "BS",
+      "mean": "<p>co-operative.</p>सहयोग लिने दिने माध्यम; सहकारी ।"
+    },
+    "04731": {
+      "dId": "ᤑᤠ᤹ᤒᤧᤴ",
+      "desc": "/फा?बेन्/",
+      "group": "BS",
+      "mean": "<p>porter; carrier; collie.</p>भरिया ।"
+    },
+    "04732": {
+      "dId": "ᤑᤠ᤹ᤔᤠ",
+      "desc": "/फा?मा/",
+      "group": "BS",
+      "mean": "<p>to support/help/assist.</p>सघाउनु; मद्दत गर्नु ।"
+    },
+    "04733": {
+      "dId": "ᤑᤠ᤹ᤕᤠᤱ",
+      "desc": "/फा?याङ्/",
+      "group": "BS",
+      "mean": "<p>1. help in cash. 2. financial help. 3. allowance.</p>१. नगद दिएर गरिने सहयोग । २. आर्थिक सहयोग । ३. भत्ता ।"
+    },
+    "04734": {
+      "dId": "ᤑᤠ᤹ᤖᤠᤣ",
+      "desc": "/फा?रो/",
+      "group": "BS",
+      "mean": "<p>economy.</p>किफायत; फारो ।"
+    },
+    "04735": {
+      "dId": "ᤑᤠ᤹ᤗᤠᤶᤔᤠ",
+      "desc": "/फा?लाम्मा/",
+      "group": "BS",
+      "mean": "<p>[Phedape] to clean land bu lighting fire.</p>[फेदापे] भस्मे जलाउनु; जग्गा आवाद गर्नको लागि डढेलो लगाउनु ।"
+    },
+    "04736": {
+      "dId": "ᤑᤠ᤹ᤘᤠ",
+      "desc": "/फा?वा/",
+      "group": "BS",
+      "mean": "<p>addition; something given in addition; anything extra.</p>थप; थपनी ।"
+    },
+    "04737": {
+      "dId": "ᤑᤠ᤹ᤘᤠᤖᤧᤰ",
+      "desc": "/फा?वारेक्/",
+      "group": "BS",
+      "mean": "<p>air potato; potato yam. <i>Dioscorea sativa.</i></p>गिट्ठा ।"
+    },
+    "04738": {
+      "dId": "ᤑᤠ᤹ᤛᤠᤱ",
+      "desc": "/फा?साङ्/",
+      "group": "BS",
+      "mean": "<p>although; though; even though/if.</p>भन्दाभन्दै; भन्दा पनि ।"
+    },
+    "04739": {
+      "dId": "ᤑᤠ᤹ᤛᤡᤱ",
+      "desc": "/फा?सिङ्/",
+      "group": "BS",
+      "mean": "<p>co-operation.</p>सहयोग ।"
+    },
+    "04740": {
+      "dId": "ᤑᤠᤰ",
+      "desc": "/फाक्/",
+      "group": "BS",
+      "mean": "<p>1. fold (of cloths, etc). 2. pig; hog.</p>१. खाप; पत्र; सरो । २. सुँगुर ।"
+    },
+    "04741": {
+      "dId": "ᤑᤠᤰᤁᤠᤴᤍᤠ",
+      "desc": "/फाक्कान्दा/",
+      "group": "BS",
+      "mean": "<p>ballon.</p>बेलुन ।"
+    },
+    "04742": {
+      "dId": "ᤑᤠᤰᤆᤢᤶ-ᤗᤠᤈᤣ᤹",
+      "desc": "/फाक्चुम्-लाजे/",
+      "group": "BS",
+      "mean": "<p>place, area or region lying south-east.</p>आग्नेय कोण ।"
+    },
+    "04743": {
+      "dId": "ᤑᤠᤰᤔᤠ",
+      "desc": "/फाक्मा/",
+      "group": "BS",
+      "mean": "<p>1. [Phedape] to allow/permit. 2. to fold up. 3. to fence.</p>१. [फेदापे] अनुमति दिनु । २. पट्याउनु; खप्टाउनु; जोड्नु । ३. बार्नु; घेर्नु ।"
+    },
+    "04744": {
+      "dId": "ᤑᤠᤰᤔᤢᤖᤠ",
+      "desc": "/फक्मुरा/",
+      "group": "BS",
+      "mean": "<p>1. Neptune (planet) .  2. (Mundhum) God Varah; Lord Vishnu’s incarnation as a pig who saved the earth by taking it out of the sea on his snout.</p>१. राहु (ग्रह) । २. (मुन्धुम) बराहदेवता ।"
+    },
+    "04745": {
+      "dId": "ᤑᤠᤰᤗᤢᤵᤐᤠ",
+      "desc": "/फाक्लुप्पा/",
+      "group": "BS",
+      "mean": "<p>the Magar ethnic tribe; the Limbu term denoting the Magar tribe.</p>मगर जाति; सो जाति बुझाउने लिम्बू शब्द ।"
+    },
+    "04746": {
+      "dId": "ᤑᤠᤰᤛᤡᤱᤔᤠ",
+      "desc": "/फक्सिङ्मा/",
+      "group": "BS",
+      "mean": "<p>to be folded together.</p>परस्पर खप्टनु ।"
+    },
+    "04747": {
+      "dId": "ᤑᤠᤰᤛᤠᤣ᤺ᤵᤐᤠ/ᤑᤠᤰᤛᤠᤑᤐᤑᤠ᤹ᤐᤠ",
+      "desc": "/फाक्सोःप्पा/",
+      "group": "BS",
+      "mean": "<p>sacrifice of newly born she-piglet from among other or the sow if she bears only he-piglets.</p>सुँगुरको नुवाँगी; सँगुरले बच्चा पाएपछि पाएका बच्चामध्ये सबभन्दा सप्रेकी पाठी वा पाठी नपाए माउ ने देवतालाई चढाउन गरिने पूजाविशेष ।"
+    },
+    "04748": {
+      "dId": "ᤑᤠᤃᤠᤣ",
+      "desc": "/फागो/",
+      "group": "BS",
+      "mean": "<p>1. assistant deputy/head/chief of the society. 2. vice-chairman.</p>१. समाजको दोस्रो मुख्य व्यक्ति । २. उपाध्यक्ष ।"
+    },
+    "04749": {
+      "dId": "ᤑᤠᤱ",
+      "desc": "/फाङ्/",
+      "group": "BS",
+      "mean": "<p>1. hill. 2. peak of a hill. 3. fence. 4. pushing suddenly. 5. nine; the number/figure 9. 6. for. 7. [Tamor] pair; twosome.</p>१. डाँडा; पहाड । २. भञ्ज्याङ् । ३. बार (घेरा) । ३. ह्वात्त, ड्याम्म ठेल्ने किसिमले । ४. नौ; नौ को सङ्ख्या/अङ्क । ६. भनेर; लागि भनेर । ७. [तमर] जोडी; दुवैजना ।"
+    },
+    "04750": {
+      "dId": "ᤑᤠᤱᤃᤠᤰ",
+      "desc": "/फाङ्गाक्/",
+      "group": "BS",
+      "mean": "<p>violation; transgression; intrusion; breach; excess.</p>अतिक्रमण ।"
+    },
+    "04751": {
+      "dId": "ᤑᤠᤱ",
+      "desc": "/फाङ्गान्/",
+      "group": "BS",
+      "mean": "<p>(drinking) glass.</p>गिलास ।"
+    },
+    "04752": {
+      "dId": "ᤑᤠᤱᤃᤠᤴ",
+      "desc": "/फाङ्गान्वा/",
+      "group": "BS",
+      "mean": "<p>cup; tumbler; goblet.</p>ठाडो कचौरा । "
+    },
+    "04753": {
+      "dId": "ᤑᤠᤱᤈᤢᤶᤒᤠ",
+      "desc": "/फाङ्जुम्बा/",
+      "group": "BS",
+      "mean": "<p>judiciary.</p>न्यायपालिका ।"
+    },
+    "04754": {
+      "dId": "ᤑᤠᤱᤍᤣᤶ",
+      "desc": "/फाङ्देम्/",
+      "group": "BS",
+      "mean": "<p>accusation; allegation; charge.</p>अभियोग ।"
+    },
+    "04755": {
+      "dId": "ᤑᤠᤱᤏᤠᤶᤓᤣ",
+      "desc": "/फाङ्नाम्भे/",
+      "group": "BS",
+      "mean": "<p>constitution.</p>संविधान ।"
+    },
+    "04756": {
+      "dId": "ᤑᤠᤱᤒᤡᤵᤑᤩᤢᤱ",
+      "desc": "/फाङ्बिप्फ्युङ्/",
+      "group": "BS",
+      "mean": "<p>1. rebellion; revolt. 2. anarchy; chaos; disorder; lawlessness.</p>१. बिद्रोह । २. अराजकता ।"
+    },
+    "04757": {
+      "dId": "ᤑᤠᤱᤔᤠ",
+      "desc": "/फाङ्मा/",
+      "group": "BS",
+      "mean": "<p>1. to shut off; to prevent the flow of water. 2. to fence; to put a barrier around; to enclose.</p>१. (तरल पदार्थ, विशेषत; पानी) छेक्नु/थुन्नु । २. बार बार्नु ।"
+    },
+    "04758": {
+      "dId": "ᤑᤠᤱᤛᤣ᤹ᤛᤣ᤹",
+      "desc": "/फाङ्से?से?/",
+      "group": "BS",
+      "mean": "<p>an ornamental garland containing nine gold beads.</p>नौगेडी (गहना) ।"
+    },
+    "04759": {
+      "dId": "ᤑᤠᤈᤡᤖᤡ ",
+      "desc": "/फाजिरि/",
+      "group": "BS",
+      "mean": "<p>vessel (for holding water or mild) made of the hollow stem of bamboo.</p>बाँसको ढुङ्ग्रो ।"
+    },
+    "04760": {
+      "dId": "ᤑᤠᤳ",
+      "desc": "/फात्/",
+      "group": "BS",
+      "mean": "<p>bush-fire; grass-fire.</p>डढेलो ।"
+    },
+    "04761": {
+      "dId": "ᤑᤠᤳᤆᤠᤰ",
+      "desc": "/फात्चाक्/",
+      "group": "BS",
+      "mean": "<p>in a scattered way.</p>छरपस्ट ।"
+    },
+    "04762": {
+      "dId": "ᤑᤠᤕᤧᤳ",
+      "desc": "/फायेत्/",
+      "group": "BS",
+      "mean": "<p>winnowing tray made of bamboo.</p>नाङ्लो ।"
+    },
+    "04763": {
+      "dId": "ᤑᤠᤕᤧᤳᤏᤢᤃᤣ",
+      "desc": "/फायेत्नुगे/",
+      "group": "BS",
+      "mean": "<p>tiger.</p>बाघ ।"
+    },
+    "04764": {
+      "dId": "ᤑᤠᤖᤠ",
+      "desc": "/फारा/",
+      "group": "BS",
+      "mean": "<p>1. measurement of both hands when extended parallel. 2. arm. 3. [Tamor] bush; jungle.</p>१. दुई हात सामानान्तर फैलाउदाको नाप । २. पाखुरा । ३. [तमर] झोडी; जङ्गल । "
+    },
+    "04765": {
+      "dId": "ᤑᤠᤖᤠᤒᤠ",
+      "desc": "/फाराबा/",
+      "group": "BS",
+      "mean": "<p>bamboo thicket or grove.</p>बाँसघारी ।"
+    },
+    "04766": {
+      "dId": "ᤑᤠᤖᤡᤱ",
+      "desc": "/फारिङ्/",
+      "group": "BS",
+      "mean": "<p>bamboo pole.</p>बाँसको लिङ्गो ।"
+    },
+    "04767": {
+      "dId": "ᤑᤠᤖᤧᤰ",
+      "desc": "/फारेक्/",
+      "group": "BS",
+      "mean": "<p>stick of a bamboo split.</p>बाँसको सिर्कना ।"
+    },
+    "04768": {
+      "dId": "ᤑᤠᤷᤛᤠᤱ",
+      "desc": "/फार्साङ्/",
+      "group": "BS",
+      "mean": "<p>dry tobacco leaf.</p>सुर्ती ।"
+    },
+    "04769": {
+      "dId": "ᤑᤠᤷᤛᤣ",
+      "desc": "/फार्से/",
+      "group": "BS",
+      "mean": "<p>1. act of giving up or relinquishment; a final settlement of accounts. 2. the ritual or custom of changing family or clan name of the girl at or after the marriage.</p>१. फार्से; छिन्ती; हक छोड्ने काम । २. विवाहमा वा पछिबाट केटीको कुल (थर) वा गोत्र परिवर्तन गर्ने संस्कार ।"
+    },
+    "04770": {
+      "dId": "ᤑᤠᤸᤗᤠ",
+      "desc": "/फाल्ला/",
+      "group": "BS",
+      "mean": "<p>if; in case.</p>यदि; भने ।"
+    },
+    "04771": {
+      "dId": "ᤑᤠᤘᤠᤗᤠ",
+      "desc": "/फावाला/",
+      "group": "BS",
+      "mean": "<p>an intercalary month.</p>अधिमास ।"
+    },
+    "04772": {
+      "dId": "ᤑᤠᤛᤠᤔᤣ-ᤕᤢᤵᤗᤡᤱ",
+      "desc": "/फासामे युप्लिङ्/",
+      "group": "BS",
+      "mean": "<p>(Mundhum) 1. the earth with greenness all around. 2. world.</p>(मुन्धुम) १. हरितमय पृथ्वी । २. संसार; जगत ।"
+    },
+    "04773": {
+      "dId": "ᤑᤠᤛᤧᤴ",
+      "desc": "/फासेन्/",
+      "group": "BS",
+      "mean": "<p>1. north-west. 2. bamboo strips used as ties.</p>१. वायव्य (उत्तर पश्चिम) । २. भाटा, बाँसको कप्टेरो ।"
+    },
+    "04774": {
+      "dId": "ᤑᤠ᤺ᤱᤔᤠ/ᤑᤠᤅᤑᤠ᤹ᤔᤠ",
+      "desc": "/फाःङ्मा/",
+      "group": "BS",
+      "mean": "<p>1. to unbutton/unfasten/untie. 2. to gape; to open (the mouth, etc) wide.</p>१. (गाईबस्तु, गाँठो आदि) खोल्नु; फुकाउनु; फुस्काउनु । २. मुख बाउनु; उघार्नु ।"
+    },
+    "04775": {
+      "dId": "ᤑᤠ᤺ᤳᤋᤡ ᤌᤡ/ᤑᤠᤋ᤻ᤋᤡ ᤌᤡ ",
+      "desc": "/फाःत्ति थि/",
+      "group": "BS",
+      "mean": "<p>beer made by fermenting rice grains, which is often drunk with water but without being filtered.</p>भातको जाँड; चामल पकाएर बनाएको जाँड; प्राय नछानी पानीमा घोलेर पिइने भाते जाँड ।"
+    },
+    "04776": {
+      "dId": "ᤑᤠ᤺ᤳᤋᤪᤠ/ᤑᤠᤋ᤻ᤋᤪᤠ",
+      "desc": "/फाःत्त्रा/",
+      "group": "BS",
+      "mean": "<p>wild fire; bonfire forest fire; bushfire.</p>डढेलो ।"
+    },
+    "04777": {
+      "dId": "ᤑᤠ᤺ᤳᤗᤠᤵᤔᤠ/ᤑᤠᤋ᤻ᤗᤠᤵᤔᤠ",
+      "desc": "/फाःत्लाप्मा/",
+      "group": "BS",
+      "mean": "<p>to clean the land by setting fire.</p>भस्मे डढाउनु; त्यसरी डढाएर जमीन सफा गर्नु ।"
+    },
+    "04778": {
+      "dId": "ᤑᤠ᤺ᤳᤗᤧ᤺ᤱ/ᤑᤠᤋ᤻ᤗᤧᤅ᤻",
+      "desc": "/फाःत्लेङ्/",
+      "group": "BS",
+      "mean": "<p>new piece of land cleared by lighting fire.</p>भस्मे; नयाँ फँडानी गरिएको जमीन ।"
+    },
+    "04779": {
+      "dId": "ᤑᤠ᤺ᤴᤍᤠ/ᤑᤠᤏ᤻ᤍᤠ",
+      "desc": "/फाःन्दा/",
+      "group": "BS",
+      "mean": "<p>robber; dacoit; bandit.</p>डाँका; डाँकु ।"
+    },
+    "04780": {
+      "dId": "ᤑᤠ᤺ᤴᤍᤠᤣ/ᤑᤠᤏ᤻ᤍᤠᤣ",
+      "desc": "/फाःन्दो/",
+      "group": "BS",
+      "mean": "<p>dry soyabean powder or flour used as pickle (or relish).</p>भटमासको धुलोको फुक्को अचार ।"
+    },
+    "04781": {
+      "dId": "ᤑᤠ᤺ᤴᤍᤠᤣᤒᤠ/ᤑᤠᤏ᤻ᤍᤠᤣᤒᤠ",
+      "desc": "/फाःन्दोबा/",
+      "group": "BS",
+      "mean": "<p>tunnel; trench; subterranean or underground passage.</p>सुरूङ् ।"
+    },
+    "04782": {
+      "dId": "ᤑᤠ᤺ᤵᤔᤠ/ᤑᤠᤐ᤻ᤔᤠ",
+      "desc": "/फाःप्मा/",
+      "group": "BS",
+      "mean": "<p>fill/draw/fetch water (from a water spring, well, etc).</p>पानी भर्नु/थाप्नु (धारा आदिबाट); पानी थापेर ल्याउनु ।"
+    },
+    "04783": {
+      "dId": "ᤑᤠ᤺ᤶᤔᤠ/ᤑᤠᤔ᤻ᤔᤠ",
+      "desc": "/फाःम्मा/",
+      "group": "BS",
+      "mean": "<p>1. to extract honey. 2. to dig into; to search thoroughly; to ransack.</p>१. मह काढ्नु । २. खोतल्नु; खोदल्नु ।"
+    },
+    "04784": {
+      "dId": "ᤑᤡ᤹ᤔᤠ",
+      "desc": "/फि?मा/",
+      "group": "BS",
+      "mean": "<p>to crush/dent/flatten (plates, pot, etc).</p>(भाँडाकुँडा आदि) कुच्याउनु; चेप्ट्याउनु । "
+    },
+    "04785": {
+      "dId": "ᤑᤡᤰᤁᤗ",
+      "desc": "/फिक्कल/",
+      "group": "BS",
+      "mean": "<p>a windy/airy/draughty place.</p>बतासे जग्गा; हावा लाग्ने ठाँउ ।"
+    },
+    "04786": {
+      "dId": "ᤑᤡᤱ",
+      "desc": "/फिङ्/",
+      "group": "BS",
+      "mean": "<p>one anna or four pice; one sisteenth part of a rupee or tola.</p>एक आना; रुपैंया वा तोला आदिको १६ औं भाग ।"
+    },
+    "04787": {
+      "dId": "ᤑᤡᤱᤗᤠ",
+      "desc": "/फिङ्ला/",
+      "group": "BS",
+      "mean": "<p>blue.</p>नीलो ।"
+    },
+    "04788": {
+      "dId": "ᤑᤡᤱᤍᤡᤰᤋᤡᤰ",
+      "desc": "/फिङ्दिक्तिक्/",
+      "group": "BS",
+      "mean": "<p>in a chuckling manner; with a chuckle.</p>खितिति (मसिनो स्वरले हाँस्ने चालाले) ।"
+    },
+    "04789": {
+      "dId": "ᤑᤡᤴᤈᤡᤰᤏᤡ ",
+      "desc": "/फिन्जिक्नि/",
+      "group": "BS",
+      "mean": "<p>1. a kind of small hornet. 2. a waist-band.</p>१. बारुला । २. कन्धनी ।"
+    },
+    "04790": {
+      "dId": "ᤑᤡᤴᤈᤣᤰ",
+      "desc": "/फिन्जेक्/",
+      "group": "BS",
+      "mean": "<p>leanness and thinness.</p>दुब्लोपन; पातलोपन ।"
+    },
+    "04791": {
+      "dId": "ᤑᤡᤴᤗᤠ",
+      "desc": "/फिन्ला/",
+      "group": "BS",
+      "mean": "<p>1. multiple product. 2. wedge for splitting stone, wood etc.</p>१. गुणनफल । २. छिनो ।"
+    },
+    "04792": {
+      "dId": "ᤑᤡᤵᤑᤡ ",
+      "desc": "/फिप्फि/",
+      "group": "BS",
+      "mean": "<p>armpit; axilla.</p>काखी ।"
+    },
+    "04793": {
+      "dId": "ᤑᤡᤑᤡ᤹ ",
+      "desc": "/फिफि?/",
+      "group": "BS",
+      "mean": "<p>whistle.</p>सिटी ।"
+    },
+    "04794": {
+      "dId": "ᤑᤡᤶᤒᤠ",
+      "desc": "/फिम्बा/",
+      "group": "BS",
+      "mean": "<p>multiplicant.</p>गुणक ।"
+    },
+    "04795": {
+      "dId": "ᤑᤡᤶᤔᤠ",
+      "desc": "/फिम्मा/",
+      "group": "BS",
+      "mean": "<p>1. multiplication; to multiply. 2. to offer food to deities, evil-spirits, etc (before eating). 3. to sprinkle (water). 4. cause to spring up; to flick off.</p>१. गुणन; गुणन गर्नु । २. खानु अघि देव देवी, भुत प्रेत आदिलाई खानेकुरा चढाउनु; मन्साउनु; छोछो गर्नु । ३. (पानी) छर्कनु । ४. उफार्नु; उछिट्याउनु ।"
+    },
+    "04796": {
+      "dId": "ᤑᤡᤖᤠᤋᤩᤧ",
+      "desc": "/फिरात्ये/",
+      "group": "BS",
+      "mean": "<p>plaintiff; suitor.</p>वादी; उजुर गर्ने व्याक्ति ।"
+    },
+    "04797": {
+      "dId": "ᤑᤡᤖᤡᤱ",
+      "desc": "/फिरिङ्/",
+      "group": "BS",
+      "mean": "<p>snuff.</p>नस ।"
+    },
+    "04798": {
+      "dId": "ᤑᤡᤖᤡᤱᤗᤡᤱ",
+      "desc": "/फिरिङ्लिङ्/",
+      "group": "BS",
+      "mean": "<p>ablaze; brightly; with a dazzling light.</p>झलमल्ल; झलल्ल ।"
+    },
+    "04799": {
+      "dId": "ᤑᤡᤖᤡᤖᤡ ",
+      "desc": "/फिरिरि/",
+      "group": "BS",
+      "mean": "<p>around; about; in the vicinity.</p>वरिपरि ।"
+    },
+    "04800": {
+      "dId": "ᤑᤡᤷᤗᤡ ",
+      "desc": "/फिर्लि/",
+      "group": "BS",
+      "mean": "<p>1. in a whirling (of rotating) manner. 2. round; around.</p>१. फनन; भनन ।२. वरिपरि । "
+    },
+    "04801": {
+      "dId": "ᤑᤡ᤺ᤰᤆᤠᤣ/ᤑᤡᤁ᤻ᤆᤠᤣ",
+      "desc": "/फिःक्चो/",
+      "group": "BS",
+      "mean": "<p>sparrow hawk. <i>Accipiter.</i></p>बाज; बेसारो ।"
+    },
+    "04802": {
+      "dId": "ᤑᤡ᤺ᤰᤔᤠ/ᤑᤡᤁ᤻ᤔᤠ",
+      "desc": "/फिःक्मा/",
+      "group": "BS",
+      "mean": "<p>utter/shrill cry; panic scream.</p>कहाली; चिच्याहट ।"
+    },
+    "04803": {
+      "dId": "ᤑᤡᤡ᤺ᤱᤔᤠ/ᤑᤡᤅ᤻ᤔᤠ",
+      "desc": "/फिःङ्मा/",
+      "group": "BS",
+      "mean": "<p>to take pull out sth.</p>थुत्नु; फुत्त झिक्नु ।"
+    },
+    "04804": {
+      "dId": "ᤑᤡ᤺ᤴᤇᤡᤱᤔᤠ/ᤑᤡᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/फिःन्छिङ्मा/",
+      "group": "BS",
+      "mean": "<p>1. to be pressed. 2. (of hole, crowd etc) to come out pressingly. 3. to flee/ run away (from a group) stealthily.</p>१. चेपिनु । २. (दुलो, भीड आदिबाट) च्यापिदै निस्कनु । ३. (समुहबट) सुत्तै भाग्नु ।"
+    },
+    "04805": {
+      "dId": "ᤑᤡ᤺ᤵᤑᤡ/ᤑᤡᤐ᤻ᤑᤡ ",
+      "desc": "/फिःप्फि/",
+      "group": "BS",
+      "mean": "<p>a flat box of split cane for keeping paper, letters etc.</p>कागजपत्र राख्ने चोयाको चेप्टो बाकस ।"
+    },
+    "04806": {
+      "dId": "ᤑᤡ᤺ᤵᤔᤠ/ᤑᤡᤐ᤻ᤔᤠ",
+      "desc": "/फिःप्मा/",
+      "group": "BS",
+      "mean": "<p>(n.) diarrhoea. (vi.) to have diarrhoea; to have loose motions; to feel like purging/deficating.</p>(ना.) छेरौटी; पखाला । (अक्रि.) छेर्नु; पखाला चल्नु; दिसाले च्याप्नु ।"
+    },
+    "04807": {
+      "dId": "ᤑᤡ᤺ᤵᤛᤡᤱ/ᤑᤡᤐ᤻ᤛᤡᤱ",
+      "desc": "/फिःप्सिङ्/",
+      "group": "BS",
+      "mean": "<p>a (wooden) yoke-pin; one thrust into the hole in the yoke.</p>सोइला; जुवाको एक अङ्ग ।"
+    },
+    "04808": {
+      "dId": "ᤑᤡ᤺ᤔᤠ",
+      "desc": "/फिःमा/",
+      "group": "BS",
+      "mean": "<p>1. to grow thin/emaciated; to lose weight. 2. to reduce/lessen; to male less. 3. t bake (in the fire). 4. to deflate;to let air, gas etc out of (ball, ballon, tyre, tube etc). 5. (math) to substract.</p>१. दुब्लउदै, सुक्दै वा घट्दै जानु; दुब्लाउनु; सुक्नु; (शरीर) घट्नु । २. घटाउनु; कम गर्नु । ३. भप्र्याउनु । ४. (हावा फुस्काएर) सुकाउनु; (भकुण्डो, बेलुन, रबर ट्युब आदिको) हावा फुस्काउनु । ५. (गणित) घटाउनु ।"
+    },
+    "04809": {
+      "dId": "ᤑᤡ᤺ᤶᤔᤠ/ᤑᤡᤔ᤻ᤔᤠ",
+      "desc": "/फिःम्मा/",
+      "group": "BS",
+      "mean": "<p>1. (wound, pimple, intestines, etc) to squeeze/wring/press out. 2. [Tamor] to milk.</p>१. (घाउ, डन्डीफोर आदि) निचोर्नु; (आन्द्रा आदि) निचोर्नु/दुहुनु । २. [तमर] (दूध, विष, आदि) दुहुनु/निकाल्नु । "
+    }
+  }
+}
