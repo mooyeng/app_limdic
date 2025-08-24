@@ -1,0 +1,586 @@
+{
+  "Dic": {
+    "06588": {
+      "dId": "ᤗᤢ",
+      "desc": "/लु/",
+      "group": "CK",
+      "mean": "<p>an indeclinable. particle, usually beginning a sentence and denoting “well”, “yes”, “yea”, “all right” etc.</p>वाक्यको अगाडि आउने “हुन्छ”, “ठिक छ”, “लौ” आदि स्वीकारोक्ति जनाउने निपात। ।"
+    },
+    "06589": {
+      "dId": "ᤗᤢᤰ",
+      "desc": "/लुक्/",
+      "group": "CK",
+      "mean": "<p>sheep.</p>भेँडा ।"
+    },
+    "06590": {
+      "dId": "ᤗᤢᤰᤔᤠ",
+      "desc": "/लुक्मा/",
+      "group": "CK",
+      "mean": "<p>1. to decline/be finished; (of descendants) to become extinct; to come to end (of a dynasty); to face extinction/decline. 2. [Tamor/Phedape] to be completed; to (come to an) end.</p>१. सन्तान मासिनु; निसन्तान हुनु; अपुताली पर्नु । २. [तमर/फेदापे] सकिनु; समाप्त हुनु ।"
+    },
+    "06591": {
+      "dId": "ᤗᤢᤰᤐᤠ",
+      "desc": "/लुक्पा/",
+      "group": "CK",
+      "mean": "<p>childless man.</p>निसन्तान (व्यक्ति); बाँझो ।"
+    },
+    "06592": {
+      "dId": "ᤗᤢᤰᤐᤠᤂᤠᤣᤐᤠ",
+      "desc": "/लुक्पाखोपा/",
+      "group": "CK",
+      "mean": "<p>inheritance (of the property of a childless person).</p>अपुताली ।"
+    },
+    "06593": {
+      "dId": "ᤗᤢᤰᤔᤠ",
+      "desc": "/लुक्मा/",
+      "group": "CK",
+      "mean": "<p>(fem.) barren/sterile/childless woman.</p>(स्त्री) निसन्तान; बाँझी (आइमाई) ।"
+    },
+    "06594": {
+      "dId": "ᤗᤢᤰᤘᤠ",
+      "desc": "/लुक्वा/",
+      "group": "CK",
+      "mean": "<p>the constellation of Andromeda.</p>उत्तरभाद्र (नक्षत्र) ।"
+    },
+    "06595": {
+      "dId": "ᤗᤢᤰᤂᤢᤖᤡ ",
+      "desc": "/लुक्खुरि/",
+      "group": "CK",
+      "mean": "<p>a cry often made to call/invoke the wind while winnowing off rice husks.</p>धान बताउँदा बतास (हावा) कम भयो भने बतास (हावा) बोलाउनका निम्ति कराइने ध्वनि ।"
+    },
+    "06596": {
+      "dId": "ᤗᤢᤄᤶᤛᤣ᤹",
+      "desc": "/लुघम्से?/",
+      "group": "CK",
+      "mean": "<p>(vine) grape. Vitis vinifera.</p>अङ्गुर ।"
+    },
+    "06597": {
+      "dId": "ᤗᤢᤅᤠ᤹",
+      "desc": "/लुङा?/",
+      "group": "CK",
+      "mean": "<p>maternal cousin.</p>मामा वा फुपूको छोरा वा छोरी; भानिजदाइ, भाइ, दिदी वा बहिनी अथवा मावलीदाइ, भाइ, दिदी वा बहिनी ।"
+    },
+    "06598": {
+      "dId": "ᤗᤢᤱ",
+      "desc": "/लुङ्/",
+      "group": "CK",
+      "mean": "<p>1. stone. 2. chain; range.</p>१. ढुङ्गा । २. शृङ्खला ।"
+    },
+    "06599": {
+      "dId": "ᤗᤢᤱᤃᤠᤶᤒᤠ/ᤗᤢᤱᤃᤠᤣᤰᤐᤠ",
+      "desc": "/लुङ्गाम्बा/लुङ्गोक्पा/",
+      "group": "CK",
+      "mean": "<p>mason.</p>डकर्मी ।"
+    },
+    "06600": {
+      "dId": "ᤗᤢᤱᤆᤠᤣ᤺ᤰ/ᤗᤢᤱᤆᤠᤣᤁ᤻",
+      "desc": "/लुङ्चोःक्/",
+      "group": "CK",
+      "mean": "<p>rocky land.</p>ढुङ्गे जमिन ।"
+    },
+    "06601": {
+      "dId": "ᤗᤢᤱ-ᤂᤣᤍᤢᤶ",
+      "desc": "/लुङ्-खेदुम्/",
+      "group": "CK",
+      "mean": "<p>cement.</p>सिमेन्ट; सिमेन्टी ।"
+    },
+    "06602": {
+      "dId": "ᤗᤢᤱᤃᤡ-ᤑᤠ",
+      "desc": "/लुङ्गि-फा/",
+      "group": "CK",
+      "mean": "<p>a tall bamboo pole fixed at the center of a thrashing site/thrashing floor.</p>मियो; दाइँ गर्ने खलोको बीचमा गाडिने अग्लो बाँस ।"
+    },
+    "06603": {
+      "dId": "ᤗᤢᤱᤃᤢᤴ",
+      "desc": "/लुङ्गुन्/",
+      "group": "CK",
+      "mean": "<p>1. a kind of great coat. 2. great coat; overcoat.</p>१. लुकुनी । २. लामो कोट; ओभरकोट ।"
+    },
+    "06604": {
+      "dId": "ᤗᤢᤱᤄᤢᤱ",
+      "desc": "/लुङ्घुङ्/",
+      "group": "CK",
+      "mean": "<p>curry stone.</p>सिलौटो ।"
+    },
+    "06605": {
+      "dId": "ᤗᤢᤱ-ᤆᤧᤴ-ᤆᤠᤣᤛᤠᤵ",
+      "desc": "/लुङ्-चेन्-चोसाप्/",
+      "group": "CK",
+      "mean": "<p>lithograph (machine).</p>लिथो छापा ।"
+    },
+    "06606": {
+      "dId": "ᤗᤢᤱᤈᤣ᤺ᤰ/ᤗᤢᤱᤈᤣᤁ᤻",
+      "desc": "/लुङ्जेःक्/",
+      "group": "CK",
+      "mean": "<p>small stone pebble.</p>रोडा ।"
+    },
+    "06607": {
+      "dId": "ᤗᤢᤱᤈᤧᤁᤪᤧᤰ",
+      "desc": "/लुङ्जेक्रेक्/",
+      "group": "CK",
+      "mean": "<p>lichen/moss growing on stone.</p>ढुङ्गामा हुने झ्याउ ।"
+    },
+    "06608": {
+      "dId": "ᤗᤢᤱᤍᤡᤱᤒᤠ",
+      "desc": "/लुङ्दिङ्बा/",
+      "group": "CK",
+      "mean": "<p>1. a kind of thorny bush. Ilex dipyrena. 2. a kind fo thorn (prickle).</p>१. हाडे काँडा (बोट); मैदालको बोट; घँगारु । २. लाली/असारे काँडा ।"
+    },
+    "06609": {
+      "dId": "ᤗᤢᤱᤍᤢ᤹ᤔᤠ",
+      "desc": "/लुङ्दु?मा/",
+      "group": "CK",
+      "mean": "<p>a kind of fern which grows in the rocky land.</p>ढुङ्गाको कापतिर उम्रने एक जातको उन्यू ।"
+    },
+    "06610": {
+      "dId": "ᤗᤢᤱᤍᤢᤰ-ᤕᤠᤱ",
+      "desc": "/लुङ्दुक्-याङ्/",
+      "group": "CK",
+      "mean": "<p>pension.</p>निवृत्तिभरण ।"
+    },
+    "06611": {
+      "dId": "ᤗᤢᤱᤍᤢᤰ",
+      "desc": "/लुङ्दुक्/",
+      "group": "CK",
+      "mean": "<p>pity.</p>दया ।"
+    },
+    "06612": {
+      "dId": "ᤗᤢᤱᤍᤢᤶ-ᤐᤰᤘᤠ",
+      "desc": "/लुङ्दुम्-पक्वा/",
+      "group": "CK",
+      "mean": "<p>1. the water collected in the pit of a rock/stone in primeval times, drinking which the primordial woman got conceived. 2. holy water.</p>१. आदिमकालमा ढुङ्गाको खोपिल्टामा जमेको पानी, जुन पानी पिएर आदि स्त्रीले गर्भधारण गरेकी थिइन । २. पवित्र जल ।"
+    },
+    "06613": {
+      "dId": "ᤗᤢᤱᤍᤢᤶᤑᤢᤱ",
+      "desc": "/लुङ्दुम्फुङ्/",
+      "group": "CK",
+      "mean": "<p>a kind of creeper orchid.</p>लहरे सुनाखरी ।"
+    },
+    "06614": {
+      "dId": "ᤗᤢᤱᤎᤢᤱ",
+      "desc": "/लुङ्धुङ्/",
+      "group": "CK",
+      "mean": "<p>holy; sacred.</p>पवित्र; चोखो ।"
+    },
+    "06615": {
+      "dId": "ᤗᤢᤱᤎᤢᤱ-ᤁᤠᤀᤡ ",
+      "desc": "/लुङ्धुङ्-काइ/",
+      "group": "CK",
+      "mean": "<p>1. scared relation. 2. kinship of bone; strong relation as hard as stone.</p>१. पवित्र सम्बन्ध । २. हाडनाता; वज्र झैं कसिलो (नछुटिने) सम्बन्ध ।"
+    },
+    "06616": {
+      "dId": "ᤗᤢᤱ-ᤐᤠᤋᤡ ",
+      "desc": "/लुङ्-पाति/",
+      "group": "CK",
+      "mean": "<p>writing slate.</p>सिलेट; (लेख्ने) पाटी; ढुङ्गाको पाटी ।"
+    },
+    "06617": {
+      "dId": "ᤗᤢᤱᤒᤠᤱᤆᤠ᤺ᤳ/ᤗᤢᤱᤒᤠᤱᤆᤠᤋ᤻",
+      "desc": "/लुङ्बङ्चाःत्/",
+      "group": "CK",
+      "mean": "<p>1. a game of lifting a big stone. 2. (of sport, gymnastic etc) weight-lifting.</p>१. ठूलो ढुङ्गो उचाल्ने खेल । २. गह्रौं ओजन उचाल्ने खेल ।"
+    },
+    "06618": {
+      "dId": "ᤗᤢᤱᤒᤪᤢᤰᤔᤠ",
+      "desc": "/लुङ्ब्रुक्मा/",
+      "group": "CK",
+      "mean": "<p>a kind of necklace made of coral beads.</p>जिमाला (गहना) ।"
+    },
+    "06619": {
+      "dId": "ᤗᤢᤱᤒᤠᤣ᤺ᤱᤒᤠ/ᤗᤢᤱᤒᤠᤣᤅ᤻ᤒᤠ",
+      "desc": "/लुङ्बोःङ्बा/",
+      "group": "CK",
+      "mean": "<p>aborigines; primitive; primeval tribes; the first/earliest/native inhabitants of a country.</p>आदिवासी; आदिम जाति ।"
+    },
+    "06620": {
+      "dId": "ᤗᤢᤱᤓᤣ",
+      "desc": "/लुङ्भे/",
+      "group": "CK",
+      "mean": "<p>a kind of sword.</p>खुँडा ।"
+    },
+    "06621": {
+      "dId": "ᤗᤢᤱᤓᤧᤵᤐᤠ",
+      "desc": "/लुङ्भेप्पा/",
+      "group": "CK",
+      "mean": "<p>a large, flat slippery stone.</p>चप्लेटी ढुङ्गो ।"
+    },
+    "06622": {
+      "dId": "ᤗᤢᤱᤔᤠ᤹",
+      "desc": "/लुङ्मा?/",
+      "group": "CK",
+      "mean": "<p>1. liver. 2. mind.</p>१. कलेजो । २. मन; चित्त ।"
+    },
+    "06623": {
+      "dId": "ᤗᤢᤱᤔᤠ᤹ᤕᤠᤶᤒᤠ",
+      "desc": "/लुङ्मा?याम्बा/",
+      "group": "CK",
+      "mean": "<p>daring; overbold; venturesome; risk taking.</p>साहसी; दुस्साहसी ।"
+    },
+    "06624": {
+      "dId": "ᤗᤢᤱᤔᤧᤴᤍᤡᤱ",
+      "desc": "/लुङ्मेन्दिङ्/",
+      "group": "CK",
+      "mean": "<p>heartfelt/hearty/cordial.</p>हार्दिक ।"
+    },
+    "06625": {
+      "dId": "ᤗᤢᤱᤔᤠ᤹ᤍᤢᤰᤔᤠ",
+      "desc": "/लुङ्मा?दुक्मा/",
+      "group": "CK",
+      "mean": "<p>1. mercy; kindness; compassion. 2. love; affection. 3. to be kind; to love.</p>१. अनुग्रह; दया; ममता । २. माया; प्रेम; पिरती । ३. दया/माया गर्नु ।"
+    },
+    "06626": {
+      "dId": "ᤗᤢᤱᤔᤡᤄᤠ᤺ᤰ/ᤗᤢᤱᤔᤡᤄᤠᤁ᤻",
+      "desc": "/लुङ्मिघाःक्/",
+      "group": "CK",
+      "mean": "<p> coal; coke; quartz; a kind of mineral coal.</p>पत्थर कोइला ।"
+    },
+    "06627": {
+      "dId": "ᤗᤢᤱᤔᤡᤱ",
+      "desc": "/लुङ्मिङ्/",
+      "group": "CK",
+      "mean": "<p>1. gem. 3. quartz; crystal (stone).</p>१. मणि । २. कुरिन ढुङ्गा; स्फटिक; बिल्लौर ।"
+    },
+    "06628": {
+      "dId": "ᤗᤢᤱᤕᤠᤰᤏᤠ",
+      "desc": "/लुङ्यक्ना/",
+      "group": "CK",
+      "mean": "<p>mosquito.</p>लामखुट्टे ।"
+    },
+    "06629": {
+      "dId": "ᤗᤢᤱᤕᤠᤱ",
+      "desc": "/लुङ्याङ्/",
+      "group": "CK",
+      "mean": "<p>earnest money given in advance to the would-be-bride.</p>(विवाहपूर्व) केटीलाई दिइने बैना ।"
+    },
+    "06630": {
+      "dId": "ᤗᤢᤱᤕᤠ᤺ᤶᤒᤠ/ᤗᤢᤱᤕᤠᤔ᤻ᤒᤠ",
+      "desc": "/लुङ्याःम्बा/",
+      "group": "CK",
+      "mean": "<p>permanent; stable; lasting; durable.</p>स्थायी; चिरस्थायी; टिकाउ ।"
+    },
+    "06631": {
+      "dId": "ᤗᤢᤱᤗᤧᤈᤠ",
+      "desc": "/लुङ्लेजा/",
+      "group": "CK",
+      "mean": "<p>a low growing plant with edible nodules at its roots.</p>पानी अमला ।"
+    },
+    "06632": {
+      "dId": "ᤗᤢᤱᤛᤡ᤹ ",
+      "desc": "/लुङ्सि?/",
+      "group": "CK",
+      "mean": "<p>marrow.</p>मासी ।"
+    },
+    "06633": {
+      "dId": "ᤗᤢᤱᤛᤢᤶ",
+      "desc": "/लुङ्सुम्/",
+      "group": "CK",
+      "mean": "<p>quern; small stone hand mill (for grinding grains); sillstone.</p>जाँतो"
+    },
+    "06634": {
+      "dId": "ᤗᤢᤱᤛᤢ᤺ᤳᤋᤠᤰ/ᤗᤢᤱᤛᤢᤋ᤻ᤋᤠᤰ",
+      "desc": "/लुङ्सुःत्ताक्/",
+      "group": "CK",
+      "mean": "<p>a kind of plant used as a condiment. <i>Oxalis cornulata.</i></p>मगरकाँचे; मानेजस्तो एक प्रकारको फूलफुल्ने उद्भिद् जसको डाँठको अचार खाइन्छ ।"
+    },
+    "06635": {
+      "dId": "ᤗᤢᤱᤛᤣ᤹ᤛᤡᤱᤛᤣ᤹",
+      "desc": "/लुङ्से?सिङ्से?/",
+      "group": "CK",
+      "mean": "<p>fruits.</p>फलफूल ।"
+    },
+    "06636": {
+      "dId": "ᤗᤢᤱᤛᤣ᤺ᤰ/ᤗᤢᤱᤛᤣᤁ᤻",
+      "desc": "/लुङ्सेक्/",
+      "group": "CK",
+      "mean": "<p>stone chips, gravel, pebble.</p>रोडा ढुङ्गा ।"
+    },
+    "06637": {
+      "dId": "ᤗᤢᤱᤛᤧᤰᤁᤢᤶ",
+      "desc": "/लुङ्सेक्कुम्/",
+      "group": "CK",
+      "mean": "<p>emerald; precious stone.</p>पन्ना; बहुमूल्य पत्थर ।"
+    },
+    "06638": {
+      "dId": "ᤗᤢᤱᤛᤧᤖᤢᤶ(ᤒᤠ)",
+      "desc": "/लुङ्सेरुम्(बा)/",
+      "group": "CK",
+      "mean": "<p>white quartz; a kind of stone used to strike sparks.</p>दर्शन ढुङ्गा; चकमक ढुङ्गा ।"
+    },
+    "06639": {
+      "dId": "ᤗᤢᤱᤛᤫᤠ᤺ᤳ/ᤗᤢᤱᤛᤫᤠᤋ᤻",
+      "desc": "/लुङ्स्वाःत्/",
+      "group": "CK",
+      "mean": "<p>grinding stone used in/with a curry stone for grinding spices.</p>लोहोरो ।"
+    },
+    "06640": {
+      "dId": "ᤗᤢᤱᤜᤠ᤺ᤵᤔᤠ/ᤗᤢᤱᤜᤠᤐ᤻ᤔᤠ",
+      "desc": "/लुङ्हाःप्मा/",
+      "group": "CK",
+      "mean": "<p>1. to grumble; to express dissatisfaction. 2. to touch to the quick; (of feelings) to be hurt.</p>१. गुनासो गर्नु; असन्तोष व्यक्त गर्नु । २. चित्त दुःखाउनु ।"
+    },
+    "06641": {
+      "dId": "ᤗᤢᤱᤜᤡ ",
+      "desc": "/लुङ्हि/",
+      "group": "CK",
+      "mean": "<p>curse; ban.</p>(अभि)शाप; सराप; श्राप ।"
+    },
+    "06642": {
+      "dId": "ᤗᤢᤱᤜᤡ᤺ᤰ/ᤗᤢᤱᤜᤡᤁ᤻",
+      "desc": "/लुङ्हिःक्/",
+      "group": "CK",
+      "mean": "<p>1. lichen; moss.; (green) scum that grows on rocks used as ointment for  cuts and wounds. 2. bitumen.</p>१. लेउ; ढुङ्गाको सतहमा उम्रने, घाउको उपचारका निम्ति प्रयोग गरिने एक प्रकारको हरियो लेउ । २. शिलाजित ।"
+    },
+    "06643": {
+      "dId": "ᤗᤢᤵ",
+      "desc": "/लुप्/",
+      "group": "CK",
+      "mean": "<p>1. water leech. 2. crowd; herd; multitude. 3. heap. 4. group; company; party.</p>१.पानी जुका; भ्यात्लुङ् । २. घुइँचो; भीड । ३. थुप्रो; रास । ४. समुह; दल ।"
+    },
+    "06644": {
+      "dId": "ᤗᤢᤵᤐᤧᤳ",
+      "desc": "/लुप्पेत्/",
+      "group": "CK",
+      "mean": "<p>in a manner of sitting in a group/crowd/flock/band/herd.</p>झुण्ड/झुरुप्प/थुप्रो भएर बस्ने वा थुपार्ने चालाले ।"
+    },
+    "06645": {
+      "dId": "ᤗᤢᤵᤔᤠ",
+      "desc": "/लुप्मा/",
+      "group": "CK",
+      "mean": "<p>1. to sink/cover sth with (earth, mud, water etc). 2. to bury. 3. to nourish/flatten (pigs etc). 4. [Phedape] to teach (a lesson); to breed/improve/instruct; to train/bring up.</p>१. (माटो, हिलो, पानी आदिले) पुर्नु । २. गाड्नु वा पुर्ने अर्थमा । ३. पोस्याउनु वा थुप्रो थुप्रो खान दिने अर्थमा । ४. [फेदापे] सिकाउनु; तह लगाउनु; सधाउनु ।"
+    },
+    "06646": {
+      "dId": "ᤗᤢᤵᤔᤢᤴᤍᤪᤡ ",
+      "desc": "/लुप्मुन्द्रि/",
+      "group": "CK",
+      "mean": "<p>a small kind of nosering.</p>नाकमा लगाउने सानो मुन्द्री ।"
+    },
+    "06647": {
+      "dId": "ᤗᤢᤵᤕᤰ",
+      "desc": "/लुप्यक्/",
+      "group": "CK",
+      "mean": "<p>burial place on the hill.</p>चिहानघारी (डाँडा) ।"
+    },
+    "06648": {
+      "dId": "ᤗᤢᤵᤗᤠ᤺ᤰ/ᤗᤢᤵᤗᤠᤁ᤻",
+      "desc": "/लुप्लाःक्/",
+      "group": "CK",
+      "mean": "<p>a kind of marsh-growing herbal plant; sweet flag; rhizome. <i>Acorus calamus.</i></p>बोझो (झार) ।"
+    },
+    "06649": {
+      "dId": "ᤗᤢᤵᤗᤡ ",
+      "desc": "/लुप्लि/",
+      "group": "CK",
+      "mean": "<p>earthquake.</p>भूकम्प ।"
+    },
+    "06650": {
+      "dId": "ᤗᤢᤵᤛᤣ᤹ᤛᤡᤱ",
+      "desc": "/लुप्से?सिङ्/",
+      "group": "CK",
+      "mean": "<p>a kind of tree with a sour and sweet fruit. Cydonia indica.</p>मेहेलको रूख ।"
+    },
+    "06651": {
+      "dId": "ᤗᤢᤒᤢᤒᤢ",
+      "desc": "/लुबुबु/",
+      "group": "CK",
+      "mean": "<p>throwing or flying in a rushing manner (with a rush).</p>हुरुरु/बुरुरु/गुडुडु हान्ने वा जाने (हिंड्ने/उड्ने) किसिमले ।"
+    },
+    "06652": {
+      "dId": "ᤗᤢᤒᤣᤖᤠ᤺ᤵ/ᤗᤢᤒᤣᤖᤠᤐ᤻",
+      "desc": "/लुबेराःप्/",
+      "group": "CK",
+      "mean": "<p>all; each and every one; wholesale.</p>भएजति सबै; टाकटुक; भुर्कुट; भुसुक्क । "
+    },
+    "06653": {
+      "dId": "ᤗᤢᤒᤣᤖᤠ᤺ᤵᤐᤠ/ᤗᤢᤒᤣᤖᤠᤐ᤻ᤐᤠ",
+      "desc": "/लुबेराःप्पा/",
+      "group": "CK",
+      "mean": "<p>randomly scattered.</p>छरपस्ट; जथाभावी छरिएको; विशृङ्खल । "
+    },
+    "06654": {
+      "dId": "ᤗᤢᤒᤪᤢᤰ",
+      "desc": "/लुब्रुक्/",
+      "group": "CK",
+      "mean": "<p>falling or knocking with a thud/dashing sound.</p>बल्ड्याङ्ग पछार्नु ।"
+    },
+    "06655": {
+      "dId": "ᤗᤢᤶ",
+      "desc": "/लुम्/",
+      "group": "CK",
+      "mean": "<p>1. centre; middle. 2. falling flat with a thud. 3. beating or thumping repeatedly/unceasingly.</p>१. केन्द्र; बीच; माझ । २. ड्वाङ्ग, डङ्रङ्ग वा ड्याङ्ग लड्ने, पछारिने किसिमले । ३. डङ्डङ् पिट्ने चालाले ।"
+    },
+    "06656": {
+      "dId": "ᤗᤢᤶᤏᤠᤶᤓᤧ",
+      "desc": "/लुम्नाम्भे/",
+      "group": "CK",
+      "mean": "<p>medium.</p>माध्यम ।"
+    },
+    "06657": {
+      "dId": "ᤗᤢᤶᤒᤠᤱ",
+      "desc": "/लुम्बाङ्/",
+      "group": "CK",
+      "mean": "<p>in; inside.</p>भित्र; अन्तर ।"
+    },
+    "06658": {
+      "dId": "ᤗᤢᤶᤒᤠᤱᤃᤧᤴ",
+      "desc": "/लुम्बाङ्गेन्/",
+      "group": "CK",
+      "mean": "<p>internal; indoor; inner.</p>भित्री; आन्तरिक; अन्तरङ्गी; मध्यवर्ति ।"
+    },
+    "06659": {
+      "dId": "ᤗᤢᤶᤈᤱ",
+      "desc": "/लुम्जङ्/",
+      "group": "CK",
+      "mean": "<p>pile; heap.</p>रास; थुप्रो ।"
+    },
+    "06660": {
+      "dId": "ᤗᤢᤶᤈᤠᤣᤰ",
+      "desc": "/लुम्जोक्/",
+      "group": "CK",
+      "mean": "<p>middle finger.</p>माहिली/माझी औंला ।"
+    },
+    "06661": {
+      "dId": "ᤗᤢᤶᤑᤢ/ᤗᤢᤶᤓᤢ",
+      "desc": "/लुम्फु/लुम्भु/",
+      "group": "CK",
+      "mean": "<p>1. large close-mashed split bamboo basket. 2. womb; foetus; embryo; uterus.</p>१. थुन्चे(से) । २. गर्भ; कोख; पाठेघर ।"
+    },
+    "06662": {
+      "dId": "ᤗᤢᤶᤒᤠ ᤘᤠᤖ᤺ᤱ/ᤘᤠᤖᤅ᤻",
+      "desc": "/लुम्बा वारःङ्/",
+      "group": "CK",
+      "mean": "<p>Mediterranean Sea.</p>भूमध्यसागर ।"
+    },
+    "06663": {
+      "dId": "ᤗᤢᤶᤒᤠ᤺ᤳ/ᤗᤢᤶᤒᤠᤋ᤻",
+      "desc": "/लुम्बाःत्/",
+      "group": "CK",
+      "mean": "<p>pit; ditch.</p>खाडल; खाल्टो ।"
+    },
+    "06664": {
+      "dId": "ᤗᤢᤶᤓᤰᤐᤠ",
+      "desc": "/लुम्भक्पा/",
+      "group": "CK",
+      "mean": "<p>middle-aged.</p>अधबैंसे ।"
+    },
+    "06665": {
+      "dId": "ᤗᤢᤶᤓᤠᤣᤰ",
+      "desc": "/लुम्भोक्/",
+      "group": "CK",
+      "mean": "<p>godown; store; warehouse.</p>गोदाम; भण्डार ।"
+    },
+    "06666": {
+      "dId": "ᤗᤢᤶᤔᤏᤠ",
+      "desc": "/लुम्मना/",
+      "group": "CK",
+      "mean": "<p>second person.</p>मध्यम पुरुष; द्वितीय पुरुष ।"
+    },
+    "06667": {
+      "dId": "ᤗᤢᤶᤔᤠ",
+      "desc": "/लुम्मा/",
+      "group": "CK",
+      "mean": "<p>to pile up; to heap up together.</p>थुपार्नु; रास लगाउनु ।"
+    },
+    "06668": {
+      "dId": "ᤗᤢᤶᤔᤡᤜᤠᤱ",
+      "desc": "/लुम्मिहाङ्/",
+      "group": "CK",
+      "mean": "<p>[Sikkim] Cabinet Minister (minister of Central Government of India).</p>[सिक्किम] मन्त्री (भारतीय केन्द्रीय सरकारको ।"
+    },
+    "06669": {
+      "dId": "ᤗᤢᤶᤔᤠᤣ",
+      "desc": "/लुम्मो/",
+      "group": "CK",
+      "mean": "<p>(conj.) among; between; mutually. (adv.) at the centre or middle.</p>(संयो.) मध्ये । (क्रिवि.) आपस/परस्परमा; बीचमा ।"
+    },
+    "06670": {
+      "dId": "ᤗᤢᤶᤗᤢᤶ",
+      "desc": "/लुम्लुम्/",
+      "group": "CK",
+      "mean": "<p>coutious; careful; alert.</p>सावधान; सतर्क; चनाखो ।"
+    },
+    "06671": {
+      "dId": "ᤗᤢᤶᤗᤢᤶᤒᤠ",
+      "desc": "/लुम्लुम्बा/",
+      "group": "CK",
+      "mean": "<p>gentle; mild-tempered (man).</p>शालीन; भद्र ।"
+    },
+    "06672": {
+      "dId": "ᤗᤢᤶᤗᤢᤶᤔᤧᤳᤏᤠ",
+      "desc": "/लुम्लुम्मेत्ना/",
+      "group": "CK",
+      "mean": "<p>a small kind of mouse.</p>मसिनो खालको मुसो ।"
+    },
+    "06673": {
+      "dId": "ᤗᤢᤶᤗᤢᤶᤘᤧᤳᤏᤠ",
+      "desc": "/लुम्लुवेत्ना/",
+      "group": "CK",
+      "mean": "<p>mole; dormouse; musk rat.</p>छुचुन्द्रो ।"
+    },
+    "06674": {
+      "dId": "ᤗᤢᤶᤛᤡᤰ",
+      "desc": "/लुम्सिक्/",
+      "group": "CK",
+      "mean": "<p>radius.</p>व्यास; वृत्तको बीचमा वारपार कोरिएको रेखा ।"
+    },
+    "06675": {
+      "dId": "ᤗᤢᤶᤛᤡᤱᤔᤠ",
+      "desc": "/लुम्सिङ्मा/",
+      "group": "CK",
+      "mean": "<p>to pile/assemble/accumulate/gather; to be piled up; to be assembled.</p>थुप्रनु; थुप्रो लाग्नु; ओइरनु ।"
+    },
+    "06676": {
+      "dId": "ᤗᤢᤶᤛᤧ᤺ᤵᤐᤠ/ᤗᤢᤶᤛᤧᤐ᤻ᤐᤠ",
+      "desc": "/लुम्सेःप्मा/",
+      "group": "CK",
+      "mean": "<p>wet-nurse; dry-nurse; foster-mother.</p>धाई ।"
+    },
+    "06677": {
+      "dId": "ᤗᤢᤗᤢᤅᤠ᤹",
+      "desc": "/लुलुङा?/",
+      "group": "CK",
+      "mean": "<p>maternal cousin.</p>मामा वा फुपूको छोरा वा छोरी; भानिजदाइ, भाइ, दिदी वा बहिनी अथवा मावलीदाइ, भाइ, दिदी वा बहिनी ।"
+    },
+    "06678": {
+      "dId": "ᤗᤢᤸᤗᤢ",
+      "desc": "/लुल्लु/",
+      "group": "CK",
+      "mean": "<p>[Sikkim] Potato.</p>[सिक्किम] आलु ।"
+    },
+    "06679": {
+      "dId": "ᤗᤢ᤺ᤰᤔᤠ/ᤗᤢᤁ᤻ᤔᤠ",
+      "desc": "/लुःक्मा/",
+      "group": "CK",
+      "mean": "<p>[Phedape] to fall down (form a tree).</p>[फेदापे] (बोटबाट) झर्नु; खस्नु । "
+    },
+    "06680": {
+      "dId": "ᤗᤢ᤺ᤱᤔᤠ/ᤗᤢᤅ᤻ᤔᤠ",
+      "desc": "/लुःङ्मा/",
+      "group": "CK",
+      "mean": "<p>1. to take the grains out (of a maize pod, cardamom etc). 2. to unhusk (a maize pod).</p>१. दाना छोडाउनु (मकै, अलैची आदि) २. (मकै) खोसेल्नु ।"
+    },
+    "06681": {
+      "dId": "ᤗᤢ᤺ᤵᤛᤣ᤹/ᤗᤢᤐ᤻ᤛᤣ᤹",
+      "desc": "/लुःप्से?/",
+      "group": "CK",
+      "mean": "<p>guava. <i>Psidium guajava.</i></p>अम्बा; अम्बक; बेलौती ।"
+    },
+    "06682": {
+      "dId": "ᤗᤢ᤺ᤒᤧᤳ",
+      "desc": "/लुःबेत्/",
+      "group": "CK",
+      "mean": "<p>pile; heap; a large collection.</p>रास; थुप्रो; डङ्गुर ।"
+    },
+    "06683": {
+      "dId": "ᤗᤢ᤺ᤶᤒᤠ/ᤗᤢᤔ᤻ᤒᤠ",
+      "desc": "/लुःम्बा/",
+      "group": "CK",
+      "mean": "<p>large (metal) deep dish, bowl.</p>डबको; बटुको ।"
+    },
+    "06684": {
+      "dId": "ᤗᤢ᤺ᤶᤔᤠ/ᤗᤢᤔ᤻ᤔᤠ",
+      "desc": "/लुःम्मा/",
+      "group": "CK",
+      "mean": "<p>to collapse/fall down.</p>भतकनु ।"
+    }
+  }
+}

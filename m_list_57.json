@@ -1,0 +1,436 @@
+{
+  "Dic": {
+    "05929": {
+      "dId": "ᤕᤢ",
+      "desc": "/यु/",
+      "group": "CE",
+      "mean": "<p>a kind of poison prepared from the bark of ‘timur’ sichuan pepper used in fishing/to poison fish.</p>माछा मार्नको लागि बहबिस/बोकेटिमुर को बोक्रो पिसेर तयार पारिएको विषविशेष ।"
+    },
+    "05930": {
+      "dId": "ᤕᤢᤰ",
+      "desc": "/युक्/",
+      "group": "CE",
+      "mean": "<p>1. right; authority; possession. 2. rule; administration. 3. place. 4. (place of) residence; lodging.</p>१. अधिकार । २. शासन । ३. स्थान । ४. वासस्थान ।"
+    },
+    "05931": {
+      "dId": "ᤁᤠᤰ ᤕᤢᤰᤛᤧ᤺ᤵ/ᤕᤢᤰᤛᤧᤐ᤻",
+      "desc": "/काक् युक्सेःप्/",
+      "group": "CE",
+      "mean": "<p>all right reserved.</p>सर्वाधिकार सुरक्षित ।"
+    },
+    "05932": {
+      "dId": "ᤕᤢᤰᤋᤡᤱ",
+      "desc": "/युक्तिङ्/",
+      "group": "CE",
+      "mean": "<p>appointment.</p>नियुक्ति ।"
+    },
+    "05933": {
+      "dId": "ᤕᤢᤰᤋᤧᤴ",
+      "desc": "/युक्तेन्/",
+      "group": "CE",
+      "mean": "<p>1. seat. 2. chair.</p>१. स्थान । २. चौकी; बस्ने ठाउँ ; कर्सी ।"
+    },
+    "05934": {
+      "dId": "ᤕᤢᤰᤋᤧᤴᤍᤡᤱ",
+      "desc": "/युक्तेन्दिङ्/",
+      "group": "CE",
+      "mean": "<p>registration.</p>पञ्जीकरण ।"
+    },
+    "05935": {
+      "dId": "ᤕᤢᤰᤏᤠ᤹",
+      "desc": "/युक्ना?/",
+      "group": "CE",
+      "mean": "<p>1. seat; place ( to sit down). 2. bed.</p>१. बस्नेठाउँ; आसन । २. ओछ्यान ।"
+    },
+    "05936": {
+      "dId": "ᤕᤢᤰᤏᤠᤶ",
+      "desc": "/युक्नाम्/",
+      "group": "CE",
+      "mean": "<p>straw mat.</p>गुन्द्री ।"
+    },
+    "05937": {
+      "dId": "ᤕᤢᤰᤐᤡ ",
+      "desc": "/युक्पि/",
+      "group": "CE",
+      "mean": "<p>cushion of leaves of straw.</p>खोस्टा वा परालको चकटी (पिरा) ।"
+    },
+    "05938": {
+      "dId": "ᤕᤢᤰᤐᤢᤱ",
+      "desc": "/युक्पुङ्/",
+      "group": "CE",
+      "mean": "<p>1. (place of) residence. 2. address.</p>१. वासस्थल । २. ठेगाना ।"
+    },
+    "05939": {
+      "dId": "ᤕᤢᤰᤐᤢᤱᤛᤠ",
+      "desc": "/युक्पुङ्सा/",
+      "group": "CE",
+      "mean": "<p>resident; native/local person; inhabitant.</p>निवासी; रैथाने; बासिन्दा ।"
+    },
+    "05940": {
+      "dId": "ᤕᤢᤰᤐᤠᤣᤎᤠᤴ",
+      "desc": "/युक्पोधान्/",
+      "group": "CE",
+      "mean": "<p>authority.</p>प्राधिकरण ।"
+    },
+    "05941": {
+      "dId": "ᤛᤠᤶᤓᤧᤛᤡᤰ ᤕᤢᤰᤐᤠᤣᤎᤠᤴ",
+      "desc": "/साम्भेसिक् युक्पोधान्/",
+      "group": "CE",
+      "mean": "<p>electricity authority.</p>विद्युत प्राधिकरण ।"
+    },
+    "05942": {
+      "dId": "ᤕᤢᤰᤑᤢᤱ",
+      "desc": "/युक्फुङ्/",
+      "group": "CE",
+      "mean": "<p>estate; a definite area/region or a group of villages; division of a district.</p>मौजा; इलाका ।"
+    },
+    "05943": {
+      "dId": "ᤕᤢᤰᤑᤠᤣ",
+      "desc": "/युक्फो/",
+      "group": "CE",
+      "mean": "<p>government.</p>सरकार ।"
+    },
+    "05944": {
+      "dId": "ᤕᤢᤰᤑᤠᤣᤒᤠ",
+      "desc": "/युक्फोबा/",
+      "group": "CE",
+      "mean": "<p>governmental/administrative.</p>सरकारी; प्रशासनिक ।"
+    },
+    "05945": {
+      "dId": "ᤕᤢᤰᤔᤠ",
+      "desc": "/युक्मा/",
+      "group": "CE",
+      "mean": "<p>1. to sit on sth(wooden stool, chair, small cushion etc). 2. to settle down. 3. to ride (a gorse, bicycle, motor-car etc). 4. to enjoy (authority, right, property etc). 5. to exploit/suppress/oppress.</p>१. कुनै चीज (पिरा, मेच, चकटी आदि) माथि बस्नु । २. बसोवास/घरजम गर्नु । ३. (घोडा, साइकल, मोटर आदि) चढ्नु । ४. भोग गर्नु । ५. शोषण गर्नु; दल्नु ।"
+    },
+    "05946": {
+      "dId": "ᤕᤢᤶᤔᤡᤖᤠ",
+      "desc": "/युक्मिरा/",
+      "group": "CE",
+      "mean": "<p>conflagration in forest; wildfire.</p>डढेलो; डढेलोको आगो ।"
+    },
+    "05947": {
+      "dId": "ᤕᤢᤰᤔᤣ",
+      "desc": "/युक्मे/",
+      "group": "CE",
+      "mean": "<p>very sloppy land, unfit for regular cultivation.</p>भस्मे ।"
+    },
+    "05948": {
+      "dId": "ᤕᤢᤰᤗᤰ",
+      "desc": "/युक्लक्/",
+      "group": "CE",
+      "mean": "<p>locality; ward.</p>टोल; मोहल्ला ।"
+    },
+    "05949": {
+      "dId": "ᤕᤢᤰᤛᤡᤱ",
+      "desc": "/युक्सिङ्/",
+      "group": "CE",
+      "mean": "<p>1. establishment. 2. foundation (stone). 3. primary.</p>१. स्थापना । २. जग; आधारशिला । ३. प्राथमिक ।"
+    },
+    "05950": {
+      "dId": "ᤕᤢᤰᤛᤡᤱᤔᤠ",
+      "desc": "/युक्सिङ्मा/",
+      "group": "CE",
+      "mean": "<p>to take in one’s right/possession; to take possession.</p>अधिकारमा लिनु ।"
+    },
+    "05951": {
+      "dId": "ᤕᤢᤱ",
+      "desc": "/युङ्/",
+      "group": "CE",
+      "mean": "<p>handle.</p>बिँड ।"
+    },
+    "05952": {
+      "dId": "ᤕᤢᤱᤂᤠᤏᤡᤴ",
+      "desc": "/युङ्खानिन्/",
+      "group": "CE",
+      "mean": "<p>statistics.</p>संख्याविज्ञान; तथ्यतालिका ।"
+    },
+    "05953": {
+      "dId": "ᤕᤢᤱᤃᤧᤴᤏᤠ",
+      "desc": "/युङ्गेन्ना/",
+      "group": "CE",
+      "mean": "<p>sofa; easy chair.</p>सोफा, आरामदायी मेच ।"
+    },
+    "05954": {
+      "dId": "ᤕᤢᤱᤈᤠ",
+      "desc": "/युङ्जा/",
+      "group": "CE",
+      "mean": "<p>pension.</p>निवृत्तिभरण ।"
+    },
+    "05955": {
+      "dId": "ᤕᤢᤱᤍᤧᤴ",
+      "desc": "/युङ्देन्/",
+      "group": "CE",
+      "mean": "<p>seat; place to sit on.</p>बस्नेठाउँ; आसन ।"
+    },
+    "05956": {
+      "dId": "ᤕᤢᤱᤔᤠ",
+      "desc": "/युङ्मा/",
+      "group": "CE",
+      "mean": "<p>1. to sit down; to take/have a seat; to stay. 2. to reside; to dwell in; to be located at/in. 3. helping verb denoting a progressive action or state.</p>१. बस्नु । २. रहनु । ३. कुनै काम पूरा भइ नसकेको अर्थात कार्य भइरहेको अवस्थामा रहेको वा बसेको (रहिरहेको/बसिरहेको छ भनी) अर्थ बुझाउने सहायक क्रिया ।"
+    },
+    "05957": {
+      "dId": "ᤕᤢᤱᤔᤡ ",
+      "desc": "/युङ्मि/",
+      "group": "CE",
+      "mean": "<p>agency; mediator.</p>मध्यस्थता; प्रतिनिधि राखेर गरिने काम वा व्यवसाय; एजेन्सी ।"
+    },
+    "05958": {
+      "dId": "ᤕᤢᤱᤘᤠ",
+      "desc": "/युङ्वा/",
+      "group": "CE",
+      "mean": "<p>condition; situation.</p>अवस्था; स्थिति ।"
+    },
+    "05959": {
+      "dId": "ᤕᤢᤱᤘᤠᤍᤧᤴ",
+      "desc": "/युङ्वादेन्/",
+      "group": "CE",
+      "mean": "<p>residence.</p>निवास; वासस्थान ।"
+    },
+    "05960": {
+      "dId": "ᤕᤢᤱᤘᤠᤏᤠᤶ",
+      "desc": "/युङ्वानाम्/",
+      "group": "CE",
+      "mean": "<p>situation.</p>स्थिति ।"
+    },
+    "05961": {
+      "dId": "ᤕᤢᤱᤘᤠᤏᤠᤶᤒᤠ",
+      "desc": "/युङ्वानाम्बा/",
+      "group": "CE",
+      "mean": "<p>situational.</p>परिस्थितिजन्य ।"
+    },
+    "05962": {
+      "dId": "ᤕᤢᤱᤛᤠᤱ",
+      "desc": "/युङ्साङ्/",
+      "group": "CE",
+      "mean": "<p>1. the Limbu custom of requesting the guests to take/remain in their seats throughout a particular ceremony of purification or wedding ceremony. 2. a kind of chyabrung dance requesting (as in 1 above)  guests to take their seat.</p>१. शुद्धइँकार्य वा विवाहकार्यमा अतिथिगणलाई तोकिएको कार्यक्रमको अवधिभर बसिदिन आग्रह गर्ने लिम्बू दस्तुर । २. उक्त कार्यका लागि गरिने च्याब्रुङ् नृत्यको एक प्रकार ।"
+    },
+    "05963": {
+      "dId": "ᤕᤢᤱᤛᤠᤒᤠ",
+      "desc": "/युङ्साबा/",
+      "group": "CE",
+      "mean": "<p>1. settler; native. 2. native; old/native inhabitant.</p>१. आदिवासी । २. रैथाने ।"
+    },
+    "05964": {
+      "dId": "ᤕᤢᤱᤛᤡᤱ",
+      "desc": "/युङ्सिङ्/",
+      "group": "CE",
+      "mean": "<p>one hundred million; the number and the figure 100,000,000.</p>दश करोड; दश करोड को सङ्ख्या; १०,००,००,००० को अङ्क ।"
+    },
+    "05965": {
+      "dId": "ᤕᤢᤱᤛᤡᤱᤔᤠ",
+      "desc": "/युङ्सिङ्मा/",
+      "group": "CE",
+      "mean": "<p>to sit/be seated down.</p>(आफै) बस्नु; बसिदिनु ।"
+    },
+    "05966": {
+      "dId": "ᤕᤠᤱᤎᤠᤱᤒᤠ",
+      "desc": "/युन्धाङ्बा/",
+      "group": "CE",
+      "mean": "<p>one-eight part/portion of a seer; about 250 gram.</p>सेरको आठौं भाग; आधा पावा । "
+    },
+    "05967": {
+      "dId": "ᤕᤢᤵᤐᤠ",
+      "desc": "/युप्पा/",
+      "group": "CE",
+      "mean": "<p>silver.</p>चाँदी ।"
+    },
+    "05968": {
+      "dId": "ᤕᤢᤵᤐᤠᤖᤢᤱ(ᤗᤢᤱ)",
+      "desc": "/युप्पारुङ्(लुङ्)/",
+      "group": "CE",
+      "mean": "<p>1. silver coin used while administering an oath to the bride and bridegroom for life-long union between them. 2. earnest money given to the bride before marriage ceremony.</p>१. लगनको समयमा वर र वधूलई आजीवन विवाह बन्धनमा बाँधी वाचा गराउँदा प्रयोग गरिने चाँदिको टक । २. (विवाहलग्न अघि बेहुलीलाई दिइने) बैना ।"
+    },
+    "05969": {
+      "dId": "ᤕᤢᤵᤐᤧᤴ",
+      "desc": "/युप्पेन्/",
+      "group": "CE",
+      "mean": "<p>belt.</p>पेटी; कम्मरपेटी ।"
+    },
+    "05970": {
+      "dId": "ᤕᤢᤵᤔᤠ",
+      "desc": "/युप्मा/",
+      "group": "CE",
+      "mean": "<p>to dress sb; to fasten/girdle (a belt) on sb.</p>(पटुका, पेटी आदि कसैलाई) बाँधिदिनु ।"
+    },
+    "05971": {
+      "dId": "ᤕᤠᤔᤠ/ᤕᤢᤔᤠ᤹",
+      "desc": "/युमा/युमा?/",
+      "group": "CE",
+      "mean": "<p>grandmother (father’s or mother’s mother.</p>बज्यै; बाबु वा आमाकी आमा; हनूरआमा; बोजू ।"
+    },
+    "05972": {
+      "dId": "ᤕᤢᤔᤠᤱᤄᤠᤣ",
+      "desc": "/युमाङ्घो/",
+      "group": "CE",
+      "mean": "<p>collective worship conducted for the protection of the village.</p>गाउँको रक्षाका लागि गरिने सामूहिक पूजा ।"
+    },
+    "05973": {
+      "dId": "ᤕᤢᤔᤠ-ᤌᤧᤒᤠ-ᤆᤠ",
+      "desc": "/युमा-थेबा-चा/",
+      "group": "CE",
+      "mean": "<p>a customary offering/gift of (money and liquor) made/offered to the grandparents on the occasion of formally informing them of their grandchildren’s marriage.</p>बाजे-बज्यैलाई नाति-नातिनीको विवाहको जानकारी दिंदा राखिने (रुपैयाँ तथा रक्सीको) दस्तूर ।"
+    },
+    "05974": {
+      "dId": "ᤕᤢᤔᤠ-ᤛᤠᤶᤔᤠᤱ",
+      "desc": "/युमा-साम्माङ्/",
+      "group": "CE",
+      "mean": "<p>1. incarnation of God in feminine form; power goddess. 2. earth-deity; grandmother goddess; Yasokeni household goddess (one of the names of grandmother goddess).</p>१. परमात्माको स्त्री रुप अवतार, आदिशक्ति । २. संसारी माई; बूढी बज्यू (देवी); यासोकेनी देवी ।"
+    },
+    "05975": {
+      "dId": "ᤕᤢᤔᤠ ᤛᤠᤶᤕᤠᤣ",
+      "desc": "/युमा साम्यो/",
+      "group": "CE",
+      "mean": "<p>cult of Yuma; Yuma religion.</p>युमा धर्म ।"
+    },
+    "05976": {
+      "dId": "ᤕᤢᤔᤡᤒᤠ",
+      "desc": "/युमिबा/",
+      "group": "CE",
+      "mean": "<p>wild millet.</p>वनकोदो ।"
+    },
+    "05977": {
+      "dId": "ᤕᤢᤔᤣ᤺ᤳ/ᤕᤢᤔᤣᤋ᤻",
+      "desc": "/युमेःत्/",
+      "group": "CE",
+      "mean": "<p>peppery fried curry.</p>भुटुवा; भुटेको तरकारी ।"
+    },
+    "05978": {
+      "dId": "ᤕᤢᤶ",
+      "desc": "/युम्/",
+      "group": "CE",
+      "mean": "<p>salt.</p>नुन ।"
+    },
+    "05979": {
+      "dId": "ᤕᤢᤶᤈᤡᤕᤢᤶ",
+      "desc": "/युम्जियुम्/",
+      "group": "CE",
+      "mean": "<p>alkali.</p>क्षार ।"
+    },
+    "05980": {
+      "dId": "ᤕᤢᤶᤈᤡᤕᤢᤶᤒᤠ",
+      "desc": "/युम्जियुम्बा/",
+      "group": "CE",
+      "mean": "<p>alkaline.</p>क्षारयुक्त ।"
+    },
+    "05981": {
+      "dId": "ᤕᤢᤶᤒᤠᤗᤢᤱ",
+      "desc": "/युम्बालुङ्/",
+      "group": "CE",
+      "mean": "<p>alum.</p>फट्किरी ।"
+    },
+    "05982": {
+      "dId": "ᤕᤢᤶᤓᤢ",
+      "desc": "/युम्भु/",
+      "group": "CE",
+      "mean": "<p>mane; bristle.</p>जगर ।"
+    },
+    "05983": {
+      "dId": "ᤕᤢᤶᤔᤠ",
+      "desc": "/युम्मा/",
+      "group": "CE",
+      "mean": "<p>1. to be/get digested. 2. to wear/girdle/fasten/put on (a belt).</p>१. पच्नु । २. (पटुका, पेटी आदि) बाँध्नु वा कस्नु ।"
+    },
+    "05984": {
+      "dId": "ᤕᤢᤶᤗᤠᤰ",
+      "desc": "/युम्लाक्/",
+      "group": "CE",
+      "mean": "<p>[Phedape] sauce; curry.</p>[फेदापे] तिहुन ।"
+    },
+    "05985": {
+      "dId": "ᤕᤢᤶᤗᤠᤰᤐᤠ",
+      "desc": "/युम्लाक्पा/",
+      "group": "CE",
+      "mean": "<p>[Phedape]  pickle; sauce.</p>[फेदापे] अचार ।"
+    },
+    "05986": {
+      "dId": "ᤕᤢᤶᤗᤠ᤺ᤰ/ᤕᤢᤶᤗᤠᤁ᤻",
+      "desc": "/युम्लाःक्/",
+      "group": "CE",
+      "mean": "<p>saltiness; salinity.</p>नुनिलोपन ।"
+    },
+    "05987": {
+      "dId": "ᤕᤢᤶᤗᤠ᤺ᤰᤐᤠ/ᤕᤢᤶᤗᤠᤁ᤻ᤐᤠ",
+      "desc": "/युम्लाःक्पा/",
+      "group": "CE",
+      "mean": "<p>strongly salty/salted.</p>ज्यादा नुनिलो; चर्को नुन भएको ।"
+    },
+    "05988": {
+      "dId": "ᤕᤢᤶᤛᤠ",
+      "desc": "/युम्सा/",
+      "group": "CE",
+      "mean": "<p>1. custom of abstaining/forbidding the use of salt, oil, meat etc during mourning. 2. taboo.</p>१. जुठो पर्दा नून तेल, मासु आदि बारना गर्ने चलन । २. सामाजिक निषेध/वर्जना ।"
+    },
+    "05989": {
+      "dId": "ᤕᤢᤘᤠ",
+      "desc": "/युवा/",
+      "group": "CE",
+      "mean": "<p>a species of wasp.</p>कमलकोटी; कुमालकोटी ।"
+    },
+    "05990": {
+      "dId": "ᤕᤢᤛᤡᤰ",
+      "desc": "/युसिक्/",
+      "group": "CE",
+      "mean": "<p>evening; in the evening; at dusk/night.</p>बेलुक; साँझ; बेलुका/साँझ पख ।"
+    },
+    "05991": {
+      "dId": "ᤕᤢ᤺ᤳᤗᤢᤱ/ᤕᤢᤋ᤻ᤗᤢᤱ",
+      "desc": "/युःत्लुङ्/",
+      "group": "CE",
+      "mean": "<p>pestle; pounder (made of stone).</p>लोहोरो ।"
+    },
+    "05992": {
+      "dId": "ᤕᤢ᤺ᤴᤇᤡᤰ/ᤕᤢᤏ᤻ᤇᤡᤰ",
+      "desc": "/युःन्छिक्/",
+      "group": "CE",
+      "mean": "<p>late afternoon; evening; the time form late afternoon until dusk.</p>साँझ; सन्ध्या; अपरान्ह करीब ४ ५ बजेदेखि बेलुका झमक्क अँध्यारो होउन्जेल सम्मको समय ।"
+    },
+    "05993": {
+      "dId": "ᤕᤢ᤺ᤴᤇᤠᤣ᤺ᤰ/ᤕᤢᤏ᤻ᤇᤠᤣᤁ᤻",
+      "desc": "/युःन्छोःक्/",
+      "group": "CE",
+      "mean": "<p>evening; eve; night.</p>साँझ; बेलुका ।"
+    },
+    "05994": {
+      "dId": "ᤕᤢ᤺ᤴᤇᤠᤣ᤺ᤵᤐᤠ/ᤕᤢᤏ᤻ᤇᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/युःन्छोःप्पा/",
+      "group": "CE",
+      "mean": "<p>Venus (seen at night); the Evening star.</p>बेलुका देखिने शुक्र ग्रह ।"
+    },
+    "05995": {
+      "dId": "ᤕᤢ᤺ᤴᤈᤠ/ᤕᤢᤏ᤻ᤈᤠ",
+      "desc": "/युःन्जा/",
+      "group": "CE",
+      "mean": "<p>dinner.</p>बेलुकीको खाना ।"
+    },
+    "05996": {
+      "dId": "ᤕᤢ᤺ᤴᤎᤠᤣ᤺ᤰ/ᤕᤢᤏ᤻ᤎᤠᤣᤁ᤻",
+      "desc": "/युःन्धोःक्/",
+      "group": "CE",
+      "mean": "<p>twilight.</p>गोधुलिको समय; घाम अस्ताएर अँध्यारो हुनहुन लागेको समय ।"
+    },
+    "05997": {
+      "dId": "ᤕᤢ᤺ᤴᤎᤠᤣᤱ/ᤕᤢᤏ᤻ᤎᤠᤣᤱ",
+      "desc": "/युःन्धोङ्/",
+      "group": "CE",
+      "mean": "<p>early night hours; the time from dusk to early night.</p>बेलुका; साँझ र रात बिचको समय; करीब ६ देखि ८ बजे बिचको समय ।"
+    },
+    "05998": {
+      "dId": "ᤕᤢ᤺ᤵᤔᤠ/ᤕᤢᤐ᤻ᤔᤠ",
+      "desc": "/युःप्मा/",
+      "group": "CE",
+      "mean": "<p>1. (of sth) to become powdery. 2. to grind. 3. to sharpen/whet. 4. bring down sth (form the level higher than the speaker).5. (of things and human beings) to cause/make sb to send sth down/below. 6. (of human) to send sb down (from the level higher than the speaker).</p>१. (वस्तु) धूलोपिठो हुनु । २. पिँध्नु; धूलोपिठो पार्नु । ३. धार लगाउनु उध्याउनु । ४. तल ल्याउनु । ५. तल पठाउनु ; ल्याउन लगाउनु । ६. तल पठाउनु ।"
+    },
+    "05999": {
+      "dId": "ᤕᤠ᤺ᤔᤠ",
+      "desc": "/युःमा/",
+      "group": "CE",
+      "mean": "<p>1. to come-down/descend (from the higher level than the speaker’s). 2. to distill liquor. 3. helping verb denoting to get/have/feel sensation fo (laugh, sleep etc), growing (so), etc.</p>१. झर्नु/आउनु; (वक्ताको सतहभन्दा अग्लो ठाउँबाट) आउनु । २. (रक्सी) पार्नु । ३. नाम वा क्रिया शब्दका पछाडि जोडिएर (हाँसो, नाद्रा आदि) लाग्नु, (त्यस्तो) बढेर आउनु आदि बुझाउने सहायक क्रियापद ।"
+    },
+    "06002": {
+      "dId": "ᤕᤢ᤺ᤶᤔᤠ/ᤕᤢᤔ᤻ᤔᤠ",
+      "desc": "/युःम्मा/",
+      "group": "CE",
+      "mean": "<p>to crush into pieces.</p>झरामझुरुम पार्नु; झुर्याउनु; ढुट्याउनु ।"
+    }
+  }
+}

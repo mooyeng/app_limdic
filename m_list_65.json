@@ -1,0 +1,670 @@
+{
+  "Dic": {
+    "06743": {
+      "dId": "ᤗᤧ",
+      "desc": "/ले/",
+      "group": "CM",
+      "mean": "<p>the nominative case-ending particle eg- “by”, “from”, and the genitive case-ending particle eg:- “ ’s”, “of”.</p>कर्ताकारक तथा सम्बन्धकारकको चिन्ह, जस्तै:- “बाट”, “द्वारा”, “ले” तथा “को/का/की” । "
+    },
+    "06744": {
+      "dId": "ᤗᤧ᤹ᤔᤠ",
+      "desc": "/ले?मा/",
+      "group": "CM",
+      "mean": "<p>1. (of disease, fever etc) to relapse; to fester again. 2. helping verb suffixed to a noun and denoting “to be irritated”, “to get angry”, “to be exasperated”, “to be sick of”, “to have enough” etc.</p>१. बल्झनु (रोगब्याधि, घाउ आदि बल्झेर फैलनु) । २. कुनै शब्दको पछाडि आएर “उठ्नु (रिस); (वाक्क, झर्को आदि) लाग्नु” बुझाउने सहायक क्रिया ।"
+    },
+    "06745": {
+      "dId": "ᤗᤧ᤹ᤗᤢᤵᤛᤡᤱ",
+      "desc": "/ले?लुप् सिङ्/",
+      "group": "CM",
+      "mean": "<p>the tree of Eleaocarpus ganitris (the seeds of which are used as beads of rosaries).</p>रुद्राक्षको रूख ।"
+    },
+    "06746": {
+      "dId": "ᤗᤧᤰ",
+      "desc": "/लेक्/",
+      "group": "CM",
+      "mean": "<p>honey comb.</p>चाका ।"
+    },
+    "06747": {
+      "dId": "ᤗᤧᤰᤁᤠᤳ",
+      "desc": "/लेक्कात्/",
+      "group": "CM",
+      "mean": "<p>business; trade.</p>व्यापार; व्यवसाय ।"
+    },
+    "06748": {
+      "dId": "ᤗᤧᤰᤁᤠᤳᤋᤧ",
+      "desc": "/लेक्काते/",
+      "group": "CM",
+      "mean": "<p>(n.) hawker; huckster; pedlar. (adj.) businessman; tradesman.</p>(ना.) घुमी घुमी सामान बेच्ने व्यापारी; कुम्ले व्यापारी । (वि.) व्यवसायी: व्यापारी ।"
+    },
+    "06749": {
+      "dId": "ᤗᤧᤰᤁᤠᤣ᤺ᤒᤠ",
+      "desc": "/लेक्कोःबा/",
+      "group": "CM",
+      "mean": "<p>gateman; watchman; sentry.</p>पाले ।"
+    },
+    "06750": {
+      "dId": "ᤗᤧᤰᤂᤠᤱ",
+      "desc": "/लेक्खाङ्/",
+      "group": "CM",
+      "mean": "<p>to; toward(s).</p>पट्टि; तिर ।"
+    },
+    "06751": {
+      "dId": "ᤗᤧᤰᤆᤠ᤹",
+      "desc": "/लेक्चा?/",
+      "group": "CM",
+      "mean": "<p>naked; bare.</p>नाङ्गो; निर्वस्त्र ।"
+    },
+    "06752": {
+      "dId": "ᤗᤧᤰᤏᤠᤔᤧ᤺ᤵᤔᤠ/ᤗᤧᤰᤏᤠᤔᤧᤐ᤻ᤔᤠ",
+      "desc": "/लेक्नामेःप्मा/",
+      "group": "CM",
+      "mean": "<p>a show in her youth.</p>बैंस पुगेकी सुँगुर्नी (पोथी सुँगुर) ।"
+    },
+    "06753": {
+      "dId": "ᤗᤧᤰᤔᤠ",
+      "desc": "/लेक्मा/",
+      "group": "CM",
+      "mean": "<p>1. to glitter/glaze; to flash (of lightning). 2. to be changed/exchanged.</p>१. चम्कनु; टल्कनु । २. साटिनु ।"
+    },
+    "06754": {
+      "dId": "ᤗᤧᤰᤗᤧᤰᤐᤠ",
+      "desc": "/लेक्लेक्पा/",
+      "group": "CM",
+      "mean": "<p>change; exchange; interchange.</p>अदलबदल; सट्टापट्टा; विनिमय ।"
+    },
+    "06755": {
+      "dId": "ᤗᤧᤰᤗᤧᤰ",
+      "desc": "/लेक्लेक्/",
+      "group": "CM",
+      "mean": "<p>in a manner of flashing/glittering/shimmering.</p>झिलिकमिलिक; झिलिकझिलिक; चमचम ।"
+    },
+    "06756": {
+      "dId": "ᤗᤧᤰᤘᤠ",
+      "desc": "/लेक्वा/",
+      "group": "CM",
+      "mean": "<p>1. mud; clay (wet). 2. instead of ; in place/lieu of.</p>१. हिलो । २. सट्टा; साटो; बदला ।"
+    },
+    "06757": {
+      "dId": "ᤗᤧᤰᤘᤠᤍᤠᤣ(ᤔᤠ)",
+      "desc": "/लेक्वादो(मा)/",
+      "group": "CM",
+      "mean": "<p>bog; marsh; morass; swamp.</p>सिमसार जग्गा ।"
+    },
+    "06758": {
+      "dId": "ᤗᤧᤰᤘᤠ-ᤏᤢᤎᤡ ",
+      "desc": "/लेक्वा-नुधि/",
+      "group": "CM",
+      "mean": "<p>watercress. <i>Nasturtium officinale.</i></p>सिमरायो; सिमसाग ।"
+    },
+    "06759": {
+      "dId": "ᤗᤧᤰᤘᤠ ᤛᤡᤱ",
+      "desc": "/लेक्वा सिङ्/",
+      "group": "CM",
+      "mean": "<p>1. a white variety of “sirissa”. <i>Albizzzia odoratissima.</i> 2. a kind of tree that grows in marsh.</p>१. सेतो शिरीष । २. हिलोमा हुने एक प्रकारको रूख ।"
+    },
+    "06760": {
+      "dId": "ᤗᤧᤰᤘᤠᤛᤧᤴ ᤑᤢᤱ",
+      "desc": "/लेक्वासेन् फुङ्/",
+      "group": "CM",
+      "mean": "<p>a kind of highland lotus.</p>लेकाली कमल ।"
+    },
+    "06761": {
+      "dId": "ᤗᤧᤰᤛᤠᤱ",
+      "desc": "/लेक्साङ्/",
+      "group": "CM",
+      "mean": "<p>in. a manner. of overturning/rolling over suddenly.</p>पर्लक्क वा बल्ड्याङ्ग लड्ने किसिमले ।"
+    },
+    "06762": {
+      "dId": "ᤗᤧᤰᤛᤡᤱᤔᤠ",
+      "desc": "/लेक्सिङ्मा/",
+      "group": "CM",
+      "mean": "<p>1. to be changed/exchanged. 2. to be turned over/upside down. 3. to change (one’s dress). 4. to exchange sth mutually.</p>१. साटिनु; बदलिनु । २. पल्टनु । ३. वस्त्र/लुगा फेर्नु । ४. परस्परमा साटासाट गर्नु ।"
+    },
+    "06763": {
+      "dId": "ᤗᤧᤃᤧ᤹ᤁᤧ᤹ᤒᤠ",
+      "desc": "/लेगे?के?बा/",
+      "group": "CM",
+      "mean": "<p>prattler; talking foolishly.</p>फटाह ।"
+    },
+    "06764": {
+      "dId": "ᤗᤧᤱ",
+      "desc": "/लेङ्/",
+      "group": "CM",
+      "mean": "<p>1. suffix denoting cardinal number; fold, turn, times etc. 2. goods/articles for sale; commodity. 3. slapping, hitting, beating across the face.</p>१. गुणा, पटक, पल्ट, खेप, चोटि बुझाउने परसर्गी प्रत्यय । २. सौदापत; किनबेच गरिने बस्तु । ३. ठ्याम्म, प्याट्ट पड्काउने वा पिट्ने चालाले ।"
+    },
+    "06765": {
+      "dId": "ᤗᤧᤱᤎᤡᤰᤐᤠ",
+      "desc": "/लेङ्धिक्पा/",
+      "group": "CM",
+      "mean": "<p>broker; agent.</p>दलाल; अभिकर्ता ।"
+    },
+    "06766": {
+      "dId": "ᤗᤧᤱᤄᤴ",
+      "desc": "/लेङ्घन्/",
+      "group": "CM",
+      "mean": "<p>enterprise; business; occupation.</p>व्यावसाय ।"
+    },
+    "06767": {
+      "dId": "ᤗᤧᤱᤄᤶᤒᤠ",
+      "desc": "/लेङ्घम्बा/",
+      "group": "CM",
+      "mean": "<p>businessman; enterpreneur.</p>व्यवसायी; बेपारी ।"
+    },
+    "06768": {
+      "dId": "ᤗᤧᤱᤄᤠᤶ",
+      "desc": "/लेङ्घाम्/",
+      "group": "CM",
+      "mean": "<p>dry/impoverished soil.</p>रुखो माटो ।"
+    },
+    "06769": {
+      "dId": "ᤗᤧᤱᤈᤡᤰ",
+      "desc": "/लेङ्जिक्/",
+      "group": "CM",
+      "mean": "<p>business; commerce.</p>वाणिज्य ।"
+    },
+    "06770": {
+      "dId": "ᤗᤧᤱᤍᤶᤒᤠ",
+      "desc": "/लेङ्दम्बा/",
+      "group": "CM",
+      "mean": "<p>1. white flowered; Amaranthus. Amaranthus caudatus. 2. the Magars.;  a Limbu term to denote the Magars.</p>१. सेतो लट्टे । २. मगर (जाति); मगर जातिलाई बुझाउने लिम्बू शब्द ।"
+    },
+    "06771": {
+      "dId": "ᤗᤧᤱᤒᤠ᤺ᤴ/ᤗᤧᤱᤒᤠᤏ᤻",
+      "desc": "/लेङ्बाःन्/",
+      "group": "CM",
+      "mean": "<p>colloquial/slang (language).</p>अपभ्रंश (भाषा); गाउँले/अपरिस्कृत भाषा ।"
+    },
+    "06772": {
+      "dId": "ᤗᤧᤱᤒᤪᤠ",
+      "desc": "/लेङ्ब्रा/",
+      "group": "CM",
+      "mean": "<p>imitation.</p>अनुकरण; नक्कल ।"
+    },
+    "06773": {
+      "dId": "ᤗᤧᤱᤓᤴ",
+      "desc": "/लेङ्भन्/",
+      "group": "CM",
+      "mean": "<p>advertisement.</p>विज्ञापन ।"
+    },
+    "06774": {
+      "dId": "ᤗᤧᤱᤓᤧᤈᤱ",
+      "desc": "/लेङ्भेजङ्/",
+      "group": "CM",
+      "mean": "<p>dim (moon)light.</p>मलिन (चन्द्र)ज्योति ।"
+    },
+    "06775": {
+      "dId": "ᤗᤧᤱᤔᤠ",
+      "desc": "/लेङ्मा/",
+      "group": "CM",
+      "mean": "<p>1. to slip; to. fall down or roll over by slipping; to turn over. 2. to change. 3. to instigate/incite sb; to misguide sb. 4. to slap. 5. to pour out (down into). 6. to (make sth to) turn over/change. 7. to copy; to make copies; to produce facsimile. 8. to translate. 9. to shell/peel (beans, peas etc). 10. to smear; to plaster. 11. (fem.) issueless; barren; sterile.</p>१. चिप्लनु; चिप्लेर लड्नु; पल्टिनु । २. साटिनु; अर्कै हुनु । ३. उल्काउनु; उल्क्याउनु; भड्काउनु । ४. झापट दिनु; गालामा हान्नु । ५. खन्याउनु । ६. पल्टाउनु । ७. प्रतिलिपि बनाउनु । ८. अनुबाद गर्नु । ९. कोसादार वस्तु (सिमि, बोडी आदि) को कोसा  (बोक्रा) छोडाउनु । १०. लिप्नु । ११. बाँझी; सन्तान नभएकी वा जन्माउन नसक्ने स्त्री ।"
+    },
+    "06776": {
+      "dId": "ᤗᤧᤱᤗᤡᤱ",
+      "desc": "/लेङ्लिङ्/",
+      "group": "CM",
+      "mean": "<p>way/manner of glittering.</p>टिलटिल, टिलिकटिलिक, टलटल टल्कने चालाले ।"
+    },
+    "06777": {
+      "dId": "ᤗᤧᤱᤗᤢᤔᤠ",
+      "desc": "/लेङ्लुमा/",
+      "group": "CM",
+      "mean": "<p>cicada.</p>झ्याउँकिरी ।"
+    },
+    "06778": {
+      "dId": "ᤗᤧᤱᤗᤧᤱ",
+      "desc": "/लेङ्लेङ्/",
+      "group": "CM",
+      "mean": "<p>1. neat and clean; glittering; giving a smart look. 2. frequently; time and time.</p>१. सफा; सफा भएको कारणले देखिएको उज्यालो; उज्ज्वल; चिटिक्क परेको । २. घरीघरी; पटकपटक ।"
+    },
+    "06779": {
+      "dId": "ᤗᤧᤱᤘᤠᤒᤠ",
+      "desc": "/लेङ्वाबा/",
+      "group": "CM",
+      "mean": "<p>changeable; inflexional; declinable.</p>परिवर्तनीय; रूप बदलिने; फेरिने ।"
+    },
+    "06780": {
+      "dId": "ᤗᤧᤱᤛᤱ",
+      "desc": "/लेङ्सङ्/",
+      "group": "CM",
+      "mean": "<p>trade; buying and selling.</p>बेपार; किनबेच ।"
+    },
+    "06781": {
+      "dId": "ᤗᤧᤱᤛᤱᤒᤠ",
+      "desc": "/लेङ्सङ्बा/",
+      "group": "CM",
+      "mean": "<p>businessman; tradesman.</p>ब्यपारी ।"
+    },
+    "06782": {
+      "dId": "ᤗᤧᤱᤛᤡᤱᤔᤠ",
+      "desc": "/लेङ्सिङ्मा/",
+      "group": "CM",
+      "mean": "<p>1. to be overturned. 2. to imitate/follow the example of sb. 3. to be changed. 4. to feign; to pretend.</p>१. पल्टनु; उल्टनु । २. अनुकरण गर्नु; अरूजस्तै हुनु वा त्यस्तो भएको जस्तो हुनु । ३. बदलिनु; अर्कै जस्तो हुनु । ४. टोपल्नु; निहुँ गर्नु/पार्नु ।"
+    },
+    "06783": {
+      "dId": "ᤗᤧᤱᤜᤱ",
+      "desc": "/लेङ्हङ्/",
+      "group": "CM",
+      "mean": "<p>trade; business; enterprise.</p>व्यापार ।"
+    },
+    "06784": {
+      "dId": "ᤗᤧᤱᤜᤱᤒᤠ",
+      "desc": "/लेङ्हङ्बा/",
+      "group": "CM",
+      "mean": "<p>merchant; trader; shopkeeper; businessman; enterpreneur.</p>व्यापारी; पसले ।"
+    },
+    "06785": {
+      "dId": "ᤗᤧᤱᤜᤡᤶ",
+      "desc": "/लेङ्हिम्/",
+      "group": "CM",
+      "mean": "<p>shop.</p>पसल (घर) ।"
+    },
+    "06786": {
+      "dId": "ᤗᤧᤳᤂᤠᤶ",
+      "desc": "/लेत्खाम्/",
+      "group": "CM",
+      "mean": "<p>fallow land.</p>पर्ती जग्गा ।"
+    },
+    "06787": {
+      "dId": "ᤗᤧᤳᤇᤠ",
+      "desc": "/लेत्छा/",
+      "group": "CM",
+      "mean": "<p>fledgling; young bird just able to fly.</p>भर्खर उड्न लागेको अवस्थाको बचेरा ।"
+    },
+    "06788": {
+      "dId": "ᤗᤧᤳᤇᤠᤵ",
+      "desc": "/लेत्छाप्/",
+      "group": "CM",
+      "mean": "<p>deed or document of resignation/relinquishment; resignation latter.</p>छोड-पत्र; हकदाबी छोडेको कागज; राजीनामा पत्र ।"
+    },
+    "06789": {
+      "dId": "ᤗᤧᤳᤇᤡᤱᤔᤠ",
+      "desc": "/लेत्छिङ्मा/",
+      "group": "CM",
+      "mean": "<p>to forgive each other; to give up mutually.</p>परस्परमा (एकले अर्कालाई) माफी दिनु; परस्परमा (एकले अर्कालाई)  छोडाछोड गर्नु ।"
+    },
+    "06790": {
+      "dId": "ᤗᤧᤳᤋᤡᤱ",
+      "desc": "/लेत्तिङ्/",
+      "group": "CM",
+      "mean": "<p>sacrifice.</p>त्याग; बलिदान ।"
+    },
+    "06791": {
+      "dId": "ᤛᤠᤶᤗᤧᤳᤋᤡᤱ",
+      "desc": "/साम्लेत्तिङ्/",
+      "group": "CM",
+      "mean": "<p>self-sacrifice.</p>आत्मबलिदान; आत्मत्याग ।"
+    },
+    "06792": {
+      "dId": "ᤗᤧᤴ",
+      "desc": "/लेन्/",
+      "group": "CM",
+      "mean": "<p>day (time).</p>दिन ।"
+    },
+    "06793": {
+      "dId": "ᤗᤧᤴᤈᤠ",
+      "desc": "/लेन्जा/",
+      "group": "CM",
+      "mean": "<p>lunch.</p>दिनको खाना ।"
+    },
+    "06794": {
+      "dId": "ᤗᤧᤴᤈᤠᤣ",
+      "desc": "/लेन्जो/",
+      "group": "CM",
+      "mean": "<p>morning (time between 8 to 10 am).</p>बिहान (८ बजेदेखि १० बजेसम्मको समय) ।"
+    },
+    "06795": {
+      "dId": "ᤗᤧᤴᤈᤠᤣᤛᤧ",
+      "desc": "/लेन्जोसे/",
+      "group": "CM",
+      "mean": "<p>noon; midday.</p>मध्यदिन; दिनको मध्य समय ।"
+    },
+    "06796": {
+      "dId": "ᤗᤧᤴᤈᤠᤣ᤺ᤔᤠ",
+      "desc": "/लेन्जोःमा/",
+      "group": "CM",
+      "mean": "<p>to pass/be spent (in relation to the passing of time or the day).</p>दिन (समय) बित्नु (मध्यान्ह भई दिन ढलेको अर्थमा मात्र) ।"
+    },
+    "06797": {
+      "dId": "ᤗᤧᤴᤈᤧᤰ",
+      "desc": "/लेन्जेक्/",
+      "group": "CM",
+      "mean": "<p>daily routine.</p>दिनचर्या ।"
+    },
+    "06798": {
+      "dId": "ᤗᤧᤴᤍᤠᤱᤒᤠ",
+      "desc": "/लेन्दाङ्बा/",
+      "group": "CM",
+      "mean": "<p>sun.</p>सूर्य ।"
+    },
+    "06799": {
+      "dId": "ᤗᤧᤴᤍᤡ᤺ᤰ/ᤗᤧᤴᤍᤡᤁ᤻",
+      "desc": "/लेन्दिःक्/",
+      "group": "CM",
+      "mean": "<p>day(time); noon.</p>दिन; दिउँसो ।"
+    },
+    "06800": {
+      "dId": "ᤗᤧᤴᤔᤡᤰ",
+      "desc": "/लेन्मिक्/",
+      "group": "CM",
+      "mean": "<p>1. morning (time from ten o’clock up to noon/10 to 12 am).</p>बिहान (१० बजेदेखि १२ बजेसम्मको अवधि) ।"
+    },
+    "06801": {
+      "dId": "ᤗᤧᤴᤗᤢᤵ",
+      "desc": "/लेन्लुम्/",
+      "group": "CM",
+      "mean": "<p>noon (the period/time from 12 am to 2 pm).</p>दिउँसो (१२ देखि २ बजेसम्मको अवधि) ।"
+    },
+    "06802": {
+      "dId": "ᤗᤧᤴᤗᤢᤶᤓᤰ",
+      "desc": "/लेन्लुम्भक्/",
+      "group": "CM",
+      "mean": "<p>noon; midday; meridian.</p>दिउँसो ठीक १२ बजेको समय; मध्यान्ह ।"
+    },
+    "06803": {
+      "dId": "ᤗᤧᤵ",
+      "desc": "/लेप्/",
+      "group": "CM",
+      "mean": "<p>1. moment; second. 2. in a moment; at once; very fast/swiftly; immediately. 3. (in the manner of) fittingly/exactly/perfectly. 4. easily; quickly; unexpectedly. 5. in a lapping manner.</p>१. क्षण; पल । २. झट्ट; ठ्याक्क । ३. ठिक्क वा ठ्याक्क मिल्ने किसिमले । ४. टप्प; टपक्क; थपक्क । ५. ल्याप्प ल्याप; ल्याप ।"
+    },
+    "06804": {
+      "dId": "ᤗᤧᤵᤂᤰᤐᤠ",
+      "desc": "/लेप्खक्पा/",
+      "group": "CM",
+      "mean": "<p>nut cracker.</p>(सुपारी काट्ने) सरौतो ।"
+    },
+    "06805": {
+      "dId": "ᤗᤧᤵᤂᤧᤵᤐᤠ",
+      "desc": "/लेप्खेप्पा/",
+      "group": "CM",
+      "mean": "<p>towel.</p>तौलिया; गम्छा; गम्छाले झैं जीउ ढाक्ने कपडा ।"
+    },
+    "06806": {
+      "dId": "ᤗᤧᤵᤏᤠ",
+      "desc": "/लेप्ना/",
+      "group": "CM",
+      "mean": "<p>space; place.</p>स्थान; ठाउँ ।"
+    },
+    "06807": {
+      "dId": "ᤗᤧᤵᤐᤢᤱ",
+      "desc": "/लेप्पुङ्/",
+      "group": "CM",
+      "mean": "<p>sling for throwing stone.</p>घुयेँत्रो ।"
+    },
+    "06808": {
+      "dId": "ᤗᤧᤵᤐᤣ",
+      "desc": "/लेप्पे/",
+      "group": "CM",
+      "mean": "<p>gambling.</p>जुवा (खेल) ।"
+    },
+    "06809": {
+      "dId": "ᤗᤧᤵᤐᤧᤵᤐᤠ",
+      "desc": "/लेप्पेप्पा/",
+      "group": "CM",
+      "mean": "<p>flat.</p>च्याप्टो ।"
+    },
+    "06810": {
+      "dId": "ᤗᤧᤵᤔᤠ",
+      "desc": "/लेप्मा/",
+      "group": "CM",
+      "mean": "<p>1. to show seed. 2. to stone/hit by throwing sth (stone etc); to throw (stone etc). 3. to spend (money etc in gambling). 4. to unite/unbind/untether/unfetter; to let loose. 5. to give up(money etc). 6. to pardon.</p>१. बीउ छर्नु । २. (ढुङ्गा आदि फ्याँकेर) हान्नु । ३. हान्नु (जुवा आदिमा पैसा खर्च गर्नु) । ४. (वस्तुभाउ) छोड्नु/फुकाउनु । ५. छोडिदिनु । ६. माफी दिनु । "
+    },
+    "06811": {
+      "dId": "ᤗᤧᤵᤔᤠᤱ",
+      "desc": "/लेप्माङ्/",
+      "group": "CM",
+      "mean": "<p>to, towards; inside the direction of.</p>तिर; तर्फ; पट्टि ।"
+    },
+    "06812": {
+      "dId": "ᤗᤧᤵᤔᤡ ",
+      "desc": "/लेप्मि/",
+      "group": "CM",
+      "mean": "<p>pardon; forgiveness; apology.</p>क्षमा; माफी ।"
+    },
+    "06813": {
+      "dId": "ᤗᤧᤵᤔᤢ",
+      "desc": "/लेप्मु/",
+      "group": "CM",
+      "mean": "<p>blue.</p>निलो ।"
+    },
+    "06814": {
+      "dId": "ᤗᤧᤵᤔᤢᤜᤠᤱ",
+      "desc": "/लेप्मुहाङ्/",
+      "group": "CM",
+      "mean": "<p>1. sky/heavenly god. (one that resides in the blue sky); the king of the sky/heaven. 2. the name of a famous ancestor of the Limbus.</p>१. नीलो (आकाश/स्वर्ग)मा बास गर्ने देवता; आकाश/स्वर्गको राजा । २. लिम्बूजातिको प्रसिद्ध पूर्खाको नाम ।"
+    },
+    "06815": {
+      "dId": "ᤗᤧᤵᤔᤧᤴᤍᤱ",
+      "desc": "/लेप्मेन्दङ्/",
+      "group": "CM",
+      "mean": "<p>uneven; rough and rugged.</p>समतल नभएको; बल्ड्याङ्बुल्डुङ् परेको ।"
+    },
+    "06816": {
+      "dId": "ᤗᤧᤵᤕᤠ᤹",
+      "desc": "/लेप्या?/",
+      "group": "CM",
+      "mean": "<p>a kind of paddy grown in dry land.</p>घैया ।"
+    },
+    "06817": {
+      "dId": "ᤗᤧᤵᤕᤧ᤺ᤰ/ᤗᤧᤵᤕᤧᤁ᤻",
+      "desc": "/लेप्येःक्/",
+      "group": "CM",
+      "mean": "<p>habit.</p>आदत; बानी ।"
+    },
+    "06818": {
+      "dId": "ᤗᤧᤵᤛᤠᤱ",
+      "desc": "/लेप्साङ्/",
+      "group": "CM",
+      "mean": "<p>to(wards).</p>तिर; तर्फ; पट्टि ।"
+    },
+    "06819": {
+      "dId": "ᤗᤧᤶᤒᤧᤳ",
+      "desc": "/लेम्बेत्/",
+      "group": "CM",
+      "mean": "<p>fully stretched.</p>तनक्क/तेर्सो परेर; तन्केर/तेर्सिएर ।"
+    },
+    "06820": {
+      "dId": "ᤗᤧᤒᤪᤧᤵ",
+      "desc": "/लेब्रेप्/",
+      "group": "CM",
+      "mean": "<p>1. in the manner of being cut/snapped off instantly/at once. 2. looking properly, exactly/alike.</p>१. च्वाट्ट; झ्वाट्ट । २. ठिक्क (च्याट्टै) मिल्ने किसिम ।"
+    },
+    "06821": {
+      "dId": "ᤗᤧᤶ",
+      "desc": "/लेम्/",
+      "group": "CM",
+      "mean": "<p>spleen.</p>फियो ।"
+    },
+    "06822": {
+      "dId": "ᤗᤧᤶᤒᤠᤣᤒᤠ᤹",
+      "desc": "/लेम्बोबा?/",
+      "group": "CM",
+      "mean": "<p>[Sikkim] graduate.</p>[सिक्किम] स्नातक; विशारद; शास्त्री ।"
+    },
+    "06823": {
+      "dId": "ᤗᤧᤶᤓᤡ᤺ᤵᤔᤠ/ᤗᤧᤶᤓᤡᤐ᤻ᤔᤠ",
+      "desc": "/लेम्भिःप्मा/",
+      "group": "CM",
+      "mean": "<p>pouch inside stomach where water and other liquids collect.</p>पानी पेट ।"
+    },
+    "06824": {
+      "dId": "ᤗᤧᤶᤓᤧ᤺ᤰᤐᤠ/ᤗᤧᤶᤓᤧᤁ᤻ᤐᤠ",
+      "desc": "/लेम्भेःक्मा/",
+      "group": "CM",
+      "mean": "<p>kidney.</p>मिर्गौला ।"
+    },
+    "06825": {
+      "dId": "ᤗᤧᤶᤓᤧ-ᤆᤡᤖᤠ᤺ᤰ/ᤆᤡᤖᤠᤁ᤻",
+      "desc": "/लेम्भे-चिराःक्/",
+      "group": "CM",
+      "mean": "<p>hay used for weaving mat.</p>मुठे पराल ।"
+    },
+    "06826": {
+      "dId": "ᤗᤧᤶ-ᤔᤳᤆᤡ ",
+      "desc": "/लेम्भे-मत्चि/",
+      "group": "CM",
+      "mean": "<p>capsicum; sweet-pepper; a kind of bull-nose chilly; big round pepper/chilly eaten as curry.</p>ठूलो डल्ले खुर्सानी; भेंडे खुर्सानी ।"
+    },
+    "06827": {
+      "dId": "ᤗᤧᤶᤔᤠ",
+      "desc": "/लेम्मा/",
+      "group": "CM",
+      "mean": "<p>1. to be lacerated/lopped off/broken by being lopped. 2. to lacerate/tear off; to lop off; to break off. 3. (of a womb) to be aborted/miscarried; to have/suffer a miscarriage. 4. to console. 5. to quieten (a crying baby); to soothe/persuade; to cajole/coax. 6. to lure/incite/charm. 7. to be/feel lazy. 8. (of clothes, pot etc) to mend/patch up; to paste/caulk.</p>१. लाछिनु; लाछिएर भाँचिनु । २. लाछ्नु । ३. गर्भपतन हुनु । ४. सान्तावना दिनु । ५. फकाउनु; फुल्याउनु । ६. फस्ल्याङ् फुस्लुङ् पार्नु । ७. अल्सी हुनु/गर्नु । ८. टाल्नु; टालटुल गर्नु ।"
+    },
+    "06828": {
+      "dId": "ᤗᤧᤶᤕᤠ",
+      "desc": "/लेम्या/",
+      "group": "CM",
+      "mean": "<p>cajolery; coaxing; flattery; buttering sb up.</p>फुस्ल्याँइ; फकाउने-फुल्याउने काम; चिप्लो घसेर फकाउने काम ।"
+    },
+    "06829": {
+      "dId": "ᤗᤧᤖᤠᤱ",
+      "desc": "/लेराङ्/",
+      "group": "CM",
+      "mean": "<p>supine; recumbent; lying flat on the back/upside down.</p>उत्तानो; चित; उत्तानो/चित पार्ने चाला ।"
+    },
+    "06830": {
+      "dId": "ᤗᤧᤖᤧᤱᤃᤠᤰ",
+      "desc": "/लेरेङ्गाक्/",
+      "group": "CM",
+      "mean": "<p>fully stretched; lying down one’s back with hand and feet fully extended.</p>लम्पसार ।"
+    },
+    "06831": {
+      "dId": "ᤗᤧᤶᤗᤧᤶ",
+      "desc": "/लेम्लेम्/",
+      "group": "CM",
+      "mean": "<p>1. fitting loosely. 2. full up to the brim; brimful.</p>१. खुकुलो (हुने गरी) । २. निम्ठो; भरी ।"
+    },
+    "06832": {
+      "dId": "ᤗᤧᤶᤛᤢ᤺ᤰᤘᤠ/ᤗᤧᤶᤛᤢᤁ᤻ᤘᤠ",
+      "desc": "/लेम्सुःक्वा/",
+      "group": "CM",
+      "mean": "<p>haversack; sack.</p>ठूलो झोला; बोरा ।"
+    },
+    "06833": {
+      "dId": "ᤗᤧᤶᤛᤠᤣᤛᤠᤣ(ᤒᤠ)",
+      "desc": "/लेम्सोसो(बा)/",
+      "group": "CM",
+      "mean": "<p>crumbling; collapsing; about to fall/crumble/collapse; feeble; weak.</p>ढल्न ढल्न लागेको; कमजोर ।"
+    },
+    "06834": {
+      "dId": "ᤗᤧᤶᤛᤫᤠᤒᤠ",
+      "desc": "/लेम्स्वाबा/",
+      "group": "CM",
+      "mean": "<p>1. inactive; indolent; inert; unenergetic. 2. vagabond.</p>१. अकर्मण्य; अल्छी; निष्क्रिय; जाँगर नभएको । २. भतुवा ।"
+    },
+    "06835": {
+      "dId": "ᤗᤧᤛᤠᤣ᤺ᤳ/ᤗᤧᤛᤠᤣᤋ᤻-ᤆᤠᤴᤈᤠᤶᤒᤠ",
+      "desc": "/लेसोःत्-चान्जाम्बा/",
+      "group": "CM",
+      "mean": "<p>a kind of small tree. Melastoma malaba(th)ricum.</p>कालो अँगेरी ।"
+    },
+    "06836": {
+      "dId": "ᤗᤧᤛᤠᤣ᤺ᤳᤗᤧᤱ/ᤗᤧᤛᤠᤣᤋ᤻ᤗᤧᤱ",
+      "desc": "/लेसोःत्लेङ्/",
+      "group": "CM",
+      "mean": "<p>sound change; change of sound.</p>ध्वनिविकार; ध्वनिपरिवर्तन ।"
+    },
+    "06837": {
+      "dId": "ᤗᤧᤛᤠᤣ᤺ᤵᤐᤠ/ᤗᤧᤛᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/लेसोःप्पा/",
+      "group": "CM",
+      "mean": "<p>tongue.</p>जिब्रो ।"
+    },
+    "06838": {
+      "dId": "ᤗᤧ᤺ᤰᤁᤠᤵᤐᤠ/ᤗᤧᤁ᤻ᤁᤠᤵᤐᤠ",
+      "desc": "/लेःक्काप्पा/",
+      "group": "CM",
+      "mean": "<p>open.</p>बाहिरको; खुल्ला ।"
+    },
+    "06839": {
+      "dId": "ᤗᤧ᤺ᤰᤔᤠ/ᤗᤧᤁ᤻ᤔᤠ",
+      "desc": "/लेःक्मा/",
+      "group": "CM",
+      "mean": "<p>1. to fade/be(come) discolored. 2. to be scalded/scorched. 3. to splash, to sprinkle. water (so as to drench sb/sth); to pour down water over (to wet sth). 4. to scald/burn sb/sth pouring hot liquid (water etc).</p>१. रङ् उड्नु; खुइलनु । २. (तातो पानी आदिले) खुइलनु; पिल्सनु । ३. छ्याप्नु, भिजाउनका निम्ति । ४. तातो तरल पदार्थ खन्याएर। पिल्स्याउनु ।"
+    },
+    "06840": {
+      "dId": "ᤗᤧ᤺ᤱᤔᤠᤗᤧᤅ᤻ᤔᤠ",
+      "desc": "/लेःङ्मा/",
+      "group": "CM",
+      "mean": "<p>to clear away (weeds, bushes, trees etc).</p>फाँड्नु; छास्नु ।"
+    },
+    "06841": {
+      "dId": "ᤗᤧ᤺ᤴᤈᤱ/ᤗᤧᤏ᤻ᤈᤱ",
+      "desc": "/लेःन्जङ्/",
+      "group": "CM",
+      "mean": "<p>fashion.</p>नकलझकल ।"
+    },
+    "06842": {
+      "dId": "ᤗᤧ᤺ᤴᤈᤱ/ᤗᤧᤏ᤻ᤈᤱᤒᤠ/ᤔᤠ",
+      "desc": "/लेःन्जङ्बा/मा/",
+      "group": "CM",
+      "mean": "<p>fashionable.</p>नकलझकल गर्ने; नक्कली; नकल पार्ने ।"
+    },
+    "06843": {
+      "dId": "ᤗᤧ᤺ᤵᤔᤠ/ᤗᤧᤐ᤻ᤔᤠ",
+      "desc": "/लेःप्मा/",
+      "group": "CM",
+      "mean": "<p>to slice (cut into slices); to chop.</p>चाना पार्नु (पारेर काट्नु); चिर्नु ।"
+    },
+    "06844": {
+      "dId": "ᤗᤧ᤺ᤔᤠ",
+      "desc": "/लेःमा/",
+      "group": "CM",
+      "mean": "<p>1. (of chilly etc) to cause to feel hot in taste; (of chilly etc) to burn with pain; to suffer with throbbing. 2. to irritate/tingle/smart. 3. to know; to become aware.</p>१. पिरोले पोल्नु; पिरो हुनु । २. टट्याउनु; झमझमाउनु । ३. जान्नु । "
+    },
+    "06845": {
+      "dId": "ᤗᤧ᤺ᤔᤠᤏᤠ",
+      "desc": "/लेःमाना/",
+      "group": "CM",
+      "mean": "<p>(of knowledge, facts etc) needing to be learned/learnt/know; wroth learning/knowing; must be known or informed.</p>अवगत गर्नै पर्ने (ज्ञान, कुरा आदि) ।"
+    },
+    "06846": {
+      "dId": "ᤗᤧ᤺ᤶᤓᤠ/ᤗᤧᤔ᤻ᤓᤠ",
+      "desc": "/लेःम्भा/",
+      "group": "CM",
+      "mean": "<p>a kind of wild smooth bamboo.</p>एक प्रकारको चिल्लो जङ्गली बाँस ।"
+    },
+    "06847": {
+      "dId": "ᤗᤧ᤺ᤶᤓᤠᤗᤢᤱ/ᤗᤧᤔ᤻ᤓᤠᤗᤢᤱ",
+      "desc": "/लेःम्भालुङ्/",
+      "group": "CM",
+      "mean": "<p>marble.</p>सङ्गमरमर ।"
+    },
+    "06848": {
+      "dId": "ᤗᤧ᤺ᤶᤓᤣ/ᤗᤧᤔ᤻ᤓᤣ",
+      "desc": "/लेःम्भे/",
+      "group": "CM",
+      "mean": "<p>a small stick thrown with force.</p>झटारो ।"
+    },
+    "06849": {
+      "dId": "ᤗᤧ᤺ᤶᤔᤠ/ᤗᤧᤔ᤻ᤔᤠ",
+      "desc": "/लेःम्मा/",
+      "group": "CM",
+      "mean": "<p>to be slippery.</p>चिप्लो हुनु ।"
+    },
+    "06850": {
+      "dId": "ᤗᤩᤠᤵᤗᤡᤵ",
+      "desc": "/ल्याप्लिप्/",
+      "group": "CM",
+      "mean": "<p>picking up/pilfering little thing.</p>टापटिप ।"
+    },
+    "06851": {
+      "dId": "ᤗᤩᤠᤵᤗᤩᤠᤵ",
+      "desc": "/ल्याप्ल्याप्/",
+      "group": "CM",
+      "mean": "<p>(falling) in drops.</p>तपतप ।"
+    },
+    "06852": {
+      "dId": "ᤗᤩᤠᤶ",
+      "desc": "/ल्याम्/",
+      "group": "CM",
+      "mean": "<p>in a manner of hitting/grounding with a noise.</p>डुङ्ग/डङ्ग आदि आवाज आउने गरी कुट्ने किसिमले ।"
+    },
+    "06853": {
+      "dId": "ᤗᤩᤠ᤺ᤱ/ᤗᤩᤠᤅ᤻",
+      "desc": "/ल्याःङ्/",
+      "group": "CM",
+      "mean": "<p>in a manner of slapping; slapping/giving a slap with the open hand.</p>ठ्याम्म; ड्याम्म; चड्याम्म; चड्याङ्ग ।"
+    }
+  }
+}

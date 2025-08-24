@@ -1,0 +1,676 @@
+{
+  "Dic": {
+    "06048": {
+      "dId": "ᤕᤧᤀᤡᤱ",
+      "desc": "/येइङ्/",
+      "group": "CG",
+      "mean": "<p>instruction; preaching.</p>उपदेश ।"
+    },
+    "06049": {
+      "dId": "ᤕᤧᤀᤡ᤺ᤱ/ᤕᤧᤀᤡᤅ᤻",
+      "desc": "/येइःङ्/",
+      "group": "CG",
+      "mean": "<p>tooth powder; tooth paste.</p>दन्तमञ्जन ।"
+    },
+    "06050": {
+      "dId": "ᤕᤧ᤹ᤏᤠᤶ",
+      "desc": "/ये?नाम्/",
+      "group": "CG",
+      "mean": "<p>(n.) a week; (adv.) always; forever; for good.</p>(ना.) हप्ता/साता । (क्रिवि.) सधैँ; सदासर्वदा ।"
+    },
+    "06051": {
+      "dId": "ᤕᤧ᤹ᤕᤠᤰ",
+      "desc": "/ये?याक्/",
+      "group": "CG",
+      "mean": "<p>lightly.</p>हल्कासित ।"
+    },
+    "06052": {
+      "dId": "ᤕᤧ᤹ᤖᤢ",
+      "desc": "/ये?रु/",
+      "group": "CG",
+      "mean": "<p>indeclinable word denoting a negative meaning.</p>नकारात्मक अर्थबोध गराउने अव्यय शब्द, जस्तै- होइन, पत्याइन्न आदि।"
+    },
+    "06053": {
+      "dId": "ᤕᤧ᤹ᤛᤡᤱᤒᤠ",
+      "desc": "/ये?सिङ्बा/",
+      "group": "CG",
+      "mean": "<p>chin.</p>चिउँडो ।"
+    },
+    "06054": {
+      "dId": "ᤕᤧᤰᤁᤣᤒᤠ ᤕᤧᤳᤋᤡᤶᤒᤠ",
+      "desc": "/येक्केबा येत्तिम्बा/",
+      "group": "CG",
+      "mean": "<p>experienced; wise; elderly; veteran; man of great experience.</p>अनुभवी; ज्ञानवृद्ध; वयोवृद्ध ।"
+    },
+    "06055": {
+      "dId": "ᤕᤧᤰᤀᤢᤱᤎᤢᤱ",
+      "desc": "/येक्खुधुङ्/",
+      "group": "CG",
+      "mean": "<p>waking moments.</p>बिपना ।"
+    },
+    "06056": {
+      "dId": "ᤕᤧᤰᤌᤰᤔᤠ",
+      "desc": "/येक्थक्मा/",
+      "group": "CG",
+      "mean": "<p>1. to follow the footsteps/trail; to trail/track. 2. to trace/draw lines.</p>१. पहिल्याउनु । २. रूपरेखा खिच्नु ।"
+    },
+    "06057": {
+      "dId": "ᤕᤧᤰᤏᤠᤵ",
+      "desc": "/येक्नाप्/",
+      "group": "CG",
+      "mean": "<p>exploitation; suppression; oppression.</p>१. ढिपी; हठ; जिद्दी । २. बलमिचाइ; शोषण; अत्याचार ।"
+    },
+    "06058": {
+      "dId": "ᤕᤧᤰᤏᤠᤵᤐᤠ",
+      "desc": "/येक्नाप्पा/",
+      "group": "CG",
+      "mean": "<p>1. obstinate; stubborn. 2. oppressor.</p>१. ढिपीवाल; हठी । २. मिचाहा; शोषक ।"
+    },
+    "06059": {
+      "dId": "ᤕᤧᤰᤏᤡᤱᤘᤠ᤹",
+      "desc": "/येक्निङ्वा?/",
+      "group": "CG",
+      "mean": "<p>device; contrivance; expedient; artifice.</p>जुक्ती; युक्ति ।"
+    },
+    "06060": {
+      "dId": "ᤕᤧᤰᤏᤧᤶᤒᤠ",
+      "desc": "/येक्नेम्बा/",
+      "group": "CG",
+      "mean": "<p>narrow lane/pass; ravine/strait.</p>गल्छेंडो; घाँटी ।"
+    },
+    "06061": {
+      "dId": "ᤕᤧᤰᤐᤣ᤺ᤸᤗᤡ/ᤕᤧᤰᤐᤣᤗ᤻ᤗᤡ ",
+      "desc": "/येक्पेःल्लि/",
+      "group": "CG",
+      "mean": "<p>persistence; insistence; appeal; plea; pleading.</p>आग्रह ।"
+    },
+    "06062": {
+      "dId": "ᤕᤧᤰᤔᤠ",
+      "desc": "/येक्मा/",
+      "group": "CG",
+      "mean": "<p>(edge of khukuri etc) to wear/be worn away by friction.</p>(खुकुरीको धार आदि घोटिएर) खिइनु; (खिइएर) घट्नु/जानु ।"
+    },
+    "06063": {
+      "dId": "ᤕᤧᤰᤔᤡ ",
+      "desc": "/येक्मि/",
+      "group": "CG",
+      "mean": "<p>beneficial.</p>श्रेयस्कर; हितकर ।"
+    },
+    "06064": {
+      "dId": "ᤕᤧᤰᤕᤧᤰ",
+      "desc": "/येक्येक्/",
+      "group": "CG",
+      "mean": "<p>cautiously; cleverly; carefully.</p>चतुर्याइँसाथ; चलाकीसाथ; सतर्कतापूर्वक ।"
+    },
+    "06065": {
+      "dId": "ᤕᤧᤰᤁᤩᤠ",
+      "desc": "/येक्क्या/",
+      "group": "CG",
+      "mean": "<p>importance; significance.</p>महत्व ।"
+    },
+    "06066": {
+      "dId": "ᤕᤧᤰᤗ᤹ᤔᤠ",
+      "desc": "/येक्ल?मा/",
+      "group": "CG",
+      "mean": "<p>to be compelled/helpless.</p>विवश/मजबूर हुनु ।"
+    },
+    "06067": {
+      "dId": "ᤕᤧᤰᤗᤱ",
+      "desc": "/येक्लङ्/",
+      "group": "CG",
+      "mean": "<p>determination; (undoubted/undoubtable/unsuspected/doubtless condition, situation).</p>निश्चय (निस्सन्देह/निःशङ्क/शङ्का नभएको वा सन्देहहीन) ।"
+    },
+    "06068": {
+      "dId": "ᤕᤧᤃᤠᤵᤆᤡ(ᤒᤠ)",
+      "desc": "/येगाप्चि(बा)/",
+      "group": "CG",
+      "mean": "<p>Yeba’s disciple/assistant.</p>पुरोहित येबाको सहयोगी चेला ।"
+    },
+    "06069": {
+      "dId": "ᤕᤧᤅᤠ",
+      "desc": "/येङा/",
+      "group": "CG",
+      "mean": "<p>a kind of smooth skin fish; trout.</p>असला माछा ।"
+    },
+    "06070": {
+      "dId": "ᤕᤧᤱᤃᤵ",
+      "desc": "/येङ्गप्/",
+      "group": "CG",
+      "mean": "<p>date; a lunar day of a month.</p>गते; तिथि; मिति आदि ।"
+    },
+    "06071": {
+      "dId": "ᤕᤧᤱᤃᤪᤣ᤺ᤰ/ᤕᤧᤱᤃᤪᤣᤁ᤻",
+      "desc": "/येङ्ग्रेःक्/",
+      "group": "CG",
+      "mean": "<p>skeleton.</p>अस्थिपञ्जर; कङ्काल ।"
+    },
+    "06072": {
+      "dId": "ᤕᤧᤈᤢᤶᤗᤢᤱ",
+      "desc": "/येजुम्लुङ्/",
+      "group": "CG",
+      "mean": "<p>conference.</p>अधिवेशन ।"
+    },
+    "06073": {
+      "dId": "ᤕᤧᤳᤇᤠ",
+      "desc": "/येत्छा/",
+      "group": "CG",
+      "mean": "<p>orphan.</p>अनाथ; टुहुरो ।"
+    },
+    "06074": {
+      "dId": "ᤕᤧᤳᤇᤠᤔᤠ ᤛᤠ᤺ᤳᤋᤡ/ᤛᤠᤋ᤻ᤋᤡ ",
+      "desc": "/येत्छामा साःत्ति/",
+      "group": "CG",
+      "mean": "<p>a kind of herb with seven-fingered tuber.</p>सातऔंले; एक प्रकारको जडीबुटी ।"
+    },
+    "06075": {
+      "dId": "ᤕᤧᤳᤇᤠᤶ ᤐᤠᤆᤠ",
+      "desc": "/येत्छाम पाचा/",
+      "group": "CG",
+      "mean": "<p>science/rituals/rites/religious ceremony/passage of rites.</p>कर्मकाण्ड ।"
+    },
+    "06076": {
+      "dId": "ᤕᤧᤳᤋᤠᤱᤗᤠ",
+      "desc": "/येत्ताङ्ला/",
+      "group": "CG",
+      "mean": "<p>sun-rays.</p>सूर्यकिरण ।"
+    },
+    "06077": {
+      "dId": "ᤕᤧᤳᤋᤢᤰᤂᤣ",
+      "desc": "/येत्तुक्खे/",
+      "group": "CG",
+      "mean": "<p>adversity; bad days crisis; sufferings; disaster.</p>आपत्विपत्; विपदा; दुःखकष्ट ।"
+    },
+    "06078": {
+      "dId": "ᤕᤧᤳᤋᤣᤕᤠᤣᤏᤠ",
+      "desc": "/येत्तेयोना/",
+      "group": "CG",
+      "mean": "<p>a kite-like bird said to drink only rain water.</p>काकाकुल (चरो) ।"
+    },
+    "06079": {
+      "dId": "ᤕᤧᤳᤏᤠᤶ",
+      "desc": "/येत्नाम्/",
+      "group": "CG",
+      "mean": "<p>week.</p>हप्ता; साता ।"
+    },
+    "06080": {
+      "dId": "ᤕᤧᤳᤏᤠᤖᤠ",
+      "desc": "/येत्नारा/",
+      "group": "CG",
+      "mean": "<p>1. eight faces/forms. 2. different forms; play; leela (of God).</p>१. आठ अनुहार/रुप । २. नाना/विविध रुप; लीला ।"
+    },
+    "06081": {
+      "dId": "ᤕᤧᤳᤜᤠᤰ",
+      "desc": "/येत्हाक्/",
+      "group": "CG",
+      "mean": "<p>inner rocky caves/tunnels inside an outcropping land.</p>ढाँड; ढुङ्ग्यान जमिनको भित्रभित्रको सुरुङ् ।"
+    },
+    "06082": {
+      "dId": "ᤕᤧᤍᤡᤑᤢᤱ",
+      "desc": "/येदिफुङ्/",
+      "group": "CG",
+      "mean": "<p>a kind of flower.</p>आरेफूल ।"
+    },
+    "06083": {
+      "dId": "ᤕᤧᤍᤡᤶᤒᤠ",
+      "desc": "/येदिम्बा/",
+      "group": "CG",
+      "mean": "<p>great; noble; magnanimous.</p>महान ।"
+    },
+    "06084": {
+      "dId": "ᤕᤧᤴ",
+      "desc": "/येन्/",
+      "group": "CG",
+      "mean": "<p>1. day. 2. name of the day (eg- Sunday, Monday etc).</p>१. दिन; रोज । २. वार (जस्तै- आइतवार, सोमवार आदि) ।"
+    },
+    "06085": {
+      "dId": "ᤕᤧᤴᤈᤡᤖᤡ ",
+      "desc": "/येन्जिरि/",
+      "group": "CG",
+      "mean": "<p>calendar.</p>पात्रो ।"
+    },
+    "06086": {
+      "dId": "ᤕᤧᤴᤈᤧ᤺ᤵ/ᤕᤧᤴᤈᤧᤐ᤻",
+      "desc": "/येन्जेःप्/",
+      "group": "CG",
+      "mean": "<p>bamboo cage to carry a prisoner in.</p>कैदी बोक्ने बाँसको पेरुङ्गो ।"
+    },
+    "06087": {
+      "dId": "ᤕᤧᤴᤍᤠᤣᤛᤠ",
+      "desc": "/येन्दोसा/",
+      "group": "CG",
+      "mean": "<p>bad/ill luck; misfortune; mishap.</p>दुर्भाग्य ।"
+    },
+    "06088": {
+      "dId": "ᤕᤧᤴᤏᤠ᤺ᤰᤐᤠ/ᤕᤧᤴᤏᤠᤁ᤻ᤐᤠ",
+      "desc": "/येन्नाःक्पा/",
+      "group": "CG",
+      "mean": "<p>beggar; alms man.</p>मगन्ते; माग्ने ।"
+    },
+    "06089": {
+      "dId": "ᤕᤧᤴᤏᤡ᤺ᤳ/ᤕᤧᤴᤏᤡᤋ᤻",
+      "desc": "/येन्निःत्/",
+      "group": "CG",
+      "mean": "<p>date.</p>मिति; तिथिमिति ।"
+    },
+    "06090": {
+      "dId": "ᤕᤧᤴᤑᤠ",
+      "desc": "/येन् फा/",
+      "group": "CG",
+      "mean": "<p>a kind of solid bamboo. <i>Cephalostachium capitatum.</i></p>गेपे बाँस ।"
+    },
+    "06091": {
+      "dId": "ᤕᤧᤵᤆᤠᤣ᤹ᤈᤠᤣᤒᤠ",
+      "desc": "/येप्चो?जोबा/",
+      "group": "CG",
+      "mean": "<p>healthy; sound; musty.</p>स्वस्थ; तगडा; तन्दुरुस्त ।"
+    },
+    "06092": {
+      "dId": "ᤐᤧᤵᤏᤠ",
+      "desc": "/येप्ना/",
+      "group": "CG",
+      "mean": "<p>a place fo tying/tethering/fettering cattle.</p>थलो; वस्तु बाँधिने ठाउँ ।"
+    },
+    "06093": {
+      "dId": "ᤕᤧᤵᤐᤠ᤺ᤵᤐᤠ/ᤕᤧᤵᤐᤠᤐ᤻ᤐᤠ",
+      "desc": "/येप्पाःप्पा/",
+      "group": "CG",
+      "mean": "<p>talkative.</p>बोलक्कड; कुरौटे ।"
+    },
+    "06094": {
+      "dId": "ᤕᤧᤵᤑᤳᤋᤪ",
+      "desc": "/येप्फत्त्र/",
+      "group": "CG",
+      "mean": "<p>jester; joker; clown.</p>ख्यालठट्टा गरि हँसाउने मान्छे; विदूषक ।"
+    },
+    "06095": {
+      "dId": "ᤕᤧᤵᤔᤠ",
+      "desc": "/येप्मा/",
+      "group": "CG",
+      "mean": "<p>to stand.</p>उभिनु ।"
+    },
+    "06096": {
+      "dId": "ᤕᤧᤵᤔᤣ",
+      "desc": "/येप्मे/",
+      "group": "CG",
+      "mean": "<p>a kind of weed having cardamom-like smell.</p>अलैंचीको जस्तो गन्ध भएको एक प्रकारको झार ।"
+    },
+    "06097": {
+      "dId": "ᤕᤧᤵᤕᤧᤵᤘᤠ",
+      "desc": "/येप्येप्वा/",
+      "group": "CG",
+      "mean": "<p>constancy; fixity; rigrity.</p>स्थिरता ।"
+    },
+    "06098": {
+      "dId": "ᤕᤧᤵᤗᤡᤱᤃᤣᤏᤠ",
+      "desc": "/येप्लिङ्गेना/",
+      "group": "CG",
+      "mean": "<p>a kind of bird living in flocks.</p>बथाने चरो; स्यूचरो ।"
+    },
+    "06099": {
+      "dId": "ᤕᤧᤵᤛᤡᤱ",
+      "desc": "/येप्सिङ्/",
+      "group": "CG",
+      "mean": "<p>1. a billion; one thousand million(s); the number and the figure 1,000,000,000. 2. dry (but standing or not yet felled) tree.</p>१. अरब; अरबको सङ्ख्या; १,००,००,००,००० को अङ्क । २. सुकेको (तर ढली नसकेको) रुख । "
+    },
+    "06100": {
+      "dId": "ᤕᤧᤵᤛᤡᤱᤔᤠ",
+      "desc": "/येप्सिङ्मा/",
+      "group": "CG",
+      "mean": "<p>to stand oneself.</p>आफैं उभिनु ।"
+    },
+    "06101": {
+      "dId": "ᤕᤧᤒᤠ",
+      "desc": "/येबा/",
+      "group": "CG",
+      "mean": "<p>Yeba, expert/conversant/versed in Mundhum; a class of the Limbu priests.</p>मुन्धुमको ज्ञाता येबा; लिम्बूजातिय पुरोहितको एउटा वर्ग ।"
+    },
+    "06102": {
+      "dId": "ᤕᤧᤒᤠ ᤑᤢᤱ",
+      "desc": "/येबा फुङ्/",
+      "group": "CG",
+      "mean": "<p>a kind of flower.</p>भाले फूल ।"
+    },
+    "06103": {
+      "dId": "ᤕᤧᤒᤠᤣ",
+      "desc": "/येबो/",
+      "group": "CG",
+      "mean": "<p>1. sign; emblem; symbol; a piece of upper cloth used in ritual to represent its owner. 2. evidence; proof. 3. representative.</p>१. चिन्ह; प्रतिक; स्वयम उपस्थित नहुँदा पूजामा राखिने व्यकक्तिविशेषको उर्ध्ववस्त्र । २. प्रमाण । ३. प्रतिनिधि ।"
+    },
+    "06104": {
+      "dId": "ᤕᤧᤓᤠᤱ",
+      "desc": "/येभाङ्/",
+      "group": "CG",
+      "mean": "<p>legislature.</p>विधान ।"
+    },
+    "06105": {
+      "dId": "ᤕᤧᤓᤠᤱᤈᤢᤶᤒᤠ",
+      "desc": "/येभाङ्जुम्बा/",
+      "group": "CG",
+      "mean": "<p>legislative.</p>विधायिका ।"
+    },
+    "06106": {
+      "dId": "ᤕᤧᤓᤠᤱᤒᤠ",
+      "desc": "/येभाङ्बा/",
+      "group": "CG",
+      "mean": "<p>legislature.</p>व्यवस्थापिका ।"
+    },
+    "06107": {
+      "dId": "ᤕᤧᤓᤠᤱᤗᤢᤱ",
+      "desc": "/येभाङ्लुङ्/",
+      "group": "CG",
+      "mean": "<p>parliament.</p>संसद ।"
+    },
+    "06108": {
+      "dId": "ᤕᤧᤓᤠᤱ",
+      "desc": "/येभाङ्/",
+      "group": "CG",
+      "mean": "<p>solution; answer.</p>समाधान; निदान ।"
+    },
+    "06109": {
+      "dId": "ᤕᤧᤔᤠ",
+      "desc": "/येमा/",
+      "group": "CG",
+      "mean": "<p>Limbu priestess; female Yeba.</p>लिम्बूजातीय स्त्री पुरोहित; येबाको विपरीत लिङ्ग ।"
+    },
+    "06110": {
+      "dId": "ᤕᤧᤔᤢᤱ",
+      "desc": "/येमुङ्/",
+      "group": "CG",
+      "mean": "<p>doubt; suspicion.</p>शङ्का ।"
+    },
+    "06111": {
+      "dId": "ᤕᤧᤔᤢᤍᤠᤶᤒᤠ",
+      "desc": "/येमुदाम्बा/",
+      "group": "CG",
+      "mean": "<p>great man; noble person.</p>महापुरुष; महात्मा ।"
+    },
+    "06112": {
+      "dId": "ᤕᤧᤔᤧᤴᤍᤱ",
+      "desc": "/येमेन्दङ्/",
+      "group": "CG",
+      "mean": "<p>1. inequality; difference. 2. dissimilarity. 3. difference; enmity; hostility; antagonism.</p>१. असमानता; भिन्नता । २. अमिल्दोपना । ३. अनमेल; शत्रुता ।"
+    },
+    "06113": {
+      "dId": "ᤕᤧᤔᤧᤴᤍᤱᤒᤠ",
+      "desc": "/येमेन्दङ्बा/",
+      "group": "CG",
+      "mean": "<p>1. unfit; unsocial; isolated; misfit; conceited; peculiar.  2. unequal; dissimilar; different.</p>१. अमिल्दो; एकलकाँटे; कहीँ कसैसित नमिल्ने । २. असमान ।"
+    },
+    "06114": {
+      "dId": "ᤕᤧᤔᤣᤗᤡ ",
+      "desc": "/येमेलि/",
+      "group": "CG",
+      "mean": "<p>menses; menstrual fluid; menstruation.</p>रज; मासिकधर्मको रगत; आर्तव ।"
+    },
+    "06115": {
+      "dId": "ᤕᤧᤔᤣᤗᤡᤱ",
+      "desc": "/येमेलिङ्/",
+      "group": "CG",
+      "mean": "<p>married couple; husband and wife.</p>दम्पती; स्त्रीपुरुष; जोईपोई; लोग्नेस्वास्नी ।"
+    },
+    "06116": {
+      "dId": "ᤕᤧᤔᤣᤗᤡᤱᤒᤠ",
+      "desc": "/येमेलिङ्बा/",
+      "group": "CG",
+      "mean": "<p>married/conjugal.</p>दाम्पत्य ।"
+    },
+    "06117": {
+      "dId": "ᤕᤧᤔᤣᤗᤡᤱᤒᤠ ᤜᤡᤱᤔᤴ",
+      "desc": "/येमेलिङ्बा हिङ्मन्/",
+      "group": "CG",
+      "mean": "<p>married/conjugal life.</p>दाम्पत्य जीवन ।"
+    },
+    "06118": {
+      "dId": "ᤕᤧᤶ",
+      "desc": "/येम्/",
+      "group": "CG",
+      "mean": "<p>1. time. 2. age; period. 3. tense.</p>१. समय । २. जमाना । ३. काल ।"
+    },
+    "06119": {
+      "dId": "ᤕᤧᤶᤆᤢ",
+      "desc": "/येम्चु/",
+      "group": "CG",
+      "mean": "<p>masculine gender.</p>पुलिङ्ग ।"
+    },
+    "06120": {
+      "dId": "ᤕᤧᤶᤍᤡ᤺ᤰ/ᤕᤧᤶᤍᤡᤁ᤻",
+      "desc": "/येम्दिःक्/",
+      "group": "CG",
+      "mean": "<p>duration/period (of time).</p>पहर; अवधि; समयावधि ।"
+    },
+    "06121": {
+      "dId": "ᤕᤧᤶᤍᤣ᤺ᤔᤠ",
+      "desc": "/येम्देःमा/",
+      "group": "CG",
+      "mean": "<p>to maintain/earn livelihood.</p>जीवन निर्वाह/यापन गर्नु ।"
+    },
+    "06122": {
+      "dId": "ᤕᤧᤶᤒᤠ᤹",
+      "desc": "/येम्बा?/",
+      "group": "CG",
+      "mean": "<p>husband; spouse (male).</p>पोइ; लोग्ने; पति ।"
+    },
+    "06123": {
+      "dId": "ᤕᤧᤶᤒᤠ᤹ ᤁᤠᤣ᤺ᤳᤋᤡ/ᤁᤠᤣᤋ᤻ᤋᤡ ",
+      "desc": "/येम्बा?कोःत्ति/",
+      "group": "CG",
+      "mean": "<p>1. woman looking/hunting for a husband. 2. flaunting woman.</p>१. पोइ खोजिहिड्ने आइमाई । २. नक्कली आइमाई ।"
+    },
+    "06124": {
+      "dId": "ᤕᤧᤶᤒᤡᤳᤇᤠ᤹",
+      "desc": "/येम्बित्छा?/",
+      "group": "CG",
+      "mean": "<p>man.</p>लोग्नेमानिस ।"
+    },
+    "06125": {
+      "dId": "ᤕᤧᤶᤒᤣᤈᤠ",
+      "desc": "/येम्बेजा/",
+      "group": "CG",
+      "mean": "<p>Indian plum; fruit of teh jujube tree. <i>Zizyphus jujuba.</i></p>बयर ।"
+    },
+    "06126": {
+      "dId": "ᤕᤧᤶᤒᤠᤣ",
+      "desc": "/येम्बो/",
+      "group": "CG",
+      "mean": "<p>sponge gourd. <i>Luffa cylindrica.</i></p>घिरौंलो ।"
+    },
+    "06127": {
+      "dId": "ᤕᤧᤶᤔᤠ",
+      "desc": "/येम्मा/",
+      "group": "CG",
+      "mean": "<p>1. to burn; to brand/stigmatize (with a hot iron etc). 2. to make sb/sth stand up; to raise/erect; to cause to rise/stand up. 3. (of a season or weather, eg- rain, rainy season/monsoon) to begin/start.</p>१. डाम्नु । २. उभ्याउनु; उठाउनु; ठड्याउनु । ३. (नयाँ ऋतु वा मौसम, जस्तै- वर्षा) शुरु हुनु ।"
+    },
+    "06128": {
+      "dId": "ᤕᤧᤶᤔᤧᤵᤐᤠ",
+      "desc": "/येम्मेप्पा/",
+      "group": "CG",
+      "mean": "<p>denoting time/tense.</p>समय वा कालबाचक/बोधक ।"
+    },
+    "06129": {
+      "dId": "ᤕᤧᤶᤛᤧᤴ",
+      "desc": "/येम्सेन्/",
+      "group": "CG",
+      "mean": "<p>routine; schedule; time-table.</p>कार्यतालिका; समयसारिणी ।"
+    },
+    "06130": {
+      "dId": "ᤕᤧᤕᤠᤰᤐᤠ",
+      "desc": "/येयाक्पा/",
+      "group": "CG",
+      "mean": "<p>delicate; fragile; flimsy; sensitive; weak (hearted/bodied).</p>कमलो; मृदु; कमजोर; संवेदनशील ।"
+    },
+    "06131": {
+      "dId": "ᤕᤧᤖᤶᤔᤡᤳ",
+      "desc": "/येरप्मित्/",
+      "group": "CG",
+      "mean": "<p>a kind of weed used to make broomsticks. <i>Thysanolaena maxima.</i></p>कुचो बनाउने एक प्रकारको झार; अम्रिसो ।"
+    },
+    "06132": {
+      "dId": "ᤕᤧᤖᤠᤵᤔᤠ",
+      "desc": "/येराप्मा/",
+      "group": "CG",
+      "mean": "<p>to whet/sharpen.</p>साँध लाउनु; उध्याउनु ।"
+    },
+    "06133": {
+      "dId": "ᤕᤧᤖᤡᤵ",
+      "desc": "/येरिप्/",
+      "group": "CG",
+      "mean": "<p>preparation; readiness; promptitude.</p>तयार गर्ने/हुने काम; तयारी ।"
+    },
+    "06134": {
+      "dId": "ᤕᤧᤖ᤺ᤶ/ᤕᤧᤖᤔ᤻",
+      "desc": "/येरःम्/",
+      "group": "CG",
+      "mean": "<p>product.</p>उत्पादन ।"
+    },
+    "06135": {
+      "dId": "ᤕᤧᤖᤢ᤺ᤒᤠ",
+      "desc": "/येरुःबा/",
+      "group": "CG",
+      "mean": "<p>collar-bone; clavicle.</p>कुमको हाड ।"
+    },
+    "06136": {
+      "dId": "ᤕᤧᤖᤧᤵ",
+      "desc": "/येरेप्/",
+      "group": "CG",
+      "mean": "<p>breaking with a patter/rattle (pattering/rattling sound).</p>पट्याक्क ।"
+    },
+    "06137": {
+      "dId": "ᤕᤧᤛᤡᤱᤍᤠᤱᤒᤠ",
+      "desc": "/येसिङ्दाङ्बा/",
+      "group": "CG",
+      "mean": "<p>chin.</p>चिउँडो ।"
+    },
+    "06138": {
+      "dId": "ᤕᤧᤜᤠᤱ",
+      "desc": "/येहाङ्/",
+      "group": "CG",
+      "mean": "<p>1. the first enlightened person, as described in Mundhum, who got the knowledge of (was versed about) God and creation. 2. priest well versed in the conducting/performance of rites and ceremonies of passage of rites.</p>१. मुन्धुममा वर्णित ईश्वरीय ज्ञानका तथा सृष्टिका ज्ञाता प्रथम ज्ञानी पुरुष । २. कर्म तथा संस्कार विधिका ज्ञाता पुरोहित ।"
+    },
+    "06139": {
+      "dId": "ᤕᤧ᤺ᤰᤂᤠᤶ/ᤕᤧᤁ᤻ᤂᤠᤶ",
+      "desc": "/येःक्खाम्/",
+      "group": "CG",
+      "mean": "<p>barren/impoverished soil.</p>रुखो माटो ।"
+    },
+    "06140": {
+      "dId": "ᤕᤧ᤺ᤰᤐᤠ/ᤕᤧᤁ᤻ᤐᤠ",
+      "desc": "/येःक्पा/",
+      "group": "CG",
+      "mean": "<p>1. distinguished; prominent; deserving priority. 2. necessary; compulsory; obligatory; essential.</p>१. प्रमुख; मुख्य; प्राथमिकता दिइनसपर्ने । २. आवश्यक; अनिवार्य ।"
+    },
+    "06141": {
+      "dId": "ᤕᤧ᤺ᤰᤕᤠ/ᤕᤧᤁ᤻ᤕᤠ",
+      "desc": "/येःक्या/",
+      "group": "CG",
+      "mean": "<p>necessary; important.</p>आवश्यक; अनिवार्य ।"
+    },
+    "06142": {
+      "dId": "ᤕᤧ᤺ᤰᤗᤠᤱ/ᤕᤧᤁ᤻ᤗᤠᤱ",
+      "desc": "/येःक्लाङ्/",
+      "group": "CG",
+      "mean": "<p>habit; temperament; nature.</p>बानी; बेहोरा; स्वभाव ।"
+    },
+    "06143": {
+      "dId": "ᤕᤧ᤺ᤰᤗᤠᤵᤐᤠ/ᤕᤧᤁ᤻ᤗᤠᤵᤐᤠ",
+      "desc": "/येःक्लाप्पा/",
+      "group": "CG",
+      "mean": "<p>perseverant; devoted.</p>लगनशिल ।"
+    },
+    "06144": {
+      "dId": "ᤕᤧ᤺ᤰᤗᤢᤱ/ᤕᤧᤁ᤻ᤗᤢᤱ",
+      "desc": "/येःक्लुङ्/",
+      "group": "CG",
+      "mean": "<p>1. precious stone. 2. crystal; quartz. 3. black stone/quartzes. 4. piece of stone; pebble.</p>१. बहुमुल्य ढुङ्गा । २. स्फटिक । ३. शालिग्राम । ४. रोडा ।"
+    },
+    "06145": {
+      "dId": "ᤕᤧ᤺ᤰᤗᤠᤣ/ᤕᤧᤁ᤻ᤗᤠᤣ",
+      "desc": "/येःक्लो/",
+      "group": "CG",
+      "mean": "<p>1. want; deficiency; lack; scarcity. 2. necessity; need.</p>१. अभाव; खाँचो । २. आवश्यकता ।"
+    },
+    "06146": {
+      "dId": "ᤕᤧ᤺ᤰᤛᤠᤶᤒᤠ/ᤕᤧᤁ᤻ᤛᤠᤶᤒᤠ",
+      "desc": "/येःक्साम्बा/",
+      "group": "CG",
+      "mean": "<p>headmaster; principal; campus chief.</p>प्रधानाध्यापक; प्रधानाचार्य; प्राचार्य; प्रिन्सिपल; क्याम्पस-प्रमुख ।"
+    },
+    "06147": {
+      "dId": "ᤕᤧ᤺ᤰᤛᤢᤱ/ᤕᤧᤁ᤻ᤛᤢᤱ",
+      "desc": "/येःक्सुङ्/",
+      "group": "CG",
+      "mean": "<p>present/gift/offering taken to the village headman when informing him of one’s marriage (in the village).</p>गाउँको तालुकदारलाई विवाहको सूचना दिंदा लगिदिने कोसेली ।"
+    },
+    "06148": {
+      "dId": "ᤕᤧ᤺ᤱᤄᤡ᤺ᤰ/ᤕᤧᤅ᤻ᤄᤡᤁ᤻",
+      "desc": "/येःङ्घिःक्/",
+      "group": "CG",
+      "mean": "<p>leanness; thinness; emaciation; stunted growth.</p>दुब्लोपन; ख्याउटेपन; खिनौरोपन ।"
+    },
+    "06149": {
+      "dId": "ᤕᤧ᤺ᤱᤄᤡ᤺ᤰᤁᤡ᤺ᤰᤐᤠ/ᤕᤧᤅ᤻ᤄᤡᤁ᤻ᤁᤡᤁ᤻ᤐᤠ",
+      "desc": "/येःङ्घिःक्किःक्पा/",
+      "group": "CG",
+      "mean": "<p>lean and thin/stunted/ill-nourished.</p>दुब्लो; लुते; खिनौरो; ख्याउटे ।"
+    },
+    "06150": {
+      "dId": "ᤕᤧ᤺ᤱᤔᤠ/ᤕᤧᤅ᤻",
+      "desc": "/येःङ्घिःक्पा/",
+      "group": "CG",
+      "mean": "<p>1. thin. 2. lean and thin/feeble weak.</p>१. पातलो । २. दुब्लो ।"
+    },
+    "06151": {
+      "dId": "ᤕᤧ᤺ᤱᤃᤠᤣᤒᤠ/ᤕᤧᤅ᤻ᤃᤠᤣᤒᤠ",
+      "desc": "/येःङ्गोबा/",
+      "group": "CG",
+      "mean": "<p>a kind of tree. Writia arborea.</p>खिर्लोको रुख ।"
+    },
+    "06152": {
+      "dId": "ᤕᤧ᤺ᤱᤄᤠ᤹/ᤕᤧᤅ᤻ᤄᤠ᤹",
+      "desc": "/येःङ्घा?/",
+      "group": "CG",
+      "mean": "<p>sand.</p>बालुवा ।"
+    },
+    "06153": {
+      "dId": "ᤕᤧ᤺ᤱᤄᤠᤶ/ᤕᤧᤅ᤻ᤄᤠᤶ",
+      "desc": "/येःङ्घाम्/",
+      "group": "CG",
+      "mean": "<p>1. sand soil. 2. desert.</p>१. बलौटे माटो । २. मरुभूमि ।"
+    },
+    "06154": {
+      "dId": "ᤕᤧ᤺ᤱᤔᤠ/ᤕᤧᤅ᤻ᤔᤠ",
+      "desc": "/येःङ्मा/",
+      "group": "CG",
+      "mean": "<p>1. to chew; gnaw. 2. to grind teeth. 3. to trouble.</p>१. चपाउनु । २. (रिस आदिले दाँत) किटकिटाउनु । ३. दुःख दिनु; पीर गर्नु; पिरोल्नु ।"
+    },
+    "06155": {
+      "dId": "ᤕᤧ᤺ᤳ/ᤕᤧᤋ᤻",
+      "desc": "/येःत्/",
+      "group": "CG",
+      "mean": "<p>bone.</p>हाड; हाडखोर ।"
+    },
+    "06156": {
+      "dId": "ᤕᤧ᤺ᤵᤐᤠ/ᤕᤧᤐ᤻ᤐᤠ",
+      "desc": "/येःप्पा/",
+      "group": "CG",
+      "mean": "<p>bone.</p>हाड ।"
+    },
+    "06157": {
+      "dId": "ᤕᤧ᤺ᤵᤕᤧᤰᤐᤠ/ᤕᤧᤐ᤻ᤕᤧᤰᤐᤠ",
+      "desc": "/येःप्येक्पा/",
+      "group": "CG",
+      "mean": "<p>skeleton; bare/mere physical frame.</p>कङ्काल; अस्थिपञ्जर ।"
+    },
+    "06158": {
+      "dId": "ᤕᤧ᤺ᤵᤐᤩᤠᤱᤒᤠ/ᤕᤧᤐ᤻ᤐᤩᤠᤱᤒᤠ",
+      "desc": "/येःप्प्याङ्बा/",
+      "group": "CG",
+      "mean": "<p>skeleton.</p>कङ्काल ।"
+    },
+    "06159": {
+      "dId": "ᤕᤧ᤺ᤵᤗᤧᤰᤗᤧᤰᤐᤠ/ᤕᤧᤐ᤻ᤗᤧᤰᤗᤧᤰᤐᤠ",
+      "desc": "/येःप्लेक्लेक्पा/",
+      "group": "CG",
+      "mean": "<p>thin/tall and slender.</p>अग्लो र दुब्लो ।"
+    }
+  }
+}

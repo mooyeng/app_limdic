@@ -1,0 +1,1636 @@
+{
+  "Dic": {
+    "06252": {
+      "dId": "ᤗᤠ",
+      "desc": "/ला/",
+      "group": "CI",
+      "mean": "<p>1. handle; (of a hand grinder, handmill stone etc) haft. 2. Oh!. 3. month. 4. suffix denoting “bunch, heap, wood” etc.</p>१. बिँड; (जाँतो आदिको) हतासो । २. अह्मो ! ३. महिना । ४. “घारी, झाडी वा थुप्रो” भन्ने अर्थ बुझाउन प्रयोग हुने प्रत्यय ।"
+    },
+    "06253": {
+      "dId": "ᤗᤠᤃᤵᤔᤡᤒᤠ",
+      "desc": "/लागप्मिबा/",
+      "group": "CI",
+      "mean": "<p>monthly.</p>मासिक ।"
+    },
+    "06254": {
+      "dId": "ᤗᤠᤀᤡᤰᤔᤠ",
+      "desc": "/लाइक्मा/",
+      "group": "CI",
+      "mean": "<p>1. to sound/chime sweet; to ring. 2. to resound.</p>१. ध्वनि निस्कनु (मिठो); बज्नु (ढोल, घण्टी आदि) । २. घन्कनु; प्रतिध्वनित हुनु ।"
+    },
+    "06255": {
+      "dId": "ᤗᤠ᤹ᤒᤠ",
+      "desc": "/ला?बा/",
+      "group": "CI",
+      "mean": "<p>1. paramour; illicit lover; the term expresses the relationship between tow man of which one took the wife of the other. 2. sentence particle denoting “perhaps; possibly; probably”.</p>१. जार । २. (वाक्यको अन्तमा आई “हुन सक्छ; सायद; होला” बुझाउने शब्द ।"
+    },
+    "06256": {
+      "dId": "ᤗᤠ᤹ᤔᤠ",
+      "desc": "/ला?मा/",
+      "group": "CI",
+      "mean": "<p>1. co-wife; rival wife; the term expresses the relationship of two wives married to the same man. 2. to suit; to be befitting/suitable/becoming.</p>१. सौता; आफ्नै लोग्नेकी अर्की स्वास्नी; एक भन्दा बढी स्वास्नी हुने लोग्नेमानिसका स्वास्नीहरूबीचको परस्परको नाता । २. सुहाउनु; सुहाउँदिलो/सुहाउँदो हुनु । "
+    },
+    "06257": {
+      "dId": "ᤗᤠ᤹ᤗᤠ",
+      "desc": "/ला?ला/",
+      "group": "CI",
+      "mean": "<p>separately; at a distance.</p>अलग; फरक-फरक ।"
+    },
+    "06258": {
+      "dId": "ᤗᤠ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/ला?सिङ्मा/",
+      "group": "CI",
+      "mean": "<p>to show pedantry; to be hypocritical/pedantic; to brag/boast.</p>आडम्बर गर्नु; देखावटी/फुर्ति गर्नु ।"
+    },
+    "06259": {
+      "dId": "ᤗᤠᤰᤑᤣ᤺",
+      "desc": "/लाक्फेः/",
+      "group": "CI",
+      "mean": "<p>a kind of trap which, when touched, shoots the intruders (generally animals).</p>सोला; दर्जन/धराप; पासो थापेर जनावरलाई प्रहार गर्ने अस्त्र ।"
+    },
+    "06260": {
+      "dId": "ᤗᤠᤰᤔᤠ",
+      "desc": "/लाक्मा/",
+      "group": "CI",
+      "mean": "<p>to boil/bubble up; to be at a boiling point.</p>उम्लनु ।"
+    },
+    "06261": {
+      "dId": "ᤗᤠᤰᤔᤣᤏᤠ",
+      "desc": "/लाक्मेना/",
+      "group": "CI",
+      "mean": "<p>pickles; sauce; chutney.</p>अचार; चटनी; चाटेर खाने खाद्य परिकार ।"
+    },
+    "06262": {
+      "dId": "ᤗᤠᤰᤛᤡ ",
+      "desc": "/लाक्सि/",
+      "group": "CI",
+      "mean": "<p>liquor.</p>रक्सी ।"
+    },
+    "06263": {
+      "dId": "ᤗᤠᤰᤛᤡᤱᤔᤠ",
+      "desc": "/लाक्सिङ्मा/",
+      "group": "CI",
+      "mean": "<p>(of the livestock) to lick each other.</p>चाटाचाट गर्नु ।"
+    },
+    "06264": {
+      "dId": "ᤗᤠᤃᤵ",
+      "desc": "/लागप्/",
+      "group": "CI",
+      "mean": "<p>experiment.</p>प्रयोग ।"
+    },
+    "06265": {
+      "dId": "ᤗᤠᤃᤵᤔᤡᤒᤠ",
+      "desc": "/लागप्पिबा/",
+      "group": "CI",
+      "mean": "<p>experimental.</p>प्रायोगिक ।"
+    },
+    "06266": {
+      "dId": "ᤗᤠᤃᤠᤰ",
+      "desc": "/लागाक्/",
+      "group": "CI",
+      "mean": "<p>onion. <i>Allium cepa.</i></p>प्याज ।"
+    },
+    "06267": {
+      "dId": "ᤗᤠᤃᤠᤵ",
+      "desc": "/लागाप्/",
+      "group": "CI",
+      "mean": "<p>machine; instrument; equipment; tool.</p>यन्त्र; साधन; ज्यावल; औजार ।"
+    },
+    "06268": {
+      "dId": "ᤗᤠᤃᤠᤵᤔᤡᤒᤠ",
+      "desc": "/लागाप्मिबा/",
+      "group": "CI",
+      "mean": "<p>1. technical. 2. mechanical.</p>१. प्राविधिक । २. यान्त्रिक ।"
+    },
+    "06269": {
+      "dId": "ᤗᤠᤃᤠᤵᤗᤠᤒᤠ",
+      "desc": "/लागाप्लाबा/",
+      "group": "CI",
+      "mean": "<p>mechanic; technician.</p>प्राविधिज्ञ ।"
+    },
+    "06270": {
+      "dId": "ᤗᤠᤃᤠᤵᤆᤡᤰ",
+      "desc": "/लागाप्चिक्/",
+      "group": "CI",
+      "mean": "<p>technology.</p>प्रविधि ।"
+    },
+    "06271": {
+      "dId": "ᤗᤠᤃᤠᤵᤆᤡᤰ ᤔᤢᤴᤎᤢᤶ",
+      "desc": "/लागाप्चिक् मुन्धुम्/",
+      "group": "CI",
+      "mean": "<p>(science of) technology; technological science.</p>प्रविधि (विज्ञान) ।"
+    },
+    "06272": {
+      "dId": "ᤗᤠᤃᤡ ",
+      "desc": "/लागि/",
+      "group": "CI",
+      "mean": "<p>for; for the sake of; with a view to; on account/behalf/behest of.</p>लागि; निमित्त; भनेर ।"
+    },
+    "06273": {
+      "dId": "ᤗᤠᤃᤧ᤹",
+      "desc": "/लागे?/",
+      "group": "CI",
+      "mean": "<p>an interjection denoting ‘you got it right, you deserved it, you were treated well, you’ve learnt it to your cost’ etc.</p>ला’, ‘आहा’, ‘खाइस’, ‘भेटिस’, ‘चाखिस’, ‘खाइस खुदो !’, ‘ लौ खा !’ इत्यादि अर्थ बुझाउने विस्मयाधिबोधक शब्द ।"
+    },
+    "06274": {
+      "dId": "ᤗᤠᤃᤧ᤹ᤱᤔᤠ",
+      "desc": "/लागेङ्(मा)/",
+      "group": "CI",
+      "mean": "<p>the last day of the month.</p>मसान्त; महिनाको अन्तिम दिन ।"
+    },
+    "06275": {
+      "dId": "ᤗᤠᤄᤣ",
+      "desc": "/लाघे/",
+      "group": "CI",
+      "mean": "<p>sweet potato. <i>Impomoea batayas var. edulis.</i></p>सखरखण्ड ।"
+    },
+    "06276": {
+      "dId": "ᤗᤠᤄᤣ᤺ᤱ/ᤗᤠᤄᤣᤅ᤻",
+      "desc": "/लाघेःङ्/",
+      "group": "CI",
+      "mean": "<p>parenthesses, sign like this “( )” used in mathematics, language etc; small bracket.</p>सानो कोष्ठक चिन्ह; गणित, भाषा आदिमा प्रयुक्त हुने यस्तो “(  )” चिन्ह; लघु बन्धनी ।"
+    },
+    "06277": {
+      "dId": "ᤗᤠᤄᤠᤣ᤺ᤰ/ᤗᤠᤄᤠᤣᤁ᤻",
+      "desc": "/लाघोःक्/",
+      "group": "CI",
+      "mean": "<p>plantain/banana leaf placed lowest at the bottom of the altar (laso) by the Shaman/Phedangma priests at worship (while spreading out laso).</p>पूजामा फेदाङ्माले लासो (पातको थान) ओछ्याउदा राख्ने सबभन्दा मुनिको केराको पात वा पातको आसन ।"
+    },
+    "06278": {
+      "dId": "ᤗᤠᤄᤧ᤺ᤱᤒᤠ/ᤗᤠᤄᤧᤅ᤻ᤒᤠ",
+      "desc": "/लाघेःङ्बा/",
+      "group": "CI",
+      "mean": "<p>the tenth day of the lunar fortnight.</p>दशमी ।"
+    },
+    "06279": {
+      "dId": "ᤗᤠᤅᤣ᤺ᤴᤛᤡᤱ/ᤗᤠᤅᤣᤏ᤻ᤛᤡᤱ",
+      "desc": "/लाङेःन्सिङ्/",
+      "group": "CI",
+      "mean": "<p>one lakh/one hundred thousand; the number and the figure 100,000.</p>लाख; लाख को सङ्ख्या; १,००,००० को अङ्क ।"
+    },
+    "06280": {
+      "dId": "ᤗᤠᤱ",
+      "desc": "/लाङ्/",
+      "group": "CI",
+      "mean": "<p>1. leg; foot. 2. stalk; straw. 3. stalk; stem; trunk.</p>१. खुट्टा । २. (कोदो, धान आदिको) नल । ३. ढोंड; धड; कान्ड ।"
+    },
+    "06281": {
+      "dId": "ᤗᤠᤱᤃᤵᤐᤠ ᤕᤧ᤺ᤵᤐᤠ/ᤕᤧᤐ᤻ᤐᤠ",
+      "desc": "/लाङ्गप्पा येःप्पा/",
+      "group": "CI",
+      "mean": "<p>thigh bone.</p>फिलाको हाड ।"
+    },
+    "06282": {
+      "dId": "ᤗᤠᤱᤃᤠᤰ",
+      "desc": "/लाङ्गाक्/",
+      "group": "CI",
+      "mean": "<p>knee-joint.</p>घुँडाको पाङ्ग्रो ।"
+    },
+    "06283": {
+      "dId": "ᤗᤠᤱᤃᤠᤰᤌᤡ᤺ᤶᤒᤠ/ᤌᤡᤔ᤻ᤒᤠ",
+      "desc": "/लाङ्गाक्थिःम्बा/",
+      "group": "CI",
+      "mean": "<p>heel.</p>कुर्कुच्चा ।"
+    },
+    "06284": {
+      "dId": "ᤗᤠᤱᤃᤠᤵ",
+      "desc": "/लाङ्गाप्/",
+      "group": "CI",
+      "mean": "<p>companion; friend; fellow; co-traveller.</p>जोडी; साथी; सहयात्री ।"
+    },
+    "06285": {
+      "dId": "ᤗᤠᤱᤃᤠᤶ",
+      "desc": "/लाङ्गाम्/",
+      "group": "CI",
+      "mean": "<p>footsteps.</p>कदम ।"
+    },
+    "06286": {
+      "dId": "ᤗᤠᤱᤃᤣ᤺ᤴᤈᤠ/ᤗᤠᤱᤃᤣᤏ᤻ᤈᤠ",
+      "desc": "/लाङ्गेःन्जा/",
+      "group": "CI",
+      "mean": "<p>loom-paddle; the wheel hung on a handloom string and moved with one’s leg while weaving.</p>तानमा डोरीले झुन्ड्याइएको पाङ्ग्रो जुन तान बुन्दा खुट्टाले तान्ने र छाड्ने गरिन्छ ।"
+    },
+    "06287": {
+      "dId": "ᤗᤠᤱᤃᤣ᤺ᤶᤒᤰ/ᤗᤠᤱᤃᤣᤔ᤻ᤒᤰ",
+      "desc": "/लाङ्गेःम्बक्/",
+      "group": "CI",
+      "mean": "<p>the calf of the legs.</p>पिडौँलो; छेपारी। ।"
+    },
+    "06288": {
+      "dId": "ᤗᤠᤱᤃᤧᤧᤂᤣ",
+      "desc": "/लाङ्गेखे/",
+      "group": "CI",
+      "mean": "<p>a variety of yam.</p>लङ्का तरुल ।"
+    },
+    "06289": {
+      "dId": "ᤗᤠᤱᤃᤧᤳ",
+      "desc": "/लाङ्गेत्/",
+      "group": "CI",
+      "mean": "<p>south.</p>दक्षिण ।"
+    },
+    "06290": {
+      "dId": "ᤗᤠᤱᤄ᤺ᤵ/ᤗᤠᤱᤄᤐ᤻",
+      "desc": "/लाङ्घःप्/",
+      "group": "CI",
+      "mean": "<p>socks; stockings.</p>मोजा; जुराफ ।"
+    },
+    "06291": {
+      "dId": "ᤗᤠᤱᤄᤠᤵ",
+      "desc": "/लाङ्घाप्/",
+      "group": "CI",
+      "mean": "<p>wooden sandals.</p>खराउ; काठको चप्पल ।"
+    },
+    "06292": {
+      "dId": "ᤗᤠᤱᤄᤣ᤺ᤰᤔᤠ/ᤗᤠᤱᤄᤣᤁ᤻ᤔᤠ",
+      "desc": "/लाङ्घेःक्मा/",
+      "group": "CI",
+      "mean": "<p>to walk; to go on foot.</p>हिँड्नु ।"
+    },
+    "06293": {
+      "dId": "ᤗᤠᤱᤄᤠᤣ",
+      "desc": "/लाङ्घो/",
+      "group": "CI",
+      "mean": "<p>fore parts of a leg (combination of toes); opposite of sole.</p>खुट्टाको पन्जाको उपरी भाग; पैतालाको विपरीत ।"
+    },
+    "06294": {
+      "dId": "ᤗᤠᤱᤄᤠᤣ᤺ᤵᤐᤠ/ᤗᤠᤱᤄᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/लाङ्घोःप्पा/",
+      "group": "CI",
+      "mean": "<p>shoe(s).</p>जुत्ता ।"
+    },
+    "06295": {
+      "dId": "ᤗᤠᤱ-ᤆᤠᤣ᤺",
+      "desc": "/लाङ् चो/",
+      "group": "CI",
+      "mean": "<p>foot digits; toes.</p>खुट्टाका औंला ।"
+    },
+    "06296": {
+      "dId": "ᤗᤠᤱᤈᤰᤔᤠ",
+      "desc": "/लाङ्जक्पा/",
+      "group": "CI",
+      "mean": "<p>1. bed at the leg side. 2. joint legs; artificial legs.</p>१. खुट्टापट्टिको ओछ्यान । २. गाँसेको खुट्टा; कृतिम खुट्टा ।"
+    },
+    "06297": {
+      "dId": "ᤗᤠᤱᤈᤠᤱ",
+      "desc": "/लाङ्जाङ्/",
+      "group": "CI",
+      "mean": "<p>1. walking; jogging. 2. travel; tours; tourism.</p>१. सैर; घुमफिर; हिंडडुल  । २. यात्रा; पर्यटन ।"
+    },
+    "06298": {
+      "dId": "ᤗᤠᤱᤈᤠᤱᤔᤠ",
+      "desc": "/लाङ्जाङ्मा/",
+      "group": "CI",
+      "mean": "<p>1. to walk/wander about; to take a walk; to go far a jaunt. 2. to hop/jog (in exercise).</p>१. सैर गर्नु; घुमफिर गर्नु; हिंडडुल गर्नु । २. कसरत गर्दा खुट्टा उफार्नु ।"
+    },
+    "06299": {
+      "dId": "ᤗᤠᤱᤈᤠ᤺ᤱ/ᤗᤠᤱᤈᤠᤅ᤻",
+      "desc": "/लाङ्जाःङ्/",
+      "group": "CI",
+      "mean": "<p>treadles/foot pedals of the handloom.</p>टिटिनी; तान बुन्दा दुट्टा राख्ने ठाँउ ।"
+    },
+    "06300": {
+      "dId": "ᤗᤠᤱᤋᤠᤵᤐᤣ",
+      "desc": "/लाङ्ताप्पे/",
+      "group": "CI",
+      "mean": "<p>sole of foot; plantar.</p>पैताला ।"
+    },
+    "06301": {
+      "dId": "ᤗᤠᤱᤍᤠ",
+      "desc": "/लाङ्दा/",
+      "group": "CI",
+      "mean": "<p>1. steps cut in a tree trunk as to rest a foot in while climbing up. 2. step. 3. steps/avenues (of success).</p>१. रुख चढ्दा खुट्टा अड्याउन खोपिएका खुड्किला । २. खुड्किलो । ३. (सफलताका) सोपान ।"
+    },
+    "06302": {
+      "dId": "ᤗᤠᤱᤍᤠ᤺ᤰ(ᤔᤠ)/ᤗᤠᤱᤍᤠᤁ᤻(ᤔᤠ)",
+      "desc": "/लाङ्दाःक्(मा)/",
+      "group": "CI",
+      "mean": "<p>1. greetings; welcome; reception. 2. a welcome reception to the deity or Phedangma the officiating priest during the inaugural worship of deity or Lord/God of the Limbus. 3. to greet/welcome/receive; to give a welcome reception. 4. to welcome and/or receive the priest or deity.</p>१. अभिनन्दन; स्वागत; अभ्यर्थना । २. लिम्बूको ठूलो देव/देवीको पूजामा थालनीको दिन देवी/देवतालाई स्वागत अभिनन्दन गर्ने वा मूल फेदाङ्मालाई वरण गर्ने काम । ३. स्वागत गर्नु; अभिनन्दन गर्नु; अभ्यार्थना गर्नु । ४. फेदाङ्मा वा देवी/देवताको स्वागत/अभ्यार्थना गर्नु; वरण गर्नु ।"
+    },
+    "06303": {
+      "dId": "ᤗᤠᤱᤎᤠ",
+      "desc": "/लाङ्धा/",
+      "group": "CI",
+      "mean": "<p>step; pace.</p>कदम; डेग ।"
+    },
+    "06304": {
+      "dId": "ᤗᤠᤱᤎᤡᤰ",
+      "desc": "/लाङ्धिक्/",
+      "group": "CI",
+      "mean": "<p>foot; kick (by leg).</p>लात्ता; लात्ती; लात ।"
+    },
+    "06305": {
+      "dId": "ᤗᤠᤱᤎᤡᤰᤔᤠ",
+      "desc": "/लाङ्धिक्मा/",
+      "group": "CI",
+      "mean": "<p>to kick/tread on sb/sth with the foot.</p>लात हान्नु; लात्ताले हान्नु; लत्याउनु ।"
+    },
+    "06306": {
+      "dId": "ᤗᤠᤱᤎᤠᤣᤁᤩᤧ᤺ᤵᤐᤠ/ᤗᤠᤱᤎᤠᤣᤁᤩᤧᤐ᤻ᤐᤠ",
+      "desc": "/लाङ्धोक्येःप्पा/",
+      "group": "CI",
+      "mean": "<p>shin-bone; tibia; inner and usually larger of the tow bones from the knees to the ankle.</p>नली हाड ।"
+    },
+    "06307": {
+      "dId": "ᤗᤠᤱᤏᤠᤶᤎᤠ",
+      "desc": "/लाङ्नाम्धा/",
+      "group": "CI",
+      "mean": "<p>south-west quarter.</p>नैऋत्य कोण (दिशा) ।"
+    },
+    "06308": {
+      "dId": "ᤗᤠᤱᤏᤠᤶᤒᤣ᤺ᤰ/ᤗᤠᤱᤏᤠᤶᤒᤣᤁ᤻",
+      "desc": "/लाङ्नाम्बेःक्/",
+      "group": "CI",
+      "mean": "<p>south-east (direction/quarter).</p>आग्नेय कोण (दिशा) ।"
+    },
+    "06309": {
+      "dId": "ᤗᤠᤱᤏᤠᤣ᤺ᤰᤔᤠ/ᤗᤠᤱᤏᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/लाङ्नोःक्मा/",
+      "group": "CI",
+      "mean": "<p>a custom of taking the new-born baby out to a bazaar/market place (the second time) and bringing back to home.</p>जन्मेपछि बच्चालाई (दोस्रो चोटि पनि) बजारमा पुर्याएर फर्काउने विधि ।"
+    },
+    "06310": {
+      "dId": "ᤗᤠᤱᤒᤡᤴᤍᤠᤱ",
+      "desc": "/लाङ्बिन्दाङ्/",
+      "group": "CI",
+      "mean": "<p>crane. Strok.</p>सारस ।"
+    },
+    "06311": {
+      "dId": "ᤗᤠᤱᤒᤢᤰ",
+      "desc": "/लाङ्बुक्/",
+      "group": "CI",
+      "mean": "<p>(the sound of) a footstep, one produced when sb walk.</p>पाइला टेक्दा आउने आवाज; पदचाप ।"
+    },
+    "06312": {
+      "dId": "ᤗᤠᤱᤒᤣ᤹ᤘᤠ",
+      "desc": "/लाङ्बे?वा/",
+      "group": "CI",
+      "mean": "<p>duck.</p>हाँस ।"
+    },
+    "06313": {
+      "dId": "ᤗᤠᤱᤒᤣ",
+      "desc": "/लाङ्बे/",
+      "group": "CI",
+      "mean": "<p>1. responsibility; liability. 2. footstep/pace/tempo; stepping in a dance; rhythmic step/pace; rhythm.</p>१.अभिभारा; जिम्मेवारी; दायित्व । २. खुट्टाको मिलेको चाल; कदम/ताल ।"
+    },
+    "06314": {
+      "dId": "ᤗᤠᤱᤓᤡ᤺ᤵᤔᤠ/ᤗᤠᤱᤓᤡᤐ᤻ᤔᤠ",
+      "desc": "/लाङ्भिःप्मा/",
+      "group": "CI",
+      "mean": "<p>hollo of the knee.</p>घुँडाको काप ।"
+    },
+    "06315": {
+      "dId": "ᤗᤠᤱᤓᤱᤃᤠ",
+      "desc": "/लाङ्भङ्गा/",
+      "group": "CI",
+      "mean": "<p>football.</p>भकुण्डो; बल ।"
+    },
+    "06316": {
+      "dId": "ᤗᤠᤱᤓᤠᤣ",
+      "desc": "/लाङ्भो/",
+      "group": "CI",
+      "mean": "<p>(foot) step/pace.</p>(कदम/पाइला चालेको) फड्को ।"
+    },
+    "06317": {
+      "dId": "ᤗᤠᤱᤓᤧᤱᤃᤡ ",
+      "desc": "/लाङ्भेङ्गि/",
+      "group": "CI",
+      "mean": "<p>silver anklets (worn by girls).</p>कल्ली ।"
+    },
+    "06318": {
+      "dId": "ᤗᤠᤱᤓᤧᤴᤍᤡ ",
+      "desc": "/लाङ्भेन्दि/",
+      "group": "CI",
+      "mean": "<p>fetter or chain for the feet.</p>(खुट्टामा लगाउने) नेल ।"
+    },
+    "06319": {
+      "dId": "ᤗᤠᤱᤓᤧᤘᤠ-ᤆᤡᤶᤔᤠ",
+      "desc": "/लाङ्भेवा चिम्मा/",
+      "group": "CI",
+      "mean": "<p>a (Limbu) custom of welcoming the best women in wedding-ceremony with a feast (to kill their fatigue, tiredness) after they have reached the house of the bridegroom.</p>लिम्बूजातिको विवाहमा यात्राको थकान मेट्न बेहूलाको घर पुगेपछि लोकन्तीहरूलाई दिइने मेजमानी ।"
+    },
+    "06320": {
+      "dId": "ᤗᤠᤱᤔᤠ",
+      "desc": "/लाङ्मा/",
+      "group": "CI",
+      "mean": "<p>1. to boil. 2. to make/cause sb to lick sb/sth. 3. toe.</p>१. उमाल्नु । २. चटाउनु । ३. खुट्टाको बूढी औंला ।"
+    },
+    "06321": {
+      "dId": "ᤗᤠᤱᤔᤡᤰ",
+      "desc": "/लाङ्मिक्/",
+      "group": "CI",
+      "mean": "<p>ankle (bone).</p>गोलीगाँठो ।"
+    },
+    "06322": {
+      "dId": "ᤗᤠᤱᤗᤠᤣ᤺ᤳᤋᤡ/ᤗᤠᤱᤗᤠᤣᤋ᤻ᤋᤡ ",
+      "desc": "/लाङ्लोःत्ति/",
+      "group": "CI",
+      "mean": "<p>slippers; sandals.</p>चप्पल ।"
+    },
+    "06323": {
+      "dId": "ᤗᤠᤱᤛᤰᤐᤠ",
+      "desc": "/लाङ्सक्पा/",
+      "group": "CI",
+      "mean": "<p>lame; crippled; limping.</p>लङ्गडो ।"
+    },
+    "06324": {
+      "dId": "ᤗᤠᤱᤛᤰᤔᤠ",
+      "desc": "/लाङ्सक्मा/",
+      "group": "CI",
+      "mean": "<p>(fem.) lame; crippled; limping.</p>लङ्गडी ।"
+    },
+    "06325": {
+      "dId": "ᤗᤠᤱᤛᤡᤰ",
+      "desc": "/लाङ्सिक्/",
+      "group": "CI",
+      "mean": "<p>a kind of tree. <i>Erythrina stricta.</i></p>फलेदो (को रूख) ।"
+    },
+    "06326": {
+      "dId": "ᤗᤠᤱᤛᤢ᤺ᤵ/ᤗᤠᤱᤛᤢᤐ᤻",
+      "desc": "/लाङ्सुःप्/",
+      "group": "CI",
+      "mean": "<p>shoe(s).</p>जुत्ता ।"
+    },
+    "06327": {
+      "dId": "ᤗᤠᤱᤛᤧᤶᤒᤠᤣ",
+      "desc": "/लाङ्सेम्बो/",
+      "group": "CI",
+      "mean": "<p>fleshy part of a thigh (leg).</p>साँप्रो (मासु); तिघ्राको मासु ।"
+    },
+    "06328": {
+      "dId": "ᤗᤠᤱᤛᤪ᤺ᤰᤐᤠ/ᤗᤠᤱᤛᤪᤁ᤻ᤐᤠ",
+      "desc": "/लाङ्स्रःप्पा/",
+      "group": "CI",
+      "mean": "<p>centipede; milli(e)pede (insect).</p>खजुरो कीरो ।"
+    },
+    "06329": {
+      "dId": "ᤗᤠᤱᤜᤢᤵ",
+      "desc": "/लाङ्हुप्/",
+      "group": "CI",
+      "mean": "<p>socks; stockings.</p>मोजा; जुराफ ।"
+    },
+    "06330": {
+      "dId": "ᤗᤠᤈᤵ",
+      "desc": "/लाजप्/",
+      "group": "CI",
+      "mean": "<p>(cork or plug-like) stopper made by twisting banana leaves.</p>तोङ्बामा हालिने केराको पातको गुजुल्टो; बुजो । "
+    },
+    "06331": {
+      "dId": "ᤗᤠᤈᤶ",
+      "desc": "/लाजम्/",
+      "group": "CI",
+      "mean": "<p>banana leaves, spread while performing a worship.</p>पूजा गर्दा विधिविधान पूर्वक थानका लागि फिँजाइने केराको पात ।"
+    },
+    "06332": {
+      "dId": "ᤗᤠᤈᤠ",
+      "desc": "/लाजा/",
+      "group": "CI",
+      "mean": "<p>lad; boy; chap.</p>ठिटो; केटो ।"
+    },
+    "06333": {
+      "dId": "ᤗᤠᤈᤣ",
+      "desc": "/लाजे/",
+      "group": "CI",
+      "mean": "<p>an addressing term for a little boy.</p>ए नानी; सानो बालक वा केटोलाई गरिने सम्बोधन ।"
+    },
+    "06334": {
+      "dId": "ᤗᤠᤈᤠᤰ",
+      "desc": "/लाजाक्/",
+      "group": "CI",
+      "mean": "<p>garments; dress.</p>वस्त्र; तयारी पोसाक ।"
+    },
+    "06335": {
+      "dId": "ᤗᤠᤈᤡᤱ",
+      "desc": "/लाजिङ्/",
+      "group": "CI",
+      "mean": "<p>litchi; lychee fruit.</p>लिची ।"
+    },
+    "06336": {
+      "dId": "ᤗᤠᤈᤣ᤹",
+      "desc": "/लाजे?/",
+      "group": "CI",
+      "mean": "<p>1. land; earth. 2. country; nation.</p>१. जग्गा; जमीन । २. देश; राष्ट्र ।"
+    },
+    "06337": {
+      "dId": "ᤗᤠᤈᤣ᤹ᤍᤠᤱᤒᤠ",
+      "desc": "/लाजे?दाङ्बा/",
+      "group": "CI",
+      "mean": "<p>1. king. 2. landlord; landowner.</p>१. राजा । २. जमीनदार; जग्गावाला; जग्गाधनी ।"
+    },
+    "06338": {
+      "dId": "ᤗᤠᤈᤣ᤹ᤍᤠᤱᤔᤠ",
+      "desc": "/लाजे?दाङ्मा/",
+      "group": "CI",
+      "mean": "<p>one of the many forms of Ningwaphuma; the Goddess/God of creation, the earth-deity.</p>सृष्टिकर्ता देवी निङ्वा?फुमाको एक रूप - सन्सारेनी देवी (संसारी माता/माई) ।"
+    },
+    "06339": {
+      "dId": "ᤗᤠᤈᤣ᤹ᤕᤢᤰᤐᤠ",
+      "desc": "/लाजे?युक्पा/",
+      "group": "CI",
+      "mean": "<p>president (of a country).</p>राष्ट्रपति ।"
+    },
+    "06340": {
+      "dId": "ᤗᤠᤈᤣ᤹ᤛᤠ᤺ᤒᤠ",
+      "desc": "/लाजे?साःबा/",
+      "group": "CI",
+      "mean": "<p>country-man; people; subject; citizens; tenants.</p>देशवासी; रैती ।"
+    },
+    "06341": {
+      "dId": "ᤗᤠᤳᤋᤡᤛᤣ᤹",
+      "desc": "/लात्तिसे?/",
+      "group": "CI",
+      "mean": "<p>red-black fruit/seed of a kind of plant (often used in weighing gold). <i>Abrus precatorius.</i></p>लालगेडी ।"
+    },
+    "06342": {
+      "dId": "ᤗᤠᤍᤠᤁᤩᤠᤣ/ᤗᤠᤍᤡᤁᤩᤠᤣ",
+      "desc": "/लादाक्यो/लादिक्यो/",
+      "group": "CI",
+      "mean": "<p>the holy place where the scripture was first written.</p>धर्मशास्त्र लेखिएको पहिलो पवित्र स्थान ।"
+    },
+    "06343": {
+      "dId": "ᤗᤠᤍᤠ᤺ᤰ/ᤗᤠᤍᤠᤁ᤻",
+      "desc": "/लादाःक्/",
+      "group": "CI",
+      "mean": "<p>a leafy mat for “tongba”; a leaf seat to put the vessel of Tongba on while offering to the guests.</p>तोङ्बाको भाँडो राख्ने पातको आसन (विशेषतः पाहुनापातलाई सत्कार गरिंदा) ।"
+    },
+    "06344": {
+      "dId": "ᤗᤠᤍᤠᤣᤗᤠ",
+      "desc": "/लादोला/",
+      "group": "CI",
+      "mean": "<p>(physical) balance; weighing instrument; a pair of scales/measures.</p>तराजु ।"
+    },
+    "06345": {
+      "dId": "ᤗᤠᤎᤠ",
+      "desc": "/लाधा/",
+      "group": "CI",
+      "mean": "<p>1. chariot. 2. carriage; cart; vehicles; cab.</p>१. रथ । २. गाडी ।"
+    },
+    "06346": {
+      "dId": "ᤗᤠᤎᤠᤱᤒᤠ",
+      "desc": "/लाधाङ्बा/",
+      "group": "CI",
+      "mean": "<p>the bright fortnight period of waxing moon.</p>शुक्ल पक्ष ।"
+    },
+    "06347": {
+      "dId": "ᤗᤠᤎᤣ᤺ᤰ/ᤗᤠᤎᤣᤁ᤻",
+      "desc": "/लाधेःक्/",
+      "group": "CI",
+      "mean": "<p>toll-bar/gate; road-block; barrier; obstruction; hindrance; barricade; bostacle.</p>ढाट; तगारो ।"
+    },
+    "06348": {
+      "dId": "ᤗᤠᤏᤠᤶ",
+      "desc": "/लानाम्/",
+      "group": "CI",
+      "mean": "<p>month.</p>महिना ।"
+    },
+    "06349": {
+      "dId": "ᤗᤠᤵ",
+      "desc": "/लाप्/",
+      "group": "CI",
+      "mean": "<p>1. wing; fin. 2. feather. 3. to cut swiftly and abruptly.</p>१. पखेटा । २. प्वाँख । ३. च्वाट्ट ।"
+    },
+    "06350": {
+      "dId": "ᤗᤠᤵᤂᤣᤘᤠ",
+      "desc": "/लाप्खेवा/",
+      "group": "CI",
+      "mean": "<p>jacket.</p>अस्कोट; इष्टकोट ।"
+    },
+    "06351": {
+      "dId": "ᤗᤠᤵᤆᤡ ",
+      "desc": "/लाप्चि/",
+      "group": "CI",
+      "mean": "<p>waste (material); wastage; refuse; rubbish.</p>कसिङ्गार; फ्याँकिएका वा फ्याँकिने वस्तु । "
+    },
+    "06352": {
+      "dId": "ᤗᤠᤵᤆᤣ",
+      "desc": "/लाप्चे/",
+      "group": "CI",
+      "mean": "<p>a kind of knife/sward.</p>चुपी ।"
+    },
+    "06353": {
+      "dId": "ᤗᤠᤵᤆᤧ᤺ᤰᤐᤠ/ᤗᤠᤵᤆᤧᤁ᤻ᤐᤠ",
+      "desc": "/लाप्चेःक्पा/",
+      "group": "CI",
+      "mean": "<p>a small biting fly.</p>मसिनो तर चिल्ने खालको झिँगा ।"
+    },
+    "06354": {
+      "dId": "ᤗᤠᤵᤆᤧ",
+      "desc": "/लाप्चे/",
+      "group": "CI",
+      "mean": "<p>Lepcha people.</p>लेप्चा जाति ।"
+    },
+    "06355": {
+      "dId": "ᤗᤠᤵᤋᤠᤰ",
+      "desc": "/लाप्ताक्/",
+      "group": "CI",
+      "mean": "<p>shoulder rope for carrying goods in a “Dhakar” (a big basket).</p>खकन ।"
+    },
+    "06356": {
+      "dId": "ᤗᤠᤵᤋᤠᤱᤒᤠ",
+      "desc": "/लाप्ताङ्बा/",
+      "group": "CI",
+      "mean": "<p>armpit.</p>काखी ।"
+    },
+    "06357": {
+      "dId": "ᤗᤠᤵᤋᤢᤔᤠ",
+      "desc": "/लाप्तुमा/",
+      "group": "CI",
+      "mean": "<p>flirt; headstrong/shameless/coquettish woman.</p>नकचरी आइमाई; लाज शरम नभएकी आइमाई ।"
+    },
+    "06358": {
+      "dId": "ᤗᤠᤵᤋᤣ᤺ᤔᤠ",
+      "desc": "/लाप्तेःमा/",
+      "group": "CI",
+      "mean": "<p>1. to throw/cast/fling/hurl; to throw away sth with hand. 2. to give up/forsake/abandon (smoking etc); to desert (wife, friend etc).</p>१. (हातले टाढा) फ्याँक्नु । २. (धूम्रपान, पति वा पत्नी, साथी आदिलाई) त्याग्नु; छाड्नु; परित्याग गर्नु ।"
+    },
+    "06359": {
+      "dId": "ᤗᤠᤵᤏᤡ ",
+      "desc": "/लाप्नि/",
+      "group": "CI",
+      "mean": "<p>leafy cup made of leaves.</p>दुनो ।"
+    },
+    "06360": {
+      "dId": "ᤗᤠᤵᤐᤠᤱᤗᤠᤵ",
+      "desc": "/लाप्पाङ्लाप्/",
+      "group": "CI",
+      "mean": "<p>slapping repeatedly/quickly/incessantly.</p>ड्याम(की)ड्याम पिट्ने चालाले ।"
+    },
+    "06361": {
+      "dId": "ᤗᤠᤵᤐᤡ ",
+      "desc": "/लाप्पि/",
+      "group": "CI",
+      "mean": "<p>hair of armpit/axilla.</p>जैरे; काखीको रौं ।"
+    },
+    "06362": {
+      "dId": "ᤗᤠᤵᤐᤢ",
+      "desc": "/लाप्पु/",
+      "group": "CI",
+      "mean": "<p>green dove; a kind of dove.</p>हलेसो (चरो) ।"
+    },
+    "06363": {
+      "dId": "ᤗᤠᤵᤐᤢ᤹ᤔᤠ",
+      "desc": "/लाप्पु?मा/",
+      "group": "CI",
+      "mean": "<p>to be snapped/torn off abruptly.</p>चट्ट, च्वाट्ट चुँडिनु/छिन्नु ।"
+    },
+    "06364": {
+      "dId": "ᤗᤠᤵᤐᤢᤎᤢᤰ",
+      "desc": "/लाप्पुधुक्/",
+      "group": "CI",
+      "mean": "<p>a kind of bird; kiwi; long-billed, short-winged, tailless bird of New Zealand, that cannot fly.</p>किवी (चरो) ।"
+    },
+    "06365": {
+      "dId": "ᤗᤠᤵᤐᤠᤣ᤺",
+      "desc": "/लाप्पोः/",
+      "group": "CI",
+      "mean": "<p>uncivil, indecent, filthy, obscene, vulgar.</p>अशिष्ट; अश्लील ।"
+    },
+    "06366": {
+      "dId": "ᤗᤠᤵᤐᤧ᤺ᤳᤋᤠ/ᤗᤠᤵᤐᤧᤋ᤻ᤋᤠ",
+      "desc": "/लाप्पेःत्ता/",
+      "group": "CI",
+      "mean": "<p>1. a shirt of Nepalese design; inner upper garments. 2. vest; under-jacket.</p>१. दौरा; भोटो; लबेदा । २. भित्री गन्जी । "
+    },
+    "06367": {
+      "dId": "ᤗᤠᤵᤑᤡᤱ",
+      "desc": "/लाप्फिङ्/",
+      "group": "CI",
+      "mean": "<p>armpit/axilla.</p>काखी ।"
+    },
+    "06368": {
+      "dId": "ᤗᤠᤵᤐᤡ᤺ᤵᤔᤠ/ᤗᤠᤵᤑᤡᤐ᤻ᤔᤠ",
+      "desc": "/लाप्फिःप्मा/",
+      "group": "CI",
+      "mean": "<p>1. armpit/axilla. 2. to tag/tuck sth under the armpit. 3. to favour sb; to encourage nepotism; to be biased/prejudiced/partial.</p>१. काखी । २. काखीमा च्याप्नु । ३. काखी च्याप्नु (पक्षपात गर्नु) । "
+    },
+    "06369": {
+      "dId": "ᤗᤠᤵᤑᤢ᤹ᤔᤠ",
+      "desc": "/लाप्फु?मा/",
+      "group": "CI",
+      "mean": "<p>to snap/nip off unexpectedly/abruptly.</p>च्वाट्ट चुँडाउनु/छिनाउनु ।"
+    },
+    "06370": {
+      "dId": "ᤗᤠᤵᤑᤢ᤺ᤔᤠ",
+      "desc": "/लाप्फुःमा/",
+      "group": "CI",
+      "mean": "<p>1. to throw out/away (with hands). 2. to abandon/desert sth/sb.</p>१. फ्याँक्नु; हातले टाढा फ्याँक्नु । २. त्याग्नु; परित्याग गर्नु ।"
+    },
+    "06371": {
+      "dId": "ᤗᤠᤵᤑᤢ᤺ᤛᤡᤱᤔᤠ",
+      "desc": "/लाप्फुःसिङ्मा/",
+      "group": "CI",
+      "mean": "<p>1. to be thrown/cast/flung/hurled away. 2. to be thrown away/deserted/abandoned by each other.</p>१. फालिनु; मिल्काइनु। २. परसपरमा फालिनु/फ्याँकिनु।"
+    },
+    "06372": {
+      "dId": "ᤗᤠᤵᤑᤣ᤺ᤔᤠ",
+      "desc": "/लाप्फेःमा/",
+      "group": "CI",
+      "mean": "<p>1. to throw away sth (with hand). 2. to abandon/forsake sth/sb.</p>१. (हातले टाढा) फ्याँक्नु । २. त्याग्नु; छाड्नु; परित्याग गर्नु ।"
+    },
+    "06373": {
+      "dId": "ᤗᤠᤵᤔᤠ",
+      "desc": "/लाप्मा/",
+      "group": "CI",
+      "mean": "<p>to brunt/singed (hair, feathers).</p>भुत्ल्याउनु; खुइल्याउनु ।"
+    },
+    "06374": {
+      "dId": "ᤗᤠᤵᤛᤠᤱ(ᤒᤠ)",
+      "desc": "/लाप्साङ्(बा)/",
+      "group": "CI",
+      "mean": "<p>arm.</p>पाखुरा ।"
+    },
+    "06375": {
+      "dId": "ᤗᤠᤒᤰ",
+      "desc": "/लाबक्/",
+      "group": "CI",
+      "mean": "<p>radish. <i>Raphanus saticus.</i></p>मूला । "
+    },
+    "06376": {
+      "dId": "ᤗᤠᤒᤱᤃᤠ",
+      "desc": "/लाबङ्गा/",
+      "group": "CI",
+      "mean": "<p>a measure of weight equal to six “paus” or half a “dharni” (2.5 seers).</p>बिसौली; अढैया; छ पाउ वा आधा धार्नी ।"
+    },
+    "06377": {
+      "dId": "ᤗᤠᤒᤠᤜᤠᤰ",
+      "desc": "/लाबाहाक्/",
+      "group": "CI",
+      "mean": "<p>clock-like flower; often grown at the entrance-gate of a lawn/courtyard. <i>Passiflora edulis.</i></p>घडी फूल ।"
+    },
+    "06378": {
+      "dId": "ᤗᤠᤒᤠ᤺ᤴ/ᤗᤠᤒᤠᤏ᤻",
+      "desc": "/लाबाःन्/",
+      "group": "CI",
+      "mean": "<p>1. abuse; scolding; calling (a person) names. 2. vulgar/obscene language.</p>१. गाली । २. अशिष्ट बोली/अश्लील भाषा ।"
+    },
+    "06379": {
+      "dId": "ᤗᤠᤒᤠ᤺ᤵᤔᤠ/ᤗᤠᤒᤠᤐ᤻ᤔᤠ",
+      "desc": "/लाबाःप्मा/",
+      "group": "CI",
+      "mean": "<p>to abuse/scold/call names; to use vulgar language.</p>गाली गर्नु; गालीगलौज गर्नु ।"
+    },
+    "06380": {
+      "dId": "ᤗᤠᤒᤡᤳ",
+      "desc": "/लाबित्/",
+      "group": "CI",
+      "mean": "<p>wild cow; European wild ox; bison.</p>जङ्गली गाई; मिथुन ।"
+    },
+    "06381": {
+      "dId": "ᤗᤠᤒᤢᤱ",
+      "desc": "/लाबुङ्/",
+      "group": "CI",
+      "mean": "<p>banana/plantain grove.</p>केराघारी । "
+    },
+    "06382": {
+      "dId": "ᤗᤠᤒᤠᤣ",
+      "desc": "/लाबो/",
+      "group": "CI",
+      "mean": "<p>profit; gain; yield.</p>नाफा; लाभ; फाइदा ।"
+    },
+    "06383": {
+      "dId": "ᤗᤠᤓᤠ",
+      "desc": "/लाभा/",
+      "group": "CI",
+      "mean": "<p>a kind of leafy vegetable.</p>भाँडे साग ।"
+    },
+    "06384": {
+      "dId": "ᤗᤠᤓᤠᤒᤰ",
+      "desc": "/लाभाक्/",
+      "group": "CI",
+      "mean": "<p>deceit; fraud; cheating; knavery.</p>धोका दिने, झुक्याउने वा छल गर्ने काम; छल; कपट; जालझेल ।"
+    },
+    "06385": {
+      "dId": "ᤗᤠᤓᤠᤰᤛᤡᤱ",
+      "desc": "/लाभाक् सिङ्/",
+      "group": "CI",
+      "mean": "<p>banyan tree. Ficus bmeanhalensis.</p>बरको रूख ।"
+    },
+    "06386": {
+      "dId": "ᤗᤠᤓᤡᤰᤘᤠ",
+      "desc": "/लाभिक्वा/",
+      "group": "CI",
+      "mean": "<p>horn of thee motor-car.</p>ध्वनि सङ्केतक; हर्न ।"
+    },
+    "06387": {
+      "dId": "ᤗᤠᤓᤢᤱ",
+      "desc": "/लाभुङ्/",
+      "group": "CI",
+      "mean": "<p>calendula (flower).</p>एक प्रकारको पहेंलो फूल ।"
+    },
+    "06388": {
+      "dId": "ᤗᤠᤓᤣ",
+      "desc": "/लाभे/",
+      "group": "CI",
+      "mean": "<p>invitation (card).</p>निमन्त्रणा (आमन्त्रण पत्र) ।"
+    },
+    "06389": {
+      "dId": "ᤗᤠᤓᤠᤣ᤺ᤱᤃᤠ/ᤗᤠᤓᤠᤣᤅ᤻ᤃᤠ",
+      "desc": "/लाभोःङ्गा/",
+      "group": "CI",
+      "mean": "<p>the beam of the balance.</p>तराजुको डन्डी ।"
+    },
+    "06390": {
+      "dId": "ᤗᤠᤓᤠᤣ᤺ᤒᤠ",
+      "desc": "/लोभोःबा/",
+      "group": "CI",
+      "mean": "<p>driver (of cars, etc).</p>(गाडी आदिको) चालक ।"
+    },
+    "06391": {
+      "dId": "ᤗᤠᤓᤠᤣᤰᤆᤠᤔᤠ",
+      "desc": "/लाभेक्चामा/",
+      "group": "CI",
+      "mean": "<p>long-tailed bird.</p>लामपुछ्रे चरो ।"
+    },
+    "06392": {
+      "dId": "ᤗᤠᤓᤧ᤺ᤴᤍᤠ/ᤗᤠᤓᤧᤏ᤻ᤍᤠ",
+      "desc": "/लाभेःन्दा/",
+      "group": "CI",
+      "mean": "<p>tomato. lycopersicon esculentum var. <i>Commune commune.</i></p>गोलभेंडा; रामभेंडा ।"
+    },
+    "06393": {
+      "dId": "ᤗᤠᤔᤠ",
+      "desc": "/लामा/",
+      "group": "CI",
+      "mean": "<p>to keep sth (with oneself).</p>राख्नु (लिएर आफुसँग राख्नु) ।"
+    },
+    "06394": {
+      "dId": "ᤗᤠᤔᤠᤄᤣ",
+      "desc": "/लामाघे/",
+      "group": "CI",
+      "mean": "<p>white sweet potato. <i>Ipomoea batatas.</i></p>सेतो सखरखण्ड ।"
+    },
+    "06395": {
+      "dId": "ᤗᤠᤔᤡᤒᤠ",
+      "desc": "/लामिबा/",
+      "group": "CI",
+      "mean": "<p>hog; castrated male pig.</p>खसी पारेको भाले सुँगुर ।"
+    },
+    "06396": {
+      "dId": "ᤗᤠᤔᤡ᤺ᤳᤋᤠ/ᤗᤠᤔᤡᤋ᤻ᤋᤠ",
+      "desc": "/लामिःत्ता/",
+      "group": "CI",
+      "mean": "<p>jolly show; spectacle; entertainment.</p>रमिता ।"
+    },
+    "06397": {
+      "dId": "ᤗᤠᤔᤣᤖᤡᤱ",
+      "desc": "/लामेरिङ्/",
+      "group": "CI",
+      "mean": "<p>sorrow; agony; grief; pain; dejection.</p>वेदना; व्यथा ।"
+    },
+    "06398": {
+      "dId": "ᤗᤠᤶ",
+      "desc": "/लाम्/",
+      "group": "CI",
+      "mean": "<p>1. way; path; road; route. 2. case-ending marker/sigh of the ablative case, eg- “from”, “by”.</p>१. बाटो; पथ; मार्ग । २. बाट; द्वारा; अपादानकारकको विभक्ति चिन्ह । "
+    },
+    "06399": {
+      "dId": "ᤗᤠᤶ ᤀᤡᤰ",
+      "desc": "/लाम् इक्/",
+      "group": "CI",
+      "mean": "<p>turn(ing); corner of a road.</p>घुम्ती; कुइनेटो; बाटोको मोड ।"
+    },
+    "06400": {
+      "dId": "ᤗᤠᤶᤃᤣ",
+      "desc": "/लाम्गे/",
+      "group": "CI",
+      "mean": "<p>a particular tuning and dancing style of Chyabrung dance when the trupe enters into and leaves the front courtyard of a house before and after marriage ceremony.</p>विवाहको समारोहमा प्रवेश गर्दा र बिदाइ हुँदा बजाउदै आउने रा जाने च्याब्रुङ नाचको पारा वा किसिम ।"
+    },
+    "06401": {
+      "dId": "ᤗᤠᤶᤈᤱ",
+      "desc": "/लाम्जङ्/",
+      "group": "CI",
+      "mean": "<p>half way; on the road.</p>आधा बाटो; बीच बाटो ।"
+    },
+    "06402": {
+      "dId": "ᤗᤠᤶᤍᤠ᤺ᤰ/ᤗᤠᤶᤍᤠᤁ᤻",
+      "desc": "/लाम्दाःक्/",
+      "group": "CI",
+      "mean": "<p>welcome; reception.</p>स्वागत ।"
+    },
+    "06403": {
+      "dId": "ᤗᤠᤶᤍᤠ᤺ᤰ/ᤗᤠᤶᤍᤠᤁ᤻-ᤘᤠ᤹",
+      "desc": "/लाम्दाःक्-वा?/",
+      "group": "CI",
+      "mean": "<p>a kind of bird which often grubs by the wayside.</p>बाटोको छेउछाउमा चर्ने चरो; एक प्रकारको चरो विशेष ।"
+    },
+    "06404": {
+      "dId": "ᤗᤠᤶᤍᤡ᤺ᤰ/ᤗᤠᤶᤍᤡᤁ᤻",
+      "desc": "/लाम्दिःक्/",
+      "group": "CI",
+      "mean": "<p>1. travel(ing); trip; tour; journey; setting out for; going abroad. 2. outland/foreign/distant land.</p>१. भ्रमण; यात्रा; परदेश जाने काम । २. परदेश; विदेश; लाहुर ।"
+    },
+    "06405": {
+      "dId": "ᤗᤠᤶᤍᤡ᤺ᤰᤐᤠ/ᤗᤠᤶᤍᤡᤁ᤻ᤐᤠ",
+      "desc": "/लाम्दिःक्पा/",
+      "group": "CI",
+      "mean": "<p>traveller; tourist; wayfarer; alien; foreign; stranger; newcomer.</p>यात्री; पर्यटक; बटुवा; परदेशी ।"
+    },
+    "06406": {
+      "dId": "ᤗᤠᤶᤍᤠᤣ",
+      "desc": "/लाम्दो/",
+      "group": "CI",
+      "mean": "<p>crossroads; junction; intersection; place where two roads meet.</p>दोबाटो; जक्शन; बाटाहरू जोडिने ठाँउ(बिन्दु) ।"
+    },
+    "06407": {
+      "dId": "ᤗᤠᤶᤍᤠᤣᤒᤣ",
+      "desc": "/लाम्दोबे/",
+      "group": "CI",
+      "mean": "<p>small bridge made of two bamboo poles.</p>फड्के पुल ।"
+    },
+    "06408": {
+      "dId": "ᤗᤠᤶᤍᤠᤣ᤺ᤴ/ᤗᤠᤶᤍᤠᤣᤏ᤻",
+      "desc": "/लाम्दोःन्/",
+      "group": "CI",
+      "mean": "<p>send(ing) off; farewell; saying goodbye.</p>बिदाइ; बिदा दिने कार्य ।"
+    },
+    "06409": {
+      "dId": "ᤗᤠᤶᤎᤠ",
+      "desc": "/लाम्धा/",
+      "group": "CI",
+      "mean": "<p>station; a certain place in the road.</p>बाटोको गौंडा ।"
+    },
+    "06410": {
+      "dId": "ᤗᤠᤶᤎᤠ᤺ᤴ/ᤗᤠᤶᤎᤠᤏ᤻",
+      "desc": "/लाम्धाःन्/",
+      "group": "CI",
+      "mean": "<p>1. setting out (for somewhere). 2. a kings procession/visit.</p>१. प्रस्थान । २. सवारी; राजाबाट प्रस्थान गरिने काम ।"
+    },
+    "06411": {
+      "dId": "ᤗᤠᤶᤎᤣ᤺ᤵᤐᤠ/ᤗᤠᤶᤎᤣᤐ᤻ᤐᤠ",
+      "desc": "/लाम्धेःप्पा/",
+      "group": "CI",
+      "mean": "<p>gate; door (way).</p>ढोका ।"
+    },
+    "06412": {
+      "dId": "ᤗᤠᤶᤒᤠ",
+      "desc": "/लाम्बा/",
+      "group": "CI",
+      "mean": "<p>marker of ablative case-ending (eg- “by”, “through”).</p>देखि; द्वारा; बाट; अपादानकारकको चिन्ह ।"
+    },
+    "06413": {
+      "dId": "ᤗᤠᤶ",
+      "desc": "/लाम्बाक् कुम्बाक्/",
+      "group": "CI",
+      "mean": "<p>1. bet; race; rivarly; competition; a particular racing game of children to find out the quickest one. 2. competition; mutual attempt to outstrip one another.</p>१. बाजी; दौड प्रतियोगिता; केटाकेटीहरूले  “को छिटो” हुने भनि खेल्ने एक प्रकारको उछिनपाछिन/होडबाजीको खेल । २. (आपसी) होडबाजी; उछिनपाछिन; प्रतिस्पर्धा ।"
+    },
+    "06414": {
+      "dId": "ᤗᤠᤶᤒᤣ",
+      "desc": "/लाम्बे/",
+      "group": "CI",
+      "mean": "<p>1. way; trail. 2. means; way.</p>१. बाटोको गोहो; डोब । २. उपाय; साधन ।"
+    },
+    "06415": {
+      "dId": "ᤗᤠᤶᤒᤠᤣ",
+      "desc": "/लाम्बो/",
+      "group": "CI",
+      "mean": "<p>cold; cough and cold.</p>रुघा; सर्दी; मार्गी ।"
+    },
+    "06416": {
+      "dId": "ᤗᤠᤶᤓᤣ",
+      "desc": "/लाम्भे/",
+      "group": "CI",
+      "mean": "<p>epidemic; pestilence.</p>महामारी; देसान; सङ्क्रामक रोग ।"
+    },
+    "06417": {
+      "dId": "ᤗᤠᤶᤔᤠ",
+      "desc": "/लाम्मा/",
+      "group": "CI",
+      "mean": "<p>1. to behave/go around shamelessly or wantonly; to be shameless/brazen; to graze. 2. to graze the cattle.</p>१. लाजसरम छाडेर जथाभावी गरि(चरी) हिंड्नु; नकच्चरो/री हुनु; चरिहिंड्नु । २. (गाइवस्तु आदि) चराउनु ।"
+    },
+    "06418": {
+      "dId": "ᤗᤠᤶᤔᤡᤰ",
+      "desc": "/लाम्मिक्/",
+      "group": "CI",
+      "mean": "<p>address.</p>ठेगाना ।"
+    },
+    "06419": {
+      "dId": "ᤗᤠᤶᤗᤠᤶᤒᤩᤠᤳ",
+      "desc": "/लाम्लाम्ब्यात्/",
+      "group": "CI",
+      "mean": "<p>cricket; grasshopper.</p>फट्याङ्ग्रो ।"
+    },
+    "06420": {
+      "dId": "ᤗᤠᤶᤗᤠᤣ",
+      "desc": "/लाम्लो/",
+      "group": "CI",
+      "mean": "<p>leading the way first; going ahead.</p>अगाडि हिंड्ने/जाने चाला ।"
+    },
+    "06421": {
+      "dId": "ᤗᤠᤶᤗᤠᤣ(ᤘᤠ)",
+      "desc": "/लाम्लो(वा)/",
+      "group": "CI",
+      "mean": "<p>leadership; guidance.</p>नेतृत्व; अगुवाइ ।"
+    },
+    "06422": {
+      "dId": "ᤗᤠᤶᤗᤠᤣ᤺ᤔᤠ",
+      "desc": "/लाम्लोःमा/",
+      "group": "CI",
+      "mean": "<p>to lead/go ahead/pioneer/show the way.</p>अघिलाग्नु; बाटो देखाउनु; नेतृत्व गर्नु ।"
+    },
+    "06423": {
+      "dId": "ᤗᤠᤶᤎᤰᤐᤠ",
+      "desc": "/लाम्धक्पा/",
+      "group": "CI",
+      "mean": "<p>pioneer; forerunner.</p>कर्णधार ।"
+    },
+    "06424": {
+      "dId": "ᤗᤠᤶᤗᤠᤣ᤺ᤒᤠ",
+      "desc": "/लाम्लोःबा/",
+      "group": "CI",
+      "mean": "<p>1. guide. 2. leader; pioneer; apostle.</p>१. पथप्रदर्शक । २. अग्रणी; अगुवा; नेता ।"
+    },
+    "06425": {
+      "dId": "ᤗᤠᤶᤗᤠᤣ᤺ᤶᤔᤠ/ᤗᤠᤶᤗᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/लाम्लोःम्मा/",
+      "group": "CI",
+      "mean": "<p>to let sb (take a) lead/go ahead/in front (of); to give sb a lead.</p>अगाडि हिंड्न लगाउनु; अगाडि हिंडाउनु; अगाडि लगाउनु ।"
+    },
+    "06426": {
+      "dId": "ᤗᤠᤶᤛᤠ᤹",
+      "desc": "/लाम्सा?/",
+      "group": "CI",
+      "mean": "<p>nephew, niece; address term for thus related people.</p>भान्जा/भदै वा भान्जी/भदैनी; लोग्नेमानिसका दिदी, बहिनी, जेठान वा सालाका छोरा वा छोरी; स्वास्नीमानिसका दाजु, भाइ, नन्द वा आमाजुका छोरा वा छोरी; त्यस नातालाई गरिने सम्बोधन ।"
+    },
+    "06427": {
+      "dId": "ᤗᤠᤶᤛᤠ᤹ᤒᤠ",
+      "desc": "/लाम्सा?बा/",
+      "group": "CI",
+      "mean": "<p>nephew.</p>भान्जा; भानिज; भदै । "
+    },
+    "06428": {
+      "dId": "ᤗᤠᤶᤛᤠ᤹ᤔᤠ",
+      "desc": "/लाम्सा?मा/",
+      "group": "CI",
+      "mean": "<p>niece.</p>भान्जी; भदैनी ।"
+    },
+    "06429": {
+      "dId": "ᤗᤠᤶᤛᤠ᤹ᤋᤖᤣ᤺",
+      "desc": "/लाम्सा?तरे/",
+      "group": "CI",
+      "mean": "<p>[Tamor] wife’s brother’s daughter whom her uncle (the husband of her father’s sister) can marry.</p>[तमर] भदैनी जसलाई फुपाजुले विहे गर्न सक्छन ।"
+    },
+    "06430": {
+      "dId": "ᤗᤠᤶᤛᤠ᤺ᤱ/ᤗᤠᤶᤛᤠᤅ᤻",
+      "desc": "/लाम्साःङ्/",
+      "group": "CI",
+      "mean": "<p>crossroads, where two or more roads meet.</p>बाटाहरू जोडिएको ठाँउ; दोबाटो/चौबाटो । "
+    },
+    "06431": {
+      "dId": "ᤗᤠᤶᤛᤡᤱᤔᤠ",
+      "desc": "/लाम्सिङ्मा/",
+      "group": "CI",
+      "mean": "<p>to pretend.</p>बहाना गर्नु; निहुँ पार्नु ।"
+    },
+    "06432": {
+      "dId": "ᤗᤠᤶᤛᤡᤱᤘᤠ",
+      "desc": "/लाम्सिङ्वा/",
+      "group": "CI",
+      "mean": "<p>pretension.</p>बहाना; निहुँ ।"
+    },
+    "06433": {
+      "dId": "ᤗᤠᤶᤛᤡᤶᤒᤠ",
+      "desc": "/लाम्सिबा/",
+      "group": "CI",
+      "mean": "<p>follower.</p>अनुसरणकर्ता; अनुयायी ।"
+    },
+    "06434": {
+      "dId": "ᤗᤠᤕᤱ",
+      "desc": "/लायङ्/",
+      "group": "CI",
+      "mean": "<p>wild banana. <i>Musa balbisiana.</i></p>वनकेरा ।"
+    },
+    "06435": {
+      "dId": "ᤗᤠᤕᤠ",
+      "desc": "/लाया/",
+      "group": "CI",
+      "mean": "<p>fried unhusked rice grains.</p>लावा; भुटेको धान; भुटेको धानको फुलो । "
+    },
+    "06436": {
+      "dId": "ᤗᤠᤕᤠᤱ",
+      "desc": "/लायाङ्/",
+      "group": "CI",
+      "mean": "<p>fare (for conveyance); bus, etc fare.</p>(गाडी) भाडा ।"
+    },
+    "06437": {
+      "dId": "ᤗᤠᤕᤠᤣ",
+      "desc": "/लायो/",
+      "group": "CI",
+      "mean": "<p>sin; impiety; vile; evil deed.</p>पाप; अधर्म ।"
+    },
+    "06438": {
+      "dId": "ᤗᤠᤖᤡᤱᤃᤩᤰᤐᤠ",
+      "desc": "/लरिङ्ग्यक्पा/",
+      "group": "CI",
+      "mean": "<p>a species of leopard.</p>निगाले चितुवा ।"
+    },
+    "06439": {
+      "dId": "ᤗᤠᤖᤡᤱᤔᤠ",
+      "desc": "/लारिङ्मा/",
+      "group": "CI",
+      "mean": "<p>white guava.</p>सेतो अम्बा । "
+    },
+    "06440": {
+      "dId": "ᤗᤠᤖᤡᤵᤐᤠ",
+      "desc": "/लारिप्पा/",
+      "group": "CI",
+      "mean": "<p>artist.</p>कलाकार ।"
+    },
+    "06441": {
+      "dId": "ᤗᤠᤗᤠᤰ",
+      "desc": "/लालाक्/",
+      "group": "CI",
+      "mean": "<p>aside; apart; separately; at a distance.</p>अलग्ग; फरक; छुट्टै ।"
+    },
+    "06442": {
+      "dId": "ᤗᤠᤗᤠᤳ",
+      "desc": "/लालात्/",
+      "group": "CI",
+      "mean": "<p>at a distance; aside; apart; separately.</p>अलग; पर; अलग अलग ।"
+    },
+    "06443": {
+      "dId": "ᤗᤠᤗᤡᤶᤛᤣ",
+      "desc": "/लालिम्से/",
+      "group": "CI",
+      "mean": "<p>bay-berry; strawberry; box myrtle (fruits, seeds); Myrica esculenta.</p>काफल (फल, दाना) ।"
+    },
+    "06444": {
+      "dId": "ᤗᤠᤘᤠ",
+      "desc": "/लावा/",
+      "group": "CI",
+      "mean": "<p>an act of smearing the pot with mud/earth/ashes, etc before placing it on the hearth (so that it may not get spoiled with soot).</p>पोतो, चूल्होमा राख्नु अघि भाँडाको पींधमा माटो/खरानी आदि मुछेर पोत्ने कार्य ।"
+    },
+    "06445": {
+      "dId": "ᤗᤠᤘᤠ᤹",
+      "desc": "/लावा?/",
+      "group": "CI",
+      "mean": "<p>a kind of crested bird; bulbul.</p>जुरेली ।"
+    },
+    "06446": {
+      "dId": "ᤗᤠᤘᤠᤄᤣ",
+      "desc": "/लावाघे/",
+      "group": "CI",
+      "mean": "<p>sweet potato. Impomoea batayas.</p>सखरखण्ड ।"
+    },
+    "06447": {
+      "dId": "ᤗᤠᤛᤠᤰ",
+      "desc": "/लासाक्/",
+      "group": "CI",
+      "mean": "<p>treachery.</p>धोका; (विश्वास) घात ।"
+    },
+    "06448": {
+      "dId": "ᤗᤠᤛᤡᤃᤣ᤺ᤰ/ᤗᤠᤛᤡᤃᤣᤁ᤻",
+      "desc": "/लासिगेःक्/",
+      "group": "CI",
+      "mean": "<p>the smallest unit of Nepali measurement or traditional physical balance for weighing.</p>बोडी; तुलोको सबैभन्दा कम तौलको एकाइ ।"
+    },
+    "06449": {
+      "dId": "ᤗᤠᤛᤡᤱ",
+      "desc": "/लासिङ्/",
+      "group": "CI",
+      "mean": "<p>show; pedantry.</p>आडम्बर; स्वाँङ्ग ।"
+    },
+    "06450": {
+      "dId": "ᤗᤠᤛᤡ᤺ᤰ/ᤗᤠᤛᤡᤁ᤻",
+      "desc": "/लासिःक्/",
+      "group": "CI",
+      "mean": "<p>a maund; a measurement/weight of 40 seers (80 lbs).</p>एक मनको ओजन ।"
+    },
+    "06451": {
+      "dId": "ᤗᤠᤛᤢ᤺ᤵ/ᤗᤠᤛᤢᤐ᤻",
+      "desc": "/लासुःप्/",
+      "group": "CI",
+      "mean": "<p>part of a banana leaf laid supine over the “tongba” while preforming a worship.</p>पूजा गर्दा तोङ्बा छोप्न उत्तानो पारी प्रयोग गरिने केराको पातको अंश ।"
+    },
+    "06452": {
+      "dId": "ᤗᤠᤛᤠᤣ",
+      "desc": "/लासो/",
+      "group": "CI",
+      "mean": "<p>altar; a formal way of making an altar for worship by placing cut pieces of plantain leaves (some with face upward, some with face downward, and others cross-like) over the “laghok”.</p>थान; पूजा गर्दा लाघोक् माथि उत्तानो र घोप्टो  वा उत्तानै उत्तानो पारी ठाडो र तेर्सो गरेर परस्पर खप्ट्याइ क्रस झैं पारेर थान बनाइदा केराका पातका टुक्रा राख्ने विधान ।"
+    },
+    "06453": {
+      "dId": "ᤗᤠᤛᤠᤣᤖᤡ ᤑᤢᤱ",
+      "desc": "/लासोरि फुङ्/",
+      "group": "CI",
+      "mean": "<p>water pot used for worship.</p>पञ्चपात्र ।"
+    },
+    "06454": {
+      "dId": "ᤗᤠᤛᤠᤣ ᤛᤡᤱ",
+      "desc": "/लासो सिङ्/",
+      "group": "CI",
+      "mean": "<p>banyan tree. <i>Ficus bmeanhalensis.</i></p>बरको रूख ।"
+    },
+    "06455": {
+      "dId": "ᤗᤠᤛᤧᤴ",
+      "desc": "/लासेन्/",
+      "group": "CI",
+      "mean": "<p>south-east quarter/direction.</p>दक्षिणपूर्वको कोण; आग्नेय कोण ।"
+    },
+    "06456": {
+      "dId": "ᤗᤠ᤺ᤀᤶᤒᤠ",
+      "desc": "/लाःअम्बा/",
+      "group": "CI",
+      "mean": "<p>the ninth day of the lunar fortnight.</p>नवमी ।"
+    },
+    "06457": {
+      "dId": "ᤗᤠ᤺ᤀᤠᤣ᤺ᤳ/ᤗᤠ᤺ᤀᤠᤣᤋ᤻",
+      "desc": "/लाःओःत्/",
+      "group": "CI",
+      "mean": "<p>moonbeam; ray of the moon(light).</p>चन्द्रकिरण ।"
+    },
+    "06458": {
+      "dId": "ᤗᤠ᤺ᤀᤠᤣ᤺ᤵᤐᤠ/ᤗᤠ᤺ᤀᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/लाःओःप्पा/",
+      "group": "CI",
+      "mean": "<p>the thirteenth day of the lunar fortnight.</p>त्रयोदशी ।"
+    },
+    "06459": {
+      "dId": "ᤗᤠ᤺ᤰ/ᤗᤠᤁ᤻",
+      "desc": "/लाःक्/",
+      "group": "CI",
+      "mean": "<p>1. prong; pike. 2. spear; bayonet.</p>१. बाँसको तिखारेको टुप्पो; काँटा । २. भाला ।"
+    },
+    "06460": {
+      "dId": "ᤗᤠ᤺ᤰᤁᤠᤳ/ᤗᤠᤁ᤻ᤁᤠᤳ",
+      "desc": "/लाःक्कात्/",
+      "group": "CI",
+      "mean": "<p>courtyard; outside/outer side of a house (eg- front courtyard, open space etc).</p>घरभन्दा बाहिरको भाग वा स्थान (आँगन, खुल्ला ठाउँ आदि); पाखा; बाहिर ।"
+    },
+    "06461": {
+      "dId": "ᤗᤠ᤺ᤰᤐᤢᤆᤣ/ᤗᤠᤁ᤻ᤐᤢᤆᤣ ᤆᤩᤠ",
+      "desc": "/लाःक्पुचे/च्या/",
+      "group": "CI",
+      "mean": "<p>a kind of bush. <i>Berberiris aristata.</i></p>चुत्रो ।"
+    },
+    "06462": {
+      "dId": "ᤗᤠ᤺ᤰᤑᤠ/ᤗᤠᤁ᤻ᤑᤠ",
+      "desc": "/लाःक्फा/",
+      "group": "CI",
+      "mean": "<p>a kind of bamboo. <i>Cephalostachyum capitatum.</i></p>गोपे बाँस ।"
+    },
+    "06463": {
+      "dId": "ᤗᤠ᤺ᤰᤑᤧᤳ/ᤗᤠᤁ᤻ᤑᤧᤳ",
+      "desc": "/लाःक्फेत्/",
+      "group": "CI",
+      "mean": "<p>leech (land); blood-sucking worm found in a swamp/mash.</p>जुका; सिमसारका वनस्पतिमा रहने र प्राणीको रगत चुस्ने कीरोविशेष ।"
+    },
+    "06464": {
+      "dId": "ᤗᤠ᤺ᤰᤔᤠ/ᤗᤠᤁ᤻ᤔᤠ",
+      "desc": "/लाःक्मा/",
+      "group": "CI",
+      "mean": "<p>1. to spring or jump (while dancing); to dance. 2. to crush/trample down; to tread on/over. 3. to be smart; to be of strong taste (salt, spices etc). 4. helping verb when suffixed to other words (noun etc) denote the sense of “effecting”, “kindling” of feeling, expressing (eg- anger, hunger etc), to feel/expression; to be effected/kindled.</p>१. टेक्नु उफ्रनु (नाँच्ने अर्थमा मात्र); नाँच्नु । २. कुल्चनु; टेक्नु; माड्नु । ३. बढ्ता हुनु; चर्को हुनु (नुन, मसला आदि) । ४. कुनै अर्को शब्दको साथमा आई “सल्कनु”, “लाग्नु”, “अनुभव हुनु” (जस्तैः- भोक, रिस) भन्ने अर्थ जनाउने सहायक क्रियापद । "
+    },
+    "06465": {
+      "dId": "ᤗᤠ᤺ᤰᤘᤠ/ᤗᤠᤁ᤻ᤘᤠ",
+      "desc": "/लाःक्वा/",
+      "group": "CI",
+      "mean": "<p>a kind of green emerald dove. <i>Chalkophaps indica.</i></p>हलेसो; एक जातको ढुकुर ।"
+    },
+    "06466": {
+      "dId": "ᤗᤠ᤺ᤰᤛᤡᤱᤔᤠ/ᤗᤠᤁ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/लाःक्सिङ्मा/",
+      "group": "CI",
+      "mean": "<p>to be crushed/trampled down.</p>माडिनु; किचिनु; टेकिनु ।"
+    },
+    "06467": {
+      "dId": "ᤗᤠ᤺ᤃᤰᤐᤠ",
+      "desc": "/लाःगक्पा/",
+      "group": "CI",
+      "mean": "<p>the fifth day of the lunar fortnight.</p>पञ्चमी ।"
+    },
+    "06468": {
+      "dId": "ᤗᤠ᤺ᤃᤶᤒᤠ",
+      "desc": "/लाःगम्बा/",
+      "group": "CI",
+      "mean": "<p>the eight day of the lunar fortnight.</p>अष्टमी ।"
+    },
+    "06469": {
+      "dId": "ᤗᤠ᤺ᤃᤢᤱᤒᤠ",
+      "desc": "/लाःगुङ्बा/",
+      "group": "CI",
+      "mean": "<p>the first day of the lunar fortnight.</p>प्रतिपदा ।"
+    },
+    "06470": {
+      "dId": "ᤗᤠ᤺ᤃᤣᤵᤐᤠ",
+      "desc": "/लाःगेप्पा/",
+      "group": "CI",
+      "mean": "<p>the third day of the lunar fortnight.</p>तृतीया ।"
+    },
+    "06471": {
+      "dId": "ᤗᤠ᤺ᤄᤧᤱᤒᤠ",
+      "desc": "/लाःघेङ्बा/",
+      "group": "CI",
+      "mean": "<p>the tenth day of the lunar fortnight.</p>दशमी ।"
+    },
+    "06472": {
+      "dId": "ᤗᤠ᤺ᤱ/ᤗᤠᤅ᤻",
+      "desc": "/लाःङ्/",
+      "group": "CI",
+      "mean": "<p>1. [Tamor] fish-poison, esp made from the young leaves of mauwa. E-spicata. 2. the. most common and general kind of Limbu Paddy dance and Chyabrung dance.</p>१. [तमर] माछा मार्ने बिख; मौवाको पातका कलिला मुनाहरूबाट बनाइएको । २. लिमुबूजातिको धाननाच अनि च्याब्रुङ् नाचको अति प्रचलित/सामान्य र मुख्य प्रकार ।"
+    },
+    "06473": {
+      "dId": "ᤗᤠ᤺ᤱᤔᤠ/ᤗᤠᤅ᤻ᤔᤠ",
+      "desc": "/लाःङ्मा/",
+      "group": "CI",
+      "mean": "<p>to dance; to make sb dance with oneself.</p>नाँच्नु; (आफुसँग) नचाउनु; नाच्ने साथी बनाउनु ।"
+    },
+    "06474": {
+      "dId": "ᤗᤠ᤺ᤱᤘᤠ/ᤗᤠᤅ᤻ᤘᤠ",
+      "desc": "/लाःङ्वा/",
+      "group": "CI",
+      "mean": "<p>liquid; fluid.</p>तरल पदार्थ; झोल पदार्थ; द्रव ।"
+    },
+    "06475": {
+      "dId": "ᤗᤠ᤺ᤱᤘᤠᤛᤡ᤺ᤰ/ᤗᤠᤅ᤻ᤘᤠᤛᤡᤁ᤻",
+      "desc": "/लाःङ्वासिःक्/",
+      "group": "CI",
+      "mean": "<p>litre.</p>एक लिटर; तरल पदार्थको नापो ।"
+    },
+    "06476": {
+      "dId": "ᤗᤠ᤺ᤱᤛᤠᤶ/ᤗᤠᤅ᤻ᤛᤠᤶ",
+      "desc": "/लाःङ्साम्/",
+      "group": "CI",
+      "mean": "<p>initiating dance; dance raising soul of dance; a kind of Chyabrung dance.</p>नृत्यको आत्मा जगाउने नृत्य; च्यब्रुङ् नाचको विशेष प्रकार । "
+    },
+    "06477": {
+      "dId": "ᤗᤠ᤺ᤋᤡᤔᤡᤰ",
+      "desc": "/लाःतिमिक्/",
+      "group": "CI",
+      "mean": "<p>moonbeam (the eye of the moon - lit.).</p>चन्द्रकिरण (चन्द्रमाको आँखा) ।"
+    },
+    "06478": {
+      "dId": "ᤗᤠ᤺ᤳᤇᤠᤵ/ᤗᤠᤋ᤻ᤇᤠᤵ",
+      "desc": "/लाःत्छाप्/",
+      "group": "CI",
+      "mean": "<p>invitation (card/letter).</p>निम्तो (पत्र) ।"
+    },
+    "06479": {
+      "dId": "ᤗᤠ᤺ᤳᤇᤡ/ᤗᤠᤋ᤻ᤇᤡ ",
+      "desc": "/लाःत्छि/",
+      "group": "CI",
+      "mean": "<p>skein of thread.</p>धागोको लच्छी ।"
+    },
+    "06480": {
+      "dId": "ᤗᤠ᤺ᤳᤌᤠ/ᤗᤠᤋ᤻ᤌᤠ",
+      "desc": "/लाःत्था/",
+      "group": "CI",
+      "mean": "<p>difference; distinction.</p>भिन्नता; भेद; अन्तर ।"
+    },
+    "06481": {
+      "dId": "ᤗᤠ᤺ᤳᤌᤠᤒᤠ/ᤗᤠᤋ᤻ᤌᤠᤒᤠ",
+      "desc": "/लाःत्थाबा/",
+      "group": "CI",
+      "mean": "<p>differing (especially in age); inconsistent.</p>नमिल्ने; अमिल्दो ।"
+    },
+    "06482": {
+      "dId": "ᤗᤠ᤺ᤳᤗᤠ᤺ᤳ/ᤗᤠᤋ᤻ᤗᤠᤋ᤻",
+      "desc": "/लाःत्लाःत्/",
+      "group": "CI",
+      "mean": "<p>1. at a distance; apart; separately. 2. aloof; indifferent.</p>१. फरक फरक; अलग अलग । २. विमुख; उदासीन ।"
+    },
+    "06483": {
+      "dId": "ᤗᤠ᤺ᤍᤰᤐᤠ",
+      "desc": "/लाःदक्पा/",
+      "group": "CI",
+      "mean": "<p>the twelfth day of lunar fortnight.</p>द्वादशी ।"
+    },
+    "06484": {
+      "dId": "ᤗᤠ᤺ᤍᤡ ",
+      "desc": "/लाःदि/",
+      "group": "CI",
+      "mean": "<p>woolen blanket (for spreading).</p>राडी ।"
+    },
+    "06485": {
+      "dId": "ᤗᤠ᤺ᤍᤡᤵᤐᤠ",
+      "desc": "/लाःदिप्पा/",
+      "group": "CI",
+      "mean": "<p>the seventh day of the lunar fortnight.</p>सप्तमी ।"
+    },
+    "06486": {
+      "dId": "ᤗᤠ᤺ᤏᤢᤵᤐᤠ",
+      "desc": "/लाःनुप्पा/",
+      "group": "CI",
+      "mean": "<p>the dark fortnight; the period of waning moon.</p>कृष्णपक्ष ।"
+    },
+    "06487": {
+      "dId": "ᤗᤠ᤺ᤏᤧᤳᤋᤡ ",
+      "desc": "/लाःनेत्ति/",
+      "group": "CI",
+      "mean": "<p>the churning stick of the moon used in creation.</p>सृष्टिकार्यमा प्रयोग भएको जूनको मधानी ।"
+    },
+    "06488": {
+      "dId": "ᤗᤠ᤺ᤵᤋᤧ᤺ᤱᤃᤢ/ᤗᤠᤐ᤻ᤋᤣᤅ᤻ᤃᤢ",
+      "desc": "/लाःप्तेःङ्गु/",
+      "group": "CI",
+      "mean": "<p>ring around the moon; halo/disc of the moon.</p>चन्द्रमा वरिपरिको प्रकाश/प्रभाको घेरा ।"
+    },
+    "06489": {
+      "dId": "ᤗᤠ᤺ᤵᤔᤠ/ᤗᤠᤐ᤻ᤔᤠ",
+      "desc": "/लाःप्मा/",
+      "group": "CI",
+      "mean": "<p>1. [Phedape] to gbe light (in weight); to weight light. 2. to keep/take sth oneself (after purchasing/receiving). 3. to bring home a wife; to keep sb a wife. 4. to come/go into; to penetrate/enter/infiltrate/intrude.</p>१. [फेदापे] (तौलमा) हलुको हुनु । २. आफुसँग राख्नु/लिइराख्नु (जस्तैः- थापेर, किनेर राख्नु) । ३. स्वास्नी राख्नु/ल्याउनु । ४. घुस्नु; पस्नु; छिर्नु ।"
+    },
+    "06490": {
+      "dId": "ᤗᤠ᤺ᤵᤛᤠ/ᤗᤠᤐ᤻ᤛᤠ(ᤒᤠ)",
+      "desc": "/लाःप्सा(बा)/",
+      "group": "CI",
+      "mean": "<p>flying fox; a kind of bird.</p>राजपङ्खी; राजपन्छी ।"
+    },
+    "06491": {
+      "dId": "ᤗᤠ᤺ᤒᤠ",
+      "desc": "/लाःबा/",
+      "group": "CI",
+      "mean": "<p>moon.</p>चन्द्रमा; निशाकर; शशी ।"
+    },
+    "06492": {
+      "dId": "ᤗᤠ᤺ᤒᤠ ᤑᤢᤱ",
+      "desc": "/लाःबा फुङ्/",
+      "group": "CI",
+      "mean": "<p>a kind of crescent-shaped gold ornament; clip.</p>सुनको एक प्रकारको अर्द्धचन्द्राकार गहना; किलिप ।"
+    },
+    "06493": {
+      "dId": "ᤗᤠ᤺ᤒᤢᤳᤌᤢᤱ",
+      "desc": "/लाःबुत्थुङ्/",
+      "group": "CI",
+      "mean": "<p>the white waves of moonlight surrounding the moon right to left while churning; lunar disc.</p>चन्द्रमाको वरिपरि दायाँबाट बाँयातर्फ घुमे झैं देखिने सेतो घेरा; चन्द्रमण्डल; चन्द्रबिम्ब ।"
+    },
+    "06494": {
+      "dId": "ᤗᤠ᤺ᤒᤠᤣ᤹",
+      "desc": "/लाःबो?/",
+      "group": "CI",
+      "mean": "<p>a kind of small insect which eats green vegetables.</p>लाई; सागपातमा लाग्ने सानो हरियो कीराविशेष ।"
+    },
+    "06495": {
+      "dId": "ᤗᤠ᤺ᤓᤢᤴ",
+      "desc": "/लाःभुन्/",
+      "group": "CI",
+      "mean": "<p>fool moon.</p>पूर्णचन्द्र ।"
+    },
+    "06496": {
+      "dId": "ᤗᤠ᤺ᤓᤢᤶᤒᤠ",
+      "desc": "/लाःभुम्बा/",
+      "group": "CI",
+      "mean": "<p>the day of the full moon.</p>पूर्णिमा ।"
+    },
+    "06497": {
+      "dId": "ᤗᤠ᤺ᤓᤧᤖᤡᤰ",
+      "desc": "/लाःभेरिक्/",
+      "group": "CI",
+      "mean": "<p>the churning stick/rod of the moon used in creation.</p>सृष्टिकार्यमा  प्रयोग भएको जुनको मधानी ।"
+    },
+    "06498": {
+      "dId": "ᤗᤠ᤺ᤓᤪᤧ᤺ᤱ/ᤗᤠ᤺ᤓᤪᤧᤅ᤻",
+      "desc": "/लाःभ्रेःङ्/",
+      "group": "CI",
+      "mean": "<p>fortnight.</p>पक्ष; १५ औं दिन ।"
+    },
+    "06499": {
+      "dId": "ᤗᤠ᤺ᤓᤪᤧ᤺ᤱᤒᤠ/ᤗᤠ᤺ᤓᤪᤧᤅ᤻ᤒᤠ",
+      "desc": "/लाःभ्रेःङ्बा/",
+      "group": "CI",
+      "mean": "<p>fortnightly.</p>पाक्षिक ।"
+    },
+    "06500": {
+      "dId": "ᤗᤠ᤺ᤔᤠᤰᤔᤠ",
+      "desc": "/लाःमाक्मा/",
+      "group": "CI",
+      "mean": "<p>linar eclipse.</p>चन्द्रग्रहण ।"
+    },
+    "06501": {
+      "dId": "ᤗᤠ᤺ᤔᤡᤰ",
+      "desc": "/लाःमिक्/",
+      "group": "CI",
+      "mean": "<p>day of the month according to the lunar calendar.</p>तिथि ।"
+    },
+    "06502": {
+      "dId": "ᤗᤠ᤺ᤶᤛᤡᤰ/ᤗᤠᤔ᤻ᤛᤡᤰ",
+      "desc": "/लाःम्सिक्/",
+      "group": "CI",
+      "mean": "<p>sex; sensuality; libido; eroticism.</p>काम (वासना); कामुकता ।"
+    },
+    "06503": {
+      "dId": "ᤗᤠ᤺ᤶᤛᤡᤰ/ᤗᤠᤔ᤻ᤛᤡᤰᤌᤠᤱᤒᤠ/ᤔᤠ",
+      "desc": "/लाःम्सिक्थाङ्बा/मा/",
+      "group": "CI",
+      "mean": "<p>erotic; lustful; libidinous; sexy; sex-ridden.</p>कामातुर; कामुक; कामी; लम्पट ।"
+    },
+    "06504": {
+      "dId": "ᤗᤠ᤺ᤶᤛᤡᤰ/ᤗᤠᤔ᤻ᤛᤡᤰᤐᤠ/ᤔᤠ",
+      "desc": "/लाःम्सिक्पा/मा/",
+      "group": "CI",
+      "mean": "<p>erotic; lustful; libidinous; sexy.</p>कामुक ।"
+    },
+    "06505": {
+      "dId": "ᤗᤠ᤺ᤶᤛᤡᤰ/ᤗᤠᤔ᤻ᤛᤡᤰᤛᤠᤶ",
+      "desc": "/लाःम्सिक्साम्/",
+      "group": "CI",
+      "mean": "<p>Indian cupid; god of love.</p>कामदेव ।"
+    },
+    "06506": {
+      "dId": "ᤗᤠ᤺ᤕᤢ",
+      "desc": "/लाःयु/",
+      "group": "CI",
+      "mean": "<p>the period of waning moon; the dark half of the lunar fortnight.</p>कृष्णपक्ष ।"
+    },
+    "06507": {
+      "dId": "ᤗᤠ᤺ᤖᤠ᤺ᤰ/ᤗᤠᤖᤠᤁ᤻",
+      "desc": "/लाःराःक्/",
+      "group": "CI",
+      "mean": "<p>moonlight.</p>चन्द्रज्योति; जूनको उज्यालो ।"
+    },
+    "06508": {
+      "dId": "ᤗᤠ᤺ᤖᤡᤱᤃᤣᤰ",
+      "desc": "/लाःरिङ्गेक्/",
+      "group": "CI",
+      "mean": "<p>a term used while singing the “bhailo” song on the occasion of the Diwali-Balihang festival.</p>भैलो; राती खेलिने देउसी अथवा भैलो गाउँदा भनिने शब्द ।"
+    },
+    "06509": {
+      "dId": "ᤗᤠ᤺ᤖᤡᤱᤒᤠ",
+      "desc": "/लाःरिङ्बा/",
+      "group": "CI",
+      "mean": "<p>the second day of the lunar fortnight.</p>द्वितीया ।"
+    },
+    "06510": {
+      "dId": "ᤗᤠ᤺ᤀᤠᤣᤋᤡ ",
+      "desc": "/लाःओति/",
+      "group": "CI",
+      "mean": "<p>clip, a crescent-shaped ornament.</p>खुर्पे जून आकारको गहनाविशेष ।"
+    },
+    "06511": {
+      "dId": "ᤗᤠ᤺ᤘᤠ",
+      "desc": "/लाःवा/",
+      "group": "CI",
+      "mean": "<p>matter; substance.</p>पदार्थ ।"
+    },
+    "06512": {
+      "dId": "ᤗᤠ᤺ᤘᤠᤒᤠ",
+      "desc": "/लाःवाबा/",
+      "group": "CI",
+      "mean": "<p>material; substantial.</p>भौतिक; पादार्थिक ।"
+    },
+    "06513": {
+      "dId": "ᤗᤠ᤺ᤘᤠᤈᤡ᤺ᤰ/ᤗᤠ᤺ᤘᤠᤈᤡᤁ᤻",
+      "desc": "/लाःवाजिःक्/",
+      "group": "CI",
+      "mean": "<p>science of matter; physics.</p>भौतिक/पदार्थविद्या (शास्त्र) ।"
+    },
+    "06514": {
+      "dId": "ᤗᤠ᤺ᤘᤧᤰᤐᤠ",
+      "desc": "/लाःवेक्पा/",
+      "group": "CI",
+      "mean": "<p>the fourth day of the lunar fortnight.</p>चतुर्थी ।"
+    },
+    "06515": {
+      "dId": "ᤗᤠ᤺ᤘᤧᤶᤒᤠ",
+      "desc": "/लाःवेम्बा/",
+      "group": "CI",
+      "mean": "<p>the eleventh day of the lunar fortnight.</p>एकादशी ।"
+    },
+    "06516": {
+      "dId": "ᤗᤠ᤺ᤛᤠᤱᤕᤧᤵ",
+      "desc": "/लाःसाङ्येप्/",
+      "group": "CI",
+      "mean": "<p>the fourteenth day of the lunar fortnight.</p>चतुर्दशी ।"
+    },
+    "06517": {
+      "dId": "ᤗᤠ᤺ᤛᤠᤖᤡ ",
+      "desc": "/लाःसारि/",
+      "group": "CI",
+      "mean": "<p>a holy water pot or vessel with water and flowers installed on the left side at the time fo worship.</p>पूजा गर्दा स्थापना गरिने फूलका थुँगायुक्त कलशमध्ये बायाँतिरको कलश ।"
+    },
+    "06518": {
+      "dId": "ᤗᤠ᤺ᤛᤠ᤺ᤱ/ᤗᤠ᤺ᤛᤠᤅ᤻",
+      "desc": "/लाःसाःङ्/",
+      "group": "CI",
+      "mean": "<p>moonbeam/ray of the moonlight.</p>चन्द्रकिरण ।"
+    },
+    "06519": {
+      "dId": "ᤗᤠ᤺ᤛᤡᤱ",
+      "desc": "/लाःसिङ्/",
+      "group": "CI",
+      "mean": "<p>rotation of the moon.</p>चन्द्रमान; चन्द्रमाको गति ।"
+    },
+    "06520": {
+      "dId": "ᤗᤠ᤺ᤛᤡ᤺ᤒᤠ",
+      "desc": "/लाःसिःबा/",
+      "group": "CI",
+      "mean": "<p>the new moon; the last day of the dark half of the month.</p>औंसी ।"
+    },
+    "06521": {
+      "dId": "ᤗᤠ᤺ᤛᤢᤃᤰᤐᤠ",
+      "desc": "/लाःसुगक्पा/",
+      "group": "CI",
+      "mean": "<p>the sixth day of the lunar fortnight.</p>षष्ठी ।"
+    },
+    "06522": {
+      "dId": "ᤗᤠ᤺ᤛᤧᤔᤡ ",
+      "desc": "/लाःसेमि/",
+      "group": "CI",
+      "mean": "<p>the earthenware lamp to be lit on the left side at the time of worship.</p>पूजामा, बायाँतर्फ बालिने बत्ती दीप वा दीयो ।"
+    },
+    "06523": {
+      "dId": "ᤗᤠ᤺ᤛᤡ ",
+      "desc": "/लाःसि/",
+      "group": "CI",
+      "mean": "<p>1. (of the loom) comb. 2. the rope to balance the scales.</p>१. (तानको) काइँयो । २. तराजुको डोरश्र (डन्डीमा झुन्ड्याउने) ।"
+    }
+  }
+}

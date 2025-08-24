@@ -1,0 +1,820 @@
+{
+  "Dic": {
+    "05254": {
+      "dId": "ᤔᤡ ",
+      "desc": "/मि/",
+      "group": "BY",
+      "mean": "<p>fire.</p>आगो ।"
+    },
+    "05255": {
+      "dId": "ᤔᤡᤋᤡᤰᤔᤠ",
+      "desc": "/मितिक्मा/",
+      "group": "BY",
+      "mean": "<p>to burnt up; to become scorched.</p>डढ्नु ।"
+    },
+    "05256": {
+      "dId": "ᤔᤡᤋᤢᤶᤔᤠ",
+      "desc": "/मितुप्मा/",
+      "group": "BY",
+      "mean": "<p>to blow up a fire; to light a fire (by blowing).</p>आगो फुक्नु; (फुकेर) आगो सल्काउनु ।"
+    },
+    "05257": {
+      "dId": "ᤔᤡᤌᤡᤰᤔᤠ",
+      "desc": "/मिथिक्मा/",
+      "group": "BY",
+      "mean": "<p>to set sth on fire/ablaze; to brunt/singe/scorch/kindle/light sth.</p>आगो लगाउनु; पोल्नु; डढाउनु; बाल्नु; सल्काउनु ।"
+    },
+    "05258": {
+      "dId": "ᤔᤡᤌᤡᤶᤔᤠ",
+      "desc": "/मिथिम्मा/",
+      "group": "BY",
+      "mean": "<p>to blow fire and make it ablaze.</p>आगो फूफू फुकेर हुर्र बाल्नु ।"
+    },
+    "05259": {
+      "dId": "ᤔᤡᤑᤰᤔᤠ",
+      "desc": "/मिफक्मा/",
+      "group": "BY",
+      "mean": "<p>(of fire) to flick.</p>छरिएर वा उछिट्टिएर आगो जानु; आगोको झिल्को उछिट्टिनु ।"
+    },
+    "05260": {
+      "dId": "ᤔᤡᤔᤢᤵᤔᤠ",
+      "desc": "/मिमुप्मा/",
+      "group": "BY",
+      "mean": "<p>to blow fire; to kindle a fire by blowing.</p>आगो फुक्नु ।"
+    },
+    "05261": {
+      "dId": "ᤔᤡᤕᤠᤰᤔᤠ",
+      "desc": "/मियाक्मा/",
+      "group": "BY",
+      "mean": "<p>to commit arson/fire-raising; to set fire to sth; to set (sth) on fire.</p>आगो लगाउनु; आगलागी/आगजनी गर्नु; डढेलो लगाउनु ।"
+    },
+    "05262": {
+      "dId": "ᤔᤡᤗᤠ᤺ᤵᤔᤠ/ᤔᤡᤗᤠᤐ᤻ᤔᤠ",
+      "desc": "/मिलाःप्मा/",
+      "group": "BY",
+      "mean": "<p>to catch fire; to have conflagration.</p>आगलागी हुनु; डढेलो लाग्नु ।"
+    },
+    "05263": {
+      "dId": "ᤔᤡᤛᤧᤵᤔᤠ",
+      "desc": "/मिसेप्मा/",
+      "group": "BY",
+      "mean": "<p>to put out/extinguish a fire.</p>आगो निभाउनु ।"
+    },
+    "05264": {
+      "dId": "ᤔᤡᤜᤠ᤺ᤶᤔᤠ/ᤔᤡᤜᤠᤔ᤻ᤔᤠ",
+      "desc": "/मिहाःम्मा/",
+      "group": "BY",
+      "mean": "<p>to kindle (a fire); to shift burning firebrands to kindle a fire elsewhere.</p>बलेको आगो अन्यत्र सार्नु; अर्को ठाउँमा आगो सल्काउनु वा दन्काउन बल्दै गरेको आगो सार्नु ।"
+    },
+    "05265": {
+      "dId": "ᤔᤡᤈᤡᤖᤡᤒᤠ",
+      "desc": "/मिजिरिबा/",
+      "group": "BY",
+      "mean": "<p>fiery; furious; flaming.</p>आगो झैं देखिने (स्वभावको); रन्कने ।"
+    },
+    "05266": {
+      "dId": "ᤔᤡ᤹ᤗᤡᤱ",
+      "desc": "/मि?लिङ्/",
+      "group": "BY",
+      "mean": "<p>last year.</p>पोहोर (साल) ।"
+    },
+    "05267": {
+      "dId": "ᤔᤡᤰ",
+      "desc": "/मिक्/",
+      "group": "BY",
+      "mean": "<p>eye.</p>आँखा ।"
+    },
+    "05268": {
+      "dId": "ᤔᤡᤰᤁᤧᤗᤧᤰᤐᤠ",
+      "desc": "/मिक्केलेक्पा/",
+      "group": "BY",
+      "mean": "<p>(adj.) deceitful; fraudulent. (n.) juggler; magician; sorcerer; trickster.</p>(वि.) छली; छल गर्ने (ठग) । (ना.) जादुगर; चटकी ।"
+    },
+    "05269": {
+      "dId": "ᤔᤡᤰᤗᤠᤱ",
+      "desc": "/मिक्लाङ्/",
+      "group": "BY",
+      "mean": "<p>wink(ing) eye; gesture.</p>आँखाको इशारा ।"
+    },
+    "05270": {
+      "dId": "ᤔᤡᤰᤛᤠ᤺ᤰ/ᤔᤡᤰᤛᤠᤁ᤻",
+      "desc": "/मिक्साःक्/",
+      "group": "BY",
+      "mean": "<p>rheum; eye-dirt.</p>कचेरा ।"
+    },
+    "05271": {
+      "dId": "ᤔᤡᤰ ᤋᤢᤰᤔᤠ",
+      "desc": "/मिक् तुक्मा/",
+      "group": "BY",
+      "mean": "<p>1. (of eyes) to ache/strain. 2. to be envious/jealous of.</p>१. आँखा दुख्नु । २. डाह गर्नु ।"
+    },
+    "05272": {
+      "dId": "ᤔᤡᤰᤕᤠ᤺ᤔᤠ",
+      "desc": "/मिक् याःमा/",
+      "group": "BY",
+      "mean": "<p>to be horrified; to be unable to look at (due to panic).</p>झस्कनु; तर्सनु; (डरले) हेरिनसक्नु ।"
+    },
+    "05273": {
+      "dId": "ᤔᤡᤰᤁᤠᤱᤒᤠ",
+      "desc": "/मिक्काङ्बा/",
+      "group": "BY",
+      "mean": "<p>bull-eyed.</p>गोरुआँखे; गोरुको झैं ठूलाठूला आँखा भएको ।"
+    },
+    "05274": {
+      "dId": "ᤔᤡᤰᤋᤧᤵᤋᤧᤵ",
+      "desc": "/मिक्तेप्तेप्/",
+      "group": "BY",
+      "mean": "<p>the state of being made invisible; invisibility.</p>नदेखिने पारिएको अवस्था; अदृश्य पारिएको स्थिति ।"
+    },
+    "05275": {
+      "dId": "ᤔᤡᤰᤌᤠᤶᤒᤣ",
+      "desc": "/मिक्थाम्बे/",
+      "group": "BY",
+      "mean": "<p>glimpse.</p>झझल्को ।"
+    },
+    "05276": {
+      "dId": "ᤔᤡᤰᤏᤡᤍᤢᤶ",
+      "desc": "/मिक्निदुम्/",
+      "group": "BY",
+      "mean": "<p>seeing/looking at each other.</p>हेराहेर; देखादेख ।"
+    },
+    "05277": {
+      "dId": "ᤔᤡᤰᤐᤱᤘᤠ",
+      "desc": "/मिक्पङ्वा/",
+      "group": "BY",
+      "mean": "<p>pleasant; (of scene) beautiful; eye catching; feast for eyes.</p>रमाइलो (आँखाको रमझम) ।"
+    },
+    "05278": {
+      "dId": "ᤔᤡᤰᤑᤱᤒᤠ",
+      "desc": "/मिक्फङ्बा/",
+      "group": "BY",
+      "mean": "<p>1. blind. 2. puzzling.</p>१. अन्धो । २. जिल्ल वा अलमल्ल पर्ने खालको ।"
+    },
+    "05279": {
+      "dId": "ᤔᤡᤰᤑᤣᤰᤐᤠ",
+      "desc": "/मिक्फेक्पा/",
+      "group": "BY",
+      "mean": "<p>1. blind. 2. (one) who cannot see well though he has eyes (a term of rebuke used for one who make a mess of things).</p>१. अन्धो । २. आँखा भएपनि फुटेझैं नदेख्ने (अक्सर काम बिगार्दा गाली गर्ने शब्द) ।"
+    },
+    "05280": {
+      "dId": "ᤔᤡᤰᤁᤠᤵ",
+      "desc": "/मिक्काप्/",
+      "group": "BY",
+      "mean": "<p>spectacles; eyeglasses.</p>चस्मा ।"
+    },
+    "05281": {
+      "dId": "ᤔᤡᤰᤁᤡ ",
+      "desc": "/मिक्कि/",
+      "group": "BY",
+      "mean": "<p>life; existence.</p>जीवन ।"
+    },
+    "05282": {
+      "dId": "ᤔᤡᤰᤁᤡᤑᤢᤱ",
+      "desc": "/मिक्किफुङ्/",
+      "group": "BY",
+      "mean": "<p>youth.</p>बैंस ।"
+    },
+    "05283": {
+      "dId": "ᤔᤡᤰᤁᤡᤛᤠᤣ",
+      "desc": "/मिक्किसो/",
+      "group": "BY",
+      "mean": "<p>love; bondage of love.</p>मायापिरती ।"
+    },
+    "05284": {
+      "dId": "ᤔᤡᤰᤂᤢᤱ(ᤒᤠ)",
+      "desc": "/मिक्खुङ्(बा)/",
+      "group": "BY",
+      "mean": "<p>eyebrow.</p>आँखिभौ ।"
+    },
+    "05285": {
+      "dId": "ᤔᤡᤰᤂᤠᤣᤍᤡᤱᤔᤠ",
+      "desc": "/मिक्खोदिङ्मा/",
+      "group": "BY",
+      "mean": "<p>to look angrily/with distrust or disapproval.</p>आँखा ठूलो पार्नु; आँखा तर्नु/काढ्नु; रिसाउनु; रिसले हेर्नु; कड्के नजरले हेर्नु । "
+    },
+    "05286": {
+      "dId": "ᤔᤡᤰᤂᤠᤣᤗᤡ ",
+      "desc": "/मिक्खोलि/",
+      "group": "BY",
+      "mean": "<p>chimney; smoke-stack.</p>चिम्नी; धूवाँ जाने बाटो ।"
+    },
+    "05287": {
+      "dId": "ᤔᤡᤰᤂᤠᤣᤰ",
+      "desc": "/मिक्खोक्/",
+      "group": "BY",
+      "mean": "<p>skull.</p>खोपडी ।"
+    },
+    "05288": {
+      "dId": "ᤔᤡᤰᤂᤠᤣ᤺ᤴᤍᤡ/ᤔᤡᤰᤂᤠᤣᤏ᤻ᤍᤡ ",
+      "desc": "/मिक्खोःन्दि/",
+      "group": "BY",
+      "mean": "<p>a male dancer dressed up as a female in Nepalese folk dance.</p>मारुनी ।"
+    },
+    "05289": {
+      "dId": "ᤔᤡᤰᤆᤠᤖᤠᤵ",
+      "desc": "/मिक्चाराप्/",
+      "group": "BY",
+      "mean": "<p>with/after a momentary appearance/glimpse; at a glance.</p>झलक्क/झुलुक्क; पलभर देखिने गरी ।"
+    },
+    "05290": {
+      "dId": "ᤔᤡᤰᤆᤡ ",
+      "desc": "/मिक्चि/",
+      "group": "BY",
+      "mean": "<p>rheum; eye-dirt; gummy secretion of the eyes; dried excretion; secretions and dirt around the eyes.</p>चिप्रा; कचेरा ।"
+    },
+    "05291": {
+      "dId": "ᤔᤡᤰᤆᤡᤃᤣ᤺ᤰ/ᤔᤡᤰᤆᤡᤃᤣᤁ᤻",
+      "desc": "/मिक्चिगेक्/",
+      "group": "BY",
+      "mean": "<p>[Tamor]  eye-mucus.</p>[तमर] कचेरा ।"
+    },
+    "05292": {
+      "dId": "ᤔᤡᤰᤆᤠᤣ",
+      "desc": "/मिक्चो/",
+      "group": "BY",
+      "mean": "<p>1. look. 2. exhibition; show.</p>१. दृष्टि । २. प्रदर्शनी ।"
+    },
+    "05293": {
+      "dId": "ᤔᤡᤰᤈᤡᤖᤡ ᤑᤢᤱ",
+      "desc": "/मिक्जिरि फुङ्/",
+      "group": "BY",
+      "mean": "<p>a kind of wild flower offered to a cropse.</p>लाशमा चढाइने एक प्रकारको जङ्गली फूल ।"
+    },
+    "05294": {
+      "dId": "ᤔᤡᤰᤋᤠᤣ᤺ᤰ/ᤔᤡᤰᤋᤠᤣᤁ᤻",
+      "desc": "/मिक्तोःक्/",
+      "group": "BY",
+      "mean": "<p>memory; remembrance; reminiscence.</p>सम्झना; याद ।"
+    },
+    "05295": {
+      "dId": "ᤔᤡᤰᤌᤠ᤺ᤶᤒᤣ/ᤔᤡᤰᤌᤠᤔ᤻ᤒᤣ",
+      "desc": "/मिक्थाःम्बे/",
+      "group": "BY",
+      "mean": "<p>glimpse of recollection; rememberance; likeness.</p>झझल्को; भ्रम; भान ।"
+    },
+    "05296": {
+      "dId": "ᤔᤡᤰᤌᤢᤶᤒᤠ",
+      "desc": "/मिक्थुम्बा/",
+      "group": "BY",
+      "mean": "<p>oak tree. Qurecus lamellosa.</p>बज्राँठ ।"
+    },
+    "05297": {
+      "dId": "ᤔᤡᤰᤐᤣ",
+      "desc": "/मिक्पे/",
+      "group": "BY",
+      "mean": "<p>1. sign; mark. 2. souvenir, memorial.</p>१. चिन्ह; दाग । २. चिनो (सम्झनाको) । "
+    },
+    "05298": {
+      "dId": "ᤔᤡᤰᤗᤠ",
+      "desc": "/मिक्ला/",
+      "group": "BY",
+      "mean": "<p>a kind of bamboo; reed. <i>Arundinaria racemosa.</i></p>मालिङ्गो ।"
+    },
+    "05299": {
+      "dId": "ᤔᤡᤰᤗᤢᤱ",
+      "desc": "/मिक्लुङ्/",
+      "group": "BY",
+      "mean": "<p>sound/sufficient sleep.</p>मस्त निद्रा; पुग्दो निद्रा; पूर्ण निद्रा ।"
+    },
+    "05300": {
+      "dId": "ᤔᤡᤰᤘᤠ",
+      "desc": "/मिक्वा/",
+      "group": "BY",
+      "mean": "<p>tears (eye-water).</p>आँशु  ।"
+    },
+    "05301": {
+      "dId": "ᤔᤡᤰᤘᤠ ᤛᤠ᤺ᤱᤔᤠ/ᤛᤠᤅ᤻ᤔᤠ",
+      "desc": "/मिक्वा साःङ्मा/",
+      "group": "BY",
+      "mean": "<p>1. a ritual, held in the evening of the last day of purification, of wiping out tears of the bereaved family members. 2. to wipe sb’s tears. 3. to hold the ritual of wiping the tears on the last day of purification.</p>१. मृतकको घरमा शुद्ध्याँइको कर्म समाप्त भएको बेलुकी (मृतकको परिवारका जीवित सदस्यहरुको आँसु पुछिदिन) गरिने संस्कार । २. आँसु पुछिदिनु । ३. मृत्युसंस्कार विधिको अन्तमा आँसु पुछिदिने अनुष्ठान गर्नु ।"
+    },
+    "05302": {
+      "dId": "ᤔᤡᤰᤘᤧᤱᤛᤡ ",
+      "desc": "/मिक्वेङ्सि/",
+      "group": "BY",
+      "mean": "<p>eye-lid.</p>आँखाको ढकनी; पलक ।"
+    },
+    "05303": {
+      "dId": "ᤔᤡᤰᤛᤠ",
+      "desc": "/मिक्सा/",
+      "group": "BY",
+      "mean": "<p>1. magic. 2. sleight-of-hand; juggling; charm; trick; deception.</p>१. जादु । २. हातको सफाइ; चलाकी ।"
+    },
+    "05304": {
+      "dId": "ᤔᤡᤰᤛᤠᤱ",
+      "desc": "/मिक्साङ्/",
+      "group": "BY",
+      "mean": "<p>eye-lash.</p>परेला ।"
+    },
+    "05305": {
+      "dId": "ᤔᤡᤰᤛᤡᤶ",
+      "desc": "/मिक्सिम्/",
+      "group": "BY",
+      "mean": "<p>(a way of) winking/blinking.</p>आँखाझिम्क्याइ; आँखाझिम्क्याइको एक उपक्रम/किसिम ।"
+    },
+    "05306": {
+      "dId": "ᤔᤡᤰᤛᤡᤶᤔᤠ",
+      "desc": "/मिक्सिम्मा/",
+      "group": "BY",
+      "mean": "<p>to look askance at; to look sideways at.</p>आँखा पल्टाएर हेर्नु; आँखा फर्काएर हेर्नु; लेब्रो पारेर हेर्नु ।"
+    },
+    "05307": {
+      "dId": "ᤔᤡᤰᤛᤡᤖᤵ",
+      "desc": "/मिक्सिराप्/",
+      "group": "BY",
+      "mean": "<p>blink/wink(ing).</p>आँखाझिम्क्याइ ।"
+    },
+    "05308": {
+      "dId": "ᤔᤡᤰᤛᤢᤰ",
+      "desc": "/मिक्सुक्/",
+      "group": "BY",
+      "mean": "<p>eyesight/vision.</p>दृष्टि शक्ति ।"
+    },
+    "05309": {
+      "dId": "ᤔᤡᤰᤛᤢᤱ",
+      "desc": "/मिक्सुङ्/",
+      "group": "BY",
+      "mean": "<p>soot.</p>ध्वाँसो ।"
+    },
+    "05310": {
+      "dId": "ᤔᤡᤰᤛᤢᤶᤒᤠ",
+      "desc": "/मिक्सुम्बा/",
+      "group": "BY",
+      "mean": "<p>[Phedape] blind.</p>[फेदापे] अन्धो ।"
+    },
+    "05311": {
+      "dId": "ᤔᤡᤰᤛᤢᤖᤡ ",
+      "desc": "/मिक्सुरि/",
+      "group": "BY",
+      "mean": "<p>drowsy/sleepy eyes.</p>निदौरा आँखा ।"
+    },
+    "05312": {
+      "dId": "ᤔᤡᤰᤛᤢᤖᤧᤶ",
+      "desc": "/मिक्सुरेम्/",
+      "group": "BY",
+      "mean": "<p>in a winking/blinking manner (eyeing sth); looking drowsily/longingly.amorously at sth.</p>आँखा लोलाउने किसिमले; झिमझिम, चिमचिम पाराले ।"
+    },
+    "05313": {
+      "dId": "ᤔᤡᤰᤛᤢᤘᤠ ᤑᤧᤰᤔᤠ",
+      "desc": "/मिक्सुवा फेक्मा/",
+      "group": "BY",
+      "mean": "<p>a kind of fern, its leaves are used to roll and dry yeast-cakes.</p>एक प्रकारको उन्यू, मर्चा बनाउदा जसको पातमा मर्चाको पिठो बेरेर सुकाइन्छ । "
+    },
+    "05314": {
+      "dId": "ᤔᤡᤰᤛᤣ᤹",
+      "desc": "/मिक्से?/",
+      "group": "BY",
+      "mean": "<p>apple. <i>Malus sylvestris.</i></p>स्याउ ।"
+    },
+    "05315": {
+      "dId": "ᤔᤡᤰᤛᤣ᤺ᤰ/ᤔᤡᤰᤛᤣᤁ᤻",
+      "desc": "/मिक्सेःक्/",
+      "group": "BY",
+      "mean": "<p>project.</p>आयोजना ।"
+    },
+    "05316": {
+      "dId": "ᤔᤡᤰᤛᤣ᤺ᤴ/ᤔᤡᤰᤛᤣᤏ᤻",
+      "desc": "/मिक्सेःन्/",
+      "group": "BY",
+      "mean": "<p>1. mole; mark; sesamum; spot; sigh. 2. signal; sign; symbol; gesture. 3. introduction.</p>१. कोठी; दाग । २. सङ्केत; चिन्ह । ३. परिचय ।"
+    },
+    "05317": {
+      "dId": "ᤔᤡᤰᤛᤠᤣᤀᤡ᤺ᤳ/ᤔᤡᤰᤛᤠᤣᤀᤡᤋ᤻",
+      "desc": "/मिक्सोइःत्/",
+      "group": "BY",
+      "mean": "<p>memorial.</p>स्मारक ।"
+    },
+    "05318": {
+      "dId": "ᤔᤡᤰᤜᤠᤱᤒᤠ",
+      "desc": "/मिक्हाङ्बा/",
+      "group": "BY",
+      "mean": "<p>1. the planet Mars. 2. Tuesday.</p>१. मङ्गल ग्रह । २. मङ्गलबार ।"
+    },
+    "05319": {
+      "dId": "ᤔᤡᤰᤜᤠᤱᤔᤠ",
+      "desc": "/मिक्हाङ्मा/",
+      "group": "BY",
+      "mean": "<p>pupil (of the eye); the apple of sb’s eye.</p>आँखाको  नानी ।"
+    },
+    "05320": {
+      "dId": "ᤔᤡᤃᤠ᤺ᤱᤘᤠ/ᤔᤡᤃᤠᤅ᤻ᤘᤠ",
+      "desc": "/मिगाःङ्वा/",
+      "group": "BY",
+      "mean": "<p>burning charcoal.</p>बलेको अङ्गार ।"
+    },
+    "05321": {
+      "dId": "ᤔᤡᤃᤣ᤺ᤳ/ᤔᤡᤃᤣᤋ᤻",
+      "desc": "/मिगेःत्/",
+      "group": "BY",
+      "mean": "<p>destructive (house) fire; conflagration.</p>आगलागी; आगो लगाउने काम ।"
+    },
+    "05322": {
+      "dId": "ᤔᤡᤃᤣ᤺ᤵᤔᤠ/ᤔᤡᤃᤣᤐ᤻ᤔᤠ",
+      "desc": "/मिगेःप्मा/",
+      "group": "BY",
+      "mean": "<p>to incinerate; to set fire to sth; to set (sth) on fire.</p>आगो लगाउनु ।"
+    },
+    "05323": {
+      "dId": "ᤔᤡᤄ᤺ᤶᤒᤠ/ᤔᤡᤄᤔ᤻ᤒᤠ",
+      "desc": "/मिघःम्बा/",
+      "group": "BY",
+      "mean": "<p>ember; smouldering fire; (char) coal.</p>भुङ्ग्रो; भुप्रो ।"
+    },
+    "05324": {
+      "dId": "ᤔᤡᤄ᤺ᤶᤒᤣ/ᤔᤡᤄᤔ᤻ᤒᤣ",
+      "desc": "/मिघःम्बे/",
+      "group": "BY",
+      "mean": "<p>a burning piece of firebrand thrust into the smouldering ashes to keep the fire on.</p>आगोको माउ (बीउ) राख्न भुङ्ग्रोमा घुसारिएको आोगसहितको अगुल्टो ।"
+    },
+    "05325": {
+      "dId": "ᤔᤡᤄᤠ᤺ᤰ/ᤔᤡᤄᤠᤁ᤻",
+      "desc": "/मिघाःक्/",
+      "group": "BY",
+      "mean": "<p>ember; (char) coal.</p>गोल; कोइला ।"
+    },
+    "05326": {
+      "dId": "ᤔᤡᤄᤠ᤺ᤱ/ᤔᤡᤄᤠᤅ᤻",
+      "desc": "/मिघाःङ्/",
+      "group": "BY",
+      "mean": "<p>blowing fire; burning (char) coal.</p>तातो वा बलेको अङ्गार ।"
+    },
+    "05327": {
+      "dId": "ᤔᤡᤄᤢ᤺ᤔᤠ",
+      "desc": "/मिघुःमा/",
+      "group": "BY",
+      "mean": "<p>smoke; fume; reek.</p>धुवाँ ।"
+    },
+    "05328": {
+      "dId": "ᤔᤡᤄᤠᤣ᤺ᤰ/ᤔᤡᤄᤠᤣᤁ᤻",
+      "desc": "/मिघोःक्/",
+      "group": "BY",
+      "mean": "<p>skull.</p>खोपडी ।"
+    },
+    "05329": {
+      "dId": "ᤔᤡᤱ",
+      "desc": "/मिङ्/",
+      "group": "BY",
+      "mean": "<p>name; noun.</p>नाम; संज्ञा ।"
+    },
+    "05330": {
+      "dId": "ᤔᤡᤱᤃᤳ",
+      "desc": "/मिङ्गत्/",
+      "group": "BY",
+      "mean": "<p>respectable; honourable; dignity; decorum.</p>सम्मानजनक ।"
+    },
+    "05331": {
+      "dId": "ᤔᤡᤱᤃᤠᤶ",
+      "desc": "/मिङ्गाम्/",
+      "group": "BY",
+      "mean": "<p>co-ordinate conjunction. et- nu, ang (and, so, also, as well as).</p>संयोजक, निरपेक्षक संयोजक जस्तै- नु, आङ् (तथा, र, पनि, समेत) ।"
+    },
+    "05332": {
+      "dId": "ᤔᤡᤱᤏᤠ᤺ᤳ/ᤔᤡᤱᤏᤠᤋ᤻",
+      "desc": "/मिङ्नाःत्/",
+      "group": "BY",
+      "mean": "<p>list; register.</p>सूची; बहीखाता ।"
+    },
+    "05333": {
+      "dId": "ᤔᤡᤱᤒᤡ᤹ᤛᤠᤣ",
+      "desc": "/मिङ्बि?सो/",
+      "group": "BY",
+      "mean": "<p>honorary (not paid).</p>मानार्थ; मानको खातिर (अवैतानिक रूपमा) ।"
+    },
+    "05334": {
+      "dId": "ᤔᤡᤱᤗᤠ",
+      "desc": "/मिङ्ला/",
+      "group": "BY",
+      "mean": "<p>good reputation; good name and fame.</p>सुनाम; यश ।"
+    },
+    "05335": {
+      "dId": "ᤔᤡᤱᤗᤧᤰ",
+      "desc": "/मिङ्लेक्/",
+      "group": "BY",
+      "mean": "<p>pronoun.</p>सर्वनाम ।"
+    },
+    "05336": {
+      "dId": "ᤔᤡᤱᤘᤠ",
+      "desc": "/मिङ्वा/",
+      "group": "BY",
+      "mean": "<p>sadness; gloom; gloominess; melancholy; dejection.</p>उदासी ।"
+    },
+    "05337": {
+      "dId": "ᤔᤡᤱᤘᤠᤒᤠ",
+      "desc": "/मिङ्वाबा/",
+      "group": "BY",
+      "mean": "<p>sad; gloomy; melancholic; dejected.</p>उदास ।"
+    },
+    "05338": {
+      "dId": "ᤔᤡᤱᤛᤣ᤺ᤰ/ᤔᤡᤱᤛᤣᤁ᤻",
+      "desc": "/मिङ्सेःक्/",
+      "group": "BY",
+      "mean": "<p>nomination.</p>मनोनयन ।"
+    },
+    "05339": {
+      "dId": "ᤔᤡᤱᤛᤠᤣ",
+      "desc": "/मिङ्सो/",
+      "group": "BY",
+      "mean": "<p>honor; glory; reputation; (name and) fame; celebrity.</p>इज्जत; यश; सुनाम; मर्यादा; कीर्ति ।"
+    },
+    "05340": {
+      "dId": "ᤔᤡᤱᤛᤠᤣᤛᤰ",
+      "desc": "/मिङ्सोसक्/",
+      "group": "BY",
+      "mean": "<p>certificate; diploma; degree.</p>प्रमाणपत्र ।"
+    },
+    "05341": {
+      "dId": "ᤔᤡᤱᤛᤪᤠ",
+      "desc": "/मिङ्स्रा/",
+      "group": "BY",
+      "mean": "<p>1. original caste; clan/family/first name. 2. clan; tribe; family.</p>१. मूल थर; वंशगत नाम । २. कुल; गोत्र ।"
+    },
+    "05342": {
+      "dId": "ᤔᤡᤇᤠᤰ",
+      "desc": "/मिछाक्/",
+      "group": "BY",
+      "mean": "<p>a little; a few.</p>थोरै; कम; अलि; अलिक; अलिकति । "
+    },
+    "05343": {
+      "dId": "ᤔᤡᤇᤡᤳ",
+      "desc": "/मिछित्/",
+      "group": "BY",
+      "mean": "<p>a very little (in quantity); very small quantity.</p>थोरै मात्र; किञ्चित; चुसुक्क । "
+    },
+    "05344": {
+      "dId": "ᤔᤡᤈᤠ᤹ᤔᤠ",
+      "desc": "/मिजा?मा/",
+      "group": "BY",
+      "mean": "<p>to warm up by fire.</p>आगो ताप्नु ।"
+    },
+    "05345": {
+      "dId": "ᤔᤡᤈᤠᤰ",
+      "desc": "/मिजाक्/",
+      "group": "BY",
+      "mean": "<p>steel used for striking on flint.</p>चकमक ।"
+    },
+    "05346": {
+      "dId": "ᤔᤡᤈᤡᤰ",
+      "desc": "/मिजिक्/",
+      "group": "BY",
+      "mean": "<p>ash-tray.</p>खरानीदानी ।"
+    },
+    "05347": {
+      "dId": "ᤁᤡᤈᤢᤰᤏᤠ",
+      "desc": "/मिजुक्ना/",
+      "group": "BY",
+      "mean": "<p>tinder; any chip or dry leaf used to catch the sparks of fire produced when steel  is struck on flint.</p>झुलो; चकमक र दर्शनढुङ्गा घोट्दा निस्कने आगोको झिल्को टिप्न प्रयोग गरिने सुकेको झुरो ।"
+    },
+    "05348": {
+      "dId": "ᤔᤡᤈᤡᤖᤡ ",
+      "desc": "/मिजिरि/",
+      "group": "BY",
+      "mean": "<p>a kind of bird.</p>झिरझिरे चरो ।"
+    },
+    "05349": {
+      "dId": "ᤔᤡᤈᤠᤣ᤺ᤳ/ᤔᤡᤈᤠᤣᤋ᤻",
+      "desc": "/मिजोःत्/",
+      "group": "BY",
+      "mean": "<p>1. flame (of a fire). 2. flame(s); torch.</p>१. (आगोको) ज्वाला । २. राँको; मसाल ।"
+    },
+    "05350": {
+      "dId": "ᤔᤡᤳᤇᤣ᤹",
+      "desc": "/मित्छे?/",
+      "group": "BY",
+      "mean": "<p>a red-black seed; it is used in weighting gold and is equivalent to one ‘rati’. <i>Abrus precatorius.</i></p>लालगेडी; सुन जोख्न रत्तीको नापोको लागि प्रयोग हुने गेडा ।"
+    },
+    "05351": {
+      "dId": "ᤔᤡᤳᤋᤡᤱ",
+      "desc": "/मित्तिङ्/",
+      "group": "BY",
+      "mean": "<p>anxiety; worry.</p>सुर्ता ।"
+    },
+    "05352": {
+      "dId": "ᤔᤡᤍᤠᤳ",
+      "desc": "/मिदत्/",
+      "group": "BY",
+      "mean": "<p>[Tamor] live coals and ashes in the bed of fire.</p>[तमर] भुप्रो ।"
+    },
+    "05353": {
+      "dId": "ᤔᤡᤍᤖᤣ",
+      "desc": "/मिदरे/",
+      "group": "BY",
+      "mean": "<p>1. (astro) comet. 2. a kind of magpie bird with a beautiful long-tail. Corvidae.</p>१. धूमकेतु । २. लाम्पुछ्रे चरो ।"
+    },
+    "05354": {
+      "dId": "ᤔᤡᤍᤡᤱᤒᤠ",
+      "desc": "/मिदिङ्बा/",
+      "group": "BY",
+      "mean": "<p>a kind of Xanthoxylum.</p>बोके टिमुर ।"
+    },
+    "05355": {
+      "dId": "ᤁᤡᤎᤰᤐᤢ",
+      "desc": "/मिधक्पु/",
+      "group": "BY",
+      "mean": "<p>fire brand; a burning log.</p>अगुल्टो ।"
+    },
+    "05356": {
+      "dId": "ᤔᤡᤎᤢᤱ",
+      "desc": "/मिधुङ्/",
+      "group": "BY",
+      "mean": "<p>flame (of fire).</p>ज्वाला ।"
+    },
+    "05357": {
+      "dId": "ᤔᤡᤏᤡ ",
+      "desc": "/मिनि/",
+      "group": "BY",
+      "mean": "<p>kid; a baby/young goat.</p>बाख्राको पाठा/पाठी ।"
+    },
+    "05358": {
+      "dId": "ᤔᤡᤏᤡᤔᤠ",
+      "desc": "/मिनिमा/",
+      "group": "BY",
+      "mean": "<p>kitten; young/baby cat.</p>बिरालोको बच्चा ।"
+    },
+    "05359": {
+      "dId": "ᤔᤡᤴᤍᤣ",
+      "desc": "/मिन्दे/",
+      "group": "BY",
+      "mean": "<p>epidemic; pestilence.</p>महामारी; देसान ।"
+    },
+    "05360": {
+      "dId": "ᤔᤡᤒᤢᤱ",
+      "desc": "/मिबुङ्/",
+      "group": "BY",
+      "mean": "<p>a piece of burning wood; firebrand.</p>अगुल्टो; पुल्ठो ।"
+    },
+    "05361": {
+      "dId": "ᤔᤡᤓ᤺ᤳᤋᤧ/ᤔᤡᤓᤋ᤻ᤋᤧ",
+      "desc": "/मिभःत्ते/",
+      "group": "BY",
+      "mean": "<p>blowing pipe (of bamboo).</p>सोते; आगो फुक्ने ढुङ्ग्रो ।"
+    },
+    "05362": {
+      "dId": "ᤔᤡᤔᤡᤰ",
+      "desc": "/मिमिक्/",
+      "group": "BY",
+      "mean": "<p>oral; verbal.</p>मौखिक ।"
+    },
+    "05363": {
+      "dId": "ᤔᤡᤔᤡᤰᤁᤠᤱ",
+      "desc": "/मिमिक्काङ्/",
+      "group": "BY",
+      "mean": "<p>learnt by heart; committed to memory; memorised on the tip of the tongue.</p>मुखाग्र; कण्ठस्थ ।"
+    },
+    "05364": {
+      "dId": "ᤔᤡᤔᤡᤍᤡᤱ",
+      "desc": "/मिमिदिङ्/",
+      "group": "BY",
+      "mean": "<p>glory; greatness.</p>महिमा; गौरव ।"
+    },
+    "05365": {
+      "dId": "ᤔᤡᤔᤡᤍᤡᤶᤒᤠ/ᤔᤠ",
+      "desc": "/मिमिदिम्बा/मा/",
+      "group": "BY",
+      "mean": "<p>glorious; famous; reputed; renowned.</p>यशस्वी; गौरवशाली । "
+    },
+    "05366": {
+      "dId": "ᤔᤡᤔᤣ",
+      "desc": "/मिमे/",
+      "group": "BY",
+      "mean": "<p>devoid of light; without light/sunlight; dark.</p>प्रकाशरहित ।"
+    },
+    "05367": {
+      "dId": "ᤔᤡᤔᤣᤍᤢᤔᤠ",
+      "desc": "/मिमेदुमा/",
+      "group": "BY",
+      "mean": "<p>widow.</p>विधवा ।"
+    },
+    "05368": {
+      "dId": "ᤔᤡᤕ᤺ᤱ/ᤔᤡᤕᤅ᤻",
+      "desc": "/मियःङ्/",
+      "group": "BY",
+      "mean": "<p>cat; pussy; pussy-cat; domestic cat.</p>बिरालो ।"
+    },
+    "05369": {
+      "dId": "ᤔᤡᤖᤠᤒᤠ",
+      "desc": "/मिराबा/",
+      "group": "BY",
+      "mean": "<p>fuel.</p>इन्धन ।"
+    },
+    "05370": {
+      "dId": "ᤔᤡᤖᤠ᤺ᤰ/ᤔᤡᤖᤠᤁ᤻",
+      "desc": "/मिराःक्/",
+      "group": "BY",
+      "mean": "<p>flame (of fire).</p>(आगोको) ज्वाला ।"
+    },
+    "05371": {
+      "dId": "ᤔᤡᤛᤠᤶ",
+      "desc": "/मिसाम्/",
+      "group": "BY",
+      "mean": "<p>soul/warmth of fire.</p>आगोको राप; आगोको ज्योति; आगोको आत्मा ।"
+    },
+    "05372": {
+      "dId": "ᤔᤡᤛᤢᤶ",
+      "desc": "/मिसुम्/",
+      "group": "BY",
+      "mean": "<p>flame of fire.</p>आगोको मुस्लो ।"
+    },
+    "05373": {
+      "dId": "ᤔᤡᤛᤣᤰ",
+      "desc": "/मिसेक्/",
+      "group": "BY",
+      "mean": "<p>spark (of fire).</p>आगोको झिल्को ।"
+    },
+    "05374": {
+      "dId": "ᤔᤡᤛᤣ᤺ᤰ/ᤔᤡᤛᤣᤁ᤻ ᤛᤠᤶᤔᤠᤱ",
+      "desc": "/मिसेःक् साम्माङ्/",
+      "group": "BY",
+      "mean": "<p>1. a god or a deity who must be worshipped first of all other gods during any worship or invocation conducted under the Limbu culture, he is believed to cause blisters to appear all over the body of the offender or the one who fails to do so. 2. a malevolent jungle deity. 3. a kind of flint-hunting deity.</p>१. लिम्बू संस्कृतिमा कुनै पनि पूजा आराधनाको काम गर्नुअघि पूजा गरिने देवता; त्यसरि पूजा नगरेमा मनुष्यको शरीरमा फोकैफोका निकालिदिने भनि बिश्वास गरिएको देवता । २. अनिष्टकारी जङ्गली देवता । ३. शिकारी चकमके देवता ।"
+    },
+    "05375": {
+      "dId": "ᤔᤡᤜᤠᤳᤗᤢᤱ",
+      "desc": "/मिहात्लुङ्/",
+      "group": "BY",
+      "mean": "<p>ember; glowing heat of a fire (without smoke); hearth; oven.</p>तातो भुङ्ग्रो; अगेनो ।"
+    },
+    "05376": {
+      "dId": "ᤔᤡᤜᤢᤳᤗᤢᤱ",
+      "desc": "/मिहुत्लुङ्/",
+      "group": "BY",
+      "mean": "<p>stone used to make hearth/oven; hearth-stone.</p>चुल्ढुङ्गो ।"
+    },
+    "05377": {
+      "dId": "ᤔᤡ᤺ᤰᤂᤢ/ᤔᤡᤁ᤻ᤂᤢ",
+      "desc": "/मिःक्खु?/",
+      "group": "BY",
+      "mean": "<p>smoke; fume.</p>धूवाँ; धूम; धूम्र ।"
+    },
+    "05378": {
+      "dId": "ᤔᤡ᤺ᤰᤔᤠ/ᤔᤡᤁ᤻ᤔᤠ",
+      "desc": "/मिःक्मा/",
+      "group": "BY",
+      "mean": "<p>1. [Phedape] to be immersed in mud; to be bogged/sink away/sink into mud (not in the water). 2. to feel; to get/have a feeling or an impression of; to be impressed with; to be affected by.</p>१. [फेदापे] हिलोमा पुरिनु; हिलोमा डुब्नु; हिलोमा गाडिनु । २. लाग्नु (केहि कुराको अभाव/अनुभव हुनु; केहि कुरा द्वारा प्रभावित हुनु; केहि कुराको असर पर्नु) आदि अर्थ अन्य क्रियाको साथमा लागी बुझाउने क्रिया ।"
+    },
+    "05379": {
+      "dId": "ᤔᤡ᤺ᤳᤇᤠ/ᤔᤡᤋ᤻ᤇᤠ",
+      "desc": "/मिःत्छा?/",
+      "group": "BY",
+      "mean": "<p>a little bit.</p>अलिकति; थोरै ।"
+    },
+    "05380": {
+      "dId": "ᤔᤡ᤺ᤵᤑᤪᤠᤔᤠ/ᤔᤡᤐ᤻ᤑᤪᤠᤔᤠ",
+      "desc": "/मिःप्फ्रामा/",
+      "group": "BY",
+      "mean": "<p>one of the constellations.</p>(ज्यो.) पिङ्गला ।"
+    },
+    "05381": {
+      "dId": "ᤔᤡ᤺ᤶᤔᤠ᤺/ᤔᤡᤐ᤻ᤔᤠ᤺",
+      "desc": "/मिःप्माः/",
+      "group": "BY",
+      "mean": "<p>yesterday.</p>हिजो ।"
+    },
+    "05382": {
+      "dId": "ᤔᤡ᤺ᤔᤠ",
+      "desc": "/मिःमा/",
+      "group": "BY",
+      "mean": "<p>to geel thirsty.</p>(तिर्खा) लाग्नु ।"
+    },
+    "05383": {
+      "dId": "ᤔᤡ᤺ᤶ/ᤔᤡᤔ᤻",
+      "desc": "/मिःम्/",
+      "group": "BY",
+      "mean": "<p>love; affection.</p>प्रेम ।"
+    },
+    "05384": {
+      "dId": "ᤔᤡ᤺ᤶᤈᤡᤒᤠ/ᤔᤡᤔ᤻ᤈᤡᤒᤠ",
+      "desc": "/मिःम्जिबा/",
+      "group": "BY",
+      "mean": "<p>lover.</p>मायालु; प्रेमि ।"
+    },
+    "05385": {
+      "dId": "ᤔᤡ᤺ᤶᤈᤡᤔᤠ/ᤔᤡᤔ᤻ᤈᤡᤔᤠ",
+      "desc": "/मिःम्जिमा/",
+      "group": "BY",
+      "mean": "<p>(fem.) lover; beloved; sweetheart; darling.</p>(स्त्री) मायालु; प्रेमिका ।"
+    },
+    "05386": {
+      "dId": "ᤔᤡ᤺ᤶᤍᤱ/ᤔᤡᤔ᤻ᤍᤩ",
+      "desc": "/मिःम्दङ्/",
+      "group": "BY",
+      "mean": "<p>attachment; passion.</p>अनुराग ।"
+    },
+    "05387": {
+      "dId": "ᤔᤡ᤺ᤶᤔᤠ/ᤔᤡᤔ᤻ᤔᤠ",
+      "desc": "/मिःम्मा/",
+      "group": "BY",
+      "mean": "<p>to love; to have an affection for sb.</p>प्रेम गर्नु; माया गर्नु ।"
+    },
+    "05388": {
+      "dId": "ᤁᤧᤔᤡ᤺ᤶᤒᤠ/ᤁᤧᤔᤡᤔ᤻ᤒᤠ",
+      "desc": "/केमिःम्बा/",
+      "group": "BY",
+      "mean": "<p>1. beloved; lover; sweetheart; darling. 2. your beloved.</p>१. मायालु; प्रेमी । २. तिम्रो प्रेमी ।"
+    },
+    "05389": {
+      "dId": "ᤁᤧᤔᤡ᤺ᤶᤔᤠ/ᤁᤧᤔᤡᤔ᤻ᤔᤠ",
+      "desc": "/केमिःम्मा/",
+      "group": "BY",
+      "mean": "<p>(fem.) 1. beloved; lover; sweetheart; darling. 2. your beloved.</p>(स्त्री) १. मायालु; प्रेमीका । २. तिम्रो प्रेमीका ।"
+    }
+  }
+}

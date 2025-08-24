@@ -1,0 +1,550 @@
+{
+  "Dic": {
+    "06161": {
+      "dId": "ᤗ",
+      "desc": "/ल/",
+      "group": "CH",
+      "mean": "<p>1. the 21st consonant letter of Sirejunga alphabet. 2. verbal conjunctive particle “ing” added at the end of a verb to denote continuity or present perfect continuous tense. 3. affirmative particle denoting “alright, ok” etc.</p>१. सिरिजङ्गा वर्णमालाको एक्काईसौं व्यञ्जनवर्ण ।२. सँग आउने कुनै क्रियाबीच भइरहेको व्यापारको सम्बन्ध बुझाउने प्रत्यय; कुनै असमापिका क्रियापदको कार्यव्यापारक भइरहेको वा चलिरहेको अर्थ बुझाउन वा तात्कालिक पूर्ण वर्तमान काल बुझाउन सो क्रियापदको पछिल्तिर जोडिने प्रत्यय । ३. ल, लौ, लु है, आदि स्वीकारोक्तिबोधक निपात शब्द ।"
+    },
+    "06162": {
+      "dId": "ᤗᤀᤡᤱ(ᤒᤠ)",
+      "desc": "/लइङ्(बा)/",
+      "group": "CH",
+      "mean": "<p>lie; false(hood); untruth.</p>झूटो; असत्य ।"
+    },
+    "06163": {
+      "dId": "ᤗᤀᤣᤒᤠ",
+      "desc": "/लएबा/",
+      "group": "CH",
+      "mean": "<p>unfinished; continuous; imperfect.</p>असमाप्त; असमापिका ।"
+    },
+    "06164": {
+      "dId": "ᤗᤀᤣᤒᤠ ᤐᤠᤶᤔᤣ",
+      "desc": "/लएबा पाम्मे/",
+      "group": "CH",
+      "mean": "<p>infinite verb.</p>असमापिका क्रिया ।"
+    },
+    "06165": {
+      "dId": "ᤗ᤹ᤔᤠ",
+      "desc": "/ल?मा/",
+      "group": "CH",
+      "mean": "<p>1. to be. 2. to look alike; to be alike; to be similar to; to resemble. 3. to say; to wish/want/intend.</p>१. हुनु । २. (केहि चीज जस्तै वा समान) हुनु वा देखिनु । ३. भन्नु; चिताउनु ।"
+    },
+    "06166": {
+      "dId": "ᤗ᤹ᤖᤡᤰ",
+      "desc": "/ल?रिक्/",
+      "group": "CH",
+      "mean": "<p>like; thus.</p>जस्तै ।"
+    },
+    "06167": {
+      "dId": "ᤗ᤹ᤗᤳ/ᤗ᤹ᤗ᤹",
+      "desc": "/ल?लत्/ल?ल?/",
+      "group": "CH",
+      "mean": "<p>just; just now.</p>भर्खरै; अहिले नै; तत्कालै ।"
+    },
+    "06168": {
+      "dId": "ᤗᤰ",
+      "desc": "/लक्/",
+      "group": "CH",
+      "mean": "<p>1. share; portion. 2. part; section. 3. quotient. 4. only; merely.</p>१. भाग; अंश । २. खण्ड । ३. भगफल । ४. मात्र; केवल ।"
+    },
+    "06169": {
+      "dId": "ᤗᤰᤁᤧ᤺ᤵᤐᤠ/ᤗᤰᤁᤧᤐ᤻ᤐᤠ",
+      "desc": "/लक्केःप्पा/",
+      "group": "CH",
+      "mean": "<p>shareholder; partner.</p>साझेदार; अंशियार ।"
+    },
+    "06170": {
+      "dId": "ᤗᤰᤌᤡᤰ",
+      "desc": "/लक्थिक्/",
+      "group": "CH",
+      "mean": "<p>one part/portion.</p>एक भाग; एक अंश ।"
+    },
+    "06171": {
+      "dId": "ᤗᤰᤗᤰ(ᤐᤠ)",
+      "desc": "/लक्लक्(पा)/",
+      "group": "CH",
+      "mean": "<p>partial.</p>आंशिक ।"
+    },
+    "06172": {
+      "dId": "ᤗᤳᤌᤡᤰ",
+      "desc": "/लत्थिक्/",
+      "group": "CH",
+      "mean": "<p>one.</p>एउटा; यौटा ।"
+    },
+    "06173": {
+      "dId": "ᤗᤰᤁᤴᤍᤡ ",
+      "desc": "/लक्कन्दि/",
+      "group": "CH",
+      "mean": "<p>best woman (girl), generally the bride’s younger sister who escorts/accompanies the bride in her wedding.</p>लोकन्दी(ती); विवाहको समयमा बेहुलीलाई साथीको रुपमा साथ दिने साइनोमा बेहुलीकी बहिनी पर्ने व्यक्ति (स्त्री) ।"
+    },
+    "06174": {
+      "dId": "ᤗᤰᤁᤴᤍᤣ",
+      "desc": "/लक्कन्दे/",
+      "group": "CH",
+      "mean": "<p>best man (at the wedding ceremony), generally the groom’s younger brother who accompanies the new groom in his wedding.</p>लोकन्दे; बिहेको समयमा बेहुलालाई साथीको रुपमा साथ दिने साइनोमा बेहुलाको भाइ पर्ने व्यक्ति (पुरुष) ।"
+    },
+    "06175": {
+      "dId": "ᤗᤰᤁᤠᤵᤐᤠ",
+      "desc": "/लक्काप्पा/",
+      "group": "CH",
+      "mean": "<p>co-operative.</p>सहकारी; साझेदारी ।"
+    },
+    "06176": {
+      "dId": "ᤗᤰᤁᤢᤆᤠᤣ",
+      "desc": "/लक्कुचो/",
+      "group": "CH",
+      "mean": "<p>forefinger; the pointing finger.</p>चोर औंलो ।"
+    },
+    "06177": {
+      "dId": "ᤗᤰᤂᤵ",
+      "desc": "/लक्खप्/",
+      "group": "CH",
+      "mean": "<p>clearly; apparently; in a manner of making sth crystal clear.</p>छर्लङ्ग/छ्याङ्ग/स्पष्ट हुने गरी ।"
+    },
+    "06178": {
+      "dId": "ᤗᤰᤂᤢᤶ",
+      "desc": "/लक्खुम्/",
+      "group": "CH",
+      "mean": "<p>yard; front courtyard of a house.</p>आँगन; प्राङ्गण ।"
+    },
+    "06179": {
+      "dId": "ᤗᤰᤂᤠᤣ᤺ᤒᤠ",
+      "desc": "/लक्खोःबा/",
+      "group": "CH",
+      "mean": "<p>1. co-heir; sharer in family possession. 2. divider.</p>१.अंशियार; भाग पाउने हकदार । २. भाजक; विभाजक (चिन्ह) । "
+    },
+    "06180": {
+      "dId": "ᤗᤰᤆᤠ᤺ᤳ/ᤗᤰᤆᤠᤋ᤻",
+      "desc": "/लक्चाःत्/",
+      "group": "CH",
+      "mean": "<p>role; part.</p>भूमिका ।"
+    },
+    "06181": {
+      "dId": "ᤗᤰᤆᤢ",
+      "desc": "/लक्चु/",
+      "group": "CH",
+      "mean": "<p>digger, a small piece of iron rod for digging earth/breaking walls etc.</p>खन्ती ।"
+    },
+    "06182": {
+      "dId": "ᤗᤰᤆᤢᤶ",
+      "desc": "/लक्चुम्/",
+      "group": "CH",
+      "mean": "<p>committee.</p>समिति ।"
+    },
+    "06183": {
+      "dId": "ᤗᤰᤆᤢᤶᤒᤠ",
+      "desc": "/लक्चुम्बा/",
+      "group": "CH",
+      "mean": "<p>the executive (eg- government).</p>कार्यपालिका (जस्तै- सरकार) ।"
+    },
+    "06184": {
+      "dId": "ᤗᤰᤆᤢᤶᤓᤠᤣ",
+      "desc": "/लक्चुम्भो/",
+      "group": "CH",
+      "mean": "<p>working committee.</p>कार्यसमिति ।"
+    },
+    "06185": {
+      "dId": "ᤗᤰᤋᤠᤶ",
+      "desc": "/लक्ताम्/",
+      "group": "CH",
+      "mean": "<p>1. lancer; a soldier armed with a lance. 2. one of the Limbu clan-names/family names.</p>१. भाला चलाउने व्यक्ति । २. लिम्बूजातिको एउटा थरविशेष ।"
+    },
+    "06186": {
+      "dId": "ᤗᤰᤌᤢᤵᤐᤣ",
+      "desc": "/लक्थुप्पे/",
+      "group": "CH",
+      "mean": "<p>spear; bayonet; pike.</p>सङ्गिन; भाला; बर्छा ।"
+    },
+    "06187": {
+      "dId": "ᤗᤰᤐᤢᤛᤣ᤹",
+      "desc": "/लक्पुसे?/",
+      "group": "CH",
+      "mean": "<p>a kind of bush. <i>Berberiris aristata.</i></p>चुत्रो ।"
+    },
+    "06188": {
+      "dId": "ᤗᤰᤐᤧᤴ",
+      "desc": "/लक्पेन्/",
+      "group": "CH",
+      "mean": "<p>responsibility; obligation.</p>उत्तरदायित्व ।"
+    },
+    "06189": {
+      "dId": "ᤗᤰᤑᤠ᤹",
+      "desc": "/लक्फा/",
+      "group": "CH",
+      "mean": "<p>contribution.</p>अंशदान; देन; योगदान ।"
+    },
+    "06190": {
+      "dId": "ᤗᤰᤑᤠᤱ",
+      "desc": "/लक्फाङ्/",
+      "group": "CH",
+      "mean": "<p>part; portion; partition; (sub-)section.</p>खण्ड; उपखण्ड ।"
+    },
+    "06191": {
+      "dId": "ᤗᤰᤑᤣ",
+      "desc": "/लक्फे/",
+      "group": "CH",
+      "mean": "<p>a kind of big knife.</p>चुपी ।"
+    },
+    "06192": {
+      "dId": "ᤗᤰᤔᤠ",
+      "desc": "/लक्मा/",
+      "group": "CH",
+      "mean": "<p>1. (to rush/go running in order) to fetch sb. 2. to stretch and reach sb/sth. 3. (of thorn etc) to prick/pierce. 4. to prick and make a little hole in. 5. stab.</p>१. (लम्केर वा कुदेर गई) कसैलाई ल्याउनु । २. तन्केर केहि वा कोहि भेटनु (भेट्टाउनु) । ३. (तीखो वस्तु जस्तै- काँडा आदिले) घोच्नु । ४. तीखो वस्तुले सानो प्वाल हुनेगरी घोच्नु । ५. (छुरी आदि) रोप्नु ।"
+    },
+    "06193": {
+      "dId": "ᤗᤰᤗᤰᤁᤣ",
+      "desc": "/लक्लक्के/",
+      "group": "CH",
+      "mean": "<p>spear; bayonet; pike.</p>भाला ।"
+    },
+    "06194": {
+      "dId": "ᤗᤰᤗᤰᤁᤧ",
+      "desc": "/लक्लक्के/",
+      "group": "CH",
+      "mean": "<p>wooden pestle (or muller).</p>काठको लोहोरो ।"
+    },
+    "06195": {
+      "dId": "ᤗᤰᤗᤠ",
+      "desc": "/लक्ला/",
+      "group": "CH",
+      "mean": "<p>participation.</p>सहभागिता ।"
+    },
+    "06196": {
+      "dId": "ᤗᤰᤗᤢᤱᤔᤠ",
+      "desc": "/लक्लुङ्मा/",
+      "group": "CH",
+      "mean": "<p>(M/cul) Goddess who protects children.</p>केटाकेटीहरूको रक्षा गर्ने देवी ।"
+    },
+    "06197": {
+      "dId": "ᤗᤰᤗᤢᤶ",
+      "desc": "/लक्लुम्/",
+      "group": "CH",
+      "mean": "<p>[Tamor] front courtyard of a house.</p>[तमर] आँगन ।"
+    },
+    "06198": {
+      "dId": "ᤗᤰᤗᤠᤣ᤺ᤔᤠ",
+      "desc": "/लक्लोःमा/",
+      "group": "CH",
+      "mean": "<p>to take a part; to participate.</p>भाग लिनु ।"
+    },
+    "06199": {
+      "dId": "ᤗᤰᤘᤠ",
+      "desc": "/लक्वा/",
+      "group": "CH",
+      "mean": "<p>paralysis; palsy.</p>पक्षघात ।"
+    },
+    "06200": {
+      "dId": "ᤗᤰᤛᤠᤶ",
+      "desc": "/लक्साम्/",
+      "group": "CH",
+      "mean": "<p>courage.</p>आँट; सहास ।"
+    },
+    "06201": {
+      "dId": "ᤗᤰᤛᤠᤶᤒᤠ",
+      "desc": "/लक्साम्बा/",
+      "group": "CH",
+      "mean": "<p>gallant; valiant; courageous; bold; daring.</p>आँटिलो; सहासी ।"
+    },
+    "06202": {
+      "dId": "ᤗᤰᤛᤠ᤺ᤶᤒᤣ/ᤗᤰᤛᤠᤔ᤻ᤒᤣ",
+      "desc": "/लक्साःम्बे/",
+      "group": "CH",
+      "mean": "<p>short epic.</p>खण्डकाव्य ।"
+    },
+    "06203": {
+      "dId": "ᤗᤰᤛᤡᤱᤔᤠ",
+      "desc": "/लक्सिङ्मा/",
+      "group": "CH",
+      "mean": "<p>to prick/satirize/ridicule (at) each other.</p>परस्परमा घोचाघोच/व्यङ्ग्य गर्नु ।"
+    },
+    "06204": {
+      "dId": "ᤗᤃᤣ᤺ᤳ/ᤗᤃᤣᤋ᤻",
+      "desc": "/लगेःत्/",
+      "group": "CH",
+      "mean": "<p>the Nepalese male upper garment.</p>दौरा; लबेदा ।"
+    },
+    "06205": {
+      "dId": "ᤗᤄᤳ",
+      "desc": "/लघत्/",
+      "group": "CH",
+      "mean": "<p>1. alright; rightly; okay. 2. exactly.</p>१. ठिक्क; ठीक । २. ट्याम्म/ठ्याम्म ।"
+    },
+    "06206": {
+      "dId": "ᤗᤄᤡᤶᤒᤠ( ᤰ)",
+      "desc": "/लधिम्बा(क्)/",
+      "group": "CH",
+      "mean": "<p>a large variety of  thorny shrub with bitter yellow berries. <i>Solanum indicum.</i></p>ठूलो खालको तिते बिंही ।"
+    },
+    "06207": {
+      "dId": "ᤗᤄᤣ᤺ᤳ/ᤗᤄᤣᤋ᤻",
+      "desc": "/लघेःत्/",
+      "group": "CH",
+      "mean": "<p>a kind of bitter leafy vegetable.</p>तिते साग ।"
+    },
+    "06208": {
+      "dId": "ᤗᤱ",
+      "desc": "/लङ्/",
+      "group": "CH",
+      "mean": "<p>1. moment. 2. occasion; opportunity; chance.</p>१. पल; क्षण; निमेष । २. मौका; अवसर ।"
+    },
+    "06209": {
+      "dId": "ᤗᤱᤔᤣᤴᤏᤣ",
+      "desc": "/लङ्मेन्ने/",
+      "group": "CH",
+      "mean": "<p>in no time; in a flash/instantly; immediately.</p>उत्तिखेरै; तत्क्षण; बित्तिकै ।"
+    },
+    "06210": {
+      "dId": "ᤗᤱᤄᤳ",
+      "desc": "/लङ्घत्/",
+      "group": "CH",
+      "mean": "<p>a bamboo/wooden ladle.</p>दाबिलो ।"
+    },
+    "06211": {
+      "dId": "ᤗᤱᤔᤠ",
+      "desc": "/लङ्मा/",
+      "group": "CH",
+      "mean": "<p>1. (of plaster, clay surface of the floor, wall etc) to break/flake/come off (itself); to dug up (of a surface). 2. to sever up; to peel off; to make sth come off. 3. to dig (in order to make sth crumble down). 4. to relapse.</p>१. उप्कनु । २. उप्काउनु; उप्काएर भत्काउनु । ३. (झ्याम्पल आदिले) खोदल्नु; प्वाल पार्नु । ४. बल्झनु ।"
+    },
+    "06212": {
+      "dId": "ᤗᤱᤗᤱ",
+      "desc": "/लङ्लङ्/",
+      "group": "CH",
+      "mean": "<p>weeping/crying pitiably.</p>पिलपिल आँसु झार्ने/रुने चालाले ।"
+    },
+    "06213": {
+      "dId": "ᤗᤱᤗᤧᤱ",
+      "desc": "/लङ्लेङ्/",
+      "group": "CH",
+      "mean": "<p>(a kind of) lizard.</p>भालेमुङ्ग्रो, एक जातको छेपारो ।"
+    },
+    "06214": {
+      "dId": "ᤗᤱᤗᤧ᤺ᤱᤋᤢᤰ/ᤗᤱᤗᤧᤅ᤻ᤋᤢᤰ",
+      "desc": "/लङ्लेःङ्तुक्/",
+      "group": "CH",
+      "mean": "<p>paralysis; palsy.</p>पक्षघात ।"
+    },
+    "06215": {
+      "dId": "ᤗᤱᤗᤧ᤺ᤱ/ᤗᤱᤗᤧᤅ᤻ ᤒᤠ/ᤔᤠ",
+      "desc": "/लङ्लेःङ्बा/मा/",
+      "group": "CH",
+      "mean": "<p>disabled/crawling (man).</p>साँपे; घस्रिएर मात्र हिंड्न सक्ने (मानिसं ।"
+    },
+    "06216": {
+      "dId": "ᤗᤱᤒᤠ",
+      "desc": "/लङ्बा/",
+      "group": "CH",
+      "mean": "<p>one of the constellations.</p>अश्लेषा नक्षत्र ।"
+    },
+    "06217": {
+      "dId": "ᤗᤈᤠ ᤛᤡᤱ",
+      "desc": "/लजा सिङ्/",
+      "group": "CH",
+      "mean": "<p>a kind of bush. <i>Colebrookia oppositifolia.</i></p>धुसुरेको बोट; धुस्रे ।"
+    },
+    "06218": {
+      "dId": "ᤗᤳ",
+      "desc": "/लत्/",
+      "group": "CH",
+      "mean": "<p>a particle when suffixed to other word, denotes “only”, “merely”, “solely”.</p>अर्को शब्दको पछाडि आई “मात्र”, “केवल” बुझाउने निपात ।"
+    },
+    "06219": {
+      "dId": "ᤗᤳᤇ",
+      "desc": "/लत्छ/",
+      "group": "CH",
+      "mean": "<p>clause final particle indicating events recently discovered/known or come to realised.</p>भर्खरै भएको वा थाहापाएको घटना बुझाउन वाक्य टुङ्गिने ठाउँमा प्रयोग हुने, नेपालीको “रहेछ” भन्ने अर्थ बुझाउने अव्यय शब्द ।"
+    },
+    "06220": {
+      "dId": "ᤗᤳᤇᤠ",
+      "desc": "/लत्छा/",
+      "group": "CH",
+      "mean": "<p>1. one. 2. alike; uniform; same; similar; unvarying.</p>१. एउटा । २. एकनासको; एकै किसिमको; एकरूपको ।"
+    },
+    "06221": {
+      "dId": "ᤗᤳᤌᤡᤰ",
+      "desc": "/लत्थिक्/",
+      "group": "CH",
+      "mean": "<p>one; (the) only one.</p>एउटा; एउटा मात्र ।"
+    },
+    "06222": {
+      "dId": "ᤗᤳᤌᤪᤰᤁᤣ",
+      "desc": "/लत्थ्रक्के/",
+      "group": "CH",
+      "mean": "<p>tree squirrel.</p>लोखर्के ।"
+    },
+    "06223": {
+      "dId": "ᤗᤍᤶᤔᤡᤰ",
+      "desc": "/लदम्मिक्/",
+      "group": "CH",
+      "mean": "<p>night/nocturnal blindness. <i>Nyctalopia.</i></p>रतौंधी ।"
+    },
+    "06224": {
+      "dId": "ᤗᤍᤶᤔᤡᤰᤐᤠ/ᤔᤠ",
+      "desc": "/लदम्मिक्पा/मा/",
+      "group": "CH",
+      "mean": "<p>a man/woman suffering from night-blindness; night-blind; nyctalopic.</p>रतन्धो/धी ।"
+    },
+    "06225": {
+      "dId": "ᤗᤍᤢᤶ",
+      "desc": "/लदुम्/",
+      "group": "CH",
+      "mean": "<p>(upper) arm.</p>(माथिल्लो) पाखुरा ।"
+    },
+    "06226": {
+      "dId": "ᤗᤧᤶᤒᤠ/ᤔᤠ",
+      "desc": "/लदेम्बा/मा/",
+      "group": "CH",
+      "mean": "<p>deaf.</p>बहिरो/बहिरी ।"
+    },
+    "06227": {
+      "dId": "ᤗᤍᤧᤶᤔᤠ",
+      "desc": "/लदेम्मा/",
+      "group": "CH",
+      "mean": "<p>goddess who protects from blindness, deafness and dumbness.</p>अन्धोपन, बहिरोपन र लाटोपन बाट रक्षा गर्ने देवी ।"
+    },
+    "06228": {
+      "dId": "ᤗᤎᤠ᤺ᤶᤒᤠ/ᤗᤎᤠᤔ᤻ᤒᤠ",
+      "desc": "/लधाःम्बा/",
+      "group": "CH",
+      "mean": "<p>continuous; incomplete; unfinished.</p>भइरहेको; नटुङ्गिएको; तात्कालिक ।"
+    },
+    "06229": {
+      "dId": "ᤗᤎᤢᤱ",
+      "desc": "/लधुङ्/",
+      "group": "CH",
+      "mean": "<p>holy; sacrificial fire; religious sacrifice; oblation; yagya.</p>होम; यज्ञ ।"
+    },
+    "06230": {
+      "dId": "ᤗᤵᤂᤠ",
+      "desc": "/लप्खा/",
+      "group": "CH",
+      "mean": "<p>just now, instantly.</p>भर्खर ।"
+    },
+    "06231": {
+      "dId": "ᤗᤵᤆᤰ",
+      "desc": "/लप्चक्/",
+      "group": "CH",
+      "mean": "<p>(wet) thoroughly; through and through; all over.</p>निथ्रुक्क ।"
+    },
+    "06232": {
+      "dId": "ᤗᤵᤐᤠᤱᤗᤵ",
+      "desc": "/लप्पाङ्लप्/",
+      "group": "CH",
+      "mean": "<p>quickly; repeatedly; incessantly; ceaselessly; without break.</p>भकाभक; पटापट; छिटोछिटो वा अविरल किसिमले । "
+    },
+    "06233": {
+      "dId": "ᤗᤵᤔᤠ",
+      "desc": "/लप्मा/",
+      "group": "CH",
+      "mean": "<p>to swallow.</p>निल्नु ।"
+    },
+    "06234": {
+      "dId": "ᤗᤵᤛᤵ",
+      "desc": "/लप्सप्/",
+      "group": "CH",
+      "mean": "<p>getting thoroughly wet/drenched through and through.</p>निथ्रुक्क भिज्ने किसिमले ।"
+    },
+    "06235": {
+      "dId": "ᤗᤓᤠ",
+      "desc": "/लभा/",
+      "group": "CH",
+      "mean": "<p>rag; mop.</p>पोतो; पोत्ने लुँडो ।"
+    },
+    "06236": {
+      "dId": "ᤗᤓᤡ᤺ᤳ/ᤗᤓᤡᤋ᤻",
+      "desc": "/लभिःत्/",
+      "group": "CH",
+      "mean": "<p>1. gongs; tweezers; squeezing/holding sth. 2. pincers; tool for lifting sth.</p>१. चिम्टा । २. सनासो ।"
+    },
+    "06237": {
+      "dId": "ᤗᤖᤠ᤺ᤱ/ᤗᤖᤠᤅ᤻",
+      "desc": "/लराःङ्/",
+      "group": "CH",
+      "mean": "<p>thunderbolt; crash of thunder.</p>चट्याङ् ।"
+    },
+    "06238": {
+      "dId": "ᤗᤖᤡᤶᤒᤠ",
+      "desc": "/लरिम्बा/",
+      "group": "CH",
+      "mean": "<p>lemon. <i>Citrus aurantifolia.</i></p>कागती ।"
+    },
+    "06239": {
+      "dId": "ᤗᤖᤡᤶᤛᤣ᤹",
+      "desc": "/लरिम्से/",
+      "group": "CH",
+      "mean": "<p>apple. <i>Malus sylvestris.</i></p>स्याउ ।"
+    },
+    "06240": {
+      "dId": "ᤗᤖᤧᤘᤠ",
+      "desc": "/लरेवा/",
+      "group": "CH",
+      "mean": "<p>a kind of water-fowl.</p>जलेवा (पन्छी); मलेवा जस्तो एक प्रकारको पन्छी ।"
+    },
+    "06241": {
+      "dId": "ᤗᤸᤗᤠᤣᤖᤡ ",
+      "desc": "/लल्लोरि/",
+      "group": "CH",
+      "mean": "<p>lullaby.</p>लोरी गीत ।"
+    },
+    "06242": {
+      "dId": "ᤗᤛ᤻ᤁᤖᤡ ",
+      "desc": "/लःस्कारि/",
+      "group": "CH",
+      "mean": "<p>small ear-ring of gold, worn around the ear-lobe.</p>कानका घेरामा लगाइने मसिना रिङ्ग आकारका लिम्बूगहना ।"
+    },
+    "06243": {
+      "dId": "ᤗᤜᤡᤵ",
+      "desc": "/लहिप्/",
+      "group": "CH",
+      "mean": "<p>rod; stick; staff.</p>लट्ठी; छडी ।"
+    },
+    "06244": {
+      "dId": "ᤗ᤺ᤱᤘᤠ/ᤗᤅ᤻ᤘᤠ",
+      "desc": "/लःङ्वा/",
+      "group": "CH",
+      "mean": "<p>1. flood; overflow of water. 2. mud in a house due to the water spilt.</p>१. भल । २. घरभित्र पानी पोखिएर हुने हिलो ।"
+    },
+    "06245": {
+      "dId": "ᤗ᤺ᤴᤗᤠᤶ/ᤗᤏ᤻ᤗᤠᤶ",
+      "desc": "/लःन्लाम्/",
+      "group": "CH",
+      "mean": "<p>outlet; exit.</p>निकास ।"
+    },
+    "06246": {
+      "dId": "ᤗ᤺ᤵᤂᤠ/ᤗᤐ᤻ᤂᤠ",
+      "desc": "/लःप्खा/",
+      "group": "CH",
+      "mean": "<p>reduction; discount; cut; curtailment.</p>कटौती ।"
+    },
+    "06247": {
+      "dId": "ᤗ᤺ᤵᤐᤧᤳ/ᤗ᤺ᤵᤐᤧ᤹",
+      "desc": "/लःप्पेत्/लःप्पे?/",
+      "group": "CH",
+      "mean": "<p>(of long and round objects) manner of in a flat and fully stretched position; lying flat(ly).</p>(लामो र गोलो वस्तु) तनक्क तन्कने चालाले ।"
+    },
+    "06248": {
+      "dId": "ᤗ᤺ᤵᤔᤠ/ᤗᤐ᤻ᤔᤠ",
+      "desc": "/लःप्मा/",
+      "group": "CH",
+      "mean": "<p>1. to take out (eg- take out money form pocket; give money/taking out form a pocket); to extract. 2. to hatch chicks/young ones. 3. to expel/rusticate (from a house, school etc). 4. to subtract.</p>१. निकाल्नु; झिकेर दिनु (जस्तै- खल्तीबाट पैसा निकाल्नु; त्यसरी निकालेर दिनु) । २. बाहिर निकाल्नु (चल्ला काढ्नु) । ३. (घर, पाठशाला आदिबाट) निकाल्नु । ४. घटाउनु; वियोग। गर्नु ।"
+    },
+    "06249": {
+      "dId": "ᤗ᤺ᤶᤔᤠ/ᤗᤔ᤻ᤔᤠ",
+      "desc": "/लःम्मा/",
+      "group": "CH",
+      "mean": "<p>1. to come/get out (itself). 2. to appear/turn up; to come out. 3. to beat up; to hit/strike/thrash/pound, etc.</p>१. निस्कनु; बाहिरिनु (भित्रबाट बाहिर निस्कनु) । २. देखा पर्नु (निस्कनु) । ३. कुट्नु; पिट्नु; चुट्नु ।"
+    },
+    "06250": {
+      "dId": "ᤗ᤺ᤔᤠ",
+      "desc": "/लःमा/",
+      "group": "CH",
+      "mean": "<p>1. to cross/pass/get through. 2. to emerge; to succeed/get through; to be successful/versed (eg- as a Shaman, etc).</p>१. छिचोल्नु; पार गर्नु । २. सफल हुनु; पारङ्गत हुनु ।"
+    },
+    "06251": {
+      "dId": "ᤗ᤺ᤶᤛᤡᤱᤔᤠ/ᤗᤔ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/लःम्सिङ्मा/",
+      "group": "CH",
+      "mean": "<p>to beat each other.</p>परस्पर पिटापिट गर्नु । "
+    }
+  }
+}

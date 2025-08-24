@@ -1,0 +1,1502 @@
+{
+  "Dic": {
+    "05679": {
+      "dId": "ᤕᤠ",
+      "desc": "/या/",
+      "group": "CD",
+      "mean": "<p>1. Yeba, a class of Limbu priest. 2. tickle; titillation. 3. edge; bank; border (of table, cot, river etc) 4. blade/edge (of a weapon). 5. or. that is.</p>१. येबा; लिम्बू पुरोहितको एक वर्ग । २. कुतकुती; काउकुती । ३. छेउ; किनार; किनारा । ४. (हतियारको) धार । ५. अथवा ।"
+    },
+    "05680": {
+      "dId": "ᤕᤠ᤹",
+      "desc": "/या?/",
+      "group": "CD",
+      "mean": "<p>paddy; unhusked rice; corn.</p>धान; अन्न ।"
+    },
+    "05681": {
+      "dId": "ᤕᤠ᤹ᤆᤠᤱ",
+      "desc": "/या?चाङ्/",
+      "group": "CD",
+      "mean": "<p>heap of paddy straw.</p>धान/अन्नको कुन्यू ।"
+    },
+    "05682": {
+      "dId": "ᤕᤠ᤹ᤍᤠᤣᤔᤢᤖᤠ",
+      "desc": "/या?दोमुरा/",
+      "group": "CD",
+      "mean": "<p>fried unhusked paddy (rice); such rice grains scattered about along the way during a funeral procession.</p>लावा; शवयात्रामा बाटोमा छर्दैजाने भुटिएका अन्नहरू ।"
+    },
+    "05683": {
+      "dId": "ᤕᤠ᤹ᤏᤠᤶ",
+      "desc": "/या?नाम्/",
+      "group": "CD",
+      "mean": "<p>paddy/corn grains spread out in the sun to dry.</p>बिस्कुन-धान; सुकाउनका लागि फिँजाइएको धान/अन्न ।"
+    },
+    "05684": {
+      "dId": "ᤕᤠ᤹ᤒᤢᤳ",
+      "desc": "/या?बुत्/",
+      "group": "CD",
+      "mean": "<p>heap of paddy/grains or corn.</p>धान/अन्नको रास/थुप्रो ।"
+    },
+    "05685": {
+      "dId": "ᤕᤠ᤹ᤒᤠᤣ",
+      "desc": "/या?बो/",
+      "group": "CD",
+      "mean": "<p>field; paddy-field; rice-field.</p>बारी; धानबारी; खेत ।"
+    },
+    "05686": {
+      "dId": "ᤕᤠ᤹ᤒᤠᤣ᤺ᤴ ᤘᤠᤒᤠᤣ᤺ᤴ/ᤕᤠᤒᤠᤣᤏ᤻ ᤘᤠᤒᤠᤣᤏ᤻",
+      "desc": "/या?बोःन् वाबोःन्/",
+      "group": "CD",
+      "mean": "<p>mixed grains or seeds.</p>सतबीउ बलबीउ ।"
+    },
+    "05687": {
+      "dId": "ᤕᤠ᤹ᤓᤢᤱ",
+      "desc": "/या?भुङ्/",
+      "group": "CD",
+      "mean": "<p>large heap of paddy.</p>(धानको) कुन्यू ।"
+    },
+    "05688": {
+      "dId": "ᤕᤠ᤹ᤓᤠᤣ᤺ᤴ/ᤕᤠ᤹ᤓᤠᤣᤏ᤻",
+      "desc": "/या?भोःन्/",
+      "group": "CD",
+      "mean": "<p>ear of paddy plant.</p>धानको बाला ।"
+    },
+    "05689": {
+      "dId": "ᤕᤠ᤹ᤔᤠ",
+      "desc": "/या?मा/",
+      "group": "CD",
+      "mean": "<p>to pierce/prick.</p>बिझ्नु ।"
+    },
+    "05690": {
+      "dId": "ᤕᤠ᤹ᤕᤠᤰ",
+      "desc": "/या?याक्/",
+      "group": "CD",
+      "mean": "<p>slowly; lightly; painlessly; without hurting.</p>बिस्तारै: हल्कासित; मर्का नपर्ने गरि; नदुखाइकन ।"
+    },
+    "05691": {
+      "dId": "ᤕᤠ᤹ᤖᤡ᤺ᤶᤒᤠ/ᤕᤠ᤹ᤖᤡᤔ᤻ᤒᤠ",
+      "desc": "/या?रिःम्बा/",
+      "group": "CD",
+      "mean": "<p>1. seedlings of paddy. 2. seeds; seedlings.</p>१. धानको बीउ । २. बीउ; बिजन; बीज ।"
+    },
+    "05692": {
+      "dId": "ᤕᤠ᤹ᤖᤠᤣ᤺ᤴ/ᤕᤠ᤹ᤖᤠᤣᤏ᤻",
+      "desc": "/या?रोःन्/",
+      "group": "CD",
+      "mean": "<p>[Phedape] grains spread out to dry.</p>[फेदापे] बिस्कुन ।"
+    },
+    "05693": {
+      "dId": "ᤕᤠ᤹ᤗᤠ᤺ᤰᤔᤠ(ᤖᤠ᤺ᤰᤔᤠ)/ᤕᤠᤗᤠᤁ᤻ᤔᤠ(ᤖᤠᤁ᤻ᤔᤠ)",
+      "desc": "/या?लाःक्मा(राःक्मा)/",
+      "group": "CD",
+      "mean": "<p>1. to dread over paddy. 2. to dance or perform the traditional Limbu paddy dance.</p>१. धान माड्नु । २. धाननाच नाच्नु ।"
+    },
+    "05694": {
+      "dId": "ᤕᤠ᤹ᤗᤠ᤺ᤱ/ᤕᤠ᤹ᤗᤠᤅ᤻",
+      "desc": "/या?लाःङ्/",
+      "mean": "<p>a traditional Limbu paddy dance.</p>धान नाच वा नृत्य ।"
+    },
+    "05695": {
+      "dId": "ᤕᤠ᤹ᤗᤠ᤺ᤱᤔᤠ/ᤕᤠ᤹ᤗᤠᤅ᤻ᤔᤠ",
+      "desc": "/या?लाःङ्मा/",
+      "group": "CD",
+      "mean": "<p>to perform the paddy dance.</p>धान नाच नाच्नु/गर्नु ।"
+    },
+    "05696": {
+      "dId": "ᤕᤠ᤹ᤘᤠ",
+      "desc": "/या?वा/",
+      "group": "CD",
+      "mean": "<p>seed.</p>बीउ ।"
+    },
+    "05697": {
+      "dId": "ᤕᤠ᤹ᤛᤡᤃᤣ᤺ᤰ/ᤕᤠᤛᤡᤃᤣᤁ᤻",
+      "desc": "/या?सिगेःक्/",
+      "group": "CD",
+      "mean": "<p>particles of broken rice; small pieces of broken rice after sifting.</p>कनिका ।"
+    },
+    "05698": {
+      "dId": "ᤕᤠ᤹",
+      "desc": "/या?सिप्/",
+      "group": "CD",
+      "mean": "<p>chaff; rice husk.</p>भुस ।"
+    },
+    "05699": {
+      "dId": "ᤕᤠ᤹ᤛᤩᤠ᤹-ᤐᤠᤱᤛᤩᤠ᤹",
+      "desc": "/या?स्या?-पाङ्स्या?/",
+      "group": "CD",
+      "mean": "<p>food/provisions for a journey; viands; food supply.</p>सामलतुमल/चामलसामल ।"
+    },
+    "05700": {
+      "dId": "ᤕᤠ᤹ᤛᤣ᤺ᤰ/ᤕᤠᤛᤣᤁ᤻",
+      "desc": "/या?सेःक्/",
+      "group": "CD",
+      "mean": "<p>fine grains of broken rice.</p>कनिका ।"
+    },
+    "05701": {
+      "dId": "ᤕᤠ᤹ᤜᤡ᤺ᤰ/ᤕᤠ᤹ᤜᤡᤁ᤻",
+      "desc": "/या?हिःक्/",
+      "group": "CD",
+      "mean": "<p>bran; (rice) flour.</p>(चामलको) पिठो ।"
+    },
+    "05702": {
+      "dId": "ᤕᤠᤰᤁᤠᤱᤆᤪᤢᤱᤒᤠ",
+      "desc": "/याक्काङ्च्रुङ्बा/",
+      "group": "CD",
+      "mean": "<p>rainy season.</p>वर्षा ऋतु ।"
+    },
+    "05703": {
+      "dId": "ᤕᤠᤰᤁᤣ᤺ᤰ/ᤕᤠᤰᤁᤣᤁ᤻",
+      "desc": "/याक्केःक्/",
+      "group": "CD",
+      "mean": "<p>steep, slope, precipice, cliff.</p>भिर; पहरा ।"
+    },
+    "05704": {
+      "dId": "ᤕᤠᤰᤁᤠᤣ᤹ᤒᤠ",
+      "desc": "/याक्को?बा/",
+      "group": "CD",
+      "mean": "<p>pumpkin. Cucurbita pepo.</p>फर्सी ।"
+    },
+    "05705": {
+      "dId": "ᤕᤠᤰᤁᤠᤣ᤹(ᤒᤠ) ᤆᤱ",
+      "desc": "/याक्को?(बा) चङ्/",
+      "group": "CD",
+      "mean": "<p>shoot of  the pumpkin plant.</p>फर्सीको मुन्टा ।"
+    },
+    "05706": {
+      "dId": "ᤕᤠᤰᤂᤠ",
+      "desc": "/याक्खा/",
+      "group": "CD",
+      "mean": "<p>the Yakkha (Dewan) Kirant tribe.</p>याक्खा (देवान) किराँत जाति ।"
+    },
+    "05707": {
+      "dId": "ᤕᤠᤰᤂᤠᤒᤠ",
+      "desc": "/याक्खाबा/",
+      "group": "CD",
+      "mean": "<p>rich; wealthy; well-to-do; prosperous.</p>धनी; सम्पन्न; समृद्ध ।"
+    },
+    "05708": {
+      "dId": "ᤕᤠᤰᤂᤣ᤹",
+      "desc": "/याक्खे/",
+      "group": "CD",
+      "mean": "<p>co-co yam; arum lily. Colocasia antiquorum var. esculenta.</p>पिँडालु ।"
+    },
+    "05709": {
+      "dId": "ᤕᤠᤰᤂᤠᤣ᤹",
+      "desc": "/याक्खो/",
+      "group": "CD",
+      "mean": "<p>[Tamor] pumpkin; squash.</p>[तमर] फर्सी ।"
+    },
+    "05710": {
+      "dId": "ᤕᤠᤰᤆᤠ",
+      "desc": "/याक्चा/",
+      "group": "CD",
+      "mean": "<p>spreading of boiled millet on a bamboo-split mat before fermentation and brewing.</p>जाँड बनाउन अन्न उसिने मान्द्र आदिमा फिँजाई सेलाउन राखेको अवस्था ।"
+    },
+    "05711": {
+      "dId": "ᤕᤠᤰᤆᤡᤖᤡ ᤑᤢᤱ",
+      "desc": "/याक्चिरि फुङ्/",
+      "group": "CD",
+      "mean": "<p>a kind of orchid found on steep slopes and cliffs.</p>पहरामा हुने घोगे सुनाखरी ।"
+    },
+    "05712": {
+      "dId": "ᤕᤠᤰᤆᤢᤶ",
+      "desc": "/याक्चुम्/",
+      "group": "CD",
+      "mean": "<p>outcropping step land.</p>ढाँड परेको भिरालो जग्गा ।"
+    },
+    "05713": {
+      "dId": "ᤕᤠᤰᤈᤢ",
+      "desc": "/याक्जु/",
+      "group": "CD",
+      "mean": "<p>1. small hoe or mattock; digger; small digging instrument. 2. small bamboo/wooden stick for digging.</p>१. कुटो; खन्ती । २. तिस्कलो; बाँस वा काठको खोस्रने खन्ती (कौलो) ।"
+    },
+    "05714": {
+      "dId": "ᤕᤠᤰᤋ᤺ᤵᤐᤠ/ᤕᤠᤰᤋᤐ᤻ᤐᤠ",
+      "desc": "/याक्तःप्पा/",
+      "group": "CD",
+      "mean": "<p>a kind of edible frog found in highland streams which is used as medicine.</p>लेकाली खोलामा पाइने खान हुने तथा औषधिको रूपमा प्रयोग हुने मनपाहा ।"
+    },
+    "05715": {
+      "dId": "ᤕᤠᤰᤋᤠᤱ",
+      "desc": "/याक्ताङ्/",
+      "group": "CD",
+      "mean": "<p>rocky land.</p>ढुङ्गेन जग्गा; ढाँड ।"
+    },
+    "05716": {
+      "dId": "ᤕᤠᤰᤋᤢᤔᤠ",
+      "desc": "/याक्तुमा/",
+      "group": "CD",
+      "mean": "<p>act of depositing copper sulphate or blue vitriol.</p>उगाल ।"
+    },
+    "05717": {
+      "dId": "ᤕᤠᤰᤌᤢᤱ(ᤒᤠ)",
+      "desc": "/याक्थुङ्(बा)/",
+      "group": "CD",
+      "mean": "<p>Limbu (tribe).</p>लिम्बू (जाति) ।"
+    },
+    "05718": {
+      "dId": "ᤕᤠᤰᤌᤢᤱᤒᤠ",
+      "desc": "/याक्थुङ्बा/",
+      "group": "CD",
+      "mean": "<p>1. (male) Limbu. 2. Limbu tribe/ethic people.</p>१. लिम्बू (पुरुष) । २. लिम्बू जाति ।"
+    },
+    "05719": {
+      "dId": "ᤕᤠᤰᤌᤢᤱᤔᤠ",
+      "desc": "/याक्थुङ्मा/",
+      "group": "CD",
+      "mean": "<p>(female) Limbu.</p>लिम्बूनी ।"
+    },
+    "05720": {
+      "dId": "ᤕᤠᤰᤌᤢᤱᤎᤠᤣ",
+      "desc": "/याक्थुङ्धो/",
+      "group": "CD",
+      "mean": "<p>daydream; reverie.</p>दिवास्वप्न ।"
+    },
+    "05721": {
+      "dId": "ᤕᤠᤰᤌᤧᤒᤠ",
+      "desc": "/याक्थेबा/",
+      "group": "CD",
+      "mean": "<p>grandfather’s great grandfather.</p>बाजेको पनि बराज्यू; पराज्यू ।"
+    },
+    "05722": {
+      "dId": "ᤕᤠᤰᤏᤠ",
+      "desc": "/याक्ना/",
+      "group": "CD",
+      "mean": "<p>chamber; living room.</p>कक्ष; रहने वा राखिने ठाउँ ।"
+    },
+    "05723": {
+      "dId": "ᤕᤠᤰᤏᤠᤶ",
+      "desc": "/याक्नाम्/",
+      "group": "CD",
+      "mean": "<p>state; condition; situation; position.</p>अवस्था ।"
+    },
+    "05724": {
+      "dId": "ᤕᤠᤰᤐᤱᤃᤣ",
+      "desc": "/याक्पङ्गे/",
+      "group": "CD",
+      "mean": "<p>country; nation.</p>राष्ट्र ।"
+    },
+    "05725": {
+      "dId": "ᤕᤠᤰᤐᤱᤃᤣᤒᤠ",
+      "desc": "/याक्पङ्गेबा/",
+      "group": "CD",
+      "mean": "<p>national.</p>राष्ट्रिय ।"
+    },
+    "05726": {
+      "dId": "ᤁᤕᤠᤰᤐᤱᤃᤣᤒᤠ",
+      "desc": "/कप्याक्पङ्गेबा/",
+      "group": "CD",
+      "mean": "<p>international.</p>अन्तराष्ट्रिय ।"
+    },
+    "05727": {
+      "dId": "ᤕᤠᤰᤐᤱᤃᤧᤶ",
+      "desc": "/याक्पङ्गेम्/",
+      "group": "CD",
+      "mean": "<p>nationality; nationalism; national feeling.</p>राष्ट्रियता; राष्ट्रिय भावना ।"
+    },
+    "05728": {
+      "dId": "ᤕᤠᤰᤐᤣᤜᤡ ",
+      "desc": "/याक्पेहि/",
+      "group": "CD",
+      "mean": "<p>bitumen; asphalt; mineral pitch.</p>शिलाजित; ढुङ्गाबाट निसकने कालो पदार्थ ।"
+    },
+    "05729": {
+      "dId": "ᤕᤠᤰᤑᤠ",
+      "desc": "/याक्फा/",
+      "group": "CD",
+      "mean": "<p>class; grade; standard.</p>कक्षा; श्रेणी; स्तर ।"
+    },
+    "05730": {
+      "dId": "ᤕᤠᤰᤑᤠᤛᤠᤣ᤺ᤶ/ᤕᤠᤰᤑᤠᤛᤠᤣᤔ᤻",
+      "desc": "/याक्फासोःम्/",
+      "group": "CD",
+      "mean": "<p>(for the promotion of class) examination; class test.</p>(कक्षागत) परिक्षा; जाँच ।"
+    },
+    "05731": {
+      "dId": "ᤕᤠᤰᤑᤠᤱ",
+      "desc": "/याक्फाङ्/",
+      "group": "CD",
+      "mean": "<p>room; apartment; compartment; chamber; class room.</p>कोठा; कक्ष; कक्षा (कोठा) ।"
+    },
+    "05732": {
+      "dId": "ᤕᤠᤰᤑᤡ᤺ᤳ/ᤕᤠᤰᤑᤡᤋ᤻",
+      "desc": "/याक्फिःत्/",
+      "group": "CD",
+      "mean": "<p>deep gorge.</p>गहिरो खोंच (चेप) ।"
+    },
+    "05733": {
+      "dId": "ᤕᤠᤰᤑᤣ",
+      "desc": "/याक्फे/",
+      "group": "CD",
+      "mean": "<p>bravery; heroism; gallantry; valiance.</p>वीरता; बहादुरी ।"
+    },
+    "05734": {
+      "dId": "ᤕᤠᤰᤑᤣᤒᤠ",
+      "desc": "/याक्फेबा/",
+      "group": "CD",
+      "mean": "<p>brave; gallant; valiant.</p>वीर; बिक्रान्त ।"
+    },
+    "05735": {
+      "dId": "ᤕᤠᤰᤔᤠ",
+      "desc": "/याक्मा/",
+      "group": "CD",
+      "mean": "<p>1. helping verb denoting continuity or progress in a temporary set-up. 2. to be (temporarily/circumstantially). 3. to stay/live (inside/in a place). 4. to stink (due to depositing copper sulphate or blue vitriol). 5. (of odour) to spread; to stink due to contact of other things; to stink/stench/smell ill; to fill with a smell.</p>१. काम भइरहेको अर्थात काम पूरा भइनसकेको अर्थ बुझाउन आउने सहायक क्रियापद । २. रहनु (बस्नु) । ३. (भित्र) हुनु (बस्नु) । ४. उगाल आएर गनाउन्हाउनु; उगाल्नु । ५. गन्ध सर्नु; दुर्गन्धित हुनु; गन्हाउनु ।"
+    },
+    "05736": {
+      "dId": "ᤕᤠᤰᤔᤧᤴᤇᤠ᤹",
+      "desc": "/याक्मेन्छा?/",
+      "group": "CD",
+      "mean": "<p>descendant following five generations; great grandson/daughter of great grandson/daughter; grandson/daughter’s grandson/daughter.</p>खनाति/खनातिनी ।"
+    },
+    "05737": {
+      "dId": "ᤕᤠᤰᤕᤠᤰ",
+      "desc": "/याक्याक्/",
+      "group": "CD",
+      "mean": "<p>slowly; gently; mildly; gradually; softly.</p>बिस्तारै; बिस्तार बिस्तार; बिस्तारैबिस्तारै; बिस्तारो गरेर ।"
+    },
+    "05738": {
+      "dId": "ᤕᤠᤰᤕᤢᤔᤠ",
+      "desc": "/याक्युमा/",
+      "group": "CD",
+      "mean": "<p>grandmother’s grandmother.</p>बज्यैकी बज्यै ।"
+    },
+    "05739": {
+      "dId": "ᤕᤠᤰᤗᤠ",
+      "desc": "/याक्ला/",
+      "group": "CD",
+      "mean": "<p>1. thicket; small bush. 2. taro plant; a kind of non-edible wild arum lily often  used as fodder for the pig.</p>१. (रूखपातको) झाडी । २. सुंगुर आदिको चारोमा प्रयोग हुने मानिसले नखाने एक प्रकारको माने (जङ्गली पिँडालु र त्यसको कर्कलो) ।"
+    },
+    "05740": {
+      "dId": "ᤕᤠᤰᤗᤠᤃᤧᤴᤛᤢᤜᤠᤱ",
+      "desc": "/याक्लागेन्सुहाङ्/",
+      "group": "CD",
+      "mean": "<p>1. most honourable; highly respectable/reverent. 2. excellency.</p>१. परमादरणीय । २. महामहिम ।"
+    },
+    "05741": {
+      "dId": "ᤕᤠᤰᤗᤠᤃᤧᤴ ᤛᤢᤜᤠᤱᤛᤠ᤺",
+      "desc": "/याक्लागेन् सुहाङ्साः/",
+      "group": "CD",
+      "mean": "<p>1. prince; member of the royal family. 2. nobleman; well-bred gentleman; highbrow man. 3. well-bred man. 4. important/prominent person.</p>१. राजकुमार; राजपरिवारको सदस्य । २. घरानिया मानिस; खानदानी व्यक्ति । ३. भद्रभलाद्मी । ४. प्रमुख/महत्वपूर्ण व्यक्ति ।"
+    },
+    "05742": {
+      "dId": "ᤕᤠᤰᤗᤠᤃᤧᤴ ᤛᤢᤜᤠᤱᤛᤠ᤺ᤔᤠ",
+      "desc": "/याक्लागेन् नु सुहाङ्साःमा/",
+      "group": "CD",
+      "mean": "<p>1. princess; a lady of the royal household. 2. a lady of the nobility. 3. a well-bred lady. 4. (fem.) an important (prominent) person.</p>१. राजकुमारी; राजघरानकी महिला । २. घरानिया; खानदानी महिला । ३. भद्र महिला । ४. (स्त्री) प्रमुख महिला ।"
+    },
+    "05743": {
+      "dId": "ᤕᤠᤰᤗᤠᤐᤢᤈᤠ",
+      "desc": "/याक्लापुजा/",
+      "group": "CD",
+      "mean": "<p>caterpillar which abounds in the leaves of yam. or arum lily plant.</p>मानेको पातमा हुने लाभ्रे किरा ।"
+    },
+    "05744": {
+      "dId": "ᤕᤠᤰᤘᤠ",
+      "desc": "/याक्वा/",
+      "group": "CD",
+      "mean": "<p>Eleusine milled with water or after moistening with water esp for millet-beer.</p>जाँड पकाउन पानी सँग ढिकीमा कुटेर फलेको कोदो ।"
+    },
+    "05745": {
+      "dId": "ᤕᤠᤰᤛᤠ",
+      "desc": "/याक्सा/",
+      "group": "CD",
+      "mean": "<p>watchman’s shelter/hut or hovel in a farm, field.</p>(खेत रुङ्न बनाइएको) कटेरो (छाप्रो) ।"
+    },
+    "05746": {
+      "dId": "ᤕᤠᤰᤛᤠ᤺ᤱᤘᤠ/ᤕᤠᤰᤛᤠᤅ᤻ᤘᤠ",
+      "desc": "/याक्साःङ्वा/",
+      "group": "CD",
+      "mean": "<p>small stream; rivulet.</p>खहरे; खोल्सो ।"
+    },
+    "05747": {
+      "dId": "ᤕᤠᤰᤛᤡᤱᤔᤠ",
+      "desc": "/याक्सिङ्मा/",
+      "group": "CD",
+      "mean": "<p>to force/push through each other.</p>हालाहाल गर्नु; घुसाराघुसार गर्नु ।"
+    },
+    "05748": {
+      "dId": "ᤕᤠᤰᤛᤣ᤹",
+      "desc": "/याक्से?/",
+      "group": "CD",
+      "mean": "<p>[Phedape] co-co yam; arum lily.</p>[फेदापे] पिँडालु ।"
+    },
+    "05749": {
+      "dId": "ᤕᤠᤂᤢ᤺ᤱ/ᤕᤠᤂᤢᤅ᤻",
+      "desc": "/याखुःङ्/",
+      "group": "CD",
+      "mean": "<p>[Phedape] river.</p>[फेदापे] नदि ।"
+    },
+    "05750": {
+      "dId": "ᤕᤠᤃᤠᤱᤔᤠ",
+      "desc": "/यागाङ्मा/",
+      "group": "CD",
+      "mean": "<p>clay vessel with nine small holes in. the bottom, used in distilling wine.</p>पैनी; रक्सी पार्दा प्रयोग गरिने पीँधमा नौवटा प्वाल भएको माटोको भाडो; पोटासी ।"
+    },
+    "05751": {
+      "dId": "ᤕᤠᤃᤠᤵᤆᤡ(ᤒᤠ)",
+      "desc": "/यागाप्चि(बा)/",
+      "group": "CD",
+      "mean": "<p>Yeba’s disciple/assistant/subordinate.</p>येबाको सहयोगी चेलो ।"
+    },
+    "05752": {
+      "dId": "ᤕᤠᤃᤠᤣ᤹ᤔᤠ",
+      "desc": "/यागो?मा/",
+      "group": "CD",
+      "mean": "<p>1. to follow. 2. to investigate/research.</p>१. पिछा गर्नु; पछ्याउनु । २. अनुसन्धान गर्नु ।"
+    },
+    "05753": {
+      "dId": "ᤕᤠᤱ",
+      "desc": "/याङ्/",
+      "group": "CD",
+      "mean": "<p>1. money; rupee; currency note. 2. wealth; riches.</p>१. रुपिया । २. धन । "
+    },
+    "05754": {
+      "dId": "ᤕᤠᤱ ᤛᤠᤶᤔᤠᤱ",
+      "desc": "/याङ् साम्माङ्/",
+      "group": "CD",
+      "mean": "<p>god/goddess of wealth.</p>धनको देवता/देवी ।"
+    },
+    "05755": {
+      "dId": "ᤕᤠᤱᤁᤢ᤺:ᤛᤠ",
+      "desc": "/याङ्कुःस्सा/",
+      "group": "CD",
+      "mean": "<p>interest (on a loan) .</p>ब्याज ।"
+    },
+    "05756": {
+      "dId": "ᤕᤠᤱᤃᤠᤶᤒᤠ",
+      "desc": "/याङ्गाम्बा/",
+      "group": "CD",
+      "mean": "<p>income generating; fund rising.</p>आयमुलक ।"
+    },
+    "05757": {
+      "dId": "ᤕᤠᤱᤃᤛᤠ᤹ᤒᤠ/ᤔᤠ",
+      "desc": "/याङ्गसा?बा/मा/",
+      "group": "CD",
+      "mean": "<p>poor; humble.</p>गरीब; दुःखी ।"
+    },
+    "05758": {
+      "dId": "ᤕᤠᤱᤄᤧᤸᤗᤧᤰ",
+      "desc": "/याङ्घेल्लेक्/",
+      "group": "CD",
+      "mean": "<p>half of rupee; fifty pice; eight anna.</p>एक मोहर; पचास पैसा; आठ आना ।"
+    },
+    "05759": {
+      "dId": "ᤕᤠᤱᤗᤧᤰ",
+      "desc": "/याङ्लेक्/",
+      "group": "CD",
+      "mean": "<p>change; coins of small value; little coins.</p>चानचुन पैसा ।"
+    },
+    "05760": {
+      "dId": "ᤕᤠᤱᤗᤧᤰᤐᤠ",
+      "desc": "/याङ्लेक्पा/",
+      "group": "CD",
+      "mean": "<p>moneychanger; banker.</p>सराफी ।"
+    },
+    "05761": {
+      "dId": "ᤕᤠᤱᤛᤠᤗᤡ ",
+      "desc": "/याङ्सालि/",
+      "group": "CD",
+      "mean": "<p>monetary.</p>मौद्रिक; मुद्रासम्बन्धि ।"
+    },
+    "05762": {
+      "dId": "ᤕᤠᤱᤀᤣ᤺ᤱ/ᤕᤠᤱᤀᤣᤅ᤻",
+      "desc": "/याङ्एःङ्/",
+      "group": "CD",
+      "mean": "<p>1. (land) revenue. 2. tax.</p>१. तिरो; मालपोत । २. कर ।"
+    },
+    "05763": {
+      "dId": "ᤕᤠᤱᤀᤣ᤺ᤱᤒᤠ/ᤕᤠᤱᤀᤣᤅ᤻ᤒᤠ",
+      "desc": "/याङ्एःङ्बा/",
+      "group": "CD",
+      "mean": "<p>revenue officer/collector.</p>तिरो उठाउने अधिकारी/सङ्कलक ।"
+    },
+    "05764": {
+      "dId": "ᤕᤠᤱᤃᤠᤰ",
+      "desc": "/याङ्गाक्/",
+      "group": "CD",
+      "mean": "<p>coin. </p>सिक्का । "
+    },
+    "05765": {
+      "dId": "ᤕᤠᤱᤃᤢᤛᤠᤵ",
+      "desc": "/याङ्गुसाप्/",
+      "group": "CD",
+      "mean": "<p>daily note-book; diary.</p>दिनचर्या लेख्ने किताब ।"
+    },
+    "05766": {
+      "dId": "ᤕᤠᤱᤃᤧᤴ",
+      "desc": "/याङ्गेन्/",
+      "group": "CD",
+      "mean": "<p>fare; rent(al); hire.</p>भाडा; बहाल; किराया । "
+    },
+    "05767": {
+      "dId": "ᤕᤠᤱᤃᤧᤶᤒᤠ",
+      "desc": "/याङ्गेम्बा/",
+      "group": "CD",
+      "mean": "<p>rentee; tenant.</p>किरायादार; बहालवाला; भाडा तिरेर बस्ने ।"
+    },
+    "05768": {
+      "dId": "ᤕᤠᤱᤄᤠ᤹",
+      "desc": "/याङ्घा?/",
+      "group": "CD",
+      "mean": "<p>bag.</p>झोला; जाबी ।"
+    },
+    "05769": {
+      "dId": "ᤕᤠᤱᤄᤠᤰᤏᤠᤶᤒᤠ",
+      "desc": "/याङ्घाक्नाम्बा/",
+      "group": "CD",
+      "mean": "<p>a kind of plant, it is offered to the Kappoba Sammang (Bhimsen god). <i>Aingiberacea; Hedychium sp.</i></p>एक प्रकारको बनस्पति, काप्पोबा साम्माङ् (भीमसेन देवता) को पूजा गर्दा चढाइन्छ ।"
+    },
+    "05770": {
+      "dId": "ᤕᤠᤱᤄᤣ᤺ᤰ/ᤕᤠᤱᤄᤣᤁ᤻",
+      "desc": "/याङ्घेःक्/",
+      "group": "CD",
+      "mean": "<p>wound; boil; blister; ulcer; sore.</p>घाउ; खटिरा ।"
+    },
+    "05771": {
+      "dId": "ᤕᤠᤱᤄᤠᤣ᤺ᤵᤔᤠ/ᤕᤠᤱᤄᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/याङ्घोःप्मा/",
+      "group": "CD",
+      "mean": "<p>1. to heap up/stock pile. 2. to store up hoard.</p>१. थुपार्नु । २. जम्मा गर्जु; सन्चय गर्नु । "
+    },
+    "05772": {
+      "dId": "ᤕᤠᤱᤆᤧᤴ",
+      "desc": "/याङ्चेन्/",
+      "group": "CD",
+      "mean": "<p>mint.</p>टक्सार ।"
+    },
+    "05773": {
+      "dId": "ᤕᤠᤱᤈᤡᤰ",
+      "desc": "/याङ्जिक्/",
+      "group": "CD",
+      "mean": "<p>financial; monetary.</p>आर्थिक; मौद्रिक ।"
+    },
+    "05774": {
+      "dId": "ᤕᤠᤱᤈᤡᤰ ᤔᤢᤴᤎᤢᤶ",
+      "desc": "/याङ्जिक् मुन्धुम्/",
+      "group": "CD",
+      "mean": "<p>economics.</p>अर्थशास्त्र ।"
+    },
+    "05775": {
+      "dId": "ᤕᤠᤱᤈᤡᤰ ᤛᤠ᤹ᤔᤧᤵᤐᤠ",
+      "desc": "/याङ्जिक् सा?मेप्पा/",
+      "group": "CD",
+      "mean": "<p>fiscal/finance inspector.</p>राजस्व निरिक्षक ।"
+    },
+    "05776": {
+      "dId": "ᤕᤠᤱᤍ᤺ᤰᤐᤠ/ᤕᤠᤱᤍᤁ᤻ᤐᤠ",
+      "desc": "/याङ्दःक्पा/",
+      "group": "CD",
+      "mean": "<p>wild cat.</p>वनबिरालो ।"
+    },
+    "05777": {
+      "dId": "ᤕᤠᤱᤍᤠᤱ",
+      "desc": "/याङ्दाङ्/",
+      "group": "CD",
+      "mean": "<p>cradle (for a newly-born baby).</p>(नवजात बच्चा राख्ने) कोक्रो ।"
+    },
+    "05778": {
+      "dId": "ᤕᤠᤱᤍᤠᤱ ᤐᤠᤣ᤺ᤰᤔᤠ/ᤐᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/याङ्दाङ् पोःक्मा/",
+      "group": "CD",
+      "mean": "<p>1. (of a new born baby) to see (be brought in the) sunlight for the first time after 3/4 days. 2. (of the name giving ceremony) to be preformed/held; to end the ritual pollution from birth.</p>१. नवजात बच्चाले जन्मेको ३/४ दिन पछि पहिलोपल्ट दिनको उज्यालो देख्नु (सो बच्चा घाममा ल्याइनु) । २. न्वारान हुनु; सुतकबाट चोखिनु ।  "
+    },
+    "05779": {
+      "dId": "ᤕᤠᤱᤍᤠᤱ ᤑᤠᤣ᤺ᤱᤔᤠ/ᤑᤠᤣᤅ᤻ᤔᤠ",
+      "desc": "/याङ्दाङ् फोःङ्मा/",
+      "group": "CD",
+      "mean": "<p>1. to preform/hold the name giving ceremony; to end the ritual pollution from birth. 2. to show sunlight to a new born baby; to bring out in the sunlight. 3. to lift up uakcha* and put into the basket.</p>१. नवजात लाई उज्यालो देखाउनु। २. न्वारान गर्नु/गरिदिनु; सुतकबाट चोख्याउनु ।  ३. याक्चा* उठाउनु वा थुन्सेमा हाल्नु ।"
+    },
+    "05780": {
+      "dId": "ᤕᤠᤱᤍᤧᤴ",
+      "desc": "/याङ्देन्/",
+      "group": "CD",
+      "mean": "<p>treasure(y); store.</p>भण्डार ।"
+    },
+    "05781": {
+      "dId": "ᤕᤠᤱᤍᤧᤶᤒᤠ",
+      "desc": "/याङ्देम्बा/",
+      "group": "CD",
+      "mean": "<p>1. store-keeper; treasurer. 2. a sub-clan of the Limbu Nembang clan.</p>१. भण्डारे; खजान्ची । २. लिम्बू जातिको नेम्बाङ् थरको एक उपथर ।"
+    },
+    "05782": {
+      "dId": "ᤕᤠᤱᤎᤰ",
+      "desc": "/याङ्धक्/",
+      "group": "CD",
+      "mean": "<p>earning; income.</p>कमाइ; आर्जन ।"
+    },
+    "05783": {
+      "dId": "ᤕᤠᤱᤎᤰᤏᤠᤶᤒᤠ",
+      "desc": "/याङ्धक्नाम्बा/",
+      "group": "CD",
+      "mean": "<p>a kind of wild plant. Alpinia malacemus.</p>चुरुम्फा ।"
+    },
+    "05784": {
+      "dId": "ᤕᤠᤱᤎᤠᤱ",
+      "desc": "/याङ्धाङ्/",
+      "group": "CD",
+      "mean": "<p>(n.) bank. (adv.) above; upon.</p>(ना.) बैङ्क । (क्रिवि.) माथि ।"
+    },
+    "05785": {
+      "dId": "ᤕᤠᤱᤏᤠ",
+      "desc": "/याङ्ना/",
+      "group": "CD",
+      "mean": "<p>1. fly. 2. (back) here  (esp towards the speaker).</p>१. झिँगा । २. वर; यता ।"
+    },
+    "05786": {
+      "dId": "ᤕᤠᤱᤏᤠᤱ",
+      "desc": "/याङ्नाङ्/",
+      "group": "CD",
+      "mean": "<p>afterwards; later.</p>पछि; पछिबाट ।"
+    },
+    "05787": {
+      "dId": "ᤕᤠᤱᤏᤡᤒᤠ",
+      "desc": "/याङ्निबा/",
+      "group": "CD",
+      "mean": "<p>small arboreal leopard.</p>रूखचितुवा ।"
+    },
+    "05788": {
+      "dId": "ᤕᤠᤱᤏᤡ᤺ᤶ/ᤕᤠᤱᤏᤡᤔ᤻",
+      "desc": "/याङ्निःम्/",
+      "group": "CD",
+      "mean": "<p>nature.</p>प्रकृति ।"
+    },
+    "05789": {
+      "dId": "ᤕᤠᤱᤏᤠᤣ᤺ᤱ/ᤕᤠᤱᤏᤠᤣᤅ᤻",
+      "desc": "/याङ्नोःङ्/",
+      "group": "CD",
+      "mean": "<p>returning; retrogression; going or coming back.</p>फर्कने काम; पुनरागमन; प्रत्यागमन ।"
+    },
+    "05790": {
+      "dId": "ᤕᤠᤱᤒᤴ",
+      "desc": "/याङ्बन्/",
+      "group": "CD",
+      "mean": "<p>big wasp.</p>ठूलो खालको बारुला ।"
+    },
+    "05791": {
+      "dId": "ᤕᤠᤱᤒᤠ",
+      "desc": "/याङ्बा/",
+      "group": "CD",
+      "mean": "<p>hornet.</p>अरिङ्गाल ।"
+    },
+    "05792": {
+      "dId": "ᤕᤠᤱᤒᤢ",
+      "desc": "/याङ्बु/",
+      "group": "CD",
+      "mean": "<p>amount; capital; sum.</p>साँवा धन; धनराशि; पूँजि ।"
+    },
+    "05793": {
+      "dId": "ᤕᤠᤱᤒᤧᤴ",
+      "desc": "/याङ्बेन्/",
+      "group": "CD",
+      "mean": "<p>a kind of edible arboreal moss/lichen/cryptogannic plant which is boiled with ash and washed then fried with meat and eaten.</p>रुखमा उम्रने खान हुने एक प्रकारको झ्याउ ।"
+    },
+    "05794": {
+      "dId": "ᤕᤠᤱᤓᤢ",
+      "desc": "/याङ्भु/",
+      "group": "CD",
+      "mean": "<p>1. hidden treasure. 2. strmeanth of wealth, riches, treasury.</p>१. गडधन । २. सम्पत्तिको सह ।"
+    },
+    "05795": {
+      "dId": "ᤕᤠᤱᤓᤢᤱᤔᤠ",
+      "desc": "/याङ्भुङ्(मा)/",
+      "group": "CD",
+      "mean": "<p>savings; reserve.</p>बचत; जगेडा ।"
+    },
+    "05796": {
+      "dId": "ᤕᤠᤱᤓᤣ",
+      "desc": "/याङ्भे/",
+      "group": "CD",
+      "mean": "<p>sward.</p>तलबार ।"
+    },
+    "05797": {
+      "dId": "ᤕᤠᤱᤔᤠ",
+      "desc": "/याङ्मा/",
+      "group": "CD",
+      "mean": "<p>1. container (pot etc). 2. ear of crops. 3. to hold/carry sth for use; to take off (tool, weapon etc). 4. to put into. 5. to find/catch/meet at the right moment (people, car etc). 6. to hit at the right spot. 7. to find/get by chance.</p>१. पात्र (भाँडो आदि) । २. अन्नको बाला । ३. (प्रयोगको लागि आफ्नो साथमा) लिनु (राख्नु) । ४. (भाँडोमा) हाल्नु । ५. ठीक समयमा (मान्छे, गाडी आदि) भेट्नु । ६. ठिक ठाँउमा लगाउनु/लाग्ने गरि हान्नु । ७. संयोगले पाउनु ।"
+    },
+    "05798": {
+      "dId": "ᤕᤠᤱᤔᤠᤣ/ᤔᤢ",
+      "desc": "/याङ्मो/मु/",
+      "group": "CD",
+      "mean": "<p>again.</p>फेरि ।"
+    },
+    "05799": {
+      "dId": "ᤕᤠᤱᤕᤠᤱ",
+      "desc": "/याङ्याङ्/",
+      "group": "CD",
+      "mean": "<p>1. light. 2. cheap (light).</p>१. हलुङ्गो । २. सस्तो (हलुङ्गो) ।"
+    },
+    "05800": {
+      "dId": "ᤕᤠᤱᤕᤠᤱᤒᤠ",
+      "desc": "/याङ्याङ्बा/",
+      "group": "CD",
+      "mean": "<p>1. light (in weight). 2. cheap. 3. easy (to deal with).</p>१. हलुङ्गो; हलुको । २. सस्तो (मूल्यमा) । ३. सजिलो; जस्तो भने वा गरे पनि हुने (सजिलो मान्छे) । "
+    },
+    "05801": {
+      "dId": "ᤕᤠᤱᤕᤠᤱᤏᤠ",
+      "desc": "/याङ्याङ्ना/",
+      "group": "CD",
+      "mean": "<p>aluminium (matel). </p>हल्लुङ्गे (धातु); आल्मोनियम ।"
+    },
+    "05802": {
+      "dId": "ᤕᤠᤱᤗᤡᤔᤠ",
+      "desc": "/याङ्लिमा/",
+      "group": "CD",
+      "mean": "<p>a kind of tree. <i>Ficus lacor.</i></p>काभ्रो (रुख) ।"
+    },
+    "05803": {
+      "dId": "ᤕᤠᤱᤗᤢᤱ",
+      "desc": "/याङ्लुङ्/",
+      "group": "CD",
+      "mean": "<p>the game khoppi played with coins.</p>खोपी; एक प्रकारको खेल ।"
+    },
+    "05804": {
+      "dId": "ᤕᤠᤱᤗᤢᤶᤓᤠᤣᤰ",
+      "desc": "/याङ्लुम्भोक्/",
+      "group": "CD",
+      "mean": "<p>bank; treasury; collection of revenue.</p>कोष; ढुकुटी; तहबील; तहसील ।"
+    },
+    "05805": {
+      "dId": "ᤕᤠᤱᤘᤠ",
+      "desc": "/याङ्वा/",
+      "group": "CD",
+      "mean": "<p>pot; vessel; casket; utensil.</p>पात्र; भाँडो ।"
+    },
+    "05806": {
+      "dId": "ᤕᤠᤱᤛᤰ",
+      "desc": "/याङ्सक्/",
+      "group": "CD",
+      "mean": "<p>very small kind of fem.</p>मसिनो खालको उन्यू ।"
+    },
+    "05807": {
+      "dId": "ᤕᤠᤱᤛᤖᤢᤶᤒᤠ",
+      "desc": "/याङ्सरुम्बा/",
+      "group": "CD",
+      "mean": "<p>the third eldest.</p>साहिँलो ।"
+    },
+    "05808": {
+      "dId": "ᤕᤠᤱᤛᤖᤢᤶᤔᤠ",
+      "desc": "/याङ्सरुम्मा/",
+      "group": "CD",
+      "mean": "<p>(fem.) the third eldest.</p>साहिँली ।"
+    },
+    "05809": {
+      "dId": "ᤕᤠᤱᤛᤠ",
+      "desc": "/याङ्सा/",
+      "group": "CD",
+      "mean": "<p>welath.</p>धन ।"
+    },
+    "05810": {
+      "dId": "ᤕᤠᤱᤛᤠ᤹ᤒᤠ",
+      "desc": "/याङ्सा?बा/",
+      "group": "CD",
+      "mean": "<p>(n.) poor creature/guy/fellow. (adj.) poor; wretched; pitiable.</p>१. (बरा) बिचरा/बिचरी । (वि.) गरीब; निर्धन; दुःखी; टीठलाग्दो ।"
+    },
+    "05811": {
+      "dId": "ᤕᤠᤱᤛᤠ᤹ᤔᤠ",
+      "desc": "/याङ्सा?मा/",
+      "group": "CD",
+      "mean": "<p>1. poverty; penury; pancity; scarcity. 2. poor creature/guy/fellow. 3. (fem.) poor; wretched; pitiable. 4. to be poor/helpless. 5. to be poor; to become poor.</p>१. दरिद्रता; गरीबी; निर्धनता । २. (बरा) बिचरा/बिचरी । ३. (स्त्री) गरीब; निर्धन; दुःखी; टीठलाग्दी । ४. असाहय/दीनहीन हुनु । ५. गरीब हुनु ।"
+    },
+    "05812": {
+      "dId": "ᤕᤠᤱᤛᤠᤰ",
+      "desc": "/याङ्साक्/",
+      "group": "CD",
+      "mean": "<p>creeper of lycopodium. Bahunia anguina.</p>नागबेली ।"
+    },
+    "05813": {
+      "dId": "ᤕᤠᤱᤛᤡ ",
+      "desc": "/याङ्सि/",
+      "group": "CD",
+      "mean": "<p>after; afterwards; henceforth; thereafter; later; consequently.</p>पछि; पछिबाट; त्यसपछि ।"
+    },
+    "05814": {
+      "dId": "ᤕᤠᤱᤛᤡᤱᤃᤠᤣ",
+      "desc": "/याङ्सिङ्गो/",
+      "group": "CD",
+      "mean": "<p>figurative term of address used for sisters/daughters.</p>चेलीबेटी वा दिदीबहिनीलाई सम्बोधन गर्दा प्रयोग गरिने (आलङ्कारिक) शब्द ।"
+    },
+    "05815": {
+      "dId": "ᤕᤠᤱᤛᤡᤱᤆᤧᤶ",
+      "desc": "/याङ्सिङ्चेम्/",
+      "group": "CD",
+      "mean": "<p>custom of offering ‘tika’ to or putting the religious mark on the forehead of the son-in-law (bridegroom) along with a formal gift of money during marriage.</p>छोरीको विवाह गरिदिने विधि अन्तर्गत ज्वाइँलाई टिका लगाइदिने दस्तुर ।"
+    },
+    "05816": {
+      "dId": "ᤕᤠᤱᤛᤡᤱᤒᤠ",
+      "desc": "/याङ्सिङ्बा/",
+      "group": "CD",
+      "mean": "<p>a kind of tree (its bark causes irritation/itching when touched). <i>Schima wallichii.</i></p>चिलाउने ।"
+    },
+    "05817": {
+      "dId": "ᤕᤠᤱᤛᤡᤱᤔᤠ",
+      "desc": "/याङ्सिङ्मा/",
+      "group": "CD",
+      "mean": "<p>1. to take up/hold (plough, khukuri etc for use) in one’s hand. 2. to carry for use/take along (with oneself).</p>१. (हलो, खुकुरी आदि) हातमा लिनु । २. साथमा लैजानु ।"
+    },
+    "05818": {
+      "dId": "ᤕᤠᤱᤛᤢ",
+      "desc": "/याङ्सु/",
+      "group": "CD",
+      "mean": "<p>path (way); trail.</p>बाटो; गोहो; गोरेटो ।"
+    },
+    "05819": {
+      "dId": "ᤕᤠᤱᤛᤢ᤺ᤰᤘᤠ/ᤕᤠᤱᤛᤢᤁ᤻ᤘᤠ",
+      "desc": "/याङ्सुःक्वा/",
+      "group": "CD",
+      "mean": "<p>money bag, purse etc.</p>थैली ।"
+    },
+    "05820": {
+      "dId": "ᤕᤠᤱᤛᤢᤶ",
+      "desc": "/याङ्सुम्/",
+      "group": "CD",
+      "mean": "<p>fund.</p>कोष ।"
+    },
+    "05821": {
+      "dId": "ᤕᤠᤱᤛᤢᤶᤒᤠ",
+      "desc": "/याङ्सुम्बा/",
+      "group": "CD",
+      "mean": "<p>collector; cashier; treasurer.</p>तहसीलदार; तहबीलदार ।"
+    },
+    "05822": {
+      "dId": "ᤕᤠᤱᤛᤠᤣᤒᤠ",
+      "desc": "/याङ्सोबा/",
+      "group": "CD",
+      "mean": "<p>(rear/body) guard; a Limbu clan.</p>अङ्गरक्षक; लिम्बूजातिको एक थर ।"
+    },
+    "05823": {
+      "dId": "ᤕᤠᤱᤛᤩᤠ",
+      "desc": "/याङ्स्या/",
+      "group": "CD",
+      "mean": "<p>cash; money.</p>नगद; नगदी; रुपैयाँ-पैसा ।"
+    },
+    "05824": {
+      "dId": "ᤕᤠᤱᤜ᤺ᤰ/ᤕᤠᤱᤜᤁ᤻",
+      "desc": "/याङ्हःक्/",
+      "group": "CD",
+      "mean": "<p>cobra; a kind of poisonous snake.</p>गोमन सर्प ।"
+    },
+    "05825": {
+      "dId": "ᤕᤠᤱᤜᤠᤱ",
+      "desc": "/याङ्हाङ्/",
+      "group": "CD",
+      "mean": "<p>[Phedape] once again; times and again.</p>[फेदापे] फेरि पनि; पेरि ।"
+    },
+    "05826": {
+      "dId": "ᤕᤠᤆᤧᤓᤧ",
+      "desc": "/याचेभे?/",
+      "group": "CD",
+      "mean": "<p>one-seamed tinkling small bells worn by the Yeba behind his waist.</p>येबाले कमरपछाडि बाँध्ने एकमुखे घण्टी ।"
+    },
+    "05827": {
+      "dId": "ᤕᤠᤵᤔᤡ ",
+      "desc": "/याप्मि/",
+      "group": "CD",
+      "mean": "<p>1. man; person. 2. person; individual.</p>१. मानिस । २. व्याक्ति ।"
+    },
+    "05828": {
+      "dId": "ᤕᤠᤒᤠᤣ᤹ᤔᤠ",
+      "desc": "/याबो?मा/",
+      "group": "CD",
+      "mean": "<p>follow.</p>पहिल्याउनु; पिछा गर्नु; पछ्याउनु ।"
+    },
+    "05829": {
+      "dId": "ᤕᤠᤒᤠᤣᤛᤡᤱ",
+      "desc": "/याबोसिङ्/",
+      "group": "CD",
+      "mean": "<p>procrastination; evasion; evading; quibbling.</p>आलटाल; अल्याङ्मल्याङ् ।"
+    },
+    "05830": {
+      "dId": "ᤕᤠᤒᤠᤣᤛᤡᤱᤒᤠ",
+      "desc": "/याबोसिङ्बा/",
+      "group": "CD",
+      "mean": "<p>procrastinator; sluggish/slothful person.</p>आलटाले (मान्छे) । "
+    },
+    "05831": {
+      "dId": "ᤕᤠᤔᤠ",
+      "desc": "/यामा/",
+      "group": "CD",
+      "mean": "<p>to be tickled/titillated; to feel ticklisness.</p>कुतकुती लाग्नु ।"
+    },
+    "05832": {
+      "dId": "ᤕᤠᤶ",
+      "desc": "/याम्/",
+      "group": "CD",
+      "mean": "<p>physique; body (not corps).</p>शरीर; देह ।"
+    },
+    "05833": {
+      "dId": "ᤕᤠᤶᤄᤠᤣ",
+      "desc": "/याम्घो/",
+      "group": "CD",
+      "mean": "<p>punishment; penalty; fine.</p>दण्ड; सजाय ।"
+    },
+    "05834": {
+      "dId": "ᤕᤠᤶᤈᤠᤱ",
+      "desc": "/याम्जाङ्/",
+      "group": "CD",
+      "mean": "<p>1. zeal; ardour; spirit; enthusiasm. 2. (physical) exercise.</p>१. उत्साह; स्फुर्ति ।२. कसरत ।"
+    },
+    "05835": {
+      "dId": "ᤕᤠᤶᤈᤠᤱᤔᤠ",
+      "desc": "/याम्जाङ्मा/",
+      "group": "CD",
+      "mean": "<p>1. to do physical exercise. 2. to inspire/motivate.</p>१. कसरत गर्नु । २. प्रेरणा दिनु ।"
+    },
+    "05836": {
+      "dId": "ᤕᤠᤶᤈᤠᤱᤘᤠ",
+      "desc": "/याम्जाङ्वा/",
+      "group": "CD",
+      "mean": "<p>inspiration/motivation.</p>प्रेरणा; प्रोत्साहन ।"
+    },
+    "05837": {
+      "dId": "ᤕᤠᤶᤈᤡᤰ",
+      "desc": "/याम्जिक्/",
+      "group": "CD",
+      "mean": "<p>health.</p>स्वास्थ्य ।"
+    },
+    "05838": {
+      "dId": "ᤕᤠᤶᤈᤡᤰᤁᤡᤒᤠ",
+      "desc": "/याम्जिक्किबा/",
+      "group": "CD",
+      "mean": "<p>hygienic; related to health/hygiene.</p>स्वास्थ्यवर्धक; स्वास्थ्य सँग सम्बद्ध ।"
+    },
+    "05839": {
+      "dId": "ᤕᤠᤶᤈᤢᤰ",
+      "desc": "/याम्जुक्/",
+      "group": "CD",
+      "mean": "<p>responsibility.</p>दायित्व; जिम्मेवारी ।"
+    },
+    "05840": {
+      "dId": "ᤕᤠᤶᤈᤢᤖᤢᤶᤑᤢᤱ",
+      "desc": "/याम्जुरुम्फुङ्/",
+      "group": "CD",
+      "mean": "<p>season.</p>ऋतु ।"
+    },
+    "05841": {
+      "dId": "ᤕᤠᤶᤍᤠᤱ",
+      "desc": "/याम्दाङ्/",
+      "group": "CD",
+      "mean": "<p>peace; calmness; serenity; law and order.</p>शान्ति; अमन चैन ।"
+    },
+    "05842": {
+      "dId": "ᤕᤠᤶᤍᤠᤱᤘᤠ",
+      "desc": "/याम्दाङ्वा/",
+      "group": "CD",
+      "mean": "<p>sympathy.</p>सान्तावना; सहानुभुति; हमदर्दी ।"
+    },
+    "05843": {
+      "dId": "ᤕᤠᤶᤍᤢᤰᤔᤠ",
+      "desc": "/याम्दुक्मा/",
+      "group": "CD",
+      "mean": "<p>to be/get/fall ill/sick; to suffer from disease (fever, illness etc).</p>बिसन्चो हुनु; बिरामी हुनु ।"
+    },
+    "05844": {
+      "dId": "ᤕᤠᤶᤍᤢ᤺ᤰᤁᤣ/ᤕᤠᤶᤍᤢᤁ᤻ᤁᤣ",
+      "desc": "/याम्दुःक्के/",
+      "group": "CD",
+      "mean": "<p>towel.</p>रुमाल; गम्छा; तौलिया ।"
+    },
+    "05845": {
+      "dId": "ᤕᤠᤶᤍᤠᤣ᤺ᤴ/ᤕᤠᤶᤍᤠᤣᤏ᤻",
+      "desc": "/याम्दोःन्/",
+      "group": "CD",
+      "mean": "<p>report.</p>प्रतिवेदन ।"
+    },
+    "05846": {
+      "dId": "ᤕᤠᤶᤎᤠᤛᤠᤱ",
+      "desc": "/याम्धासाङ्/",
+      "group": "CD",
+      "mean": "<p>auspicious moment; good omen.</p>शुभ मुहुर्त/घडी; साइत ।"
+    },
+    "05847": {
+      "dId": "ᤕᤠᤶᤎᤢᤶ",
+      "desc": "/याम्धुम्/",
+      "group": "CD",
+      "mean": "<p>power; strmeanth.</p>बल; शक्ति;शौर्य ।"
+    },
+    "05848": {
+      "dId": "ᤕᤠᤶᤎᤢᤰᤒᤠ",
+      "desc": "/याम्धुम्बा/",
+      "group": "CD",
+      "mean": "<p>powerful; strong; potent.</p>बलियो; बलशाली; तागतदार ।"
+    },
+    "05849": {
+      "dId": "ᤕᤠᤶᤎᤠᤣ᤺ᤰ ᤛᤡᤱ/ᤕᤠᤰᤎᤠᤣᤁ᤻ ᤛᤡᤱ",
+      "desc": "/याम्धोःक् सिङ्/",
+      "group": "CD",
+      "mean": "<p>a kind of rhododendron arboreum, the white-flowered rhododendron used to worship Himsammang.</p>चिमल; हिम्साम्माङ्को पूजामा चाहिने पाते फूल ।"
+    },
+    "05850": {
+      "dId": "ᤕᤠᤶᤏᤠᤖᤠ",
+      "desc": "/याम्नारा/",
+      "group": "CD",
+      "mean": "<p>1. face; countenance. 2. corporeal/visible (with shape and form).</p>१. मुहार/अनुहार । २. साकार; दृष्यमान ।"
+    },
+    "05851": {
+      "dId": "ᤕᤠᤶᤏᤠᤖᤠᤐᤣᤜᤴ",
+      "desc": "/याम्नारापेहन्/",
+      "group": "CD",
+      "mean": "<p>unfolding; opening; releasing; release.</p>विमोचन ।"
+    },
+    "05852": {
+      "dId": "ᤕᤠᤶᤏᤡᤱᤘᤠ",
+      "desc": "/याम्निङ्वा?/",
+      "group": "CD",
+      "mean": "<p>view; opinion.</p>मन्तव्य; निजि विचार ।"
+    },
+    "05853": {
+      "dId": "ᤕᤠᤶᤏᤡ᤺ᤶ/ᤕᤠᤶᤏᤡᤔ᤻",
+      "desc": "/याम्निःम्/",
+      "group": "CD",
+      "mean": "<p>feeling.</p>अनुभुति ।"
+    },
+    "05854": {
+      "dId": "ᤕᤠᤶᤏᤢ᤹ᤔᤠ",
+      "desc": "/याम्नु?मा/",
+      "group": "CD",
+      "mean": "<p>to get well; to recover (from illness).</p>सन्चो हुनु ।"
+    },
+    "05855": {
+      "dId": "ᤕᤠᤶ ᤐᤠᤣ᤺ᤱ/ᤐᤠᤣᤅ᤻",
+      "desc": "/याम् पोःङ्/",
+      "group": "CD",
+      "mean": "<p>1. puissance; divine/spiritual power. 2. prowess; valour; strmeanth; heroism; gallantry; valiance; bravery.</p>१. शक्ति; दिव्य/आत्मशक्ति । २. पराक्रम ।"
+    },
+    "05856": {
+      "dId": "ᤕᤠᤶᤒᤡᤳᤇᤠ᤹",
+      "desc": "/याम्बित्छा?/",
+      "group": "CD",
+      "mean": "<p>man; male (person).</p>लोग्नेमान्छे ।"
+    },
+    "05857": {
+      "dId": "ᤕᤠᤶᤒᤢᤎᤡᤰ",
+      "desc": "/याम्बुधिक्/",
+      "group": "CD",
+      "mean": "<p>diligence; industry; assiduity; hard labour/work.</p>मिहिनेत; परिश्रम ।"
+    },
+    "05858": {
+      "dId": "ᤕᤠᤶᤒᤣ",
+      "desc": "/याम्बे/",
+      "group": "CD",
+      "mean": "<p>1. subject (matter); plot; theme. 2. about; on; regarding.</p>१. विषय (वस्तु) । २. बारे ।"
+    },
+    "05859": {
+      "dId": "ᤕᤠᤶᤓᤏᤠ",
+      "desc": "/याम्भना/",
+      "group": "CD",
+      "mean": "<p>mustard (yellow) seed.</p>सरस्यूँ ।"
+    },
+    "05860": {
+      "dId": "ᤕᤠᤶᤓᤠᤣᤓᤧᤰᤐᤠ",
+      "desc": "/याम्भोधेक्पा/",
+      "group": "CD",
+      "mean": "<p>consumer; user.</p>उपभोक्ता ।"
+    },
+    "05861": {
+      "dId": "ᤕᤠᤶᤔᤠᤣ/ᤔᤢ",
+      "desc": "/याम्मो/मु/",
+      "group": "CD",
+      "mean": "<p>again; once again/more.</p>फेरि; पुनः ।"
+    },
+    "05862": {
+      "dId": "ᤕᤠᤶᤖᤰᤐᤠ",
+      "desc": "/याम्रक्वा/",
+      "group": "CD",
+      "mean": "<p>organism.</p>जीव ।"
+    },
+    "05863": {
+      "dId": "ᤕᤠᤶᤗᤰ",
+      "desc": "/याम्लक्/",
+      "group": "CD",
+      "mean": "<p>parts (of body).</p>अवयव; अङ्गप्रत्यङ्ग ।"
+    },
+    "05864": {
+      "dId": "ᤕᤠᤶᤗᤰᤘᤠ",
+      "desc": "/याम्लक्वा/",
+      "group": "CD",
+      "mean": "<p>mechanism; instrument.</p>(सं)यन्त्र ।"
+    },
+    "05865": {
+      "dId": "ᤕᤠᤶᤗᤰᤘᤠᤒᤠ",
+      "desc": "/याम्लक्वाबा/",
+      "group": "CD",
+      "mean": "<p>mechanical.</p>यान्त्रिक ।"
+    },
+    "05866": {
+      "dId": "ᤕᤠᤶᤗᤰᤗᤰ",
+      "desc": "/याम्लक्लक्/",
+      "group": "CD",
+      "mean": "<p>mechanically.</p>यन्त्रवत् ।"
+    },
+    "05867": {
+      "dId": "ᤕᤠᤶᤗᤠ᤺ᤰᤘᤠ᤹/ᤕᤠᤶᤗᤠᤁ᤻ᤘᤠ᤹",
+      "desc": "/याम्लाःक्वा?/",
+      "group": "CD",
+      "mean": "<p>a kind of Himalayan pheasant. <i>Tragopan.</i></p>मुनाल चरा ।"
+    },
+    "05868": {
+      "dId": "ᤕᤠᤶᤛᤠᤱ",
+      "desc": "/याम्साङ्/",
+      "group": "CD",
+      "mean": "<p>sprinkling over/of holy water while worshiping.</p>पूजा गर्दा थान वरिपरि बेलाबेला अभिषेचन गर्ने काम; (पवित्र जलको) अभिषेचन ।"
+    },
+    "05869": {
+      "dId": "ᤕᤠᤶᤛᤠᤶ",
+      "desc": "/याम्साम्/",
+      "group": "CD",
+      "mean": "<p>being; spiritual essence in man, sentient soul.</p>जीवात्मा ।"
+    },
+    "05870": {
+      "dId": "ᤕᤠᤶᤛᤡ᤹ ",
+      "desc": "/याम्सि?/",
+      "group": "CD",
+      "mean": "<p>louse (found in the human body).</p>(जीउमा हुने) जुम्रा ।"
+    },
+    "05871": {
+      "dId": "ᤕᤠᤶᤛᤡᤱ",
+      "desc": "/याम्सिङ्/",
+      "group": "CD",
+      "mean": "<p>hatred;; abhorrence; loathing; disgust.</p>घृणा ।"
+    },
+    "05872": {
+      "dId": "ᤕᤠᤶᤛᤡᤱᤒᤠ",
+      "desc": "/याम्सिङ्बा/",
+      "mean": "<p>hateful; abhorrent; loathsome; disgusting.</p>घिनलाग्दो; बीभत्स ।"
+    },
+    "05873": {
+      "dId": "ᤕᤠᤶᤛᤡᤱᤔᤠ",
+      "desc": "/याम्सिङ्मा/",
+      "group": "CD",
+      "mean": "<p>to feel abhorrence/disgust; to hate/dislike/disgust/loathe/abhor.</p>घिन लाग्नु ।"
+    },
+    "05874": {
+      "dId": "ᤕᤠᤶᤛᤢᤶ",
+      "desc": "/याम्सुम्/",
+      "group": "CD",
+      "mean": "<p>subjective.</p>आत्मपरक ।"
+    },
+    "05875": {
+      "dId": "ᤕᤠᤶᤛᤣᤛᤣ",
+      "desc": "/याम्सेसे/",
+      "group": "CD",
+      "mean": "<p>purity.</p>शुद्धता; पवित्रता ।"
+    },
+    "05876": {
+      "dId": "ᤕᤠᤶᤛᤣᤘᤠ",
+      "desc": "/याम्सेवा/",
+      "group": "CD",
+      "mean": "<p>prayer for peace.</p>शान्तिपाठ वा प्रार्थना ।"
+    },
+    "05877": {
+      "dId": "ᤕᤠᤶᤛᤧ᤺ᤔᤠ",
+      "desc": "/याम्सेःमा/",
+      "group": "CD",
+      "mean": "<p>peace.</p>शान्ति ।"
+    },
+    "05878": {
+      "dId": "ᤕᤠᤶᤛᤠᤣᤏᤠ ᤑᤢᤱ",
+      "desc": "/याम्सोना फुङ्/",
+      "group": "CD",
+      "mean": "<p>velvet flower.</p>मखमली फूल ।"
+    },
+    "05879": {
+      "dId": "ᤕᤠᤶᤛᤧᤴ",
+      "desc": "/याम्सेन्/",
+      "group": "CD",
+      "mean": "<p>limbs; bodily organs.</p>अङ्ग प्रत्यङ्ग ।"
+    },
+    "05880": {
+      "dId": "ᤕᤠᤕᤠᤰ",
+      "desc": "/यायाक्/",
+      "group": "CD",
+      "mean": "<p>slowly; lightly.</p>हल्कासित ।"
+    },
+    "05881": {
+      "dId": "ᤕᤠᤕᤠᤣ",
+      "desc": "/यायो/",
+      "group": "CD",
+      "mean": "<p>leaf mustard. <i>Brassica juncea.</i></p>रायो(को) साग ।"
+    },
+    "05882": {
+      "dId": "ᤕᤠᤕᤧᤶᤍᤠᤱ(ᤒᤠ)",
+      "desc": "/यायेम्दाङ्(बा)/",
+      "group": "CD",
+      "mean": "<p>priest’s host/client.</p>यजमान ।"
+    },
+    "05883": {
+      "dId": "ᤕᤠᤖᤠᤵᤔᤠ",
+      "desc": "/याराप्मा/",
+      "group": "CD",
+      "mean": "<p>to whet; to sharpen; to make sharp.</p>उध्याउनु ।"
+    },
+    "05884": {
+      "dId": "ᤕᤠᤖᤡᤰ",
+      "desc": "/यारिक्/",
+      "group": "CD",
+      "mean": "<p>as much as; how much (quantity).</p>जति; कतिजति (परिमाण जनाउने) ।"
+    },
+    "05885": {
+      "dId": "ᤕᤠᤖᤡᤵ",
+      "desc": "/यारिप्/",
+      "group": "CD",
+      "mean": "<p>readiness; preparation; promptness.</p>तयारी ।"
+    },
+    "05886": {
+      "dId": "ᤕᤠᤖᤡᤶᤛᤣ᤹",
+      "desc": "/यारिम्से/",
+      "group": "CD",
+      "mean": "<p>date palm; its fruit.</p>खजुर; खजुरको फल ।"
+    },
+    "05887": {
+      "dId": "ᤕᤠᤷᤗᤡᤱ",
+      "desc": "/यार्लिङ्/",
+      "group": "CD",
+      "mean": "<p>1. ear-ring. 2. pendant; ornament dangling form the love of ear.</p>१. यार्लिङ् । २. लुर्कन (गहना); लोतीमा झुण्ड्याएर लगाइने गहना ।"
+    },
+    "05888": {
+      "dId": "ᤕᤠᤛᤃᤧᤰᤐᤠ",
+      "desc": "/यासगेक्पा/",
+      "group": "CD",
+      "mean": "<p>pimple.</p>डन्डीफोर ।"
+    },
+    "05889": {
+      "dId": "ᤕᤠᤛᤠ᤹",
+      "desc": "/यासा?/",
+      "group": "CD",
+      "mean": "<p>a kind of large deer; Himalayan chamois.</p>थार ।"
+    },
+    "05890": {
+      "dId": "ᤕᤠᤛᤢᤒᤠ",
+      "desc": "/यासुबा/",
+      "group": "CD",
+      "mean": "<p>rocky deer; the Himalayan wild goat.</p>घोरल ।"
+    },
+    "05891": {
+      "dId": "ᤕᤠᤛᤠᤣ᤺ᤰ/ᤕᤠᤛᤠᤣᤁ᤻",
+      "desc": "/यासोःक्/",
+      "group": "CD",
+      "mean": "<p>the main pilgrimage of the Kirant Limbus (situated in Panchthar district of Nepal).</p>किराँत लिम्बू जातिको मुख्य तीर्थस्थल (वर्तमान नेपालको पाँचथर जिल्लामा अवस्थित) ।"
+    },
+    "05892": {
+      "dId": "ᤕᤠᤜᤠᤱ",
+      "desc": "/याहाङ्/",
+      "group": "CD",
+      "mean": "<p>late; in late hour.</p>ढिलो; अबेला ।"
+    },
+    "05893": {
+      "dId": "ᤕᤠ᤺ᤰ/ᤕᤠᤁ᤻",
+      "desc": "/याःक्/",
+      "group": "CD",
+      "mean": "<p>1. suffix denoting this/that much etc. 2. remains; remaining. 3. [Phedape] gift; present. 4. anger; fury; wrath; bile; ill-temper.</p>१. ‘यति’, ‘उति’ आदि अर्थ बुझाउन प्रयोग हुने प्रत्यय । २. बाँकि; रहलपहल । ३. [फेदापे] उपहार; कोसेली । ४. रिस; क्रोध ।"
+    },
+    "05894": {
+      "dId": "ᤕᤠ᤺ᤰᤂᤠ/ᤕᤠᤁ᤻ᤂᤠ",
+      "desc": "/याःक्खा/",
+      "group": "CD",
+      "mean": "<p>[Phedape] forest; jungle.</p>[फेदापे] वन; जङ्गल ।"
+    },
+    "05895": {
+      "dId": "ᤕᤠ᤺ᤰᤋᤢ/ᤕᤠᤁ᤻ᤋᤢ",
+      "desc": "/याःक्तु/",
+      "group": "CD",
+      "mean": "<p>a word denoting “enough, sufficient, it’s ok” etc; a polite way of refusing things esp food.</p>(पर्याप्त) भयो; यत्ति नै बस ! आदि विनम्रतापूर्वक बुझाउने शब्द ।"
+    },
+    "05896": {
+      "dId": "ᤕᤠ᤺ᤰᤔᤠ/ᤕᤠᤁ᤻ᤔᤠ",
+      "desc": "/याःक्मा/",
+      "group": "CD",
+      "mean": "<p>to stay up somewhere; to be/get stuck/held up/detained somewhere.</p>पछि रहनु; अल्झृर रहनु/बस्नु ।"
+    },
+    "05897": {
+      "dId": "ᤕᤠ᤺ᤰᤗᤠ/ᤕᤠᤁ᤻ᤗᤠ",
+      "desc": "/याःक्ला/",
+      "group": "CD",
+      "mean": "<p>the sign of equal to (=).</p>बराबर (=) चिन्ह ।"
+    },
+    "05898": {
+      "dId": "ᤕᤠ᤺ᤰᤘᤠ/ᤕᤠᤁ᤻ᤘᤠ",
+      "desc": "/याःक्वा/",
+      "group": "CD",
+      "mean": "<p>seed(lings).</p>बीउ; बीउबिजन ।"
+    },
+    "05899": {
+      "dId": "ᤕᤠ᤺ᤱᤃᤢᤍᤧᤶ/ᤕᤠᤅ᤻ᤃᤢᤍᤧᤶ",
+      "desc": "/याःङ्गुदेम्/",
+      "group": "CD",
+      "mean": "<p>gravitation; gravitational pull.</p>गुरुत्वाकर्षण ।"
+    },
+    "05900": {
+      "dId": "ᤕᤠ᤺ᤱᤄᤴ/ᤕᤠᤅ᤻ᤄᤴ",
+      "desc": "/याःङ्घन्/",
+      "group": "CD",
+      "mean": "<p>farming; cultivation; agriculture.</p>कृषि; खेतीपाती ।"
+    },
+    "05901": {
+      "dId": "ᤕᤠ᤺ᤱᤄᤶᤒᤠ/ᤕᤠᤅ᤻ᤄᤶᤒᤠ",
+      "desc": "/याःङ्घम्बा/",
+      "group": "CD",
+      "mean": "<p>peasant; farmer; cultivator.</p>किसान; कृषक; खृतीवाल; खेती कमाउने ।"
+    },
+    "05902": {
+      "dId": "ᤕᤠ᤺ᤱᤄᤠ/ᤕᤠᤅ᤻ᤄᤠ",
+      "desc": "/याःङ्घा/",
+      "group": "CD",
+      "mean": "<p>bag.</p>झोला ।"
+    },
+    "05903": {
+      "dId": "ᤕᤠ᤺ᤱᤄᤠᤣ᤺ᤰ/ᤕᤠᤅ᤻ᤄᤠᤣᤁ᤻",
+      "desc": "/याःङ्धोःक्/",
+      "group": "CD",
+      "mean": "<p>halting place; a place for staying overnight.</p>वास ।"
+    },
+    "05904": {
+      "dId": "ᤕᤠ᤺ᤱᤄᤠᤣ᤺ᤰᤔᤠ/ᤕᤠᤅ᤻ᤄᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/याःङ्धोःक्मा/",
+      "group": "CD",
+      "mean": "<p>to lodge for the night; to stay overnight.</p>राति वास बस्नु ।"
+    },
+    "05905": {
+      "dId": "ᤕᤠ᤺ᤱᤔᤠ/ᤕᤠᤅ᤻ᤔᤠ",
+      "desc": "/याःङ्मा/",
+      "group": "CD",
+      "mean": "<p>1. to shudder/get frightened (due to height). 2. [Phedape] to move/remove/shift.</p>१. कहाली लाग्नु; (अग्लो ठाउँबाट लडिन्छ कि भनेर) डर लाग्नु; च्यूँ- च्यूँ हुनु । २. [फेदापे] (अर्को ठाउँमा/पर/वरपर) सार्नु ।"
+    },
+    "05906": {
+      "dId": "ᤕᤠ᤺ᤱᤛ᤺ᤰᤛ᤺ᤰᤐᤠ/ᤕᤠᤅ᤻ᤛᤁ᤻ᤛᤁ᤻ᤐᤠ",
+      "desc": "/याःङ्सःक्सःक्पा/",
+      "group": "CD",
+      "mean": "<p>loose.</p>खुकुलो ।"
+    },
+    "05907": {
+      "dId": "ᤕᤠ᤺ᤴ/ᤕᤠᤏ᤻",
+      "desc": "/याःन्/",
+      "group": "CD",
+      "mean": "<p>1. grass; weed. 2. (cultivable/arable) land/field.</p>१. घाँस; झार । २. बारी; पाखाबारी ।"
+    },
+    "05908": {
+      "dId": "ᤔᤕᤠ᤺ᤴᤏᤡᤒᤠ/ᤔᤕᤠᤏ᤻ᤏᤡᤒᤠ",
+      "desc": "/मयाःन्निबा/",
+      "group": "CD",
+      "mean": "<p>agricultural.</p>कृषिप्रधान; कृषिजन्य ।"
+    },
+    "05909": {
+      "dId": "ᤕᤠ᤺ᤴᤇᤡᤱᤔᤠ/ᤕᤠᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/याःन्छिङ्मा/",
+      "group": "CD",
+      "mean": "<p>to be active/overjoyed; to boast.</p>फुर्ती/चुरीफुरी गर्नु ।"
+    },
+    "05910": {
+      "dId": "ᤕᤠ᤺ᤴᤍᤡᤰ/ᤕᤠᤏ᤻ᤍᤡᤰ",
+      "desc": "/याःन्दिक्/",
+      "group": "CD",
+      "mean": "<p>leisure; spare/free time.</p>फुर्सत ।"
+    },
+    "05911": {
+      "dId": "ᤕᤠ᤺ᤴᤎᤠ᤹/ᤕᤠᤏ᤻ᤎᤠ᤹",
+      "desc": "/याःन्धा?/",
+      "group": "CD",
+      "mean": "<p>1. allotted farming job; series/succession of work; a day’s work. 2. fixed/allotted task; deputation.</p>१. मेलो; मेलापात; खेतीपाती; कृषिकार्य । २. कुनै निर्दिष्ट काम ।"
+    },
+    "05912": {
+      "dId": "ᤕᤠ᤺ᤴᤎᤠ᤹ᤛᤠᤱ/ᤕᤠᤏ᤻ᤎᤠ᤹ᤛᤠᤱ",
+      "desc": "/याःन्धा?साङ्/",
+      "group": "CD",
+      "mean": "<p>auspicious/right/opportune moment.</p>शुभ अवसर/घडी; साइत; शुभ मुहुर्त । "
+    },
+    "05913": {
+      "dId": "ᤕᤠ᤺ᤵᤐᤠ/ᤕᤠᤐ᤻ᤐᤠ",
+      "desc": "/याःप्पा/",
+      "group": "CD",
+      "mean": "<p>edible leaves of buck-wheat. <i>Fagopyrum esculentum.</i></p>फापरको साग ।"
+    },
+    "05914": {
+      "dId": "ᤕᤠ᤺ᤵᤔ᤺ᤔᤠ/ᤕᤠᤐ᤻ᤔ᤺ᤔᤠ",
+      "desc": "/याःप्मःमा/",
+      "group": "CD",
+      "mean": "<p>to dig up the farm/land.</p>बारी खन्नु ।"
+    },
+    "05915": {
+      "dId": "ᤕᤠ᤺ᤵᤔᤠ/ᤕᤠᤐ᤻ᤔᤠ",
+      "desc": "/याःप्मा/",
+      "group": "CD",
+      "mean": "<p>1. (of cattle) to groan/moan/whine. 2. to scream/shriek. 3. (of a patient) to groan. 4. to be (indicating degree, quantity or size only, eg: how big, how much etc).</p>१. बस्तुभाउ कराउनु/चटारिएर कराउनु । २. आत्तिएर कराउनु । ३. (बिरामी) हँ… हँ… गर्दै कराउनु । ४. (मात्रात्मक वा परिमाणात्मक मात्रा, जस्तै- कत्रो, कति आदि बोधक) हुनु ।"
+    },
+    "05916": {
+      "dId": "ᤕᤠ᤺ᤔᤠ",
+      "desc": "/याःमा/",
+      "group": "CD",
+      "mean": "<p>1. to be tickled; to recoil. 2. to shiver/tremble.</p>१. कुतकुती लाग्नु । २. आङ जिरिङ्ग हुनु (काम्नु) ।"
+    },
+    "05917": {
+      "dId": "ᤕᤠ᤺ᤶᤈᤠᤣ/ᤕᤠᤔ᤻ᤈᤠᤣ",
+      "desc": "/याःम्जो/",
+      "group": "CD",
+      "mean": "<p>1. service; work; employment. 2. agenda.</p>१. सेवा; वृत्ति; काम; चाकरी; रोजगारी । २. कार्यससची ।"
+    },
+    "05918": {
+      "dId": "ᤕᤠ᤺ᤶᤈᤠᤣᤒᤠ/ᤕᤠᤔ᤻ᤈᤠᤣᤒᤠ",
+      "desc": "/याःम्जोबा/",
+      "group": "CD",
+      "mean": "<p>employed.</p>कार्य गर्ने; रोजगार प्राप्त; सेवारत ।"
+    },
+    "05919": {
+      "dId": "ᤕᤠ᤺ᤶᤈᤠᤣᤜᤠᤣ᤺ᤵᤐᤠ/ᤕᤠᤔ᤻ᤈᤠᤣᤜᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/याःम्जोहोःप्पा/",
+      "group": "CD",
+      "mean": "<p>unemployed; jobless.</p>बेकार; बेरोजगार ।"
+    },
+    "05920": {
+      "dId": "ᤕᤠ᤺ᤶᤒᤰ/ᤕᤠᤔ᤻ᤒᤰ",
+      "desc": "/याःम्बक्/",
+      "group": "CD",
+      "mean": "<p>1. work; business. 2. profession; vocation; occupation.</p>१. काम; कामकुरो । २. व्यवसाय ।"
+    },
+    "05921": {
+      "dId": "ᤕᤠ᤺ᤶᤒᤰᤗᤠᤒᤠ/ᤕᤠᤔ᤻ᤒᤰᤗᤠᤒᤠ",
+      "desc": "/याःम्बक्लाबा/",
+      "group": "CD",
+      "mean": "<p>1. practical; practicable; pragmatic. 2. useful.</p>१. व्यावहारिक । २. उपयोगी ।"
+    },
+    "05922": {
+      "dId": "ᤔᤠᤕᤠ᤺ᤶᤒᤰ/ᤔᤠᤕᤠᤔ᤻ᤒᤰ",
+      "desc": "/मायाःम्बक्/",
+      "group": "CD",
+      "mean": "<p>main/major work; duty.</p>मूलकार्य; कर्तव्य ।"
+    },
+    "05923": {
+      "dId": "ᤕᤠ᤺ᤶᤓᤠᤣ/ᤕᤠᤔ᤻ᤓᤠᤣ",
+      "desc": "/याःम्भो/",
+      "group": "CD",
+      "mean": "<p>issue; contention; problem.</p>समस्या; मुद्धा ।"
+    },
+    "05924": {
+      "dId": "ᤕᤠ᤺ᤶᤔᤠ/ᤕᤠᤔ᤻ᤔᤠ",
+      "desc": "/याःम्मा/",
+      "group": "CD",
+      "mean": "<p>1. [Phedape] (water, meat, food etc) to heat up; to be heated/hot with anger. 2. to influence. 3. to accomplish; to be able (to do); to succeed.</p>१. [फेदापे] तात्नु (पानी, मासु, खाना आदि); रिसले तात्नु । २. असर पार्नु; प्रभाव पार्नु । ३. (गर्न) सक्नु; सामर्थ हुनु ।"
+    },
+    "05925": {
+      "dId": "ᤕᤠ᤺ᤶᤔᤠᤣᤀᤡ/ᤕᤠᤔ᤻ᤔᤠᤣᤀᤡ ",
+      "desc": "/याःम्मोइ/",
+      "group": "CD",
+      "mean": "<p>farming; crop plantation.</p>खेती; खेतीपाती ।"
+    },
+    "05926": {
+      "dId": "ᤕᤠ᤺ᤖᤖᤖ",
+      "desc": "/याःररर/",
+      "group": "CD",
+      "mean": "<p>manner of growling.</p>ङुर्र ।"
+    },
+    "05927": {
+      "dId": "ᤕᤠ᤺ᤸᤗᤧᤰ/ᤕᤠᤗ᤻ᤗᤧᤰ",
+      "desc": "/याःल्लेक्/",
+      "group": "CD",
+      "mean": "<p>farm hand; hired farm labour.</p>खेताला ।"
+    },
+    "05928": {
+      "dId": "ᤕᤠ᤺ᤜᤡ ",
+      "desc": "/याःहि/",
+      "group": "CD",
+      "mean": "<p>haze.</p>तुँवालो ।"
+    }
+  }
+}

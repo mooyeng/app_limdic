@@ -1,0 +1,274 @@
+{
+  "Dic": {
+    "06003": {
+      "dId": "ᤕᤣᤀᤡᤱᤛᤠ",
+      "desc": "/येइङ्सा/",
+      "group": "CF",
+      "mean": "<p>1. famous person; celebrity. 2. wise man.</p>१. प्रसिद्ध व्यक्ति । २. विद्वान ।"
+    },
+    "06004": {
+      "dId": "ᤕᤣᤀᤡᤱᤛᤠᤒᤠ",
+      "desc": "/येइङ्साबा/",
+      "group": "CF",
+      "mean": "<p>secretary.</p>सचिव ।"
+    },
+    "06005": {
+      "dId": "ᤕᤠᤣ",
+      "desc": "/यो/",
+      "group": "CF",
+      "mean": "<p>down(ward); below.</p>उँधो; तल(तिर) ।"
+    },
+    "06006": {
+      "dId": "ᤕᤠᤣ᤹ᤔᤠ",
+      "desc": "/यो?मा/",
+      "group": "CF",
+      "mean": "<p>to supplement/add/refill (dish etc).</p>थप्नु (खानेकुरा, चीजबीज आदि) ।"
+    },
+    "06007": {
+      "dId": "ᤕᤠᤣᤁᤠᤣ᤺ᤴᤍᤠ/ᤕᤠᤣᤁᤠᤣᤏ᤻ᤍᤠ",
+      "desc": "/योकोःन्दा/",
+      "group": "CF",
+      "mean": "<p>raised verandah on either side of the door.</p>पिंढी; दलान; सिकुवाको छेउमा बनाइएको डील ।"
+    },
+    "06008": {
+      "dId": "ᤕᤠᤣᤃᤰᤐᤠ",
+      "desc": "/योगक्पा/",
+      "group": "CF",
+      "mean": "<p>a particular kind of silver ornament worn round the neck.</p>चन्द्रहार; चाँदीको एक प्रकारको गहना ।"
+    },
+    "06009": {
+      "dId": "ᤕᤠᤍᤱ",
+      "desc": "/योदङ्/",
+      "group": "CF",
+      "mean": "<p>age.</p>उमेर ।"
+    },
+    "06010": {
+      "dId": "ᤕᤠᤍᤱᤒᤠ",
+      "desc": "/योदङ्बा/",
+      "group": "CF",
+      "mean": "<p>friend of the same age.</p>दौंतरी; समान उमेरको साथी ।"
+    },
+    "06011": {
+      "dId": "ᤕᤠᤣᤒᤠ",
+      "desc": "/योबा/",
+      "group": "CF",
+      "mean": "<p>earth.</p>पृथ्वी ।"
+    },
+    "06012": {
+      "dId": "ᤕᤠᤣᤒᤠᤍᤠᤱᤒᤠ",
+      "desc": "/योबादाङ्बा/",
+      "group": "CF",
+      "mean": "<p>deity of the earth, who is supposed to protect the human beings from skin diseases.</p>भूमे देवता; भूमि देवता; मानिसलाई चर्मरोग बाट बचाउने देवता ।"
+    },
+    "06013": {
+      "dId": "ᤕᤠᤣᤕᤠᤣᤒᤠ",
+      "desc": "/योबोबा/",
+      "group": "CF",
+      "mean": "<p>underdeveloped.</p>अल्पविकसित; अविकसित ।"
+    },
+    "06014": {
+      "dId": "ᤕᤠᤣᤓᤠᤰ",
+      "desc": "/योभाक्/",
+      "group": "CF",
+      "mean": "<p>kitchen garden.</p>कोठेबारी; करेसाबारी ।"
+    },
+    "06015": {
+      "dId": "ᤕᤠᤣᤓᤠᤣ᤹",
+      "desc": "/योभो?/",
+      "group": "CF",
+      "mean": "<p>degeneration; downfall; descent; decline.</p>अधोगति; अवन्नति ।"
+    },
+    "06016": {
+      "dId": "ᤕᤠᤣᤓᤠᤣᤎᤡᤶ",
+      "desc": "/योभोधिम्/",
+      "group": "CF",
+      "mean": "<p>republic.</p>जनतन्त्र ।"
+    },
+    "06017": {
+      "dId": "ᤕᤠᤣᤓᤠᤣᤎᤡᤶᤒᤠ",
+      "desc": "/योभोधिम्बा/",
+      "group": "CF",
+      "mean": "<p>republician.</p>जनतन्त्रवादि ।"
+    },
+    "06018": {
+      "dId": "ᤕᤠᤣᤓᤠᤣᤒᤠ",
+      "desc": "/योभोबा/",
+      "group": "CF",
+      "mean": "<p>people; mass; subject.</p>जनता; आमजनता; प्रजा ।"
+    },
+    "06019": {
+      "dId": "ᤕᤠᤣᤔᤧᤴ",
+      "desc": "/योमेन्/",
+      "group": "CF",
+      "mean": "<p>waged; an amount to be paid for work.</p>ज्याला ।"
+    },
+    "06020": {
+      "dId": "ᤕᤠᤣᤖᤱᤒᤠ",
+      "desc": "/योरङ्बा/",
+      "group": "CF",
+      "mean": "<p>solid; good; fine.</p>गतिलो/असल/सङ्लो (वस्तु, मान्छे आदि) ।"
+    },
+    "06021": {
+      "dId": "ᤕᤠᤘᤠᤱ",
+      "desc": "/योवाङ्/",
+      "group": "CF",
+      "mean": "<p>downward; on the lower side.</p>तलतिर ।"
+    },
+    "06022": {
+      "dId": "ᤕᤠᤘᤠᤱᤌᤠᤣᤘᤠᤱ",
+      "desc": "/योवाङ्थोवाङ्/",
+      "group": "CF",
+      "mean": "<p>upward and downward.</p>तलतिर पनि, माथितिर पनि  ।"
+    },
+    "06023": {
+      "dId": "ᤕᤠᤣᤛᤡᤱ ᤔᤢᤰᤔᤠ",
+      "desc": "/योसिङ् मुक्मा/",
+      "group": "CF",
+      "mean": "<p>south pole.</p>दक्षिणी ध्रुव ।"
+    },
+    "06024": {
+      "dId": "ᤕᤠᤣᤛᤢᤃᤧᤴ",
+      "desc": "/योसुगेन्/",
+      "group": "CF",
+      "mean": "<p>lower; subordinate.</p>निन्म/तल्लो स्तरको ।"
+    },
+    "06025": {
+      "dId": "ᤕᤠᤣᤛᤢᤃᤧᤴ ᤕᤣᤓᤠᤱ",
+      "desc": "/योसुगेन् येभाङ्/",
+      "group": "CF",
+      "mean": "<p>Lower house; House of Representative (Nepal).</p>तल्लो सदन; प्रतिनिधिसभा (नेपाल) ।"
+    },
+    "06026": {
+      "dId": "ᤕᤠᤣᤛᤢᤎᤡᤶᤒᤠ",
+      "desc": "/योसुधिम्बा/",
+      "group": "CF",
+      "mean": "<p>speaker (of the House of Representatives of Nepal).</p>संसदको अध्यक्ष; सभामुख (नेपाल) ।"
+    },
+    "06027": {
+      "dId": "ᤕᤠᤣᤛᤢᤐᤠᤱᤔᤡ ",
+      "desc": "/योसुपाङ्मि/",
+      "group": "CF",
+      "mean": "<p>member of parliament (M.P.); member of house of representative (Nepal).</p>सांसद/संसदको सदस्य; प्रतिनिधिसभा सदस्य;  प्रतिनिधिसभाको सदस्य (नेपाल) ।"
+    },
+    "06028": {
+      "dId": "ᤕᤠᤣᤛᤢᤔᤠᤱ",
+      "desc": "/योसुमाङ्/",
+      "group": "CF",
+      "mean": "<p>god of the lowland region.</p>उँधौली देवता, बेँसीतिरका देवता ।"
+    },
+    "06029": {
+      "dId": "ᤕᤠᤣᤛᤢᤕᤣᤓᤠᤱ",
+      "desc": "/योसुयेभाङ्/",
+      "group": "CF",
+      "mean": "<p>House of Representative (Nepal); Lower House (India).</p>प्रतिनिधिसभा (नेपाल); लोकसभा (भारत) ।"
+    },
+    "06030": {
+      "dId": "ᤕᤠᤣ᤺ᤰ/ᤕᤠᤣᤁ᤻",
+      "desc": "/योःक्/",
+      "group": "CF",
+      "mean": "<p>1. sign; imprint; trace; track. 2. stamp; seal. 3. eclipse. 4. slave.</p>१. चिन्ह; दाग; डाम; डोब; खत । २. छाप । ३. ग्रहण । ४. दास; कमारा ।"
+    },
+    "06031": {
+      "dId": "ᤕᤠᤣ᤺ᤰᤐᤠ/ᤕᤠᤣᤁ᤻ᤐᤠ",
+      "desc": "/योःक्पा/",
+      "group": "CF",
+      "mean": "<p>(male) servant.</p>चाकर; नाोकर ।"
+    },
+    "06032": {
+      "dId": "ᤕᤠᤣ᤺ᤰᤔᤠ/ᤕᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/योःक्मा/",
+      "group": "CF",
+      "mean": "<p>maid servant.</p>चाकर्नी; नाोकर्नी ।"
+    },
+    "06033": {
+      "dId": "ᤕᤠᤣ᤺ᤰᤋᤢᤒᤠ/ᤕᤠᤣᤁ᤻ᤋᤢᤒᤠ",
+      "desc": "/योःक्तुबा/",
+      "group": "CF",
+      "mean": "<p>store.</p>भण्डार ।"
+    },
+    "06034": {
+      "dId": "ᤕᤠᤣ᤺ᤰᤌᤰᤐᤠ/ᤕᤠᤣᤁ᤻ᤌᤰᤐᤠ",
+      "desc": "/योःक्थक्पा/",
+      "group": "CF",
+      "mean": "<p>the parents or relatives looking for the eloped daughter/sister etc.</p>भागेर पोइल गएकी चेली खोज्न आउने माइती खलक ।"
+    },
+    "06035": {
+      "dId": "ᤕᤠᤣ᤺ᤰᤌᤰᤔᤠ/ᤕᤠᤣᤁ᤻ᤌᤰᤔᤠ",
+      "desc": "/योःक्थक्मा/",
+      "group": "CF",
+      "mean": "<p>to follow; to run after.</p>पछि लाग्नु; अनुसरण गर्नु; पछ्याउनु । "
+    },
+    "06036": {
+      "dId": "ᤕᤠᤣ᤺ᤰ/ᤌᤰᤘᤠᤕᤠᤣᤁ᤻ᤌᤰᤘᤠ",
+      "desc": "/योःक्थक्वा/",
+      "group": "CF",
+      "mean": "<p>1. formal present of money and wine which the bridegroom must make for eloping bride. 2. formal gift of money offered in salutation on the occasion of wedding ceremony by the bridegroom to the senior relatives (elder brothers) of the bride.</p>१. भगाएर विवह गरेपछि केटाको तर्फबाट माइती पक्षलाई बुझाउनु पर्ने दस्तुर । २. विवाहको अवसरमा दुलाहले दुलहीका दाजुभाइलाई ढोगभेट गर्दा राखिने दाम ।"
+    },
+    "06037": {
+      "dId": "ᤕᤠᤣ᤺ᤱ/ᤕᤠᤣᤅ᤻",
+      "desc": "/योःङ्/",
+      "group": "CF",
+      "mean": "<p>net.</p>जाल ।"
+    },
+    "06038": {
+      "dId": "ᤕᤠᤣ᤺ᤱᤃᤡ/ᤕᤠᤣᤅ᤻ᤃᤡ ",
+      "desc": "/योःङ्गि/",
+      "group": "CF",
+      "mean": "<p>microbe.</p>रक्तनली छेक्ने सूक्ष्म जीवाणु ।"
+    },
+    "06039": {
+      "dId": "ᤕᤠᤣ᤺ᤴᤈᤠᤣ/ᤕᤠᤣᤏ᤻ᤈᤠᤣ (ᤒᤠ)",
+      "desc": "/योःन्जो(बा)/",
+      "group": "CF",
+      "mean": "<p>loafer.</p>भतुवा; व्यर्थै डुलिहिँड्ने ।"
+    },
+    "06040": {
+      "dId": "ᤕᤠᤣ᤺ᤵᤐᤠ/ᤕᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/योःप्पा/",
+      "group": "CF",
+      "mean": "<p>he-pig; boar; uncastrated male pig; one kept for procreation or good breeding.</p>सुङ्गुरको साँढ; बीउसुङ्गुर ।"
+    },
+    "06041": {
+      "dId": "ᤕᤠᤣ᤺ᤒᤠ",
+      "desc": "/योःबा/",
+      "group": "CF",
+      "mean": "<p>low; of lower standard.</p>तल्लो; निम्न; तलको; निम्न स्तरको । "
+    },
+    "06042": {
+      "dId": "ᤕᤠᤣ᤺ᤒᤠᤴ",
+      "desc": "/योःबान्/",
+      "group": "CF",
+      "mean": "<p>low standard/class/rank/level.</p>तल्लो/निम्न स्तर, कोटि, दर्जा वा श्रेणी ।"
+    },
+    "06043": {
+      "dId": "ᤕᤠᤣ᤺ᤔᤠ",
+      "desc": "/योःमा/",
+      "group": "CF",
+      "mean": "<p>1. to attain/reach a certain age. 2. to amount to; to suffice; to be enough/sufficient.</p>१. वर्ष पुग्नु; उमेरको हुनु । २. परिपञ्च हुनु; पर्याप्त हुनु ।"
+    },
+    "06044": {
+      "dId": "ᤕᤠᤣ᤺ᤶ/ᤕᤠᤣᤔ᤻",
+      "desc": "/योःम्/",
+      "group": "CF",
+      "mean": "<p>intermind; conscience; heart; internal organs (spirit, mind, heart etc).</p>आँत; अन्तःकरण; भित्री मन; अन्तरआत्मा ।"
+    },
+    "06045": {
+      "dId": "ᤕᤠᤣ᤺ᤶᤔᤠ/ᤕᤠᤣᤔ᤻ᤔᤠ",
+      "desc": "/योःम्मा/",
+      "group": "CF",
+      "mean": "<p>1. to get/be(come) lean/thin/haggard/emaciated. 2. to dissolve/melt; to wash way. 3. to melt/dissolve sth.</p>१. दुब्लाउनु । २. पग्लनु; बिल्नु । ३. पगाल्नु; बिलाउनु; गाल्नु ।"
+    },
+    "06046": {
+      "dId": "ᤕᤠᤣ᤺ᤕᤠᤣ",
+      "desc": "/योःयो/",
+      "group": "CF",
+      "mean": "<p>economy; frugality; thrift.</p>फारो; किफायत ।"
+    },
+    "06047": {
+      "dId": "ᤕᤠᤣ᤺ᤛᤢᤔᤠ/ᤕᤠᤣᤛ᤻ᤔᤠ",
+      "desc": "/योःसुमा/योःस्मा/",
+      "group": "CF",
+      "mean": "<p>lower.</p>तलतिरको; तल्लो ।"
+    }
+  }
+}

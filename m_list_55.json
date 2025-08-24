@@ -1,0 +1,454 @@
+{
+  "Dic": {
+    "05604": {
+      "dId": "ᤕ",
+      "desc": "/य/",
+      "group": "CC",
+      "mean": "<p>the nineteenth consonant letter of the Sirijunga alphabet.</p>सिरिजङ्गा वर्णमालाको उन्नइसौ व्यञ्जनवर्ण ।"
+    },
+    "05605": {
+      "dId": "ᤕᤀᤡᤰ",
+      "desc": "/यइक्/",
+      "group": "CC",
+      "mean": "<p>one of the constellations.</p>अनुराधा नक्षत्र ।"
+    },
+    "05606": {
+      "dId": "ᤕ᤹ᤋᤣᤒᤠ",
+      "desc": "/य?तेबा/",
+      "group": "CC",
+      "mean": "<p>a kind of edible and medicinal wild vegetable. Phytolaca acinosa.</p>जरिङ्गो (साग) ।"
+    },
+    "05607": {
+      "dId": "ᤕ᤹ᤔᤠ",
+      "desc": "/य?मा/",
+      "group": "CC",
+      "mean": "<p>1. to fall sick/ill. 2. to rot/decay.</p>१. रोग लाग्नु; रागाउनु । २. मक्किनु ।"
+    },
+    "05608": {
+      "dId": "ᤕ᤹ᤘᤠ",
+      "desc": "/य?वा/",
+      "group": "CC",
+      "mean": "<p>1. seed (of crops). 2. husked millet grains washed for cooking to ferment it into millet beer. 3. weakness; feebleness.</p>१. (अन्नको) बीउ । २. जाँड पकाउन धोइएको कोदो । ३. कमजोरी; दुर्बलता ।"
+    },
+    "05609": {
+      "dId": "ᤕ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/य?सिङ्मा/",
+      "group": "CC",
+      "mean": "<p>to squeeze each other violently.</p>परस्पर बेसरी निचोरानिचोर गर्नु ।"
+    },
+    "05610": {
+      "dId": "ᤕᤰ",
+      "desc": "/यक्/",
+      "group": "CC",
+      "mean": "<p>fort; fortress; castle.</p>गढी ।"
+    },
+    "05611": {
+      "dId": "ᤕᤰᤁᤴᤍᤧ",
+      "desc": "/यक्कन्दे/",
+      "group": "CC",
+      "mean": "<p>1. inner courtyard. 2. floor of an upper story just above the ground floor.</p>१. दलान; सिकुवा । २. मटान ।"
+    },
+    "05612": {
+      "dId": "ᤕᤰᤁᤧᤴ",
+      "desc": "/यक्केन्/",
+      "group": "CC",
+      "mean": "<p>ruins.</p>भग्नावशेष; अवशेष । "
+    },
+    "05613": {
+      "dId": "ᤕᤰᤆᤡ ",
+      "desc": "/यक्चि/",
+      "group": "CC",
+      "mean": "<p>1. dilapidation. 2. wreckage; remains; ruins.</p>१. जीर्णता । २. ध्वंसावशेष; भग्नावशेष ।"
+    },
+    "05614": {
+      "dId": "ᤕᤰᤆᤡᤒᤠ",
+      "desc": "/यक्चिबा/",
+      "group": "CC",
+      "mean": "<p>worn-out; decayed; decadent; dilapidated; old.</p>थोत्रो; जीर्ण ।"
+    },
+    "05615": {
+      "dId": "ᤕᤰᤆᤢᤶ",
+      "desc": "/यक्चुम्/",
+      "group": "CC",
+      "mean": "<p>council; association; board.</p>परिषद् ।"
+    },
+    "05616": {
+      "dId": "ᤕᤰᤆᤧᤵ",
+      "desc": "/यक्चेप्/",
+      "group": "CC",
+      "mean": "<p>inseparable; lying flat on one another.</p>अभिन्न; खप्टेको ।"
+    },
+    "05617": {
+      "dId": "ᤕᤰᤋᤢ(ᤒᤣ)",
+      "desc": "/यक्तु(बे)/",
+      "group": "CC",
+      "mean": "<p>corner (of room).</p>(कोठाको) कुना ।"
+    },
+    "05618": {
+      "dId": "ᤕᤰᤋᤢᤒᤠ",
+      "desc": "/यक्तुबा/",
+      "group": "CC",
+      "mean": "<p>store; storehouse; depository.</p>भण्डार ।"
+    },
+    "05619": {
+      "dId": "ᤕᤰᤏᤠᤶᤒᤠ",
+      "desc": "/यक्नाम्बा/",
+      "group": "CC",
+      "mean": "<p>a kind of wild arum. <i>Colocasia.</i></p>एक प्रकारको जङ्गली माने, कर्कलो ।"
+    },
+    "05620": {
+      "dId": "ᤕᤰᤔᤠ",
+      "desc": "/यक्मा/",
+      "group": "CC",
+      "mean": "<p>1. hut; cattle-shed. 2. to be fried/parched too much; to be excessively dry and hard.</p>१. कटेरो; गोठघर । २. डढ्ने गरि भुटिनु; खरिनु ।"
+    },
+    "05621": {
+      "dId": "ᤕᤰᤕᤢᤱᤒᤠ",
+      "desc": "/यक्युङ्बा/",
+      "group": "CC",
+      "mean": "<p>citizen.</p>नागरिक ।"
+    },
+    "05622": {
+      "dId": "ᤕᤰᤕᤢᤶᤛᤠᤶ",
+      "desc": "/यक्युङ्साम्/",
+      "group": "CC",
+      "mean": "<p>citizenship.</p>नागरिकता ।"
+    },
+    "05623": {
+      "dId": "ᤕᤰᤍᤰ",
+      "desc": "/यक्लक्/",
+      "group": "CC",
+      "mean": "<p>locality; ward/certain part of a city/town or market place.</p>टोल; वडा; नगर वा शहर बजारको निर्धारित भाग वा खण्ड ।"
+    },
+    "05624": {
+      "dId": "ᤕᤰᤗᤢᤱ",
+      "desc": "/यक्लुङ्/",
+      "group": "CC",
+      "mean": "<p>a black quartzose or black stone (found in Krishna Gandaki, Nepal) with impression of ammonites worshipped as and a symbol of Lord “Vishnu”.</p>शालिग्राम ।"
+    },
+    "05625": {
+      "dId": "ᤕᤰᤗᤢᤶ",
+      "desc": "/यक्लुम्/",
+      "group": "CC",
+      "mean": "<p>nation.</p>राष्ट्र ।"
+    },
+    "05626": {
+      "dId": "ᤕᤱᤀᤡᤰ",
+      "desc": "/यङ्इक्/",
+      "group": "CC",
+      "mean": "<p>one of the constellations.</p>धनिष्ठा नक्षत्र ।"
+    },
+    "05627": {
+      "dId": "ᤕᤱᤃᤱᤒᤠ",
+      "desc": "/यङ्गङ्बा/",
+      "group": "CC",
+      "mean": "<p>maimed; crippled.</p>लुलो गरि खुट्टा टेकेर हिंड्ने ।"
+    },
+    "05628": {
+      "dId": "ᤕᤱᤃᤡ ",
+      "desc": "/यङ्गि/",
+      "group": "CC",
+      "mean": "<p>fear; horror; tear; panic.</p>भय; डर; त्रास; आतङ्क ।"
+    },
+    "05629": {
+      "dId": "ᤕᤱᤄ᤹ᤏᤠ",
+      "desc": "/यङ्घ?ना/",
+      "group": "CC",
+      "mean": "<p>mosquito.</p>लाम्खुट्टे ।"
+    },
+    "05630": {
+      "dId": "ᤕᤱᤄᤱ",
+      "desc": "/यङ्घङ्/",
+      "group": "CC",
+      "mean": "<p>river.</p>नदि ।"
+    },
+    "05631": {
+      "dId": "ᤕᤱᤈᤱ",
+      "desc": "/यङ्जङ्/",
+      "group": "CC",
+      "mean": "<p>hurry; haste; post haste.</p>आत्तुरी; हतार; हडबड । "
+    },
+    "05632": {
+      "dId": "ᤕᤱᤈᤢ",
+      "desc": "/यङ्जु/",
+      "group": "CC",
+      "mean": "<p>crowd (of people).</p>(मानिसको) हुल ।"
+    },
+    "05633": {
+      "dId": "ᤕᤱᤈᤣᤱᤛᤣ",
+      "desc": "/यङ्जेङ्से?/",
+      "group": "CC",
+      "mean": "<p>measles.</p>दादुरा ।"
+    },
+    "05634": {
+      "dId": "ᤕᤱᤒᤠᤣ᤺ᤱ/ᤕᤱᤒᤠᤣᤅ᤻",
+      "desc": "/यङ्बोःङ्/",
+      "group": "CC",
+      "mean": "<p>a. kind of hornet.</p>एक प्रकारको अरिङ्गाल ।"
+    },
+    "05635": {
+      "dId": "ᤕᤱᤔᤠ",
+      "desc": "/यङ्मा/",
+      "group": "CC",
+      "mean": "<p>1. to tremble/shiver/quiver/shudder. 2. to remove/take down. 3. to collect (dried grains, clothes etc); to take off the ground.</p>१. काम्नु; थरथर काम्नु; हल्लनु । २. माथिबाट (जस्तै चुह्लोबाट भाँडा आदि) उठाइ तल राख्नु; ओराल्नु । ३. (घाममा सुकाइएका बिस्कुन वा लुगा आदि) उठाउनु । "
+    },
+    "05636": {
+      "dId": "ᤕᤱᤕᤠ",
+      "desc": "/यङ्या/",
+      "group": "CC",
+      "mean": "<p>famous/renowned exorcist.</p>नामि/प्रसिद्ध झाँक्री ।"
+    },
+    "05637": {
+      "dId": "ᤕᤱᤕᤠᤣ ᤛᤡᤱ",
+      "desc": "/यङ्यो सिङ्/",
+      "group": "CC",
+      "mean": "<p>a kind of tree. <i>Wrightia arborea.</i></p>खिर्लो ।"
+    },
+    "05638": {
+      "dId": "ᤕᤱᤘᤠ",
+      "desc": "/यङ्वा/",
+      "group": "CC",
+      "mean": "<p>compassion; pathos.</p>करुणा ।"
+    },
+    "05639": {
+      "dId": "ᤕᤱᤛᤩ",
+      "desc": "/यङ्सङ्/",
+      "group": "CC",
+      "mean": "<p>1. nether world. 2. hell.</p>१. पाताल । २. नरक ।"
+    },
+    "05640": {
+      "dId": "ᤂᤣᤔᤠ᤹ᤕᤱᤛᤱ",
+      "desc": "/खेमा? यङ्सङ्/",
+      "group": "CC",
+      "mean": "<p>(M) the infernal region; the nether world.</p>पाताललोक; प्रेतलोक ।"
+    },
+    "05641": {
+      "dId": "ᤕᤈᤢᤶᤗᤢᤱ",
+      "desc": "/यजुम्लुङ्/",
+      "group": "CC",
+      "mean": "<p>conference.</p>अधिवेशन; सम्मेलन ।"
+    },
+    "05642": {
+      "dId": "ᤕᤳᤋᤩᤠ",
+      "desc": "/यत्त्या/",
+      "group": "CC",
+      "mean": "<p>bottle-gourd.</p>लौका ।"
+    },
+    "05643": {
+      "dId": "ᤕᤎᤧ᤺ᤰᤘᤠ/ᤕᤎᤧᤁ᤻ᤘᤠ",
+      "desc": "/यधेःक्वा/",
+      "group": "CC",
+      "mean": "<p>harm; damage; loss.</p>हानि; नोक्सानी; क्षति ।"
+    },
+    "05644": {
+      "dId": "ᤕᤴᤈᤢᤏᤠ",
+      "desc": "/यन्जुना/",
+      "group": "CC",
+      "mean": "<p>a kind of small bird; titmice. <i>Parus zanthogenys.</i></p>चिचिन्कोटे ।"
+    },
+    "05645": {
+      "dId": "ᤕᤔᤡᤰ",
+      "desc": "/यमिक्/",
+      "group": "CC",
+      "mean": "<p>1. eye sight. 2. power of eye-sight.</p>१. दृष्टि । २. दृष्टिशक्ति ।"
+    },
+    "05646": {
+      "dId": "ᤕᤔᤧᤴ",
+      "desc": "/यमेन्/",
+      "group": "CC",
+      "mean": "<p>disturbance; rowdiness.</p>उपद्रव; उपद्रो ।"
+    },
+    "05647": {
+      "dId": "ᤕᤔᤧᤸᤗᤢᤱ",
+      "desc": "/यमेल्लुङ्/",
+      "group": "CC",
+      "mean": "<p>valuable/costly/priceless.</p>अनमोल ।"
+    },
+    "05648": {
+      "dId": "ᤕᤔᤧᤸᤗᤢᤱᤒᤠ",
+      "desc": "/यमेल्लुङ्बा/",
+      "group": "CC",
+      "mean": "<p>valuable; priceless.</p>बहुमुल्य ।"
+    },
+    "05649": {
+      "dId": "ᤕᤶᤈᤡᤛᤠᤶᤒᤠ",
+      "desc": "/यम्जिसाम्बा/",
+      "group": "CC",
+      "mean": "<p>professor.</p>प्राध्यापक ।"
+    },
+    "05650": {
+      "dId": "ᤕᤶᤒᤠ",
+      "desc": "/यम्बा/",
+      "group": "CC",
+      "mean": "<p>1. big; large; gigantic; huge; immense. 2. elder(ly); senior; reputed; superior; noble.</p>१. ठूलो । २. महान; वरिष्ठ; ज्येष्ठ । "
+    },
+    "05651": {
+      "dId": "ᤕᤶᤒᤢᤃᤧᤴ",
+      "desc": "/यम्बुगेन्/",
+      "group": "CC",
+      "mean": "<p>institution; academy.</p>संस्था; प्रतिष्ठान ।"
+    },
+    "05652": {
+      "dId": "ᤕᤶᤒᤢᤃᤧᤶᤒᤠ",
+      "desc": "/यम्बुगेम्बा/",
+      "group": "CC",
+      "mean": "<p>head of an institution or chancellor of an academy.</p>(संस्था, प्रतिष्ठान आदिको) अध्यक्ष वा कुलपति ।"
+    },
+    "05653": {
+      "dId": "ᤕᤶᤔᤠ",
+      "desc": "/यम्मा/",
+      "group": "CC",
+      "mean": "<p>1. (fem.) older/elder. 2. (fem.) big in physique/status. 3. to be/become large/great/big. 4. to grow.</p>१. जेठी; उमेरमा जेठी । २. जीउडालमा ठूली; जीउको आकारमा ठूली । ३. ठूलो वा ठूली हुनु । ४. बढ्नु ।"
+    },
+    "05654": {
+      "dId": "ᤕᤶᤗᤧᤱ",
+      "desc": "/यम्लेङ्/",
+      "group": "CC",
+      "mean": "<p>1. pretense; pretension; acting. 2. artificiality. 3. pedantry; showiness.</p>१. स्वाङ् । २. कृत्रिमता । ३. आडम्बर । "
+    },
+    "05655": {
+      "dId": "ᤕᤶᤛᤣᤱᤏᤠ",
+      "desc": "/यम्सेङ्ना/",
+      "group": "CC",
+      "mean": "<p>a kind of small tree. <i>Eurya japonica.</i></p>झिँगनीको बोट ।"
+    },
+    "05656": {
+      "dId": "ᤕᤕᤠ",
+      "desc": "/यया/",
+      "group": "CC",
+      "mean": "<p>a kind of bacteria (which causes the clefts of the toes to rot); mowra-fat is used to cure it.</p>(खुट्टाको चेपचाप कुहाउने) एक प्रकारको जीवाणु; जोत्ने कीरो, जसको उपचारका लागी चिउरीको तेल लगाइन्छ ।"
+    },
+    "05657": {
+      "dId": "ᤕᤖᤵ-ᤕᤖᤵ",
+      "desc": "/यरप्-यरप्/",
+      "group": "CC",
+      "mean": "<p>in a manner of grinding of teeth or biting by cold.</p>कटकट खाने चालाले ।"
+    },
+    "05658": {
+      "dId": "ᤕᤖ᤺ᤱᤒᤠ/ᤕᤖᤅ᤻ᤒᤠ",
+      "desc": "/यरःङ्बा/",
+      "group": "CC",
+      "mean": "<p>common crane. <i>Grus grus.</i></p>सारस ।"
+    },
+    "05659": {
+      "dId": "ᤕᤖᤠᤵ-ᤕᤖᤠᤵ",
+      "desc": "/यराप्-यराप्/",
+      "group": "CC",
+      "mean": "<p>in a manner of breaking or being chewed sth with a sound.</p>मर्याकमर्याक आवाज आउने गरी चपाउने/भाँचिने चालाले ।"
+    },
+    "05660": {
+      "dId": "ᤕᤖᤡᤰ/ᤕᤸᤗᤡᤰ",
+      "desc": "/यरिक्/यल्लिक्/",
+      "group": "CC",
+      "mean": "<p>much; sufficient(ly); many; more; enough; abundant(ly).</p>धेरै; औधी; बाध्नै; प्रशस्त; ज्यादा ।"
+    },
+    "05661": {
+      "dId": "ᤕᤜ᤺ᤜ᤺",
+      "desc": "/यहःहः/",
+      "group": "CC",
+      "mean": "<p>uproar; tumultuous noise.</p>खैलाबैला ।"
+    },
+    "05662": {
+      "dId": "ᤕᤛᤧ᤺ᤰ/ᤕᤛᤧᤁ᤻",
+      "desc": "/यसेःक्/",
+      "group": "CC",
+      "mean": "<p>centipede.</p>खजुरो ।"
+    },
+    "05663": {
+      "dId": "ᤕ᤺ᤰ/ᤕᤁ᤻",
+      "desc": "/यःक्/",
+      "group": "CC",
+      "mean": "<p>too much; to the utmost; maximum; much more.</p>धेरै; अधिक; ज्यादा ।"
+    },
+    "05664": {
+      "dId": "ᤕᤰᤋᤱᤒᤠ",
+      "desc": "/यक्तङ्बा/",
+      "group": "CC",
+      "mean": "<p>(adj.) most; majority. (adv.) mostly; often.</p>(वि.) बहुसङ्ख्यक; अधिकांश । (क्रिवि.) अधिकां; धेरैजसो; प्राय ।"
+    },
+    "05665": {
+      "dId": "ᤕ᤺ᤰᤏᤡ᤺ᤒᤠ/ᤕᤁ᤻ᤏᤡ᤺ᤒᤠ",
+      "desc": "/यःक्निःबा/",
+      "group": "CC",
+      "mean": "<p>experienced; veteran.</p>अनुभवी ।"
+    },
+    "05666": {
+      "dId": "ᤕ᤺ᤰᤐᤠᤸᤗᤠ/ᤕᤁ᤻ᤐᤠᤸᤗᤠ",
+      "desc": "/यःक्पाल्ला/",
+      "group": "CC",
+      "mean": "<p>plural number.</p>बहुवचन ।"
+    },
+    "05667": {
+      "dId": "ᤕ᤺ᤰᤐᤣᤒᤠ/ᤕᤁ᤻ᤐᤣᤒᤠ",
+      "desc": "/यःक्पेबा/",
+      "group": "CC",
+      "mean": "<p>(of a word) having many senses or meanings; with pluralistic meaning.</p>बहुअर्थी; धेरै अर्थ हुने (शब्द) ।"
+    },
+    "05668": {
+      "dId": "ᤕ᤺ᤰᤘᤠᤍᤱ/ᤕᤁ᤻ᤘᤠᤍᤱ",
+      "desc": "/यःक्वादङ्/",
+      "group": "CC",
+      "mean": "<p>differently; in many ways.</p>विविध/विभिन्न प्रकारले ।"
+    },
+    "05669": {
+      "dId": "ᤕ᤺ᤰᤘᤠᤍᤱᤒᤠ/ᤕᤁ᤻ᤘᤠᤍᤱᤒᤠ",
+      "desc": "/यःक्वादङ्बा/",
+      "group": "CC",
+      "mean": "<p>(of) different (kinds/types).</p>विविध; विभिन्न (प्रकारको) ।"
+    },
+    "05670": {
+      "dId": "ᤕ᤺ᤰᤛᤠᤱ/ᤕᤁ᤻ᤛᤠᤱ",
+      "desc": "/यःक्साङ्/",
+      "group": "CC",
+      "mean": "<p>disappointment; desperation; hopeless.</p>निराशा ।"
+    },
+    "05671": {
+      "dId": "ᤕ᤺ᤰᤛᤠᤱᤒᤠ/ᤕᤁ᤻ᤛᤠᤱᤒᤠ",
+      "desc": "/यःक्साङ्बा/",
+      "group": "CC",
+      "mean": "<p>disappointed; desperate.</p>निराश; हतास ।"
+    },
+    "05672": {
+      "dId": "ᤕ᤺ᤰᤛᤣ᤺ᤰ/ᤕᤁ᤻ᤛᤣᤁ᤻",
+      "desc": "/यःक्सेःक्/",
+      "group": "CC",
+      "mean": "<p>a myriapod; an insect bitter than centipede.</p>खजुरो ।"
+    },
+    "05673": {
+      "dId": "ᤕ᤺ᤱᤃᤣ᤹/ᤕᤅ᤻ᤃᤣ᤹",
+      "desc": "/यःङ्गे/",
+      "group": "CC",
+      "mean": "<p>mustard (seed and plant).</p>तोरी ।"
+    },
+    "05674": {
+      "dId": "ᤕ᤺ᤱᤏᤠ/ᤕᤅ᤻ᤏᤠ",
+      "desc": "/यःङ्ना/",
+      "group": "CC",
+      "mean": "<p>gnat; very small insect.</p>भुसुना ।"
+    },
+    "05675": {
+      "dId": "ᤕ᤺ᤈᤪᤠ",
+      "desc": "/यःज्रा/",
+      "group": "CC",
+      "mean": "<p>noise; tumult; hubbubs; turmoil; uproar.</p>हल्ला; होहल्ला; कोलाहल ।"
+    },
+    "05676": {
+      "dId": "ᤕ᤺ᤵᤔᤠ/ᤕᤐ᤻ᤔᤠ",
+      "desc": "/यःप्मा/",
+      "group": "CC",
+      "mean": "<p>to decay/rot; (of stone, glass etc) to break/snap/fall to pieces.</p>मक्किनु; टुक्रनु ।"
+    },
+    "05677": {
+      "dId": "ᤕ᤺ᤔᤠ",
+      "desc": "/यःमा/",
+      "group": "CC",
+      "mean": "<p>(of wood, stone wall etc) to decay/rot; to collapse/fall down.</p>भत्कनु; मासिनु; कुहिनु; बिग्रनु; सड्नु ।"
+    },
+    "05678": {
+      "dId": "ᤕ᤺ᤶᤔᤠ/ᤕᤔ᤻ᤔᤠ",
+      "desc": "/यःम्मा/",
+      "group": "CC",
+      "mean": "<p>1. to smash up; to knock/break up into pieces. 2. to gnash with the teeth.</p>१. फुटाउनु; छियाछिया/भताभुङ्ग पार्नु; कडा वस्तु फुटाएर धूलोपिठो पार्नु । २. दार्नु । "
+    }
+  }
+}

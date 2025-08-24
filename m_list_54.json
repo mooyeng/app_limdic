@@ -1,0 +1,376 @@
+{
+  "Dic": {
+    "05542": {
+      "dId": "ᤔᤧᤀᤠᤢ",
+      "desc": "/मेओ/",
+      "group": "CB",
+      "mean": "<p>in order to; for.</p>मा, लाई, का लागि, निम्ति । "
+    },
+    "05543": {
+      "dId": "ᤔᤧ᤹ᤀᤣ",
+      "desc": "/मे?ए/",
+      "group": "CB",
+      "mean": "<p>[Phedape] a prepositional/postpositional particle or suffix meaning ‘without’, ‘except’, ‘besides’, ‘deprived of’, ‘lacking’ etc.</p>[फेदापे] सर्वनाम वा नाम पछाडि जोडिएर ‘विना’, ‘रहित’, ‘नभइ’, ‘नभइकन’ आदि अर्थ बुझाउने निपात ।"
+    },
+    "05544": {
+      "dId": "ᤔᤧ᤹ᤔᤠ",
+      "desc": "/मे?मा/",
+      "group": "CB",
+      "mean": "<p>to be fat; to become fat; to fatten; to gain weight.</p>मोटाउनु ।"
+    },
+    "05545": {
+      "dId": "ᤔᤧᤰᤅᤠ",
+      "desc": "/मेक्ङा/",
+      "group": "CB",
+      "mean": "<p>a kind of fish.</p>काभ्रे माछो ।"
+    },
+    "05546": {
+      "dId": "ᤔᤧᤁᤪᤠᤰᤐᤠ",
+      "desc": "/मेक्राक्पा",
+      "group": "CB",
+      "mean": "<p>a kind of malarial tree (a variety of malarial Xanthoxylum hamiltonianum).</p>औले टिम्मुर ।"
+    },
+    "05547": {
+      "dId": "ᤔᤧᤰᤔᤠ",
+      "desc": "/मेक्मा/",
+      "group": "CB",
+      "mean": "<p>1. (of family, tribe, race, species, animals, etc) become extinct; to die out; to be finished. 2. exhaust; to run short; to run out of supply (of sth).</p>१. (जाति, वंश, पशु, आदि) नाश हुनु; निर्मुल हुनु । २, सिद्धिनु; सकिनु; कुनै पनि प्रकारको सामाग्री सकिनु ।"
+    },
+    "05548": {
+      "dId": "ᤔᤧᤰᤛᤡ ",
+      "desc": "/मेक्सि/",
+      "group": "CB",
+      "mean": "<p>collyrium.</p>गाजल ।"
+    },
+    "05549": {
+      "dId": "ᤔᤧᤱᤔᤠ",
+      "desc": "/मेङ्मा/",
+      "group": "CB",
+      "mean": "<p>1. to complete/accomplish/carry out fully. 2. to finish/do away with.</p>१. सबै वा जम्मै टाकटुक सक्नु; सिद्ध्याउनु । २. सक्नु; सिद्ध्याउनु; निमिट्यान्न पार्नु ।"
+    },
+    "05550": {
+      "dId": "ᤔᤧᤔᤧᤱᤒᤠ",
+      "desc": "/केमेङ्बा/",
+      "group": "CB",
+      "mean": "<p>destroyer; devastator; destructive.</p>विनाशकारी; संहारकर्ता; विध्वंसक । "
+    },
+    "05551": {
+      "dId": "ᤔᤧᤳᤇᤡᤱᤔᤠᤔ",
+      "desc": "/मेत्छिङ्मा/",
+      "group": "CB",
+      "mean": "<p>1. to take control over sth; to take sth unauthoritatively into one’s possession. 2. to help/serve oneself. 3. to have a mutual talk; to have an exchange of talk.</p>१. आफ्नो पार्नु; (अर्काको चिज वस्तु) कब्जा गर्नु । २. आफ्नो लागि कुनै काम/सेवा आफै गर्नु । ३. परस्परमा कुरा आदानप्रदान गर्नु ।"
+    },
+    "05552": {
+      "dId": "ᤔᤧᤴ",
+      "desc": "/मेन्/",
+      "group": "CB",
+      "mean": "<p>1. value; cost; price. 2. a sentence particle denoting “if, then”.</p>१. मूल्य; मोल; दाम । २. “नि, त, ता, तै, यदि” आदि वाक्यांशको अन्तमा आउने अनिसश्चयबोधक निपात शब्द ।"
+    },
+    "05553": {
+      "dId": "ᤔᤧᤴᤀᤡ ",
+      "desc": "/मेन्इ/",
+      "group": "CB",
+      "mean": "<p>pubic hair of the vagina; secret hair on the female organ; pubes of the vagina.</p>योनिको रौं; जाँठो (स्त्री) ।"
+    },
+    "05554": {
+      "dId": "ᤔᤧᤴᤇᤠ᤹",
+      "desc": "/मेन्छा?/",
+      "group": "CB",
+      "mean": "<p>grandchild; grandson/granddaughter.</p>नाति/नातिनी ।"
+    },
+    "05555": {
+      "dId": "ᤔᤧᤴᤇᤠᤶ",
+      "desc": "/मेन्छाम्/",
+      "group": "CB",
+      "mean": "<p>human.</p>मनुष्य; मानव ।"
+    },
+    "05556": {
+      "dId": "ᤔᤧᤴᤇᤠᤶ ᤂᤠᤏᤡ᤺ᤳ/ᤂᤠᤏᤡᤋ᤻",
+      "desc": "/मेन्छाम् खानिःत्/",
+      "group": "CB",
+      "mean": "<p>census.</p>जनगणना ।"
+    },
+    "05557": {
+      "dId": "ᤔᤧᤴᤇᤠᤶ ᤕᤠᤵᤔᤡ ",
+      "desc": "/मेन्छाम् याप्मि/",
+      "group": "CB",
+      "mean": "<p>1. human-being; man. 2. the first man of creation.</p>१. मानव; मान्छे; मानिस । २. सृष्टिको प्रथम पुरुष ।"
+    },
+    "05558": {
+      "dId": "ᤔᤧᤴᤇᤡ᤹ᤇᤡ ",
+      "desc": "/मेन्छि?छि?/",
+      "group": "CB",
+      "mean": "<p>in a manner of haste/doing one’s utmost.</p>भ्याइनभ्याई; व्यस्ततापूर्वक; हतारहतार गर्ने चालाले । "
+    },
+    "05559": {
+      "dId": "ᤔᤧᤴᤇᤡᤴ",
+      "desc": "/मेन्छिन्/",
+      "group": "CB",
+      "mean": "<p>(fem.) young; youthful.</p>तरुनी ।"
+    },
+    "05560": {
+      "dId": "ᤔᤧᤴᤇᤡᤃᤠᤣ᤺ᤳ/ᤔᤧᤴᤇᤡᤃᤠᤣᤋ᤻",
+      "desc": "/मेन्छिगोःत्/",
+      "group": "CB",
+      "mean": "<p>obscene; vulgar; indecent.</p>अश्लील ।"
+    },
+    "05561": {
+      "dId": "ᤔᤧᤴᤇᤡᤃᤠᤣ᤺ᤵᤐᤠ/ᤔᤧᤴᤇᤡᤃᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/मेन्छिगोःप्पा/",
+      "group": "CB",
+      "mean": "<p>buffoon; clown; pimp; pander.</p>भँडुवा; दलाल ।"
+    },
+    "05562": {
+      "dId": "ᤔᤧᤴᤇᤢᤰᤔᤠ",
+      "desc": "/मेन्छुक्मा/",
+      "group": "CB",
+      "mean": "<p>pregnant.</p>गर्भवती ।"
+    },
+    "05563": {
+      "dId": "ᤔᤧ᤺ᤴᤇᤏᤢᤰᤔᤠᤏᤠ/ᤔᤧᤏ᤻ᤇᤢᤰᤔᤠᤏᤠ",
+      "desc": "/मेःन्छुक्माना/",
+      "group": "CB",
+      "mean": "<p>1. incapable. 2. incompetent; unqualified.</p>१. अशक्त; असमर्थ । २. अयोग्य ।"
+    },
+    "05564": {
+      "dId": "ᤔᤧᤴᤇᤢᤔᤠ᤹",
+      "desc": "/मेन्छुमा?/",
+      "group": "CB",
+      "mean": "<p>woman; lady; female.</p>स्वास्नीमानिस; महिला ।"
+    },
+    "05565": {
+      "dId": "ᤔᤧᤴᤇᤧᤴ",
+      "desc": "/मेन्छेन्/",
+      "group": "CB",
+      "mean": "<p>inseparable; intimate; close.</p>अनन्य; अभिन्न ।"
+    },
+    "05566": {
+      "dId": "ᤔᤧᤴᤇᤩᤠ᤹",
+      "desc": "/मेन्छ्या/",
+      "group": "CB",
+      "mean": "<p>young girl.</p>तरुनी (केटी) ।"
+    },
+    "05567": {
+      "dId": "ᤔᤧᤴᤇᤩᤠ ᤐᤢᤖᤢᤵ",
+      "desc": "/मेन्छ्या पुरुप्/",
+      "group": "CB",
+      "mean": "<p>1. a row/bevy/swarm of young woman/ladies. 2. females who wait on/escort the bride upto the groom’s house. 3. the constellation of the Great Bear, the pleiades. 4. a group of stars often visible in the morning beside the constellation of three stars.</p>१. तरुनीको लहर/ताँती । २. लोकन्ती; बेहुलीलाई पुर्याउन जाने स्वास्नीमानिस । ३. सप्तर्षि तारा; कृत्तिका । ४. तीनआँख्ले तारासँगै अक्सर बिहानीपख गुजमुज्ज परेर रहने ताराहरुको समूह ।"
+    },
+    "05568": {
+      "dId": "ᤔᤧᤴᤇᤩᤠ᤹ᤕᤧᤶ ᤁᤠᤣ᤺ᤰᤔᤠ᤺/ᤁᤠᤣᤁ᤻ᤔᤠ᤺",
+      "desc": "/मेन्छ्या?येम् कोःक्माः/",
+      "group": "CB",
+      "mean": "<p>1. name of a high hill in the Milke Mountain Range in eastern Nepal. 2. one of the hill in the Milke Range, mentioned in the Mundhum.</p>१. पूर्वी नेपालको मिल्के पहाड शृङ्खलाको एक उच्च डाँडाको नाम । २. मिल्के पहाड शृङ्खलामा अवस्थित मुन्धुममा वर्णित एक पहाड ।"
+    },
+    "05569": {
+      "dId": "ᤔᤧᤴᤈᤠᤣ",
+      "desc": "/मेन्जो/",
+      "group": "CB",
+      "mean": "<p>1. indeclinable, a polite word expressing humbleness denoting the sense of ‘at any rate’, ‘in any case’, ‘anyhow’, ‘even though’, ‘despite’, ‘knowingly or unknowingly’, ‘so so’ etc. 2. so so, simple; ordinary. 3. (even though) humbly; very simple; so-so.</p>१. केहि कुरा अर्पण वा जाहेर गर्दा प्रसङ्गअनुसार ‘जे जस्तो भएपनि’, ‘नमिठो भएपनि’, ‘नराम्रो भएपनि’, ‘जानी नजानी’, ‘भए वा नभएपनि’ आदि विभिन्न अर्थ वहन गरी विनम्रता प्रकट गर्ने शब्द । २. साधारण । ३. अति सामान्य; यस्ते उस्तै (भएपनि) ।"
+    },
+    "05570": {
+      "dId": "ᤔᤧᤴᤈᤠᤣᤖᤠ",
+      "desc": "/मेन्जोरा/",
+      "group": "CB",
+      "mean": "<p>1. matchless. 2. unique; unparalleled.</p>१. विजोडी; बेजोडा । २. अद्वितीय; बेजोड ।"
+    },
+    "05571": {
+      "dId": "ᤔᤧᤴᤍᤱ",
+      "desc": "/मेन्दङ्/",
+      "group": "CB",
+      "mean": "<p>dissimilarity; difference.</p>अमिल्दोपना; भेद; विविधता । "
+    },
+    "05572": {
+      "dId": "ᤔᤧᤴᤍᤱᤏᤠ",
+      "desc": "/मेन्दङ्ना/",
+      "group": "CB",
+      "mean": "<p>1. unsociable; not congenial; queer; eccentric. 2. different; separate; incomparable.</p>१. कसैसित मिल्न नसक्ने; अडभङ्गे; अमिल्दो । २. बेग्लै; फरक; पृथक ।"
+    },
+    "05573": {
+      "dId": "ᤔᤧᤴᤍᤱᤍᤱ",
+      "desc": "/मेन्दङ्दङ्/",
+      "group": "CB",
+      "mean": "<p>a lot of; a large number of; many; excessive; innumerable.</p>असङ्ख्य; धेरै; अत्यन्त; कता हो कता ।"
+    },
+    "05574": {
+      "dId": "ᤔᤧᤵᤔᤠ",
+      "desc": "/मेप्मा/",
+      "group": "CB",
+      "mean": "<p>1. to tell/relate/narrate. 2. auxiliary/helping verb suffixed to another word to denote ‘to do sth’, ‘to impress or to be impressed’.</p>१. भन्नु; सुनाउनु । २. अन्य शब्दको पछिल्तिर जोडिएर ‘केहि गर्नु’, ‘प्रभावित पार्नु/हुनु’ आदि अर्थ बोध गराउने सहायक क्रिया ।"
+    },
+    "05575": {
+      "dId": "ᤔᤧᤶᤒᤢ᤹",
+      "desc": "/मेम्बु?/",
+      "group": "CB",
+      "mean": "<p>ceaseless; continuous; incessant.</p>अविच्छिन्न; लगातार ।"
+    },
+    "05576": {
+      "dId": "ᤔᤧᤶᤒᤧᤴ",
+      "desc": "/मेम्बेन्/",
+      "group": "CB",
+      "mean": "<p>inequaliity; unevenness.</p>असमानता ।"
+    },
+    "05577": {
+      "dId": "ᤔᤧᤶᤔᤢᤴ ᤆᤢ",
+      "desc": "/मेम्मुन् चु/",
+      "group": "CB",
+      "mean": "<p>neuter gender.</p>नपुंसकलिङ्ग ।"
+    },
+    "05578": {
+      "dId": "ᤔᤧᤸᤗᤢᤰ",
+      "desc": "/मेल्लुक्/",
+      "group": "CB",
+      "mean": "<p>sheep.</p>भेंडा ।"
+    },
+    "05579": {
+      "dId": "ᤔᤧᤸᤗᤢᤱ",
+      "desc": "/मेल्लुङ्/",
+      "group": "CB",
+      "mean": "<p>price; cost; charge.</p>मोल; भाउ; मूल्य; दाम ।"
+    },
+    "05580": {
+      "dId": "ᤔᤧᤸᤗᤢᤱ ᤛᤰ",
+      "desc": "/मेल्लुङ् सक्/",
+      "group": "CB",
+      "mean": "<p>bill.</p>बिल ।"
+    },
+    "05581": {
+      "dId": "ᤔᤧᤸᤗᤢᤱᤑᤢᤱᤔᤠ᤹",
+      "desc": "/मेल्लुङ्फुमा?/",
+      "group": "CB",
+      "mean": "<p>to perform the final marriage-ritual to transfer a woman to her husband’s clan from her paternal clan.</p>साइमुन्द्रीको रीति सम्पन्न गर्ने ।"
+    },
+    "05582": {
+      "dId": "ᤔᤧᤸᤗᤧᤱᤘᤠᤒᤠ",
+      "desc": "/मेल्लेङ्वाबा/",
+      "group": "CB",
+      "mean": "<p>indeclinable; unchangeable; unalterable.</p>अपरिवर्तनीय ।"
+    },
+    "05583": {
+      "dId": "ᤔᤧ᤺ᤰᤔᤠ/ᤔᤧᤁ᤻ᤔᤠ",
+      "desc": "/मेःक्मा/",
+      "group": "CB",
+      "mean": "<p>1. a kind of white crested bird which flies in group (a kind of Bulbul). 2. (of wheat, plant, weed, etc) to topple over; ot cuddle; to fall down. 3. (of goat, kids) to bleat.</p>१. एक प्रकारको बगालमा हुने (जुरेली) चरा । २. गहुँ, झार आदि ढल्नु । ३. बोका बाख्रा कराउनु; म्याम्या गर्नु ।"
+    },
+    "05584": {
+      "dId": "ᤔᤧ᤺ᤱᤃᤪᤠ/ᤔᤧᤅ᤻ᤃᤪᤠ",
+      "desc": "/मेःङ्ग्र/",
+      "group": "CB",
+      "mean": "<p>or; otherwise; if not; or else; if.</p>नत्र (भने); अन्यथा; यदि ।"
+    },
+    "05585": {
+      "dId": "ᤔᤧ᤺ᤱᤔᤠ/ᤔᤧᤅ᤻ᤔᤠ",
+      "desc": "/मेःङ्मा/",
+      "group": "CB",
+      "mean": "<p>to fell/topple over; to get the bushes, etc depress by walking/treading upon them; to press sth; to tread over sth.</p>धानकोदो झार आदि ढाल्नु; माडमुड पार्नु; दलदाल पार्नु ।"
+    },
+    "05586": {
+      "dId": "ᤔᤧ᤺ᤱᤘᤠ/ᤔᤧᤅ᤻ᤘᤠ",
+      "desc": "/मेःङ्वा/",
+      "group": "CB",
+      "mean": "<p>bat.</p>चमेरो ।"
+    },
+    "05587": {
+      "dId": "ᤔᤧ᤺ᤴ/ᤔᤧᤏ᤻",
+      "desc": "/मेःन्/",
+      "group": "CB",
+      "mean": "<p>1. ‘non not’, a negative particle when affixed before or after a verb gives a negative meaning. 2. no; not.</p>१. हुनु क्रियालाई नकारात्मक बनाउन क्रियापदको अगाडि पछाडि जोडिने निपात । २. नाइँ; अहँ ।"
+    },
+    "05588": {
+      "dId": "ᤔᤧ᤺ᤴᤈᤠᤔᤏᤠ/ᤔᤧᤏ᤻ᤈᤠᤔᤏᤠ ᤂᤠᤶ",
+      "desc": "/मेःन्जामना खाम्/",
+      "group": "CB",
+      "mean": "<p>dry barren/impoversihed soil.</p>रुखो माटो ।"
+    },
+    "05589": {
+      "dId": "ᤔᤧ᤺ᤴᤍᤠᤰ/ᤔᤧᤏ᤻ᤍᤠᤰ",
+      "desc": "/मेःन्दाक्/",
+      "group": "CB",
+      "mean": "<p>goat.</p>बाख्रो ।"
+    },
+    "05590": {
+      "dId": "ᤔᤧ᤺ᤴᤍᤡᤱ/ᤔᤧᤏ᤻ᤍᤡᤱ",
+      "desc": "/मेःन्दिङ्/",
+      "group": "CB",
+      "mean": "<p>negative; opposite to ‘positive’.</p>अकरण; ऋणात्मक; करणको विपरीत ।"
+    },
+    "05591": {
+      "dId": "ᤔᤧ᤺ᤴᤍᤡᤱᤒᤠ/ᤔᤧᤏ᤻ᤍᤡᤱᤒᤠ",
+      "desc": "/मेःन्दिङ्बा/",
+      "group": "CB",
+      "mean": "<p>negative.</p>अकरणात्मक्; ऋणात्मक।"
+    },
+    "05592": {
+      "dId": "ᤔᤧ᤺ᤴᤍᤡᤶ/ᤔᤧᤏ᤻ᤍᤡᤶ",
+      "desc": "/मेःन्दिम्/",
+      "group": "CB",
+      "mean": "<p>(n.) imperfection; not full. (adv.) imperfectly; not fully.</p>(ना.) अपूर्णता; अपूर्णत्व । (क्रिवि.) अपूर्ण रूपले; भरि नहुने गरेर ।"
+    },
+    "05593": {
+      "dId": "ᤔᤧ᤺ᤴᤍᤢᤰ/ᤔᤧᤏ᤻ᤍᤢᤰ",
+      "desc": "/मेःन्दुक्/",
+      "group": "CB",
+      "mean": "<p>[Phedape] ‘no, not’, a negative particle; one of the negative forms of the verb ‘to be’.</p>[फेदापे] ‘होइन’; ‘हुनु’ क्रियाको नकारार्थी भाव बुझाउने शब्द ।"
+    },
+    "05594": {
+      "dId": "ᤔᤧ᤺ᤴᤎᤠ/ᤔᤧᤏ᤻ᤎᤠ",
+      "desc": "/मेःन्धा/",
+      "group": "CB",
+      "mean": "<p>1. unfathomable; unapproachable; unattainable; unknowable; inaccessible. 2. devoid of quality.</p>१. अगम; गम पाइ नसक्नु; जानि नसक्नु । २. निर्गुण ।"
+    },
+    "05595": {
+      "dId": "ᤔᤧ᤺ᤴᤏᤡ/ᤔᤧᤏ᤻ᤏᤡ ",
+      "desc": "/मेःन्नि/",
+      "group": "CB",
+      "mean": "<p>invisible.</p>अगोचर; देख्न नसकिने; अदृश्य; परोक्ष ।"
+    },
+    "05596": {
+      "dId": "ᤔᤧ᤺ᤴᤏᤡ/ᤔᤧᤏ᤻ᤏᤡ ᤆᤄᤵ",
+      "desc": "/मेःन्नि चघप्/",
+      "group": "CB",
+      "mean": "<p>suddenly; abruptly; all of a sudden.</p>अकस्मात; अचानक ।"
+    },
+    "05597": {
+      "dId": "ᤔᤧ᤺ᤴᤏᤡ/ᤔᤧᤏ᤻ᤏᤡ ᤆᤄᤵᤐᤠ",
+      "desc": "/मेःन्नि चघप्पा/",
+      "group": "CB",
+      "mean": "<p>accidental.</p>आकस्मिक ।"
+    },
+    "05598": {
+      "dId": "ᤔᤧ᤺ᤴᤏᤡ᤺ᤳᤇᤠ/ᤔᤧᤏ᤻ᤏᤡᤋ᤻ᤇᤠ",
+      "desc": "/मेःन्निःत्छा/",
+      "group": "CB",
+      "mean": "<p>illiterate.</p>निराक्षर; अनाक्षर ।"
+    },
+    "05599": {
+      "dId": "ᤔᤧ᤺ᤴᤏᤢᤵ/ᤔᤧᤏ᤻ᤏᤢᤵ",
+      "desc": "/मेःन्नुप्/",
+      "group": "CB",
+      "mean": "<p>infinite; endless; eternal.</p>अनन्त ।"
+    },
+    "05600": {
+      "dId": "ᤔᤧ᤺ᤴᤏᤧ/ᤔᤧᤏ᤻ᤏᤧ",
+      "desc": "/मेःन्ने/",
+      "group": "CB",
+      "mean": "<p>a prepositional suffix meaning ‘without’, ‘not having’, ‘lacking’.</p>नामको पछाडि जोडिएर ‘विना’, ‘रहित’, ‘नभई’ आदि अर्थ बुझाउने शब्द ।"
+    },
+    "05601": {
+      "dId": "ᤔᤧ᤺ᤴᤕᤠᤱᤘᤠᤒᤠ/ᤔᤧᤏ᤻ᤕᤠᤱᤘᤠᤒᤠ",
+      "desc": "/मेःन्याङ्वाबा/",
+      "group": "CB",
+      "mean": "<p>non-formal.</p>अनौपचारिक ।"
+    },
+    "05602": {
+      "dId": "ᤔᤩᤠᤰ",
+      "desc": "/म्याक्/",
+      "group": "CB",
+      "mean": "<p>a bit; a little; few; a little bit; scanty.</p>थोरै; अलिकति ।"
+    },
+    "05603": {
+      "dId": "ᤔᤩᤠᤱᤗᤢᤱ",
+      "desc": "/म्याङ्लुङ्/",
+      "group": "CB",
+      "mean": "<p>a village named Myalung in Limbu; one of villages in distant Far Kinant region, described in the Limbu legends and at present is the headquarter of Terhathum districh (east Nepal).</p>लिम्बू पौराणिक आख्यनमा वर्णित, हाल तेह्रथुम जिल्लाको सदरमुकाममा पर्ने, पल्लो किराँतको एक गाउँको नाम ।"
+    }
+  }
+}

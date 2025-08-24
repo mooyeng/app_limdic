@@ -1,0 +1,747 @@
+{
+  "Dic": {
+    "05390": {
+      "dId": "ᤔᤢ",
+      "desc": "/मु/",
+      "group": "BZ",
+      "mean": "<p>1. below; under. 2. attitude particle used in exclamations or non-self evidence, hearsay, rumour etc.</p>१. तल; मुनि । २. “अरे; रे”; अनिश्चयबोधक अर्थ जाहेर गर्ने वा जाहेर गर्दा प्रयोग हुने निपात ।"
+    },
+    "05391": {
+      "dId": "ᤔᤢᤀ᤺ᤰ/ᤔᤢᤀᤁ᤻",
+      "desc": "/मुअःक्/",
+      "group": "BZ",
+      "mean": "<p>(stage of being) unconsciousness.</p>अचेतन स्थिति ।"
+    },
+    "05392": {
+      "dId": "ᤔᤢᤀᤠᤴᤎᤠ",
+      "desc": "/मुआन्धा/",
+      "group": "BZ",
+      "mean": "<p>(all-pervasive) darkness.</p>(व्याप्त) अन्धकार ।"
+    },
+    "05393": {
+      "dId": "ᤔᤢᤀᤡ ",
+      "desc": "/मुइ/",
+      "group": "BZ",
+      "mean": "<p>long life; longevity.</p>आयु ।"
+    },
+    "05394": {
+      "dId": "ᤔᤢᤀᤡᤰ",
+      "desc": "/मुइक्/",
+      "group": "BZ",
+      "mean": "<p>name of a constellation (comprising Aldebaran and four other stars in Taurus).</p>रोहिणी नक्षत्र ।"
+    },
+    "05395": {
+      "dId": "ᤔᤢᤀᤡᤃᤢᤶ",
+      "desc": "/मुइगुम्/",
+      "group": "BZ",
+      "mean": "<p>full of wisdom/knowledge; wisdom prudence; intelligence.</p>ज्ञान विद्याले परिपूर्ण; प्रज्ञा ।"
+    },
+    "05396": {
+      "dId": "ᤔᤢᤀᤡᤃᤢᤶᤒᤠ",
+      "desc": "/मुइगुम्बा/",
+      "group": "BZ",
+      "mean": "<p>wise; prudent; intelligent; academician.</p>प्राज्ञ; प्रज्ञावान्; ज्ञानी । "
+    },
+    "05397": {
+      "dId": "ᤔᤢᤀᤡᤏᤠᤶ/ᤔᤤᤏᤠᤶ",
+      "desc": "/मुइनाम्/मैनाम्/",
+      "group": "BZ",
+      "mean": "<p>1. any upper garment placed on the alter during worship to represent the absentee (concerned person who happens to be absent) 2. symbol.</p>१. पूजा आराधना कार्य गर्दा पूजावेदीमा सम्बद्ध व्यक्ति अनुपस्थित रहेमा उसको प्रतीकको रूपमा राखिने उसको कुनै उपर वस्त्र । २. प्रतीक ।"
+    },
+    "05398": {
+      "dId": "ᤔᤢᤰ",
+      "desc": "/मुक्/",
+      "group": "BZ",
+      "mean": "<p>power; might; vim; (mental and physical psychosomatic) strmeanth; capacity; virility.</p>शक्ति; (मानसिक र शारीरिक शक्ति) ।"
+    },
+    "05399": {
+      "dId": "ᤔᤢᤰᤁᤢᤒᤠ",
+      "desc": "/मुक्कुबा/",
+      "group": "BZ",
+      "mean": "<p>(adj.) powerful; capable; virile; mighty; influential. (n.) (M) a well-known/famous male character in the Kiranti folklore.</p>(वि.) शक्तिशाली; शक्तिमान । (ना.) किराती लोककथाको एक प्रसिद्ध पुरुष पात्र ।"
+    },
+    "05400": {
+      "dId": "ᤔᤢᤰᤁᤢᤶ",
+      "desc": "/मुक्कुम्/",
+      "group": "BZ",
+      "mean": "<p>1. might; almightiness; omnipotence; supreme/ultimate power. 2. fire.</p>१. शक्ति; सर्वशक्तिमत्ता । २. अग्नि; आगो । "
+    },
+    "05401": {
+      "dId": "ᤔᤢᤰᤁᤢᤶᤒᤠ",
+      "desc": "/मुक्कुम्बा/",
+      "group": "BZ",
+      "mean": "<p>1. a small worm which lives in a whirl of dust. 2. a kind of medicinal plant. <i>Bischoffia javanica.</i></p>१. धूलोमा गुँडुल्किएर बस्ने एक प्रकारको सानो कीरो । २. कैंजल ।"
+    },
+    "05402": {
+      "dId": "ᤔᤢᤰᤁᤢᤶᤔᤠ",
+      "desc": "/मुक्कुम्मा/",
+      "group": "BZ",
+      "mean": "<p>god or goddess of power/strmeanth.</p>शक्तिोक देवता वा देवी ।"
+    },
+    "05403": {
+      "dId": "ᤔᤢᤰᤋᤢ",
+      "desc": "/मुक्तु/",
+      "group": "BZ",
+      "mean": "<p>a kind of grass (plant). <i>Neyraudia madagascariensis.</i></p>घुङ्रिङ् (वनस्पति) ।"
+    },
+    "05404": {
+      "dId": "ᤔᤢᤰᤌᤠ᤺ᤔᤠ",
+      "desc": "/मुक्थाःमा/",
+      "group": "BZ",
+      "mean": "<p>to drop sth; to let fall sth.</p>खसाल्नु; खसाउनु ।"
+    },
+    "05405": {
+      "dId": "ᤔᤢᤰᤐᤠ᤺ᤴ/ᤔᤢᤰᤐᤠᤏ᤻",
+      "desc": "/मुक्पाःन्/",
+      "group": "BZ",
+      "mean": "<p>proverb.</p>उखान ।"
+    },
+    "05406": {
+      "dId": "ᤔᤢᤰᤑᤠᤣ",
+      "desc": "/मुक्फो/",
+      "group": "BZ",
+      "mean": "<p>incantation; charm; sacred formula; mystical verse.</p>मन्त्र ।"
+    },
+    "05407": {
+      "dId": "ᤔᤢᤰᤑᤪᤧᤱ",
+      "desc": "/मुक्फ्रेङ्/",
+      "group": "BZ",
+      "mean": "<p>glottal stop of Limbu alphabet; a phonetic symbol like this ( ᤹ ) in the Limbu or Sirijunga script (alphabet).</p>कण्ठमुखी स्वरयन्त्रस्पर्शी ध्वनि; त्यस ध्वनिलाई बुझाउन लिम्बू वा सिरिजङ्गा लिपिको यस्तो ध्वनिक ( ᤹ ) चिन्ह ।"
+    },
+    "05408": {
+      "dId": "ᤔᤢᤰᤔᤠ",
+      "desc": "/मुक्मा/",
+      "group": "BZ",
+      "mean": "<p>1. to crush (dry or parched things) into powder. 2. to crush/press down (a fallen/knocked man as in wrestling). 3. (of click, bell etc) to sound/strike.</p>१. (सुकेको वस्तु माडमुड पारी) धूलो पार्नु । २. (पछारिएको वा चित भएको मान्छेलाई कुस्तीमा झैं) माडमुड पार्नु । ३. बज्नु ।"
+    },
+    "05409": {
+      "dId": "ᤔᤢᤰᤔᤢᤖᤠ",
+      "desc": "/मुक्मुरा/",
+      "group": "BZ",
+      "mean": "<p>1. oral incantation carried for generations by the Limbu priests- Phedangma, Samba and Yebas. 2. oral traditions.</p>१. फेदाङ्मा, साम्बा, येबाहरूले मुखमुखै भनी आएको मन्त्र । २. जनश्रुति ।"
+    },
+    "05410": {
+      "dId": "ᤔᤢᤰᤗᤧᤵ",
+      "desc": "/मुक्लेप्/",
+      "group": "BZ",
+      "mean": "<p>clock; watch.</p>घडी ।"
+    },
+    "05411": {
+      "dId": "ᤔᤢᤰᤛᤠᤶ",
+      "desc": "/मुक्साम्",
+      "group": "BZ",
+      "mean": "<p>energy; strmeanth; power; prowess; might; vim; virility.</p>शक्ति; सामार्थ्य ।"
+    },
+    "05412": {
+      "dId": "ᤔᤢᤰᤛᤡ ",
+      "desc": "/मुक्सि/",
+      "group": "BZ",
+      "mean": "<p>element; essence; substance.</p>तत्त्व; सार ।"
+    },
+    "05413": {
+      "dId": "ᤔᤢᤰᤛᤡᤖᤡ ",
+      "desc": "/मुक्सिरि/",
+      "group": "BZ",
+      "mean": "<p>one of the constellations.</p>चित्रा (नक्षत्र) ।"
+    },
+    "05414": {
+      "dId": "ᤔᤢᤃᤰᤋᤢᤰᤔᤠ",
+      "desc": "/मुगक्तुक्मा/",
+      "group": "BZ",
+      "mean": "<p>cholera.</p>हैजा ।"
+    },
+    "05415": {
+      "dId": "ᤔᤢᤃᤢ",
+      "desc": "/मुगु/",
+      "group": "BZ",
+      "mean": "<p>Yama; God of death/Yamas; Death God.</p>यम; आयु समाप्त गर्ने देवता; यमराज ।"
+    },
+    "05416": {
+      "dId": "ᤔᤢᤄᤰ(ᤔᤠ)",
+      "desc": "/मुघक्(मा)/",
+      "group": "BZ",
+      "mean": "<p>buttock(s); rump; heap.</p>चाक; नितम्ब ।"
+    },
+    "05417": {
+      "dId": "ᤔᤢᤱ",
+      "desc": "/मुङ्/",
+      "group": "BZ",
+      "mean": "<p>the sound fo playing/blowing/beating musical instruments; blowing/beating/resounding (sound of) musical instruments.</p>बाजा घन्केको वा बजेको स्वर; बजाइ; घन्काइ; वादन ।"
+    },
+    "05418": {
+      "dId": "ᤔᤢᤱᤃᤡᤰᤐᤠ",
+      "desc": "/मुङ्गिक्पा/",
+      "group": "BZ",
+      "mean": "<p>a kind of small red bird found at riverside.</p>खोलातिर पाइने एक प्रकारको सानो र रातो चरो ।"
+    },
+    "05419": {
+      "dId": "ᤔᤢᤱᤔᤠ",
+      "desc": "/मुङ्मा/",
+      "group": "BZ",
+      "mean": "<p>to beat/blow/play a musical instrument.</p>बजाउनु ।"
+    },
+    "05420": {
+      "dId": "ᤔᤢᤱᤗᤠ",
+      "desc": "/मुङ्ला/",
+      "group": "BZ",
+      "mean": "<p>musical instruments.</p>बाजागाजा; वाद्ययन्त्रसमूह ।"
+    },
+    "05421": {
+      "dId": "ᤔᤢᤱᤘᤠ(ᤔᤠᤣ)",
+      "desc": "/मुङ्वा(मो)/",
+      "group": "BZ",
+      "mean": "<p>penance; meditation; contemplation; concentration of mind.</p>ध्यान; तपस्या; साधना; समाधि ।"
+    },
+    "05422": {
+      "dId": "ᤔᤢᤈᤳ",
+      "desc": "/मुजत्/",
+      "group": "BZ",
+      "mean": "<p>at ease; readily; in a manner of shifting readily.</p>थपक्क; थपक्क सार्ने किसिमले ।"
+    },
+    "05423": {
+      "dId": "ᤔᤢᤈᤠ᤺ᤵᤐᤠ/ᤔᤢᤈᤠᤐ᤻ᤐᤠ",
+      "desc": "/मुजाःप्पा/",
+      "group": "BZ",
+      "mean": "<p>fraud; deceitful; dishonest.</p>धोकेबाज; कपटी; मक्कार ।"
+    },
+    "05424": {
+      "dId": "ᤔᤢᤈᤡ᤹ᤕᤠ",
+      "desc": "/मुजि?वा/",
+      "group": "BZ",
+      "mean": "<p>remains; left-overs; remnants; crumbs (of bread, scraps of food).</p>रहलपहल (बाँकी रहेकफ धुजामुजा रोटीका टुक्रा आदि) ।"
+    },
+    "05425": {
+      "dId": "ᤔᤢᤈᤡᤰ",
+      "desc": "/मुजिक्/",
+      "group": "BZ",
+      "mean": "<p>1. gnat. 2. chips, fragments.</p>१. भुसुना । २. टुक्राटुक्री; चोइटाचोइटी ।"
+    },
+    "05426": {
+      "dId": "ᤔᤢᤈᤠᤣ᤺ᤰᤗᤢᤱ/ᤔᤢᤈᤠᤣᤁ᤻ᤗᤢᤱ",
+      "desc": "/मुजोःक्लुङ्/",
+      "group": "BZ",
+      "mean": "<p>creation.</p>सृष्टि ।"
+    },
+    "05427": {
+      "dId": "ᤔᤢᤈᤠᤣ᤺ᤳᤗᤢᤱ/ᤔᤢᤈᤠᤣᤋ᤻ᤗᤢᤱ",
+      "desc": "/मुजोःत्लुङ्/",
+      "group": "BZ",
+      "mean": "<p>center; core.</p>केन्द्र; केन्द्रस्थल ।"
+    },
+    "05428": {
+      "dId": "ᤔᤢᤈᤠᤣ᤺ᤵᤐᤠ/ᤔᤢᤈᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/मुजोःप्पा/",
+      "group": "BZ",
+      "mean": "<p>pig-tail; top-knot.</p>टुप्पी ।"
+    },
+    "05429": {
+      "dId": "ᤔᤢᤈᤪᤡᤱᤒᤠ",
+      "desc": "/मुज्रिङ्बा/",
+      "group": "BZ",
+      "mean": "<p>(of man) blinded by anger or malice; infuriated; angry and jealous.</p>रिस वा डाहले आँखा नदेख्ने (मान्छे) ।"
+    },
+    "05430": {
+      "dId": "ᤔᤢᤳ",
+      "desc": "/मुत्/",
+      "group": "BZ",
+      "mean": "<p>the silver-fish eats papers.</p>चेप्टो कीरा (कागज आदि खाने) ।"
+    },
+    "05431": {
+      "dId": "ᤔᤢᤳᤌᤠ᤺ᤔᤠ",
+      "desc": "/मुत्थाःमा/",
+      "group": "BZ",
+      "mean": "<p>fall down; [Phedape] to drop sth.</p>खस्नु; [फेदापे] खसाल्नु ।"
+    },
+    "05432": {
+      "dId": "ᤔᤢᤳᤌᤢᤰ",
+      "desc": "/मुत्थुक्/",
+      "group": "BZ",
+      "mean": "<p>(of walking) hastily/ hurriedly; headlong.</p>फटाफट, लमकलमक जाने (हिंड्ने) किसिमले ।"
+    },
+    "05433": {
+      "dId": "ᤔᤢᤳᤗᤠᤔᤠ(ᤑᤠ)",
+      "desc": "/मुत्लामा(फा)/",
+      "group": "BZ",
+      "mean": "<p>a kind of bamboo. <i>Dendrocalamus strictus.</i></p>मलबाँस ।"
+    },
+    "05434": {
+      "dId": "ᤔᤢᤳᤌᤪᤡᤰ",
+      "desc": "/मुत्थ्रिक्/",
+      "group": "BZ",
+      "mean": "<p>with a jerk; smartly; sprightly; jauntily.</p>जुरुक्क; एकै प्रयास वा झट्कामा उठ्ने वा उचाल्ने किसिमले ।"
+    },
+    "05435": {
+      "dId": "ᤔᤢᤳᤌᤠᤣ",
+      "desc": "/मुत्थो?/",
+      "group": "BZ",
+      "mean": "<p>[Tamor] beard.</p>[तमर] दाह्री ।"
+    },
+    "05436": {
+      "dId": "ᤔᤢᤍᤱ",
+      "desc": "/मुदङ्/",
+      "group": "BZ",
+      "mean": "<p>illusion; frenzy; mania; orgy; madness; insanity; craziness.</p>उन्माद; भ्रान्ति; पागलपन ।"
+    },
+    "05437": {
+      "dId": "ᤔᤢᤍᤱᤍᤱᤒᤠ",
+      "desc": "/मुदङ्दङ्बा/",
+      "group": "BZ",
+      "mean": "<p>frenzied; maniac; wild; mad; insane; illusioned; violently mad</p>उन्मादी; भ्रान्त; बहुलट्टीपनको ।"
+    },
+    "05438": {
+      "dId": "ᤔᤢᤍᤵᤔᤠ",
+      "desc": "/मुदप्मा/",
+      "group": "BZ",
+      "mean": "<p>to be foggy/misty/cloudy/overcast.</p>हुस्सु/कुइरो लाग्नु; धुम्मिनु; बादल ढम्म लाग्नु/ मडारिनु ।"
+    },
+    "05439": {
+      "dId": "ᤔᤢᤍᤰᤛᤠ",
+      "desc": "/मुदाक्सा/",
+      "group": "BZ",
+      "mean": "<p>reserved; Spartan; reticent.</p>अल्पभाषी ।"
+    },
+    "05440": {
+      "dId": "ᤔᤢᤍᤠᤶ",
+      "desc": "/मुदाम्/",
+      "group": "BZ",
+      "mean": "<p>yoga; meditation.</p>योगा; तपस्या ।"
+    },
+    "05441": {
+      "dId": "ᤔᤢᤍᤠᤶᤛᤠᤶᤒᤠ",
+      "desc": "/मुदाम्साम्बा/",
+      "group": "BZ",
+      "mean": "<p>saint; ascetic; yogi.</p>योगी; तपस्वी; महात्मा; सन्त ।"
+    },
+    "05442": {
+      "dId": "ᤔᤢᤍᤡᤱ",
+      "desc": "/मुदिङ्/",
+      "group": "BZ",
+      "mean": "<p>pearl.</p>मोती ।"
+    },
+    "05443": {
+      "dId": "ᤔᤢᤍᤠᤣᤂᤍᤠᤣ",
+      "desc": "/मुदोखादो/",
+      "group": "BZ",
+      "mean": "<p>unconscious, senseless (eg- as if lamenting the separation from one’s beloved one).</p>अचेत, बेहोश, चेतनाशुन्य (जस्तै मायालु/प्रेमी/प्रेमिकाको विरहले आदि) ।"
+    },
+    "05444": {
+      "dId": "ᤔᤢᤍᤧᤴ",
+      "desc": "/मुदेन्/",
+      "group": "BZ",
+      "mean": "<p>Tibet.</p>भोट; तिब्बत ।"
+    },
+    "05445": {
+      "dId": "ᤔᤢᤍᤧᤶᤒᤠ",
+      "desc": "/मुदेम्बा/",
+      "group": "BZ",
+      "mean": "<p>a Tibetan/Bhote/Sherpa; a Limbu word to denote them or their tribe.</p>तिब्बति; भोटे; शेर्पा; लिम्बूभाषामा तिब्बती, भोटे वा शेर्पा जातिलाई बुझाउने शब्द ।"
+    },
+    "05446": {
+      "dId": "ᤔᤢᤎᤠᤱ",
+      "desc": "/मुधाङ्/",
+      "group": "BZ",
+      "mean": "<p>anywhere; all around; on all sides; pervasively.</p>उँधो-उँभो (सर्वत्र, जहाँताहीँ) ।"
+    },
+    "05447": {
+      "dId": "ᤔᤢᤎᤡᤱ",
+      "desc": "/मुधिङ्/",
+      "group": "BZ",
+      "mean": "<p>a kind of precious stone, bluish in color.</p>यूँ (पत्थर) ।"
+    },
+    "05448": {
+      "dId": "ᤔᤢᤎᤢᤰ",
+      "desc": "/मुधुक्/",
+      "mean": "<p>[Phedape] mostach (human); whiskers (both human and non human).</p>[फेदापे] जुँगा ।"
+    },
+    "05449": {
+      "dId": "ᤔᤢᤎᤢᤱ ᤂᤣᤛᤣ᤹",
+      "desc": "/मुधुङ् खेसे?/",
+      "group": "BZ",
+      "mean": "<p>constellation.</p>तारामण्डल ।"
+    },
+    "05450": {
+      "dId": "ᤁᤢᤎᤢᤱ(ᤒᤠ)",
+      "desc": "/मुधुङ्(बा)/",
+      "group": "BZ",
+      "mean": "<p>cold; chill; influenza; flu.</p>रुघा; सर्दी ।"
+    },
+    "05451": {
+      "dId": "ᤔᤢᤎᤢᤵᤌᤢᤵᤐᤠ",
+      "desc": "/मुधुप्थुप्पा/",
+      "group": "BZ",
+      "mean": "<p>short and fat; dwarf.</p>पुड्के र मोटे; भुक्के डल्ले ।"
+    },
+    "05452": {
+      "dId": "ᤔᤢᤎᤢᤶᤒᤠ",
+      "desc": "/मुधुम्बा/",
+      "group": "BZ",
+      "mean": "<p>anus; rectum.</p>कन्डो; गुदद्वार ।"
+    },
+    "05453": {
+      "dId": "ᤔᤢᤎᤠᤣ",
+      "desc": "/मुधो/",
+      "group": "BZ",
+      "mean": "<p>beard.</p>दाह्री ।"
+    },
+    "05454": {
+      "dId": "ᤔᤢᤏᤠᤂᤠᤶ",
+      "desc": "/मुनाखाम्/",
+      "group": "BZ",
+      "mean": "<p>(M) man’s birth place as described in the Mundhum.</p>मुन्धुममा वर्णित मान्छे उत्पन्न भएको थलो ।"
+    },
+    "05455": {
+      "dId": "ᤔᤢᤏᤠᤶ ᤔᤠᤱ",
+      "desc": "/मुनाम् माङ्/",
+      "group": "BZ",
+      "mean": "<p>the goddess who protects a man from stomach, spleen and heart disease.</p>मानिसलाई पेट र मुटुको रोगबाट जोगाउने देवी ।"
+    },
+    "05456": {
+      "dId": "ᤔᤢᤏᤢᤰᤏᤢᤰ",
+      "desc": "/मुनुक्नुक्/",
+      "group": "BZ",
+      "mean": "<p>complaining; murmuring; grumbling; chattering.</p>गनगन; गनगनाउने चालाले ।"
+    },
+    "05457": {
+      "dId": "ᤔᤢᤏᤧ᤺ᤳ/ᤏᤢᤏᤧᤋ᤻",
+      "desc": "/मुनेःत्/",
+      "group": "BZ",
+      "mean": "<p>rules; regulations; procedure; rules and regulations.</p>नियम; विधि ।"
+    },
+    "05458": {
+      "dId": "ᤔᤢᤏᤧᤌᤡᤰᤔᤠ",
+      "desc": "/मुनेथिक्मा/",
+      "group": "BZ",
+      "mean": "<p>to grumble/prattle/murmur.</p>गनगन गर्नु; गनगनाउनु ।"
+    },
+    "05459": {
+      "dId": "ᤔᤢᤴ",
+      "desc": "/मुन्/",
+      "group": "BZ",
+      "mean": "<p>shaking; moving.</p>हल्लाइ ।"
+    },
+    "05460": {
+      "dId": "ᤏᤢᤴ ᤆᤀᤡᤳ",
+      "desc": "/मुन् चइःत्/",
+      "group": "BZ",
+      "mean": "<p>cinema; movie; (motion) film.</p>चलचित्र ।"
+    },
+    "05461": {
+      "dId": "ᤁᤢᤔᤢᤴ",
+      "desc": "/कुमुन्/",
+      "group": "BZ",
+      "mean": "<p>movement; motion; speed.</p>गति ।"
+    },
+    "05462": {
+      "dId": "ᤔᤢᤴᤄᤠᤏᤡ᤺ᤴ/ᤔᤢᤴᤄᤠᤏᤡᤏ᤻",
+      "desc": "/मुन्घानिःन्/",
+      "group": "BZ",
+      "mean": "<p>dynamics.</p>गति/बल विज्ञान; गति शास्त्र ।"
+    },
+    "05463": {
+      "dId": "ᤔᤢᤴᤇᤡᤱᤔᤠ",
+      "desc": "/मुन्छिङ्मा/",
+      "group": "BZ",
+      "mean": "<p>1. to try one’s level best; to do one’s utmost. 2. to be much encouraged/enthusiastic/excited.</p>१. मच्चिनु; जोड गर्नु; तम्सनु; भरमग्दुर गर्नु । २. अति उत्साहित हुनु ।"
+    },
+    "05464": {
+      "dId": "ᤔᤢᤴᤈᤡᤱᤔᤠ",
+      "desc": "/मुन्जिङ्मा/",
+      "group": "BZ",
+      "mean": "<p>to move/ocsillate/move for nothing.</p>रल्लनु; अस्थिर हुनु; यताउता गर्नु । "
+    },
+    "05465": {
+      "dId": "ᤔᤢᤴᤍᤪᤡ ",
+      "desc": "/मुन्द्रि/",
+      "group": "BZ",
+      "mean": "<p>nose-ring or ear-ring.</p>मुन्द्री; नाक कानमा लगाइने गहनाविशेष ।"
+    },
+    "05466": {
+      "dId": "ᤔᤢᤴᤍᤪᤠᤣ",
+      "desc": "/मुन्द्रो/",
+      "group": "BZ",
+      "mean": "<p>(finger) ring.</p>औंठी ।"
+    },
+    "05467": {
+      "dId": "ᤔᤢᤴᤎᤠᤱᤍᤡᤱᤛᤧᤖᤡ ",
+      "desc": "/मुन्धाङ्दिङ्सेरि/",
+      "group": "BZ",
+      "mean": "<p>thunderbolt; a figurative term used in the Mundhum denoting the thunderbolt.</p>वज्र; वज्रलाई बुझाउन मुन्धुममा प्रयोग गरिने आलङ्कारिक शब्द ।"
+    },
+    "05468": {
+      "dId": "ᤔᤢᤴᤎᤢᤰᤔᤠ",
+      "desc": "/मुन्धुक्मा/",
+      "group": "BZ",
+      "mean": "<p>to murmur/utter/recite the mystical verse quietly; to pray; to recite incantation(s).</p>जप/पुकारा गर्नु; मन्त्र जप्नु ।"
+    },
+    "05469": {
+      "dId": "ᤔᤢᤴᤎᤢᤵ",
+      "desc": "/मुन्धुप्/",
+      "group": "BZ",
+      "mean": "<p>incantation.</p>मन्त्र ।"
+    },
+    "05470": {
+      "dId": "ᤔᤢᤴᤎᤢᤶ",
+      "desc": "/मुन्धुम्/",
+      "group": "BZ",
+      "mean": "<p>1. holy Kirant-Limbu scripture based on oral tradition. 2. scriptural knowledge. 3. myth; mythology.</p>१. श्रुति-परम्परामा प्रचलित किरात-लिम्बू-धर्मशास्त्र । २. शास्त्र; ज्ञान । ३. मिथक ।"
+    },
+    "05471": {
+      "dId": "ᤔᤢᤕᤠ",
+      "desc": "/मुया/",
+      "group": "BZ",
+      "mean": "<p>kite(bird); hawk; vulture; eagle. <i>Aquila.</i></p>चील ।"
+    },
+    "05472": {
+      "dId": "ᤔᤢᤕᤠᤍᤠᤣ ᤛᤡᤱ",
+      "desc": "/मुयादो सिङ्/",
+      "group": "BZ",
+      "mean": "<p>Dhatura, puppy seed. Datura stramonium; <i>D. fistulosa.</i></p>धतुरो ।"
+    },
+    "05473": {
+      "dId": "ᤔᤢᤕᤠ ᤛᤠᤶᤔᤠᤱ",
+      "desc": "/मुया साम्माङ्/",
+      "group": "BZ",
+      "mean": "<p>the eagle/vulture deity/god; a deity in the form of the eagle which is believed to eat the offenders heart, benumb hid limbs and eventually causes boils and blisters appear on his body.</p>चीलदेव, जसले रिसाउँदा मानिसको मुटु खाने र उसको हातखुट्टा झमझमाउने रोग लगाउने तथा पछि खटिराको पनि प्रकोप गराउछ भनी विश्वास गरिएको चीलको रूपमा रहने देवता ।"
+    },
+    "05474": {
+      "dId": "ᤔᤢᤕᤢᤱᤕᤠ",
+      "desc": "/मुयुङ्या/",
+      "group": "BZ",
+      "mean": "<p>blade; razor blade.</p>उस्तरा ।"
+    },
+    "05475": {
+      "dId": "ᤔᤢᤕᤢ᤺ᤶᤒᤠ/ᤔᤢᤕᤢᤔ᤻ᤒᤠ",
+      "desc": "/मुयुःम्बा/",
+      "group": "BZ",
+      "mean": "<p>mostache.</p>जुँगा ।"
+    },
+    "05476": {
+      "dId": "ᤔᤢᤕᤧᤱ",
+      "desc": "/मुयेङ्/",
+      "group": "BZ",
+      "mean": "<p>smilingly; with a smile; wearing a smile; in a smiling manner.</p>मुसुक्क; मुसुक्क हाँस्ने किसिमले ।"
+    },
+    "05477": {
+      "dId": "ᤔᤢᤖᤠ",
+      "desc": "/मुरा/",
+      "group": "BZ",
+      "mean": "<p>mouth.</p>मुख ।"
+    },
+    "05478": {
+      "dId": "ᤔᤢᤖᤠᤁᤠᤣ᤺ᤴᤍᤣ/ᤔᤢᤖᤠᤁᤠᤣᤏ᤻ᤍᤣ",
+      "desc": "/मुराकोःन्दे/",
+      "group": "BZ",
+      "mean": "<p>lower or bottom lip.</p>तल्लो ओंठ ।"
+    },
+    "05479": {
+      "dId": "ᤔᤢᤖᤠᤆ᤺ᤂᤡ ",
+      "desc": "/मुराचःखि/",
+      "group": "BZ",
+      "mean": "<p>flattering; lip service.</p>चापलुसी; मुखले ठिक्क पार्ने काम ।"
+    },
+    "05480": {
+      "dId": "ᤔᤢᤖᤠᤍᤠᤣ᤺ᤔᤠ",
+      "desc": "/मुरादोःमा/",
+      "group": "BZ",
+      "mean": "<p>to answer back impudently.</p>मुख लाग्नु ।"
+    },
+    "05481": {
+      "dId": "ᤔᤢᤖᤠᤍᤠᤣ᤺ᤒᤠ",
+      "desc": "/मुरादोःबा/",
+      "group": "BZ",
+      "mean": "<p>sharp-tongued; answering back impudently.</p>मुखाले ।"
+    },
+    "05482": {
+      "dId": "ᤔᤢᤖᤠᤏᤠᤣ᤺ᤰ/ᤔᤢᤖᤠᤏᤠᤣᤁ᤻",
+      "desc": "/मुरानोःक्/",
+      "group": "BZ",
+      "mean": "<p>curt and insolent reply.</p>ओंठे जवाफ; ठाडो जवाफ ।"
+    },
+    "05483": {
+      "dId": "ᤔᤢᤖᤠᤐᤰᤛᤣ᤹",
+      "desc": "/मुरापक्से?/",
+      "group": "BZ",
+      "mean": "<p>lip.</p>ओंठ ।"
+    },
+    "05484": {
+      "dId": "ᤔᤢᤖᤠᤛᤡᤰ",
+      "desc": "/मुरासिक्/",
+      "group": "BZ",
+      "mean": "<p>upper lip.</p>माथिल्लो ओंठ ।"
+    },
+    "05485": {
+      "dId": "ᤔᤢᤖᤡᤰ",
+      "desc": "/मुरिक्/",
+      "group": "BZ",
+      "mean": "<p>body hair; feather; fur; wool.</p>रौं; भुत्ला ।"
+    },
+    "05486": {
+      "dId": "ᤔᤢᤖᤡᤰᤗᤡᤰᤐᤠ",
+      "desc": "/मुरिक्लिक्पा/",
+      "group": "BZ",
+      "mean": "<p>unsteady inconstant; fickle; fidgety; restless; playful; agile.</p>चन्चल(ल); चकचके; सगबगे । "
+    },
+    "05487": {
+      "dId": "ᤔᤢᤖᤡᤱᤗᤡᤱ",
+      "desc": "/मुरिङ्लिङ्/",
+      "group": "BZ",
+      "mean": "<p>in the manner of simultaneous movement of the worms, etc.</p>स्याँउस्याउँती (कीराहरूको सामुहिक चलमलाइ झैं चालाले) ।"
+    },
+    "05488": {
+      "dId": "ᤔᤢᤖᤡᤱᤗᤡᤱᤒᤠ",
+      "desc": "/मुरिङ्लिङ्बा/",
+      "group": "BZ",
+      "mean": "<p>minute; fine; slender; subtle</p>मसिनु; सुक्ष्म ।"
+    },
+    "05489": {
+      "dId": "ᤔᤢᤖᤢᤶ",
+      "desc": "/मुरुम्/",
+      "group": "BZ",
+      "mean": "<p>center; pivot; central point.</p>केन्द्र; बीच ।"
+    },
+    "05490": {
+      "dId": "ᤔᤢᤖᤣ",
+      "desc": "/मुरे/",
+      "group": "BZ",
+      "mean": "<p>a ling while (time).</p>निक्कै बेर ।"
+    },
+    "05491": {
+      "dId": "ᤔᤢᤖᤠᤣ᤺ᤵᤐᤠ/ᤔᤢᤖᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/मुरोःप्पा/",
+      "group": "BZ",
+      "mean": "<p>spine; backbone; axis.</p>मेरुदण्ड ।"
+    },
+    "05492": {
+      "dId": "ᤔᤢᤖᤧᤰ",
+      "desc": "/मुरेक्/",
+      "group": "BZ",
+      "mean": "<p>barren/waste land.</p>बन्जर भूमि; उजाड भूमि ।"
+    },
+    "05493": {
+      "dId": "ᤔᤢᤖᤧᤱ ᤂᤖᤧᤱ",
+      "desc": "/मुरेङ् खरेङ्/",
+      "group": "BZ",
+      "mean": "<p>1. the all-pervasive darkness at the time of creation. 2. quietness; loneliness; quietude.</p>१. सृष्टिको सुरुमा सर्वत्र व्याप्त) महाअन्धकार । २. सुनसान ।"
+    },
+    "05494": {
+      "dId": "ᤔᤢᤷ",
+      "desc": "/मुर्/",
+      "group": "BZ",
+      "mean": "<p>perfume; scent.</p>अत्तर ।"
+    },
+    "05495": {
+      "dId": "ᤔᤢᤷᤔᤠᤰ",
+      "desc": "/मुर्माक्/",
+      "group": "BZ",
+      "mean": "<p>1. disobedient; defiant; insolent; obstinate. 2. stupid; silly.</p>१. अटेरी; भनेको कुरा नमान्ने । २. लठुवा; आफु पनि नजान्ने अरुले भनेको पनि नमान्ने ।"
+    },
+    "05496": {
+      "dId": "ᤔᤢᤷᤔᤡ ",
+      "desc": "/मुर्मि/",
+      "group": "BZ",
+      "mean": "<p>a Limbu word denoting the Tamang ethnic people.</p>तामाङ; लिम्बूभाषामा तामाङ जातिलाई बुझाउने शब्द ।"
+    },
+    "05497": {
+      "dId": "ᤔᤢᤗᤠᤣ᤺ᤵᤔᤠ/ᤔᤢᤗᤠᤣᤐ᤻ᤔᤠ",
+      "desc": "/मुलोःप्मा/",
+      "group": "BZ",
+      "mean": "<p>to spread out sth on the ground; to underlay.</p>भुईमा केहि चीज ओछ्याउनु ।"
+    },
+    "05498": {
+      "dId": "ᤔᤢᤗᤠᤣ᤺ᤵᤔᤠ/ᤔᤢᤗᤠᤣᤐ᤻ᤔᤠ -ᤌᤡ ",
+      "desc": "/मुलोःप्मा थि/",
+      "group": "BZ",
+      "mean": "<p>a special beer used in worship.</p>पूजामा प्रयोग गरिने एक प्रकारको जाँडविशेष ।"
+    },
+    "05499": {
+      "dId": "ᤔᤢᤸᤗᤢᤰ",
+      "desc": "/मुल्लुक्/",
+      "group": "BZ",
+      "mean": "<p>exceedingly; excessively; too much; very much.</p>अत्यन्त/धेरै गर्ने चालाले; निमिट्यान्न/टाकटुक गर्ने चालाले ।"
+    },
+    "05500": {
+      "dId": "ᤔᤢᤛᤠᤵ",
+      "desc": "/मुसाप्/",
+      "group": "BZ",
+      "mean": "<p>1. following. 2. underlined; footnote.</p>१. निम्नलिखित; देहायको । २. रेखाङ्कित; पादटिप्पणी ।"
+    },
+    "05501": {
+      "dId": "ᤔᤢᤛᤢ",
+      "desc": "/मुसु/",
+      "group": "BZ",
+      "mean": "<p>1. private; secret; confidential; clandestine. 2. slowly; slackly; by degrees. 3. whispering; secretly.</p>१. साउती (गुप्त चालको) । २. बिस्तारै; मन्द गतिले । ३. खुसखुस, गुप्त चालाले; कानेखुसी गर्ने किसिमले । "
+    },
+    "05502": {
+      "dId": "ᤔᤢᤛᤢᤳᤗᤢᤱ",
+      "desc": "/मुसुत्लुङ्/",
+      "group": "BZ",
+      "mean": "<p>the first layer of the first rocks of creation.</p>सृष्टिमा भएको पहिलो चट्टानको पहिलो तह ।"
+    },
+    "05503": {
+      "dId": "ᤔᤢᤛᤢᤴᤏᤣ-ᤂᤧᤛᤢᤴᤏᤣ",
+      "desc": "/मुसुन्ने खेसुन्ने/",
+      "group": "BZ",
+      "mean": "<p>1. great devoidness (prevalent before creation). 2. hollow; void.</p>१. (सृष्टिअघिको) महाशुन्य । २. शुन्य ।"
+    },
+    "05504": {
+      "dId": "ᤔᤢᤛᤢᤶᤗᤢᤱ",
+      "desc": "/मुसुम्लुङ्/",
+      "group": "BZ",
+      "mean": "<p>three-stone stand for putting a cooking vessel over fire.</p>ढुङ्गाको ओदान वा चुह्लो ।"
+    },
+    "05505": {
+      "dId": "ᤔᤢᤛᤠᤣ᤺ᤰ/ᤔᤢᤛᤠᤣᤁ᤻",
+      "desc": "/मुसोःक्/",
+      "group": "BZ",
+      "mean": "<p>1. mimicry; imitation (for fun). 2. joke; fun.</p>१. नक्कल (हँस्यौलीको लागि) । २. हँस्यौली; ठट्यौली ।"
+    },
+    "05506": {
+      "dId": "ᤔᤢᤛᤧ᤺ᤱ/ᤔᤢᤛᤧᤅ᤻",
+      "desc": "/मुसेःङ्/",
+      "group": "BZ",
+      "mean": "<p>smile.</p>मुस्कान; मुस्कुराहट ।"
+    },
+    "05507": {
+      "dId": "ᤔᤢᤜᤱᤗᤡᤱ",
+      "desc": "/मुहङ्लिङ्/",
+      "group": "BZ",
+      "mean": "<p>1. devoidness (prevalent before creation). 2. open and void (empty) sky; space.</p>१. (सृष्टिपूर्वको) शुन्यता । २. शुन्य (रित्तो) आकाश; अन्तरिक्ष ।"
+    },
+    "05508": {
+      "dId": "ᤔᤢᤜᤡᤱ",
+      "desc": "/मुहिङ्/",
+      "group": "BZ",
+      "mean": "<p>vitality.</p>जीवनशक्ति; संजीवनी ।"
+    },
+    "05509": {
+      "dId": "ᤔᤢᤜᤡ᤺ᤰ/ᤔᤢᤜᤡᤁ᤻",
+      "desc": "/मुहिःक्/",
+      "group": "BZ",
+      "mean": "<p>cleverness.</p>अति बाठोपन ।"
+    },
+    "05510": {
+      "dId": "ᤔᤢᤜᤡ᤺ᤰ/ᤔᤢᤜᤡᤁ᤻ ᤔᤠᤱ",
+      "desc": "/मुहिःक् माङ्/",
+      "group": "BZ",
+      "mean": "<p>the deity who facilitates safe and timely delivery of a baby.</p>बच्चालाई ठीक समयमा सुरक्षासाथ जन्म दिने देवी ।"
+    },
+    "05511": {
+      "dId": "ᤔᤢ᤺ᤰ/ᤔᤢᤁ᤻",
+      "desc": "/मुःक्/",
+      "group": "BZ",
+      "mean": "<p>stump (of a tree).</p>ठूटो (रूखको) ।"
+    },
+    "05512": {
+      "dId": "ᤔᤢ᤺ᤵᤑᤪᤠᤣ/ᤔᤢᤐ᤻ᤑᤪᤠᤣ",
+      "desc": "/मःप्फ्रो/",
+      "group": "BZ",
+      "mean": "<p>flute; fife; pipe.</p>मुरली ।"
+    },
+    "05513": {
+      "dId": "ᤔᤢ᤺ᤶᤔᤠ/ᤔᤢᤔ᤻ᤔᤠ",
+      "desc": "/मुःम्मा/",
+      "group": "BZ",
+      "mean": "<p>to forget; to lose remembrance of; not to remember.</p>बिर्सनु ।"
+    }
+  }
+}

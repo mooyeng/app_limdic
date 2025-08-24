@@ -1,0 +1,1030 @@
+{
+  "Dic": {
+    "06898": {
+      "dId": "ᤘᤠ",
+      "desc": "/वा/",
+      "group": "CO",
+      "mean": "<p>1. liquid. 2. water.</p>१. झोल/तरल पदार्थ । २. पानी ।"
+    },
+    "06899": {
+      "dId": "ᤘᤠᤀᤡ ",
+      "desc": "/वाइ/",
+      "group": "CO",
+      "mean": "<p>weir; a barrier or fence built across a stream in order to divert the flow of water or to make a pond-trap to catch fish.</p>दुवाली ।"
+    },
+    "06900": {
+      "dId": "ᤘᤠᤀᤡᤰ(ᤔᤠ)",
+      "desc": "/वाइक्(मा)/",
+      "group": "CO",
+      "mean": "<p>water ripple.</p>पानीको तरङ्ग/लहर ।"
+    },
+    "06901": {
+      "dId": "ᤘᤠᤀᤡᤰᤗᤠ",
+      "desc": "/वाइक्ला/",
+      "group": "CO",
+      "mean": "<p>sound of the water current or wave.</p>खोला सुसाएको आवाज; छाल वा पानीको वेगको आवाज ।"
+    },
+    "06902": {
+      "dId": "ᤘᤠ᤹/ᤘᤠ",
+      "desc": "/वा?/वा/",
+      "group": "CO",
+      "mean": "<p>1. cock; fowl. 2. bird.</p>१. कुखुरा । २. पन्छी; चरा ।"
+    },
+    "06903": {
+      "dId": "ᤘᤠ᤹ᤆᤩᤠ᤺ᤰ/ᤘᤠᤆᤩᤠᤁ᤻",
+      "desc": "/वा?च्याक्/",
+      "group": "CO",
+      "mean": "<p>chick.</p>चिङ्ना; कुखुराको चल्लो ।"
+    },
+    "06904": {
+      "dId": "ᤘᤠ᤹ᤔᤠ᤺ᤵᤔᤠ/ᤘᤠ᤹ᤔᤠᤐ᤻ᤔᤠ",
+      "desc": "/वा?माःप्मा/",
+      "group": "CO",
+      "mean": "<p>hen, a matured laying hen.</p>पोथी (कुखुरा) ।"
+    },
+    "06905": {
+      "dId": "ᤘᤠ-ᤁᤒᤪᤡᤱ",
+      "desc": "/वा-कब्रिङ्/",
+      "group": "CO",
+      "mean": "<p>peninsula.</p>प्रायदिप ।"
+    },
+    "06906": {
+      "dId": "ᤘᤠᤰᤗᤧᤶ",
+      "desc": "/वाक्लेम्/",
+      "group": "CO",
+      "mean": "<p>in a manner of swaying/gyrating.</p>कमरमाथिको भाग तलमाथि हल्लाउने चालाले ।"
+    },
+    "06907": {
+      "dId": "ᤘᤠᤃᤱ",
+      "desc": "/वागङ्/",
+      "group": "CO",
+      "mean": "<p>water jar/vessel.</p>गाग्रो ।"
+    },
+    "06908": {
+      "dId": "ᤘᤠᤃᤵ",
+      "desc": "/वागप्/",
+      "group": "CO",
+      "mean": "<p>isle; islet; island.</p>टापु; द्वीप ।"
+    },
+    "06909": {
+      "dId": "ᤘᤠᤃᤠᤱ",
+      "desc": "/वागाङ्/",
+      "group": "CO",
+      "mean": "<p>sprouting up of water.</p>पानीको मुहान/मूल ।"
+    },
+    "06910": {
+      "dId": "ᤘᤠᤃᤠ᤺ᤰᤘᤠ/ᤘᤠᤃᤠᤁ᤻ᤘᤠ",
+      "desc": "/वागाःक्वा/",
+      "group": "CO",
+      "mean": "<p>kingfisher, a kind of crow.</p>पानीकाग ।"
+    },
+    "06911": {
+      "dId": "ᤘᤠᤃᤢ᤺ᤴᤍᤠ/ᤘᤠᤃᤢᤏ᤻ᤍᤠ",
+      "desc": "/वागुःन्दा/",
+      "group": "CO",
+      "mean": "<p>pitcher; large earthenware jar.</p>घैला; माटोको गाग्रो ।"
+    },
+    "06912": {
+      "dId": "ᤘᤠᤃᤣ᤺ᤰ/ᤘᤠᤃᤣᤁ᤻",
+      "desc": "/वागेःक्/",
+      "group": "CO",
+      "mean": "<p>rain; drizzle.</p>वर्षा; झरी ।"
+    },
+    "06913": {
+      "dId": "ᤘᤠᤃᤣ᤺ᤰᤘᤠ/ᤘᤠᤃᤣᤁ᤻ᤘᤠ",
+      "desc": "/वागेःक्का/",
+      "group": "CO",
+      "mean": "<p>whirlpool.</p>पानीको भुमरी; जलावर्ता ।"
+    },
+    "06914": {
+      "dId": "ᤘᤠᤃᤣ᤺ᤰᤗᤠ/ᤘᤠᤃᤣᤁ᤻ᤗᤠ",
+      "desc": "/वागेःक्ला/",
+      "group": "CO",
+      "mean": "<p>rainy season.</p>वर्षायाम; वर्षाऋतु ।"
+    },
+    "06915": {
+      "dId": "ᤘᤠᤃᤣ᤺ᤱ/ᤘᤠᤃᤣᤅ᤻",
+      "desc": "/वागेःङ्/",
+      "group": "CO",
+      "mean": "<p>ripple.</p>पानीको लहर ।"
+    },
+    "06916": {
+      "dId": "ᤘᤠᤃᤠᤣ᤺ᤰ/ᤘᤠᤃᤠᤣᤁ᤻",
+      "desc": "/वागोःक्/",
+      "group": "CO",
+      "mean": "<p>(unwadable) big river/stream.</p>(तर्न नसकिने) ठूलो खोला/नदि ।"
+    },
+    "06917": {
+      "dId": "ᤘᤠᤃᤧᤃᤧᤏᤠ",
+      "desc": "/वागेगेना/",
+      "group": "CO",
+      "mean": "<p>scimitar babbler. <i>Timaliidae.</i></p>भ्याकुरो (चरो) ।"
+    },
+    "06918": {
+      "dId": "ᤘᤠᤄᤰᤀᤡ ",
+      "desc": "/वाघक्इ/",
+      "group": "CO",
+      "mean": "<p>whirlpool.</p>पानीको भुमरी ।"
+    },
+    "06919": {
+      "dId": "ᤘᤠᤄᤣ᤺ᤱ/ᤘᤠᤄᤣᤅ᤻",
+      "desc": "/वाघेःङ्/",
+      "group": "CO",
+      "mean": "<p>river bank.</p>तीर; किनार ।"
+    },
+    "06920": {
+      "dId": "ᤘᤠᤱᤗᤧᤵ",
+      "desc": "/वाङ्लेप्/",
+      "group": "CO",
+      "mean": "<p>leafy umbrella; leaf rainshield.</p>घुम; स्याखु ।"
+    },
+    "06921": {
+      "dId": "ᤘᤠᤧᤳᤇᤧ",
+      "desc": "/वाछेत्छे/",
+      "group": "CO",
+      "mean": "<p>waterfall.</p>छाँगो; झर्ना ।"
+    },
+    "06922": {
+      "dId": "ᤘᤠᤈ᤹ᤔᤠ",
+      "desc": "/वाज?मा/",
+      "group": "CO",
+      "mean": "<p>1. to rinse; to wash off (only a part of sth). 2. to wash (hands and feet).</p>१. (कपडा, लुगा आदिमा दाग लागेको अंश मात्र) पखाल्नु । २. (हातखुट्टा) धुनु ।"
+    },
+    "06923": {
+      "dId": "ᤘᤠᤈᤶ",
+      "desc": "/वाजम्/",
+      "group": "CO",
+      "mean": "<p>current in the middle of the sea/river.</p>मझधार ।"
+    },
+    "06924": {
+      "dId": "ᤘᤠᤈᤠ᤺ᤰ/ᤘᤠᤈᤠᤁ᤻",
+      "desc": "/वाजाःक्/",
+      "group": "CO",
+      "mean": "<p>1. crossing place of a river; ford. 2. swim(ming).</p>१. जँघार । २. पौडी; पौडीखेलाइ (खेल) ।"
+    },
+    "06925": {
+      "dId": "ᤘᤠᤈᤠ᤺ᤰᤔᤠ/ᤘᤠᤈᤠᤁ᤻ᤔᤠ",
+      "desc": "/वाजाःक्मा/",
+      "group": "CO",
+      "mean": "<p>1. to swim. 2. to swim (as a sport or entertainment). 3. to ford; to cross a river. 4. to make/cause sb to swim.</p>१. पौडनु । २. पौडी खेल्नु (खेल वा मनोरन्जनको रूपमा) । ३. जँघार तर्नु । ४. पौडी खेलाउनु; पौडन लगाउनु/दिनु ।"
+    },
+    "06926": {
+      "dId": "ᤘᤠᤈᤠ᤺ᤴ/ᤘᤠᤈᤠᤏ᤻",
+      "desc": "/वाजाःन्/",
+      "group": "CO",
+      "mean": "<p>1. water color. 2. ink.</p>१. पानी रङ्ग । २. मसी ।"
+    },
+    "06927": {
+      "dId": "ᤘᤠᤈᤡᤰ",
+      "desc": "/वाजिक्/",
+      "group": "CO",
+      "mean": "<p>irrigation.</p>सिंचाइ ।"
+    },
+    "06928": {
+      "dId": "ᤘᤠᤈᤡᤰᤂᤣ᤺ᤱ/ᤘᤠᤈᤡᤰᤂᤣᤅ᤻",
+      "desc": "/वाजिक्खेःङ्/",
+      "group": "CO",
+      "mean": "<p>dam; embankment.</p>बाँध ।"
+    },
+    "06929": {
+      "dId": "ᤘᤠᤈᤡᤰ ᤕᤢᤔᤠ",
+      "desc": "/वाजिक् युमा/",
+      "group": "CO",
+      "mean": "<p>dormouse; muskrat.</p>छुचुन्द्रो ।"
+    },
+    "06930": {
+      "dId": "ᤘᤠᤈᤡᤶ",
+      "desc": "/वाजिम्/",
+      "group": "CO",
+      "mean": "<p>bog; morass; quagmire.</p>सिमसार ।"
+    },
+    "06931": {
+      "dId": "ᤘᤠᤈᤡᤶᤒᤠᤣ",
+      "desc": "/वाजिम्बो/",
+      "group": "CO",
+      "mean": "<p>a small waterfall or cataract.</p>सानो झर्ना; छाँगो ।"
+    },
+    "06932": {
+      "dId": "ᤘᤠᤈᤧᤰᤆᤧᤰᤐᤠ",
+      "desc": "/वाजेक्चेक्पा/",
+      "group": "CO",
+      "mean": "<p>tasteless; impalatable; unpleasant.</p>खल्लो; स्वादहीन; बेमजा/बेस्वादको ।"
+    },
+    "06933": {
+      "dId": "ᤘᤠᤈᤧᤈᤧᤒᤠ",
+      "desc": "/वाजेजेबा/",
+      "group": "CO",
+      "mean": "<p>(of millet beer, other liquid etc) thin as water.</p>पन्यालो; पातलो (जाँड र तरल पदार्थ) ।"
+    },
+    "06934": {
+      "dId": "ᤘᤠᤈᤧᤵᤔᤠ",
+      "desc": "/वाजेप्मा/",
+      "group": "CO",
+      "mean": "<p>to divert the water current.</p>खोलाको पानीको धार तर्काउनु; भँगालो तर्काउनु ।"
+    },
+    "06935": {
+      "dId": "ᤘᤠᤍ᤺ᤰ/ᤘᤠᤍᤁ᤻",
+      "desc": "/वादःक्/",
+      "group": "CO",
+      "mean": "<p>disastrous flood; Noah’s flood.</p>जलप्रलय ।"
+    },
+    "06936": {
+      "dId": "ᤘᤠᤍᤠᤰ",
+      "desc": "/वादाक्/",
+      "group": "CO",
+      "mean": "<p>pond; pool; still/stagnant water.</p>दह; पोखरी; जमेको पानी ।"
+    },
+    "06937": {
+      "dId": "ᤘᤠᤍᤠᤰᤔᤠ",
+      "desc": "/वादाक्मा/",
+      "group": "CO",
+      "mean": "<p>uvula.</p>किलकिले; लिगलिगे ।"
+    },
+    "06938": {
+      "dId": "ᤘᤠᤍᤠᤶᤔᤠ",
+      "desc": "/वादाम्मा/",
+      "group": "CO",
+      "mean": "<p>to wash off (the husks of the milled millet).</p>(फलेको कुटेको कोदोको भूस) पखाल्नु ।"
+    },
+    "06939": {
+      "dId": "ᤘᤠᤍᤠᤶᤛᤡᤱᤔᤠ",
+      "desc": "/वादाम्सिङ्मा/",
+      "group": "CO",
+      "mean": "<p>to loiter/roam.</p>लरखरिनस; रल्लिनु; काम नगरी अलमलिनु ।"
+    },
+    "06940": {
+      "dId": "ᤘᤠᤍᤠ᤺ᤰ/ᤘᤠᤍᤠᤁ᤻",
+      "desc": "/वादाःक्/",
+      "group": "CO",
+      "mean": "<p>water vessel; container; pail.</p>पानी बोक्ने भाँडो (बाल्टिन आदि) ।"
+    },
+    "06941": {
+      "dId": "ᤘᤠᤍᤡ ",
+      "desc": "/वादि/",
+      "group": "CO",
+      "mean": "<p>a kind of cane; water-cane.</p>पानीबेत ।"
+    },
+    "06942": {
+      "dId": "ᤘᤠᤍᤡᤰᤛᤣ᤹",
+      "desc": "/वादिक्से?/",
+      "group": "CO",
+      "mean": "<p>cashew nut. <i>Anacardium occidentale.</i></p>काजू ।"
+    },
+    "06943": {
+      "dId": "ᤘᤠᤍᤡᤶ",
+      "desc": "/वादिम्/",
+      "group": "CO",
+      "mean": "<p>pond; lake.</p>पोखरी; ताल ।"
+    },
+    "06944": {
+      "dId": "ᤘᤠᤍᤡᤶᤍᤡᤶᤒᤠ",
+      "desc": "/वादिम्दिम्मा/",
+      "group": "CO",
+      "mean": "<p>flood/inundated area.</p>डुबान; डुबाउ; डम्म पानी जमेको क्षेत्र ।"
+    },
+    "06945": {
+      "dId": "ᤘᤠᤍᤡᤶᤒᤠ",
+      "desc": "/वादिम्बा/",
+      "group": "CO",
+      "mean": "<p>liquid; juice.</p>तरल पदार्थ; झोल; पन्यालो वस्तु ।"
+    },
+    "06946": {
+      "dId": "ᤘᤠᤍᤢᤶ ᤐᤰᤘᤠ",
+      "desc": "/वादुम् पक्वा/",
+      "group": "CO",
+      "mean": "<p>1. holy water, consecrated water (which is sprinkled over the altar by the priest). 2. a mixture of two kinds of water - ‘singdum pakwa’ and ‘lungdum pakwa’  as described in Mundhum.</p>१. (पूजा गर्दा पुजारीले वेदिमा छर्कन प्रयोग गर्ने) पवित्र जल । २. (मु) सिङ्दुम् पक्वा र लुङ्दुम् पक्वाको पानी मिसाई तयार पारिएको जल ।"
+    },
+    "06947": {
+      "dId": "ᤘᤠᤍᤣ᤹ᤔᤠ",
+      "desc": "/वादे?मा/",
+      "group": "CO",
+      "mean": "<p>(of water, stream, river etc) to drift/float (away) sth.</p>बगाउनु ।"
+    },
+    "06948": {
+      "dId": "ᤘᤠᤍᤣ᤺ᤶᤔᤠ/ᤘᤠᤍᤣᤔ᤻ᤔᤠ",
+      "desc": "/वादेःम्मा/",
+      "group": "CO",
+      "mean": "<p>to cause sth/sb to flow away (in the river/water); to cause sth/sb to be washed away by a river; to cause sth/sb to be carried down by a river.</p>(खोला वा पानीमा) बगाउनु, बगाइदिनु ।"
+    },
+    "06949": {
+      "dId": "ᤘᤠᤍᤠᤣ",
+      "desc": "/वादो/",
+      "group": "CO",
+      "mean": "<p>confluence (of two river).</p>दोभान ।"
+    },
+    "06950": {
+      "dId": "ᤘᤠᤍᤠᤣᤖᤡ ",
+      "desc": "/वादोरि/",
+      "group": "CO",
+      "mean": "<p>1. watercress; a kind of leafy vegetable. Nasturtium officinale. 2. a kind of insect with very long legs and a small head found always flying near the minnows.</p>१. सिमरायो; सिमसारमा पाइने चम्सुरजस्तो साग । २. माछामो भुराको गोठालो गर्ने खुट्टा लामालामा र टाउको सानो हुने किरा ।"
+    },
+    "06951": {
+      "dId": "ᤘᤠᤍᤠᤣᤛᤠᤰᤆᤡ ",
+      "desc": "/वादोसाक्चि/",
+      "group": "CO",
+      "mean": "<p>a kind of weed.</p>गौलेतो; गग्लेटो झार ।"
+    },
+    "06952": {
+      "dId": "ᤘᤠᤍᤠᤣ᤺ᤴᤍᤠᤣ᤺ᤶᤒᤠ/ᤘᤠᤍᤠᤣᤏ᤻ᤍᤠᤣᤔ᤻ᤒᤠ",
+      "desc": "/वादोःन्दोःम्बा/",
+      "group": "CO",
+      "mean": "<p>dragon-fly.</p>पानीछेपुवा कीरो ।"
+    },
+    "06953": {
+      "dId": "ᤘᤠᤍᤠᤣ᤺ᤒᤠ",
+      "desc": "/वादोःबा/",
+      "group": "CO",
+      "mean": "<p>boatman; oarsman; rower.</p>माझी (डुङ्गा खियाउने) ।"
+    },
+    "06954": {
+      "dId": "ᤘᤠᤍᤧᤵᤔᤠ",
+      "desc": "/वादेप्मा/",
+      "group": "CO",
+      "mean": "<p>(of water) to drip/trickle.</p>पानी तप्कनु ।"
+    },
+    "06955": {
+      "dId": "ᤘᤠᤍᤧᤵ(ᤘᤠ)",
+      "desc": "/वादेप्(वा)/",
+      "group": "CO",
+      "mean": "<p>water drop; drop; trickle.</p>पानीको थोपा; तप्कना । "
+    },
+    "06956": {
+      "dId": "ᤘᤠᤎᤠᤰ",
+      "desc": "/वाधाक्/",
+      "group": "CO",
+      "mean": "<p>[Tamor] a long water vessel used as pitcher.</p>[तमर] धिरी ।"
+    },
+    "06957": {
+      "dId": "ᤘᤠᤎᤠ",
+      "desc": "/वाधा/",
+      "group": "CO",
+      "mean": "<p>water tap.</p>धारा; पँधेरो; पनेरो ।"
+    },
+    "06958": {
+      "dId": "ᤘᤠᤎᤠᤴ",
+      "desc": "/वाधान्/",
+      "group": "CO",
+      "mean": "<p>natural spring of water.</p>धारा ।"
+    },
+    "06959": {
+      "dId": "ᤘᤠᤎᤠᤶ",
+      "desc": "/वाधाम्/",
+      "group": "CO",
+      "mean": "<p>waterfall.</p>झर्ना; छहरा ।"
+    },
+    "06960": {
+      "dId": "ᤘᤠᤎᤡᤰ",
+      "desc": "/वाधिक्/",
+      "group": "CO",
+      "mean": "<p>slough of a snake.</p>काँचुली ।"
+    },
+    "06961": {
+      "dId": "ᤘᤠᤎᤡᤱᤖᤧᤱ",
+      "desc": "/वाधिङ्रेङ्/",
+      "group": "CO",
+      "mean": "<p>cockroach.</p>साङ्ले ।"
+    },
+    "06962": {
+      "dId": "ᤘᤠᤎᤡ᤺ᤴ/ᤘᤠᤎᤡᤏ᤻",
+      "desc": "/वाधिःन्/",
+      "group": "CO",
+      "mean": "<p>egg.</p>फुल; डिम्बा ।"
+    },
+    "06963": {
+      "dId": "ᤘᤠᤎᤡ᤺ᤴᤗᤢᤱ/ᤘᤠᤎᤡᤏ᤻ᤗᤢᤱ",
+      "desc": "/वाधिःन्लुङ्/",
+      "group": "CO",
+      "mean": "<p>Pathivara hill, situated in the Taplejung district of eastern Nepal.</p>पूर्वी नेपाल ताप्लेजुङ् जिल्लामा अवस्थित पाथीभरा पहाड ।"
+    },
+    "06964": {
+      "dId": "ᤘᤠᤎᤢᤰ",
+      "desc": "/वाधुक्/",
+      "group": "CO",
+      "mean": "<p>flood; surge; spate; torrent.</p>भेल; बाढी ।"
+    },
+    "06965": {
+      "dId": "ᤘᤠᤎᤢᤗᤢᤰ",
+      "desc": "/वाधुलुक्/",
+      "group": "CO",
+      "mean": "<p>in a manner of throughly wet/drenched.</p>निथ्रुक्क; पूरा भिज्ने/रुझ्ने गरी ।"
+    },
+    "06966": {
+      "dId": "ᤘᤠᤏᤠᤶ",
+      "desc": "/वानाम्/",
+      "group": "CO",
+      "mean": "<p>situation; atmosphere.</p>स्थिति ।"
+    },
+    "06967": {
+      "dId": "ᤘᤠᤏᤠᤶ ᤔᤡᤱ",
+      "desc": "/वानाम् मिङ्/",
+      "group": "CO",
+      "mean": "<p>abstract noun.</p>भाववाचक नाम । "
+    },
+    "06968": {
+      "dId": "ᤘᤠᤏᤧᤏᤧ",
+      "desc": "/वानेने/",
+      "group": "CO",
+      "mean": "<p>shallow water.</p>चाँचल; खोलामा पानी फिजिएर/फैलेर बगेको ठाँउ ।"
+    },
+    "06969": {
+      "dId": "ᤘᤠᤒ᤺ᤳ/ᤘᤠᤒᤋ᤻",
+      "desc": "/वाबःत्/",
+      "group": "CO",
+      "mean": "<p>a kind of yellow mushroom.</p>कुखुरे च्याउ । "
+    },
+    "06970": {
+      "dId": "ᤘᤠᤒᤠᤰ",
+      "desc": "/वाबाक्/",
+      "group": "CO",
+      "mean": "<p>1. well; water-hole. 2. pond.</p>१. कुवा; इनार । २. दह ।"
+    },
+    "06971": {
+      "dId": "ᤘᤠᤒᤡᤵᤔᤠ",
+      "desc": "/वाबिप्मा/",
+      "group": "CO",
+      "mean": "<p>(of water drops) to flick.</p>पानीको छिटा उछिट्टिनु ।"
+    },
+    "06972": {
+      "dId": "ᤘᤠᤒᤡ᤺ᤵᤐᤠ/ᤘᤠᤒᤡᤐ᤻ᤐᤠ",
+      "desc": "/वाबिःप्पा/",
+      "group": "CO",
+      "mean": "<p>pipe; tube.</p>नल; नली; पाइप; डुँड ।"
+    },
+    "06973": {
+      "dId": "ᤘᤠᤒᤡ᤺ᤵᤗᤠ/ᤘᤠᤒᤡᤐ᤻ᤗᤠ",
+      "desc": "/वाबिःप्ला/",
+      "group": "CO",
+      "mean": "<p>blotting paper.</p>मसी सोस्ने कागज ।"
+    },
+    "06974": {
+      "dId": "ᤘᤠᤒᤡ᤺ᤵᤔᤠ/ᤘᤠᤒᤡᤐ᤻ᤔᤠ",
+      "desc": "/वाबिःप्मा/",
+      "group": "CO",
+      "mean": "<p>to get wet with splash of water; to be splashed; to splash sb/sth.</p>पानीको छिटाले भिज्नु/भिजाउनु   ।"
+    },
+    "06975": {
+      "dId": "ᤘᤠᤒᤢᤴ",
+      "desc": "/वाबुन्/",
+      "group": "CO",
+      "mean": "<p>the issuing forth of water, the bursting out of a spring.</p>पानीको मूल फुटाइ ।"
+    },
+    "06976": {
+      "dId": "ᤘᤠᤒᤢᤴᤍᤠᤰ",
+      "desc": "/वाबुन्दाक्/",
+      "group": "CO",
+      "mean": "<p>source of a river, rivulet etc.</p>पानीको मूल; मुहान; पानीको शिर ।"
+    },
+    "06977": {
+      "dId": "ᤘᤠᤒᤢᤶᤔᤠ",
+      "desc": "/वाबुम्मा/",
+      "group": "CO",
+      "mean": "<p>(of a stream) to well forth; to burst out.</p>पानी उम्रनु; मूल फुट्नु ।"
+    },
+    "06978": {
+      "dId": "ᤘᤠᤒᤣ᤺ᤰᤔᤠ/ᤘᤠᤒᤣᤁ᤻ᤔᤠ",
+      "desc": "/वाबेःक्मा/",
+      "group": "CO",
+      "mean": "<p>(of water) to flow.</p>पानी बग्नु ।"
+    },
+    "06979": {
+      "dId": "ᤘᤠᤒᤠᤣ",
+      "desc": "/वाबो/",
+      "group": "CO",
+      "mean": "<p>water drop.</p>पानीको थोपा ।"
+    },
+    "06980": {
+      "dId": "ᤘᤠᤒᤧᤴ",
+      "desc": "/वाबेन्/",
+      "group": "CO",
+      "mean": "<p>surface of sea; sea level.</p>समुन्द्रको सतह ।"
+    },
+    "06981": {
+      "dId": "ᤘᤠᤓᤢᤰᤁᤪᤠᤣ",
+      "desc": "/वाभुक्रो/",
+      "group": "CO",
+      "mean": "<p>castor or caster seed; a kind of wild fruit from which oil is extracted. <i>Ricinus communis.</i></p>अम्फी ।"
+    },
+    "06982": {
+      "dId": "ᤘᤠᤓᤠᤣ",
+      "desc": "/वाभो/",
+      "group": "CO",
+      "mean": "<p>pool.</p>दह ।"
+    },
+    "06983": {
+      "dId": "ᤘᤠᤓᤠᤣᤗᤠᤣ",
+      "desc": "/वाभोलो/",
+      "group": "CO",
+      "mean": "<p>river bank; sand bank; shore; beach.</p>खोलाको बगर; तिर ।"
+    },
+    "06984": {
+      "dId": "ᤘᤠᤓᤠᤣ᤺ᤰ/ᤘᤠᤓᤠᤣᤁ᤻",
+      "desc": "/वाभोःक्/",
+      "group": "CO",
+      "mean": "<p>crossing place of a stream/river, ford, etc.</p>जँघार; जङ्घार ।"
+    },
+    "06985": {
+      "dId": "ᤘᤠᤓᤠᤣ᤺ᤰᤔᤠ/ᤘᤠᤓᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/वाभोःक्मा/",
+      "group": "CO",
+      "mean": "<p>to ford; to cross a river.</p>जङ्घार तर्नु ।"
+    },
+    "06986": {
+      "dId": "ᤘᤠᤓᤠᤣ᤺ᤔᤠ",
+      "desc": "/वाभोःमा/",
+      "group": "CO",
+      "mean": "<p>to puzzle/confuse sb; to cause sb linger idly; to keep meanaged/detained/diverted.</p>रल्लयाउनु; अलमल्याउनु; भुलाउनु ।"
+    },
+    "06987": {
+      "dId": "ᤘᤠᤓᤧᤸᤗᤧᤱ",
+      "desc": "/वाभेल्लेङ्/",
+      "group": "CO",
+      "mean": "<p>wave.</p>पानीको तरङ्ग; छाल ।"
+    },
+    "06988": {
+      "dId": "ᤘᤠᤔᤠ/ᤘᤠ᤹ᤔᤠ",
+      "desc": "/वामा/वा?मा/",
+      "group": "CO",
+      "mean": "<p>1. to be (existentially). 2. to live/stay. 3. helping verb denoting continuity/durability.</p>१. हुनु । २. बस्नु; रहनु । ३. असमापिका क्रियापदको पछाडि आएर निरन्तर भइरहेको अर्थ बुझाउने सहायक क्रियापद ।"
+    },
+    "06989": {
+      "dId": "ᤘᤠᤔᤠ",
+      "desc": "/वामा/",
+      "group": "CO",
+      "mean": "<p>[Phedape] to occur to sb; to feel/experience; to have the feeling.</p>[फेदापे] अनुभुति हुनु (लाग्नु); केहि कुरा आफुलाई लागेको अनुभुति हुनु ।"
+    },
+    "06990": {
+      "dId": "ᤘᤠᤔᤡ᤺ᤰ/ᤘᤠᤔᤡᤁ᤻",
+      "desc": "/वामिःक्/",
+      "group": "CO",
+      "mean": "<p>thirst.</p>तिर्खा ।"
+    },
+    "06991": {
+      "dId": "ᤘᤠᤔᤡ᤺ᤰᤔᤠ/ᤘᤠᤔᤡᤁ᤻ᤔᤠ",
+      "desc": "/वामिःक्मा/",
+      "group": "CO",
+      "mean": "<p>to be/get/feel thirsty.</p>तिर्खा लाग्नु; तिर्खाउनु ।"
+    },
+    "06992": {
+      "dId": "ᤘᤠᤔᤡ᤺ᤔᤠ",
+      "desc": "/वामिःमा/",
+      "group": "CO",
+      "mean": "<p>to thirst; to be thirsty.</p>पानीको तिर्खा लाग्नु; तिर्खाउनु ।"
+    },
+    "06993": {
+      "dId": "ᤘᤠᤔᤣ",
+      "desc": "/वामे/",
+      "group": "CO",
+      "mean": "<p>mouth of river; estuary.</p>नदि समुन्द्रमा मिसिने ठाँउ ।"
+    },
+    "06994": {
+      "dId": "ᤘᤠᤔᤧᤴ-ᤋᤠᤔᤧᤴ",
+      "desc": "/वामेन्-तामेन्/",
+      "group": "CO",
+      "mean": "<p>presence; attendance.</p>उपस्थिति ।"
+    },
+    "06995": {
+      "dId": "ᤘᤠᤔᤧᤵᤔᤠ",
+      "desc": "/वामेप्मा/",
+      "group": "CO",
+      "mean": "<p>to irrigate.</p>सिंचाइ गर्नु; कुलो/पानी लगाउनु ।"
+    },
+    "06996": {
+      "dId": "ᤘᤠᤶᤛᤡᤰ",
+      "desc": "/वाम्सिक्/",
+      "group": "CO",
+      "mean": "<p>chicken-louse.</p>सुलसुले ।"
+    },
+    "06997": {
+      "dId": "ᤘᤠᤕᤠ",
+      "desc": "/वाया/",
+      "group": "CO",
+      "mean": "<p>1. river bank. 2. sacrifice (animals, birds, etc), the blood of sacrificed animals, birds etc.</p>१. तीर; किनार । २. बलि, भोग दिएको बलिको रगत ।"
+    },
+    "06998": {
+      "dId": "ᤘᤠᤕᤠᤶ",
+      "desc": "/वायाम्/",
+      "group": "CO",
+      "mean": "<p>environment.</p>वातावरण ।"
+    },
+    "06999": {
+      "dId": "ᤘᤠᤕᤠ᤺ᤴ",
+      "desc": "/वायाःन्/",
+      "group": "CO",
+      "mean": "<p>(paddy or rice) field.</p>(धानको) खेत ।"
+    },
+    "07002": {
+      "dId": "ᤘᤠᤕᤢᤰᤔᤠ",
+      "desc": "/वायुक्मा/",
+      "group": "CO",
+      "mean": "<p>to keep wet; to wet/soak; to get soft from soaking.</p>(ढड्याउनका लागि) भिजाइराख्नु; ढड्याउनु ।"
+    },
+    "07003": {
+      "dId": "ᤘᤠᤕᤢ᤺ᤔᤠ",
+      "desc": "/वायुःमा/",
+      "group": "CO",
+      "mean": "<p>(of liquid) to leak/drip/trickle.</p>(तरल पदार्थ) चुहिनु; चुहुनु ।"
+    },
+    "07004": {
+      "dId": "ᤘᤠᤕᤧᤱᤒᤠ",
+      "desc": "/वायेङ्बा/",
+      "group": "CO",
+      "mean": "<p>brim of the bamboo basket.</p>डालो, डोको आदिको बिट ।"
+    },
+    "07005": {
+      "dId": "ᤘᤠᤖᤰ",
+      "desc": "/वारक्/",
+      "group": "CO",
+      "mean": "<p>sea.</p>समुन्द्र ।"
+    },
+    "07006": {
+      "dId": "ᤘᤠᤖᤰᤔᤠ",
+      "desc": "/वारक्मा/",
+      "group": "CO",
+      "mean": "<p>to get wet/moist; to be drenched.</p>भिज्नु ।"
+    },
+    "07007": {
+      "dId": "ᤘᤠᤖᤱᤔᤠ",
+      "desc": "/वारङ्मा/",
+      "group": "CO",
+      "mean": "<p>to make sth/sb wet; to wet; to drench with water.</p>भिजाउनु ।"
+    },
+    "07008": {
+      "dId": "ᤘᤠᤖᤱ",
+      "desc": "/वारङ्/",
+      "group": "CO",
+      "mean": "<p>ocean.</p>महासागर ।"
+    },
+    "07009": {
+      "dId": "ᤘᤠᤖ᤺ᤱᤍᤡ᤺ᤰ/ᤘᤠᤖᤅ᤻ᤍᤡᤁ᤻",
+      "desc": "/वारःङ्दिःक्/",
+      "group": "CO",
+      "mean": "<p>voyage; travel by sea.</p>समुद्रीयात्रा; समुद्रयात्रा ।"
+    },
+    "07010": {
+      "dId": "ᤘᤠᤖᤠ",
+      "desc": "/वारा/",
+      "group": "CO",
+      "mean": "<p>a kind of creeper. <i>Bauhinia vahlii.</i></p>भर्ला (लहरा) ।"
+    },
+    "07011": {
+      "dId": "ᤘᤠᤖᤠᤱᤄᤧᤰᤏᤠ",
+      "desc": "/वाराङ्घेक्ना/",
+      "group": "CO",
+      "mean": "<p>a kind of medicinal plant (grass) that cures the sick fowl as well as infants. <i>Drymaria cordata.</i></p>अबिजालो झार; कुखुरा बिरामी हुँदा औषधिको रुपमा प्रयोग गरिने तथा मोच लागेका केटाकेटीलाई पनि खुवाइने एक प्रकारको लहरे झार ।"
+    },
+    "07012": {
+      "dId": "ᤘᤠᤖᤢᤰᤔᤠ",
+      "desc": "/वारुक्मा/",
+      "group": "CO",
+      "mean": "<p>to gargle; to rinse out (the mouth).</p>कुल्ला गर्नु ।"
+    },
+    "07013": {
+      "dId": "ᤘᤠᤖᤢᤶᤓᤢᤱ",
+      "desc": "/वारुम्भुङ्/",
+      "group": "CO",
+      "mean": "<p>1. a kind of leafy flower used during the worship of Himsammang. 2. white-flowered rhododendron.<i> Rhododendron sp.</i></p>१. हिम्साम्माङ्को पूजामा चाहिने एक प्रकारको पाते फूल । २. चिमल फूल ।"
+    },
+    "07014": {
+      "dId": "ᤘᤠᤖᤢ᤺ᤰ/ᤘᤠᤖᤢᤁ᤻ (ᤐᤠ)",
+      "desc": "/वारुःक्(पा)/",
+      "group": "CO",
+      "mean": "<p>big edible frog.</p>पाहा ।"
+    },
+    "07015": {
+      "dId": "ᤘᤠᤖᤢ᤺ᤶᤔᤠ/ᤘᤠᤖᤢᤔ᤻ᤔᤠ",
+      "desc": "/वारुःम्मा/",
+      "group": "CO",
+      "mean": "<p>to bathe sb.</p>नुहाइदिनु ।"
+    },
+    "07016": {
+      "dId": "ᤘᤠᤖᤢ᤺ᤶᤛᤡᤱᤔᤠ/ᤘᤠᤖᤢᤔ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/वारुःम्सिङ्मा/",
+      "group": "CO",
+      "mean": "<p>1. to bathe/wash/take E bath. 2. to bathe each other.</p>१. नुहाउनु; स्नान गर्नु । २. परस्पर नुहाउनु ।"
+    },
+    "07017": {
+      "dId": "ᤘᤠᤖᤣ᤹",
+      "desc": "/वारे?/",
+      "group": "CO",
+      "mean": "<p>joking; kidding.</p>ठट्यौली; हास्य/हस्यौली ।"
+    },
+    "07018": {
+      "dId": "ᤘᤠᤖᤣ᤹ᤃᤣ",
+      "desc": "/वारे?गे/",
+      "group": "CO",
+      "mean": "<p>comedian; joker; crackpot; clown.</p>हास्यकार; विदूषक । "
+    },
+    "07019": {
+      "dId": "ᤘᤠᤖᤣ᤺ᤰᤐᤠ/ᤘᤠᤖᤣᤁ᤻ᤐᤠ",
+      "desc": "/वारेःक्पा/",
+      "group": "CO",
+      "mean": "<p>cubeb; a kind of tree with aromatic leaves. Litsea cubeb; <i>L. citrata.</i></p>सिल्टिमुर ।"
+    },
+    "07020": {
+      "dId": "ᤘᤠᤖᤠᤣᤒᤠ",
+      "desc": "/वारोबा/",
+      "group": "CO",
+      "mean": "<p>aquatic.</p>जलमय; जलीय; जलमा हुने ।"
+    },
+    "07021": {
+      "dId": "ᤘᤠᤖᤧᤱᤔᤠ",
+      "desc": "/वारेङ्मा/",
+      "group": "CO",
+      "mean": "<p>to dry/desiccate sth/sb.</p>ओभाउनु;  ओभानो पार्नु ।"
+    },
+    "07022": {
+      "dId": "ᤘᤠᤧᤖᤧᤱᤗᤢᤱ",
+      "desc": "/वारेङ्लुङ्/",
+      "group": "CO",
+      "mean": "<p>marble.</p>सङ्गमरमर ।"
+    },
+    "07023": {
+      "dId": "ᤘᤠᤖᤧᤱᤗᤧᤱ(ᤒᤠ)",
+      "desc": "/वारेङ्लेङ्(बा)/",
+      "group": "CO",
+      "mean": "<p>1. smooth; even (surface of paper, floor, plank etc). 2. (of earth) not rough/ruffled. 3. (of paper, leather, skin etc) not shrivelled.</p>१. चिप्लो, चिल्लो (भुइँ, काठ, कागज आदि) । २. (जग्गा) खाल्डाखुल्डी नभएको, सम्म परेको । ३ (छाला, कागज आदि) कच्याककुच्चुक वा चाउरी नपरेको ।"
+    },
+    "07024": {
+      "dId": "ᤘᤠᤖᤧᤱᤛᤡᤱᤔᤠ",
+      "desc": "/वारेङ्सिङ्मा/",
+      "group": "CO",
+      "mean": "<p>to (change the wet cloths and) dry oneself.</p>ओभानो हुनु;  भिजेको कपडा फेर्नु र जीउ ओभानो पार्नु ।"
+    },
+    "07025": {
+      "dId": "ᤘᤠᤖᤧ᤺ᤰᤔᤠ/ᤘᤠᤖᤧᤁ᤻ᤔᤠ",
+      "desc": "/वारेःक्मा/",
+      "group": "CO",
+      "mean": "<p>1. to sprinkle water; to drench/(make) wet (by splashing or pouring down water). 2. to pour down hot water on sb.</p>१. पानी छम्कनु; छ्याप्नु; त्यसरी भिजाउनु । २. (तातो) पानी खन्याउनु । "
+    },
+    "07026": {
+      "dId": "ᤘᤠᤗᤠᤎᤠ",
+      "desc": "/वालाधा/",
+      "group": "CO",
+      "mean": "<p>ship.</p>पानीजहाज ।"
+    },
+    "07027": {
+      "dId": "ᤘᤠᤗᤠᤶ",
+      "desc": "/वालाम्/",
+      "group": "CO",
+      "mean": "<p>drainage; gutter.</p>ढल; नाला ।"
+    },
+    "07028": {
+      "dId": "ᤘᤠᤗᤡ ",
+      "desc": "/वालि/",
+      "group": "CO",
+      "mean": "<p>canal.</p>कुलो ।"
+    },
+    "07029": {
+      "dId": "ᤘᤠᤗᤡᤱᤄᤰ",
+      "desc": "/वालिङ्घक्/",
+      "group": "CO",
+      "mean": "<p>a kind of edible fern shoots. <i>Dryopteris cochleata.</i></p>निगुरो ।"
+    },
+    "07030": {
+      "dId": "ᤘᤠᤗᤢᤱᤛᤢᤶ",
+      "desc": "/वालुङ्सुम्/",
+      "group": "CO",
+      "mean": "<p>water-mill.</p>पानीघट्ट ।"
+    },
+    "07031": {
+      "dId": "ᤘᤠᤘᤧᤱᤔᤠ",
+      "desc": "/वावेङ्मा/",
+      "group": "CO",
+      "mean": "<p>(of water) to flow.</p>पानी बग्नु ।"
+    },
+    "07032": {
+      "dId": "ᤘᤠᤛ᤺ᤶᤔᤠ/ᤘᤠᤛᤔ᤻ᤔᤠ",
+      "desc": "/वासःम्मा/",
+      "group": "CO",
+      "mean": "<p>to wash/rinse (clothes only).</p>पखाल्नु; पखालपुखुल पार्नु (लुगाफाटा) ।"
+    },
+    "07033": {
+      "dId": "ᤘᤠᤛᤠᤰ",
+      "desc": "/वासाक्/",
+      "group": "CO",
+      "mean": "<p>ridge/hedge (of rice field).</p>आली ।"
+    },
+    "07034": {
+      "dId": "ᤘᤠᤛᤠᤱᤃᤠ",
+      "desc": "/वासाङ्गा/",
+      "group": "CO",
+      "mean": "<p>lotus. <i>Nelumbium nucifera.</i></p>कमलको फूल; कुमुदिनी ।"
+    },
+    "07035": {
+      "dId": "ᤘᤠᤛᤠᤏᤡ᤺ᤵᤔᤠ/ᤘᤠᤛᤠᤏᤡᤐ᤻ᤔᤠ",
+      "desc": "/वासानिःप्मा/",
+      "group": "CO",
+      "mean": "<p>black edible fern shoot. <i>Sryopteris cochleata.</i></p>कालो निगुरो ।"
+    },
+    "07036": {
+      "dId": "ᤘᤠᤛᤠ᤺ᤶᤓᤣ/ᤘᤠᤛᤠᤔ᤻ᤓᤣ",
+      "desc": "/वासाःम्भे/",
+      "group": "CO",
+      "mean": "<p>hydrogen gas.</p>हाइड्रोजन ग्याँस ।"
+    },
+    "07037": {
+      "dId": "ᤘᤠᤛᤡ ",
+      "desc": "/वासि/",
+      "group": "CO",
+      "mean": "<p>basin; wash-basin; wash-hand-basin; sink; (wash-bowl).</p>धारो जोडिएको पखाल्ने ठाँउ वा भाँडो ।"
+    },
+    "07038": {
+      "dId": "ᤘᤠᤛᤡ᤹ ",
+      "desc": "/वासि?/",
+      "group": "CO",
+      "mean": "<p>chicken-louse.</p>सुलसुले (कोरो) ।"
+    },
+    "07039": {
+      "dId": "ᤘᤠᤛᤡ᤹ᤔᤠ",
+      "desc": "/वासि?मा/",
+      "group": "CO",
+      "mean": "<p>to wash (face, hand, utensils etc).</p>(मुख, हातखुट्टा) धुनु; (थाल, बटुका) पखाल्नु ।"
+    },
+    "07040": {
+      "dId": "ᤘᤠᤛᤡ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/वासि?सिङ्मा/",
+      "group": "CO",
+      "mean": "<p>to wash (face, hands, feet etc).</p>मुख, हात, खुट्टा आदि धुनु ।"
+    },
+    "07041": {
+      "dId": "ᤘᤠᤛᤡᤃᤣ᤺ᤱ/ᤘᤠᤛᤡᤃᤣᤅ᤻",
+      "desc": "/वासिगेःङ्/",
+      "group": "CO",
+      "mean": "<p>a kind of fern.</p>कलमे उन्यू ।"
+    },
+    "07042": {
+      "dId": "ᤘᤠᤛᤡᤱᤃᤠᤱ",
+      "desc": "/वासिङ्गाङ्/",
+      "group": "CO",
+      "mean": "<p>water-mill.</p>पानी ढिकी ।"
+    },
+    "07043": {
+      "dId": "ᤘᤠᤛᤡ᤺ᤰ/ᤘᤠᤛᤡᤁ᤻",
+      "desc": "/वासिःक्/",
+      "group": "CO",
+      "mean": "<p>liter; E unit of measurement of liquids.</p>लिटर; तरल पदार्थको नापोविशेष ।"
+    },
+    "07044": {
+      "dId": "ᤘᤠᤛᤡ᤺ᤵᤔᤠ/ᤘᤠᤛᤡᤐ᤻ᤔᤠ",
+      "desc": "/वासिःप्मा/",
+      "group": "CO",
+      "mean": "<p>1. to squeeze/wring out/press out water (from clothes etc). 2. to filter water.</p>१. (कपडा आदिबाट) पानी निचोर्नु । २. पानी छान्नु/तार्नु ।"
+    },
+    "07045": {
+      "dId": "ᤘᤠᤛᤢ",
+      "desc": "/वासु/",
+      "group": "CO",
+      "mean": "<p>a kind of wild yam.</p>भ्यागुर ।"
+    },
+    "07046": {
+      "dId": "ᤘᤠᤛᤣᤍᤡᤒᤠ",
+      "desc": "/वासेदिबा/",
+      "group": "CO",
+      "mean": "<p>viper; poisonous, flying snake.</p>सिरिसे साँप; एक जातको विषालु उड्ने सर्प ।"
+    },
+    "07047": {
+      "dId": "ᤘᤠᤛᤣ᤺ᤖᤡ ",
+      "desc": "/वासेःरि/",
+      "group": "CO",
+      "mean": "<p>1. infection; (of wound) being septic. 2. mermaid; water-nymph, who is believed to afflict or cure infected wounds and tooth decay.</p>१. घाउ कुहुने/पाक्ने/सड्ने रोग; सइन; सैन । २. जलपरी; देवी जसले पानीबाट हुने सिमेरोग लगाउने र दाँत पनि दुखाउने वा निको पार्ने गर्छ भन्ने लोकविश्वास छ ।"
+    },
+    "07048": {
+      "dId": "ᤘᤠᤛᤧᤖᤠ",
+      "desc": "/वासेरा/",
+      "group": "CO",
+      "mean": "<p>water fountain.</p>(पानीको) फोहोरा ।"
+    },
+    "07049": {
+      "dId": "ᤘᤠᤜᤱ",
+      "desc": "/वाहङ्/",
+      "group": "CO",
+      "mean": "<p>river.</p>नदि ।"
+    },
+    "07050": {
+      "dId": "ᤘᤠᤜᤵᤔᤠ",
+      "desc": "/वाहप्मा/",
+      "group": "CO",
+      "mean": "<p>to wash/rinse.</p>धुनु; पखाल्नु ।"
+    },
+    "07051": {
+      "dId": "ᤘᤠᤜᤵᤛᤡᤱᤔᤠ",
+      "desc": "/वाहप्सिङ्मा/",
+      "group": "CO",
+      "mean": "<p>1. to wash (eg: one’s hands, face etc) oneself. 2. to wash each other.</p>१. (हात/मुख आदि) धुनु । २. एक आपसमा धोइपखाली गर्नु ।"
+    },
+    "07052": {
+      "dId": "ᤘᤠᤜᤠᤱ",
+      "desc": "/वाहाङ्/",
+      "group": "CO",
+      "mean": "<p>water put and boiled on the fire to cook rice.</p>भातको बाहानको लागि हालेको पानी ।"
+    },
+    "07053": {
+      "dId": "ᤘᤠ-ᤜᤠᤱᤘᤠ",
+      "desc": "/वा-हाङ्वा/",
+      "group": "CO",
+      "mean": "<p>vapour.</p>बाफ ।"
+    },
+    "07054": {
+      "dId": "ᤘᤠᤜᤡᤰᤏᤠᤶ",
+      "desc": "/वहिक्नाम्/",
+      "group": "CO",
+      "mean": "<p>atmosphere; climate; weather.</p>जलवायु; मौसम ।"
+    },
+    "07055": {
+      "dId": "ᤘᤠᤜᤡᤳ ",
+      "desc": "/वाहित्/",
+      "group": "CO",
+      "mean": "<p>rain (water).</p>वर्षा; झरीपानी ।"
+    },
+    "07056": {
+      "dId": "ᤘᤠᤜᤢᤶᤔᤠ",
+      "desc": "/वाहुम्मा/",
+      "group": "CO",
+      "mean": "<p>to dip/immerse sth into water.</p>पानीमा चोपल्नु/डुबाउनु ।"
+    },
+    "07057": {
+      "dId": "ᤘᤠᤜᤠᤣ᤺ᤵ/ᤘᤠᤜᤠᤣᤐ᤻",
+      "desc": "/वाहोःप्/",
+      "group": "CO",
+      "mean": "<p>small stream.</p>खहरे; खोल्सा ।"
+    },
+    "07058": {
+      "dId": "ᤘᤠᤜᤠᤣ᤺ᤔᤠ",
+      "desc": "/वाहोःमा/",
+      "group": "CO",
+      "mean": "<p>(of water) to leak.</p>पानी चुहिनु ।"
+    },
+    "07059": {
+      "dId": "ᤘᤠ᤺ᤰᤋᤡ/ᤘᤠᤁ᤻ᤋᤡ ",
+      "desc": "/वाःक्ति/",
+      "group": "CO",
+      "mean": "<p>the river Bagmati; a famous Pashupatinath temple is situated on its bank.</p>वागमती नदी; नेपाल उपत्यका (काठमाण्डौ)को एक प्रसिद्ध नदी ।"
+    },
+    "07060": {
+      "dId": "ᤘᤠ᤺ᤰᤌᤡ/ᤘᤠᤁ᤻ᤋᤡ ",
+      "desc": "/वाःक्थि/",
+      "group": "CO",
+      "mean": "<p>beer/liquor served for auspicious farewell.</p>बिदाइ गर्दा सगुनको रुपमा दिइने जाँड वा रक्सी ।"
+    },
+    "07061": {
+      "dId": "ᤘᤠ᤺ᤳᤇᤡᤱᤔᤠ/ᤘᤠᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/वाःत्छिङ्मा/",
+      "group": "CO",
+      "mean": "<p>1. t ornament/decorate oneself (with jewels/cosmetics); to (put) make up. 2. to decorate/makeup/ornament each other.</p>१. गहना/प्रसाधन लगाउनु । २. परस्पर गहना वा प्रसाधन लगाउनु ।"
+    },
+    "07062": {
+      "dId": "ᤘᤠ᤺ᤳᤋᤡ/ᤘᤠᤋ᤻ᤋᤡ ",
+      "desc": "/वाःत्ति/",
+      "group": "CO",
+      "mean": "<p>ornament; decoration.</p>आभुषण; गहना । "
+    },
+    "07063": {
+      "dId": "ᤘᤠ᤺ᤴ/ᤘᤠᤏ᤻",
+      "desc": "/वाःन्/",
+      "group": "CO",
+      "mean": "<p>season.</p>ऋतु ।"
+    },
+    "07064": {
+      "dId": "ᤘᤠ᤺ᤴᤇᤡᤱᤔᤠᤘᤠᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/वाःन्छिङ्मा/",
+      "group": "CO",
+      "mean": "<p>1. to shake/swing oneself/itself. 2. to shake/swing together.</p>१. हल्लनु । २. परस्पर हल्लनु ।"
+    },
+    "07065": {
+      "dId": "ᤘᤠ᤺ᤴᤈᤠᤣ᤺ᤰ/ᤘᤠᤏ᤻ᤈᤠᤣᤁ᤻",
+      "desc": "/वाःन्जोःक्-वाःन्जोःक्/",
+      "group": "CO",
+      "mean": "<p>in a tottering way.</p>लिरिकलिरिक (हल्लने किसिमफे) ।"
+    },
+    "07066": {
+      "dId": "ᤘᤠ᤺ᤴᤍᤡᤶᤒᤠᤣ/ᤘᤠᤏ᤻ᤍᤡᤶᤒᤠᤣ",
+      "desc": "/वाःन्दिम्बो/",
+      "group": "CO",
+      "mean": "<p>creativity.</p>सृजनशीलता; रचनात्मकता ।"
+    },
+    "07067": {
+      "dId": "ᤘᤠ᤺ᤴᤍᤡᤶᤒᤠᤣᤒᤠᤘᤠᤏ᤻ᤍᤡᤶᤒᤠᤣᤒᤠ",
+      "desc": "/वाःन्दिम्बोबा/",
+      "group": "CO",
+      "mean": "<p>creative.</p>सृजनशील; रचनात्मक ।"
+    },
+    "07068": {
+      "dId": "ᤘᤠ᤺ᤵᤔᤠ/ᤘᤠᤐ᤻ᤔᤠ",
+      "desc": "/वाःप्मा/",
+      "group": "CO",
+      "mean": "<p>1. to adorn/bedeck oneself with (jewels, flowers etc); to thrust/tuck in (flower); to pin flower on the hair. 2. to bear/beget/give birth. 3. to adorn/decorate/ornament/pin flower on sb’s hair. 4. to (give a) name.</p>१. लगाउनु; (गहना, फूल आदि; तर टोपी, लुगा आदि होइन); सिउरनु । २. जन्माउनु; पाउनु । ३. लगाइदिनु; (गहना, फूल आदि; तर टोपी, लुगा आदि होइन); सिउरिदिनु । ४. नामाकरण गर्नु । "
+    },
+    "07069": {
+      "dId": "ᤘᤠ᤺ᤔᤠ",
+      "desc": "/वाःमा/",
+      "group": "CO",
+      "mean": "<p>to dry over fireplace; to put over the fire or oven to dry.</p>(आगो वा अगेनामाथि) सुकाउनु; ओबाउनु ।"
+    },
+    "07070": {
+      "dId": "ᤘᤠ᤺ᤶᤔᤠ/ᤘᤠᤔ᤻ᤔᤠ",
+      "desc": "/वाःम्मा/",
+      "group": "CO",
+      "mean": "<p>1. season. 2. to shake/jerk/move sideways; to swing/rock.</p>१. ऋतु । २. हल्लाउनु; यताउति चलाउनु ।"
+    }
+  }
+}
