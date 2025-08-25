@@ -1,0 +1,1870 @@
+{
+  "Dic": {
+    "07286": {
+      "dId": "ᤛᤠ᤹",
+      "desc": "/सा?/",
+      "group": "CR",
+      "mean": "<p>emphatic post particle, used after an adverb, preposition 'already', 'precisely', 'even', 'indeed'.</p>क्रिया विशेषण वा नामयोगी शब्दको पछाडी आएर त्यस पदको अर्थलाई जोडदार बनाउने निपात 'नै (हो); हो त' ।"
+    },
+    "07287": {
+      "dId": "ᤛᤠ᤹ᤀᤡ ",
+      "desc": "/सा?इ/",
+      "group": "CR",
+      "mean": "<p>1. sinew; vein; nerve. 2. might; power; strmeanth; energy. 3. courage; daring.</p>१. नासो । २. बल; शक्ति । ३. आँट ।"
+    },
+    "07288": {
+      "dId": "ᤛᤠ",
+      "desc": "/सा/",
+      "group": "CR",
+      "mean": "<p>1. game; hunting. 2. meat.</p>१. सिकार । २. मासु ।"
+    },
+    "07289": {
+      "dId": "ᤛᤠᤀᤡᤒᤠ",
+      "desc": "/साइबा/",
+      "group": "CR",
+      "mean": "<p>uncastrated he-goat or male animal.</p>बोका; नसुमरेको भाले पशु ।"
+    },
+    "07290": {
+      "dId": "ᤛᤠᤀᤡᤒᤡᤳ ",
+      "desc": "/साइबित्/",
+      "group": "CR",
+      "mean": "<p>young uncastrated bull.</p>बहर; नसुमरेको पट्ठो गोरु ।"
+    },
+    "07291": {
+      "dId": "ᤛᤠᤀᤡᤒᤣ᤺ᤰ/ᤛᤠᤀᤡᤒᤣᤁ᤻",
+      "desc": "/साइबेःक्/",
+      "group": "CR",
+      "mean": "<p>pregnancy; conception.</p>गर्भ; गर्भधान; गर्भधारण ।"
+    },
+    "07292": {
+      "dId": "ᤛᤠᤀᤡᤓᤧᤖᤠ",
+      "desc": "/साइभेरा/",
+      "group": "CR",
+      "mean": "<p>womb/uterus.</p>पाठेघर; गर्भाशय ।"
+    },
+    "07293": {
+      "dId": "ᤛᤠᤀᤡᤔᤢᤴᤍᤪᤡ ",
+      "desc": "/साइमुन्द्रि/",
+      "group": "CR",
+      "mean": "<p>custom of changing the clan-name of the bride (sister/daughter) to that of the groom (her husband) during or after some years of marriage (formalities).</p>वाग्दान; विवहपछि चेलीलाई माइतीको कुलबाट उसको पतिको कुलमा मिसाउने रीति ।"
+    },
+    "07294": {
+      "dId": "ᤛᤠᤀᤡ᤺ᤳ-ᤂᤰ/ᤛᤠᤀᤡᤋ᤻-ᤂᤰ",
+      "desc": "/साइःत्-खक्/",
+      "group": "CR",
+      "mean": "<p>castration, vasectomy (for male); sterilization (for women).</p>(पुरुष) नसच्छेदन; बन्ध्याकरण ।"
+    },
+    "07295": {
+      "dId": "ᤛᤠ᤹ᤔᤠ",
+      "desc": "/सा?मा/",
+      "group": "CR",
+      "mean": "<p>1. (of a taste, work etc) to test/try on. 2. to look after. 3. to visit; to call upon. 4. probative aspectivizer denoting, when suffixed with another verb, 'to try to do sth', to find out by doing sth'; 'to do sth by trial'.</p>१. (स्वाद, कामकुरो आदि) थाहा पत्तो लाउनु वा त्यस्तो प्रयत्न गर्नु वा गरिहेर्नु । २. हेरविचार गरेनु । ३. (भेटेर) हेर्नु/भेट्नु । ४. अर्को क्रियापदसँग पछाडि जोडिएर 'हेर्नु', 'विचार गर्नु', 'बल गर्नु', 'प्रयास गर्नु' आदि अर्थ बोध गराउने सहायक क्रिया ।"
+    },
+    "07296": {
+      "dId": "ᤛᤠ᤹ᤗᤡᤰ",
+      "desc": "/सा?लिक्/",
+      "group": "CR",
+      "mean": "<p>very; too much.</p>सारै; ज्यादै; अति ।"
+    },
+    "07297": {
+      "dId": "ᤛᤠ᤹ᤛᤡᤱᤔᤠ",
+      "desc": "/सा?सिङ्मा/",
+      "group": "CR",
+      "mean": "<p>to visit/look after/take care of each other.</p>एक अर्कालाई हेरविचारको लागि हेर्न जानु ।"
+    },
+    "07298": {
+      "dId": "-ᤛᤠᤁᤠ",
+      "desc": "/-साका/",
+      "group": "CR",
+      "mean": "<p>[Phedape/Tamor] praticle that intensifies the meaning when suffixed with a verb, e.g. 'yes (it is)' etc.</p>[फेदापे/तमर] कुनै क्रियापदको पछाडि प्रयोग भएर त्यस पदको अर्थलाई जोडदार बनाउने निपात, '(हो) त' ।"
+    },
+    "07299": {
+      "dId": "ᤛᤠᤁᤣ",
+      "desc": "/साके/",
+      "group": "CR",
+      "mean": "<p>swearing; oath; vow.</p>किरिया; कसम; शपथ ।"
+    },
+    "07300": {
+      "dId": "ᤛᤠᤰ",
+      "desc": "/साक्/",
+      "group": "CR",
+      "mean": "<p>1. famine; time of scarcity; starvation. 2. [Phedape] anger; vile; ire; wrath; fury; ill-temper. 3. manner of severing at a stroke.</p>१. अनिकाल; भोकमारी; भुखमरी । २. [फेदापे] रिस; क्रोध । ३. च्वाट्ट छिन्ने/छिनाउने चालाले ।"
+    },
+    "07301": {
+      "dId": "ᤛᤠᤰᤁᤧᤴ",
+      "desc": "/साक्केन्/",
+      "group": "CR",
+      "mean": "<p>1. pain; sorrow; distress; misery. 2. sadness; dejection; melancholy. 3. misfortune.</p>१. दुःख; व्याथा । २. उदासी । ३. विपत्ति ।"
+    },
+    "07302": {
+      "dId": "ᤛᤠᤰᤁᤧᤸᤗᤣ᤺ᤰ/ᤛᤠᤰᤁᤧᤸᤗᤣᤁ᤻",
+      "desc": "/साक्केल्लेःक्/",
+      "group": "CR",
+      "mean": "<p>forcibly; by force.</p>जबरजस्ती; करकापले ।"
+    },
+    "07303": {
+      "dId": "ᤛᤠᤰᤂᤡᤶ",
+      "desc": "/साक्खिम्/",
+      "group": "CR",
+      "mean": "<p>cottage; hut.</p>छाप्रो; कटेरो; कुटिर; झोपडी ।"
+    },
+    "07304": {
+      "dId": "ᤛᤠᤰᤆᤠ",
+      "desc": "/साक्चा/",
+      "group": "CR",
+      "mean": "<p>pulses; beans; cereals.</p>गेडागुडी; दाल ।"
+    },
+    "07305": {
+      "dId": "ᤛᤠᤰᤆᤡ ",
+      "desc": "/साक्चि/",
+      "group": "CR",
+      "mean": "<p>green vegetables; vegetables.</p>हरियोपरियो सब्जी; सागपात ।"
+    },
+    "07306": {
+      "dId": "ᤛᤠᤰᤆᤡᤰᤁᤢᤶ ᤐᤢ",
+      "desc": "/साक्चिक्कुम् पु/",
+      "group": "CR",
+      "mean": "<p>Dayal robin (magpie robin).</p>धोबिनी चरो ।"
+    },
+    "07307": {
+      "dId": "ᤛᤠᤰᤌᤡᤶ",
+      "desc": "/साक्थिम्/",
+      "group": "CR",
+      "mean": "<p>culture.</p>संस्कृति ।"
+    },
+    "07308": {
+      "dId": "ᤛᤠᤰᤌᤡᤶᤔᤡᤒᤠ",
+      "desc": "/साक्थिम्मिबा/",
+      "group": "CR",
+      "mean": "<p>cultural.</p>सांस्कृतिक ।"
+    },
+    "07309": {
+      "dId": "ᤛᤠᤰᤏᤠ",
+      "desc": "/साक्ना/",
+      "group": "CR",
+      "mean": "<p>fence; railing; obstruction.</p>बार; तगारो ।"
+    },
+    "07310": {
+      "dId": "ᤛᤠᤰᤏᤠᤶᤍᤠ᤺ᤳ/ᤛᤠᤰᤏᤠᤶᤍᤠᤋ᤻",
+      "desc": "/साक्नाम्दाःत्/",
+      "group": "CR",
+      "mean": "<p>early morning.</p>सबेर; सखार; मिरमिरे बिहान । "
+    },
+    "07311": {
+      "dId": "ᤛᤠᤰᤏᤧᤳ",
+      "desc": "/साक्नेत्/",
+      "group": "CR",
+      "mean": "<p>fasting.</p>उपवास; व्रत ।"
+    },
+    "07312": {
+      "dId": "ᤛᤠᤰᤐᤡᤳ ",
+      "desc": "/साक्पित्/",
+      "group": "CR",
+      "mean": "<p>Tibetan cow/yak.</p>भोटे/चौंरी गाई ।"
+    },
+    "07313": {
+      "dId": "ᤛᤠᤰᤐᤠᤣᤗᤠ",
+      "desc": "/साक्पोला/",
+      "group": "CR",
+      "mean": "<p>difficult; hard.</p>गाह्रो; साह्रो; कठिन । "
+    },
+    "07314": {
+      "dId": "ᤛᤠᤰᤑᤠ",
+      "desc": "/साक्फा/",
+      "group": "CR",
+      "mean": "<p>a kind of solid bamboo.</p>करौती बाँस ।"
+    },
+    "07315": {
+      "dId": "ᤛᤠᤰᤔᤠ",
+      "desc": "/साक्मा/",
+      "group": "CR",
+      "mean": "<p>1. (of dirt, dust, rubbish) to fall/get into rice, eyes etc. 2. [Phedape] to be difficult/hard. 3. to block (road; passage, door etc); to ban/prohibit/disallow. 4. to imprison/jail/detain; to put sb in a jail.</p>१. (भात, आँखा आदिमा) कसिङ्गर/धूलो पर्नु । २. [फेदापे] कठिन/गाह्रो हुनु । ३. छेक्नु; थुन्नु; प्रतिबन्ध लाउनु; निषेध गर्नु । ४. छेकथुन गर्नु; बन्द गर्नु; थुन्नु । "
+    },
+    "07316": {
+      "dId": "ᤛᤠᤰᤔᤠᤱ",
+      "desc": "/साक्माङ्/",
+      "group": "CR",
+      "mean": "<p>scarcity; starvation; famine.</p>अनिकाल ।"
+    },
+    "07317": {
+      "dId": "ᤛᤠᤰᤔᤢᤖᤠ/ᤛᤠᤰᤔᤪᤠ",
+      "desc": "/साक्मुरा/साक्म्रा/",
+      "group": "CR",
+      "mean": "<p>curse; bane; imprecation.</p>सराप; श्राप; अभिशाप ।"
+    },
+    "07318": {
+      "dId": "ᤛᤠᤰᤘᤠ",
+      "desc": "/साक्वा/",
+      "group": "CR",
+      "mean": "<p>first selling; earning.</p>बोनी, बोहनी (कुनै पनि दिनको पहिलो बिक्री ) ।"
+    },
+    "07319": {
+      "dId": "ᤛᤠᤰᤛᤠᤰᤐᤠ",
+      "desc": "/साक्साक्पा/",
+      "group": "CR",
+      "mean": "<p>1. ambitious; (of person) with noble and high ambitious. 2. smart; energetic.</p>१. महत्वकांक्षी; उच्चाभिलाषी । २. फुर्तिलो ।"
+    },
+    "07320": {
+      "dId": "ᤛᤠᤰᤛᤡᤱᤔᤠ",
+      "desc": "/साक्सिङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. to be shut/obstructed. 2. to obstruct/hinder/intervene each other.</p>१. थुनिनु; छेकिनु । २. परस्पर छेकाछेक गर्नु ।"
+    },
+    "07321": {
+      "dId": "ᤛᤠᤰᤛᤢᤱᤔᤠ",
+      "desc": "/साक्सुङ्मा/",
+      "group": "CR",
+      "mean": "<p>a kind of small spear grass.</p>सानो खाले कुरो (झार) ।"
+    },
+    "07322": {
+      "dId": "ᤛᤠᤂᤡ ",
+      "desc": "/साखि/",
+      "group": "CR",
+      "mean": "<p>witness; evidence; proof; testimony.</p>साछी(क्षी); प्रमाण ।"
+    },
+    "07323": {
+      "dId": "ᤛᤠᤂᤡᤔᤠ",
+      "desc": "/साखिमा/",
+      "group": "CR",
+      "mean": "<p>a kind of bush from which fibers are obtained  for weaving nets.</p>जाल बुन्ने डोरी बनाउने एक प्रकारको पोथ्रा ।"
+    },
+    "07324": {
+      "dId": "ᤛᤠᤃᤡᤰ",
+      "desc": "/सागिक्/",
+      "group": "CR",
+      "mean": "<p>rotten meat.</p>कुहेको मासु ।"
+    },
+    "07325": {
+      "dId": "ᤛᤠᤃᤧᤰᤏᤠ",
+      "desc": "/सागेक्ना/",
+      "group": "CR",
+      "mean": "<p>(of animals) breeding time.</p>(पशुको) बियाउने समय ।"
+    },
+    "07326": {
+      "dId": "ᤛᤠᤄᤰᤛᤡᤱ",
+      "desc": "/साघक्सिङ्/",
+      "group": "CR",
+      "mean": "<p>a block of wood used for chopping meat.</p>अचानो ।"
+    },
+    "07327": {
+      "dId": "ᤛᤠᤄᤧᤰ(ᤁᤩᤠ)",
+      "desc": "/साघेक्(क्या)/",
+      "group": "CR",
+      "mean": "<p>dry meat; long strips of desiccated meat.</p>सिल पारेर सुकाएको मासु; सुकुटी (मासु) ।"
+    },
+    "07328": {
+      "dId": "-ᤛᤠᤱ",
+      "desc": "/-साङ्/",
+      "group": "CR",
+      "mean": "<p>1. though; although; even though; even; despite; regardless of yet; still. 2. (even)though. 3. in spite of. 4. or; otherwise; else.</p>१. तपनि; तथापि । २. भए पनि । ३. भने पनि । ४. अथवा; अन्यथा ।"
+    },
+    "07329": {
+      "dId": "ᤛᤠᤱ",
+      "desc": "/साङ्/",
+      "group": "CR",
+      "mean": "<p>tip; top; flabby position at the end of the cloth.</p>टुप्पा; फुर्का वा फूल ।"
+    },
+    "07330": {
+      "dId": "ᤛᤠᤱ-ᤁᤢᤍᤡ᤺ᤰ/ᤁᤢᤍᤡᤁ᤻",
+      "desc": "/साङ्-कुदिःक्/",
+      "group": "CR",
+      "mean": "<p>1. long line; queue; row. 2. procession; round.</p>१. लाम; लर्को; लस्कर; (लाम मिलेको) ताँती । २. जुलूस; फेरी । "
+    },
+    "07331": {
+      "dId": "ᤛᤠᤱ-ᤁᤢᤴᤍᤠ",
+      "desc": "/साङ्-कुन्दा/",
+      "group": "CR",
+      "mean": "<p>large copper jar.</p>तामाको ठूलो गाग्रो ।"
+    },
+    "07332": {
+      "dId": "ᤛᤠᤱ-ᤁᤢᤴᤎᤣ",
+      "desc": "/साङ्-कुन्धे/",
+      "group": "CR",
+      "mean": "<p>1. pledge; trust; deposit; sth left to be kept; anything given in charge. 2. deposit; security.</p>१. नासो । २. धरौटी; धितो; अमानत ।"
+    },
+    "07333": {
+      "dId": "ᤛᤠᤱᤃᤠ",
+      "desc": "/साङ्गा/",
+      "group": "CR",
+      "mean": "<p>copper.</p>तामा ।"
+    },
+    "07334": {
+      "dId": "ᤛᤠᤱᤃᤠᤵᤗᤠᤒᤠ",
+      "desc": "/साङ्गाप्लाबा/",
+      "group": "CR",
+      "mean": "<p>best man waiting on the bridegroom at the time of wedding (who is related to him as a younger brother).</p>लोकन्ते; विवाहको बेला बेहूलासित बेहुलीको घरमा जाने बेहूलाको भाइपर्ने साथी ।"
+    },
+    "07335": {
+      "dId": "ᤛᤠᤱᤃᤠᤵᤗᤠᤔᤠ",
+      "desc": "/साङ्गाप्लामा/",
+      "group": "CR",
+      "mean": "<p>best woman or maid waiting on the bride at the time of wedding and escorting her up to bridegroom's house (who is related to her as a younger sister).</p>लोकन्ती; विवाहको बेला बेहुलीका सथ लागेर बेहूलीलाई पुर्याउन जाने मध्ये बेहूलीको  बहिनी पर्ने साथी ।"
+    },
+    "07336": {
+      "dId": "ᤛᤠᤱᤃᤠ ᤗᤢᤱ",
+      "desc": "/साङ्गा फुङ्/",
+      "group": "CR",
+      "mean": "<p>arum lily flower.</p>लिलीफूल ।"
+    },
+    "07337": {
+      "dId": "ᤛᤠᤱᤃᤠᤔᤠ",
+      "desc": "/साङ्गामा/",
+      "group": "CR",
+      "mean": "<p>a kind of weed heaving pods of a maize like fruit.</p>मकै साग; एक प्रकारको झार ।"
+    },
+    "07338": {
+      "dId": "ᤛᤠᤱᤃᤧᤱᤔᤠ",
+      "desc": "/साङ्गेङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. to fail; to be unsuccessful; to be a failure. 2. to defeat sb/sth; to make unsuccessful.</p>१. असफल/विफल हुनु । २. विफल/निष्फल पार्नु ।"
+    },
+    "07339": {
+      "dId": "ᤛᤠᤱᤃᤧᤴ",
+      "desc": "/साङ्गेन्/",
+      "group": "CR",
+      "mean": "<p>1. ruin; destruction. 2. failure; un success.</p>१. विनाश । २. विफलता ।"
+    },
+    "07340": {
+      "dId": "ᤛᤠᤱᤃᤧᤒᤠ",
+      "desc": "/साङ्गेबा/",
+      "group": "CR",
+      "mean": "<p>big basket; either of the two baskets suspending from the long pole/yoke (borne across the shoulders with their weight).</p>ठूलो टोकरी; खर्पनका दायाँबायाँ झुण्ड्याइने टोकरीजस्तो पात्र ।"
+    },
+    "07341": {
+      "dId": "ᤛᤠᤱᤃᤪᤠ",
+      "desc": "/साङ्ग्रा/",
+      "group": "CR",
+      "mean": "<p>curse.</p>सराप;  श्राप ।"
+    },
+    "07342": {
+      "dId": "ᤛᤠᤱᤃᤪᤠᤶ",
+      "desc": "/साङ्ग्राम्/",
+      "group": "CR",
+      "mean": "<p>heaven.</p>स्वर्ग ।"
+    },
+    "07343": {
+      "dId": "ᤛᤠᤱᤃᤪᤠᤶᤒᤠ/ᤔᤠ",
+      "desc": "/साङ्ग्राम्बा/मा/",
+      "group": "CR",
+      "mean": "<p>late; dead; deceased.</p>स्वर्गीय ।"
+    },
+    "07344": {
+      "dId": "ᤛᤠᤱᤃᤪᤠᤶᤔᤡᤒᤠ",
+      "desc": "/साङ्ग्राम्मिबा/",
+      "group": "CR",
+      "mean": "<p>heavenly; celestial; paradisiac(al).</p>स्वर्गीय; स्वर्गिक; स्वर्गतुल्य ।"
+    },
+    "07345": {
+      "dId": "ᤛᤠᤱᤄᤠᤣ",
+      "desc": "/साङ्घो/",
+      "group": "CR",
+      "mean": "<p>achievement.</p>उपलब्धि ।"
+    },
+    "07346": {
+      "dId": "ᤛᤠᤱᤈᤱ",
+      "desc": "/साङ्जङ्/",
+      "group": "CR",
+      "mean": "<p>young shoots of a particular kind of plant used as vegetable; its sprouts.</p>चिन्डे (को साग); चिन्डेको मुन्टा ।"
+    },
+    "07347": {
+      "dId": "ᤛᤠᤱ-ᤋᤧᤖᤧᤱ",
+      "desc": "/साङ्-तेरेङ्/",
+      "group": "CR",
+      "mean": "<p>(an earthen)vessel to hold incense; incense-holder; incensory.</p>धुपौरो; धूपपात्र; धूपदानी ।"
+    },
+    "07348": {
+      "dId": "ᤛᤠᤱᤍᤠᤱ",
+      "desc": "/साङ्दाङ्/",
+      "group": "CR",
+      "mean": "<p>1. bottle gourd. Lagenaria siceraria. 2. a vessel made of bottle gourd.</p>१. लौका । २. (लौकाको) चिन्डो ।"
+    },
+    "07349": {
+      "dId": "ᤛᤠᤱᤍᤠᤣ᤺ᤶ/ᤛᤠᤱᤍᤠᤣᤔ᤻ ᤑᤢᤱ",
+      "desc": "/साङ्दोःम् फुङ्/",
+      "group": "CR",
+      "mean": "<p>a kind of leafy flower offered to household deity Himsammang.</p>घरदेवताको (हिम्साम्माङ्) पूजामा चढाइने एक प्रकारको पाते फूल विशेष ।"
+    },
+    "07350": {
+      "dId": "ᤛᤠᤱᤎᤶᤒᤠ",
+      "desc": "/साङ्धम्बा/",
+      "group": "CR",
+      "mean": "<p>a kind of tree.</p>पटपटे रुख ।"
+    },
+    "07351": {
+      "dId": "ᤛᤠᤱᤎᤠ᤹ᤒᤢ",
+      "desc": "/साङ्धा?बु/",
+      "group": "CR",
+      "mean": "<p>(place of) pilgrimage.</p>तीर्थ(स्थल) ।"
+    },
+    "07352": {
+      "dId": "ᤛᤠᤱᤓᤷᤔᤠ",
+      "desc": "/साङ्भर्मा/",
+      "group": "CR",
+      "mean": "<p>incense-holder.</p>धुपौरो; धुपदानी ।"
+    },
+    "07353": {
+      "dId": "ᤛᤠᤱᤓᤠᤱᤗᤢᤱ",
+      "desc": "/साङ्भाङ्लुङ्/",
+      "group": "CR",
+      "mean": "<p>supreme court.</p>सर्वोच्च अदालत ।"
+    },
+    "07354": {
+      "dId": "ᤛᤠᤱᤓᤣ᤹ᤗᤰ",
+      "desc": "/साङ्भे?लक्/",
+      "group": "CR",
+      "mean": "<p>thorax; breast; chest.</p>वक्ष; छाती; ह्याकुलो ।"
+    },
+    "07355": {
+      "dId": "ᤛᤠᤱᤓᤧ",
+      "desc": "/साङ्भे/",
+      "group": "CR",
+      "mean": "<p>iron teeth on the end of the rice pounding pestle.</p>धान कुट्ने मुसलीका फलामे दाँतहरू ।"
+    },
+    "07356": {
+      "dId": "ᤛᤠᤱᤔᤠ",
+      "desc": "/साङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. to sprinkle water on a sacrificial victim  (animals);  to be shaken off as a good omen; to be sprinkled thus; to hake out. 2. [Phedape] (of a blister) to rise; to swell. 3. to call (farm-labourers) to work as a help. 4. to clarify butter etc (by boiling).</p>१. (बोका, राँगो आदि) पर्सनु/पर्सिइनु। २. [फदापे] फोका उठ्नु; सन्निनु । ३. खेतालाको लागि गुहार माग्नु; खेताला डाक्नु (बोलाउनु; भन्नु; आउ भन्नु); गुहार्नु । ४. (घ्यू आदि उमालेर) खार्नु ।"
+    },
+    "07357": {
+      "dId": "ᤛᤠᤱᤗ᤹",
+      "desc": "/साङ्ल?/",
+      "group": "CR",
+      "mean": "<p>clean; pure.</p>सफा; सङ्लो ।"
+    },
+    "07358": {
+      "dId": "ᤛᤠᤱᤗ᤹ᤔᤠ",
+      "desc": "/साङ्ल?मा/",
+      "group": "CR",
+      "mean": "<p>(of water, etc) to be clear/pure.</p>(पानी आदि) सफा/सङ्लो हुनु ।"
+    },
+    "07359": {
+      "dId": "ᤛᤠᤱᤗᤠᤀᤡᤱ",
+      "desc": "/साङ्लाइङ्/",
+      "group": "CR",
+      "mean": "<p>knowledge of religion.</p>धर्मज्ञान; धर्मसम्बन्धि ज्ञान ।"
+    },
+    "07360": {
+      "dId": "ᤛᤠᤱᤗᤠᤀᤡᤱᤒᤠ",
+      "desc": "/साङ्लाइङ्बा/",
+      "group": "CR",
+      "mean": "<p>preceptor;  preacher; priest.</p>धर्मगुरु; धर्मोपदेशक; महर्षी; महागुरु; ठूलो ज्ञानी ।"
+    },
+    "07361": {
+      "dId": "ᤛᤠᤱᤗᤠᤀᤡᤱᤈᤠᤱ",
+      "desc": "/साङ्लाइङ्जाङ्/",
+      "group": "CR",
+      "mean": "<p>1. preaching of the preceptor's teachings. 2. religious preaching.</p>१. गुरुको उपदेशको प्रचार । २. धर्मप्रचार; धार्मिक प्रचार ।"
+    },
+    "07362": {
+      "dId": "ᤛᤠᤱᤗᤠᤱᤃᤠᤣᤒᤠ",
+      "desc": "/साङ्लाङ्गोबा/",
+      "group": "CR",
+      "mean": "<p>the Samba's disciple/helper/assistant/subordinate.</p>साम्बाको साथी/शिष्य; सहयोगी ।"
+    },
+    "07363": {
+      "dId": "ᤛᤠᤱᤗᤠᤶ",
+      "desc": "/साङ्लाम्/",
+      "group": "CR",
+      "mean": "<p>1. smooth, non-undulating way; main road; highway. 2. right path.</p>१. राम्रो बाटो; मूलबाटो । २. सत्मार्ग ।"
+    },
+    "07364": {
+      "dId": "ᤛᤠᤱᤛᤠᤱ",
+      "desc": "/साङ्साङ्/",
+      "group": "CR",
+      "mean": "<p>sacred; holy; pure; clean.</p>चोखो; पवित्र; शुद्ध; निर्मल; स्वच्छ ।"
+    },
+    "07365": {
+      "dId": "ᤛᤠᤱᤛᤡᤱ",
+      "desc": "/साङ्सिङ्/",
+      "group": "CR",
+      "mean": "<p>a kind of incense from pine tree.</p>धूपीको धूप ।"
+    },
+    "07366": {
+      "dId": "ᤛᤠᤱᤛᤡᤱᤈᤣᤰ",
+      "desc": "/साङ्सिङ्जेक्/",
+      "group": "CR",
+      "mean": "<p>joss stick; incense stick.</p>सिन्के धूप ।"
+    },
+    "07367": {
+      "dId": "ᤛᤠᤱᤛᤡᤱᤔᤠ",
+      "desc": "/साङ्सिङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. (of the dust, dirt etc) to be relieved; to shake out. 2. to shake out/ruffle up one's feather and relieve from the dust. 3. to lighten/relieve/refresh oneself. 4. (of goat, cock etc) to be splashed/shaken out.</p>१. (जीउमा लागेको धूलो, फोहोर आदि) टक्टकिनु/टक्टक्याउनु । २. कुखुरा आदिले पखेटा आदि फट्फटाएर धूलो आदि टक्टक्याउनु/आफै टक्टकिनु । ३. जीउ हलुका पार्नु । ४. (कुखुरा, बोका आदि) पर्सिनु; पानी छ्याप्दा झड्कनु (चोखिनु) ।"
+    },
+    "07368": {
+      "dId": "ᤛᤠᤱᤛᤠᤣ",
+      "desc": "/साङ्सो/",
+      "group": "CR",
+      "mean": "<p>ritual of purification after the death of one's own relative.</p>शुद्ध गर्ने/हुने विधि; सुध्याइँ; सुद्ध्याइँ ।"
+    },
+    "07369": {
+      "dId": "ᤛᤠᤱᤛᤠᤣᤌᤡᤶ",
+      "desc": "/साङ्सोथिम्/",
+      "group": "CR",
+      "mean": "<p>ceremony of purification undertaken on the 13th or 45th day or in 3 or 6 months after a death in a family.</p>परिवारमा कसैको मृत्यु भएमा मृत्युको तेह्रौं दिन वा पैंतालिसौं दिन अथवा तिन वा छ महिनामा परिवारले जूठोबाट मुक्त हुन गरिने सुद्ध्याइँको संस्कार ।"
+    },
+    "07370": {
+      "dId": "ᤛᤠᤱᤛᤠᤣᤗᤠᤣ",
+      "desc": "/साङ्सोलो/",
+      "group": "CR",
+      "mean": "<p>a particular word/term pronounced twice as 'may it be sanctified' while sprinkling holy water, rice grains etc over the concerned sites, materials and people in order to purify them before worship.</p>'चोखो; पबित्र; चोखो! चोखो!'; पूजा-आराधनाको समयमा जल, अक्षता आदि छर्की छर्केका सबै ठाँउ, वस्तु, मानिस आदि 'चोखो! चोखो!' भयो भनी उच्चारण गरिने शब्दविशेष ।"
+    },
+    "07371": {
+      "dId": "ᤛᤠᤱᤛᤧᤔᤠ",
+      "desc": "/साङ्सेमा/",
+      "group": "CR",
+      "mean": "<p>1. sacredness; holiness. 2. purity; cleanliness; clarity.</p>१. पवित्रता; निर्मलता । २. स्निग्धता; शुद्धता ।"
+    },
+    "07372": {
+      "dId": "ᤛᤠᤈᤡ ",
+      "desc": "/साजि/",
+      "group": "CR",
+      "mean": "<p>1. tiny pieces/slices of meat that have flicked away about the block of wood while being cut/chopped/sliced into pieces. 2. meat beaten into smallest particles; mincemeat.</p>१. मासु काट्दा अचानो वरिपरि छरिने मासुका मसिना टुक्राटुक्रि/चोइटाहरू । २. खुकुरीले (छ्याक छ्याक हानेर) मसिनो वा धूलो पारिएको मासु; किमा ।"
+    },
+    "07373": {
+      "dId": "ᤛᤠᤈᤡ(ᤈᤡ)",
+      "desc": "/साजि(जि)/",
+      "group": "CR",
+      "mean": "<p>pieces of flesh (to be offered to Yuma - the Grand Mother Goddess or Theba - Grand Father God while worshipping) cut from different internal and external parts of the body of the pig sacrificed.</p>युमा वा थेबा देवतालाई पूजा गरि सुँगुर भोग दिइसकेपछि सो देवतालाई चढाइने सोहि सुँगुरको शरिरको भित्री र बाहिरी विभिन्न भागका मासुका टुक्राहरू ।"
+    },
+    "07374": {
+      "dId": "ᤛᤠᤈᤡᤔᤳᤆᤡ ",
+      "desc": "/साजिमत्चि/",
+      "group": "CR",
+      "mean": "<p>bird's eye chilly; bird pepper.</p>जिरे खुर्सानी ।"
+    },
+    "07375": {
+      "dId": "ᤛᤠᤍᤡ ",
+      "desc": "/सादि/",
+      "group": "CR",
+      "mean": "<p>boiled long pieces/slices of meat woven into a string for offering specially while worshipping Yuma or Theba or to the wedding guests.</p>विशेषतः युमा वा थेबाको पूजामा वा बिहे बटुलोमा पाहुनालाई सत्कार गर्न सिल पारेर उसिनेको मासु ।"
+    },
+    "07376": {
+      "dId": "ᤛᤠᤍᤢᤱ",
+      "desc": "/सादुङ्/",
+      "group": "CR",
+      "mean": "<p>labour pain.</p>प्रसव वेदना; व्याथा ।"
+    },
+    "07377": {
+      "dId": "ᤛᤠᤍᤢᤒᤠ ᤐᤡᤳ",
+      "desc": "/सादुबा पित/",
+      "group": "CR",
+      "mean": "<p>young uncastrated bull.</p>बहर; गोरू ।"
+    },
+    "07378": {
+      "dId": "ᤛᤠᤎᤠᤶᤗᤢᤱᤔᤠ",
+      "desc": "/साधाम्लुङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. the place of origin of living creatures (animals). 2. name of one of the mountains in the eastern Himalayan ranges.</p>१. पशुप्राणीको  उत्पत्ति स्थल । २. पूर्वी हिमालय पर्वत श्रृङ्खलाको एक पर्वतविशेषको नाम ।"
+    },
+    "07379": {
+      "dId": "ᤛᤠᤏᤠ᤹",
+      "desc": "/साना?/",
+      "group": "CR",
+      "mean": "<p>(prickly seed) spinach. Spinacea oleracea.</p>पालुङ्गो साग ।"
+    },
+    "07380": {
+      "dId": "ᤛᤠᤏᤡᤶ",
+      "desc": "/सानिम्/",
+      "group": "CR",
+      "mean": "<p>gift; charity; donation.</p>दान ।"
+    },
+    "07381": {
+      "dId": "ᤛᤠᤴᤎᤠ",
+      "desc": "/सान्धा/",
+      "group": "CR",
+      "mean": "<p>story; tale.</p>कहानी; सन्था ।"
+    },
+    "07382": {
+      "dId": "ᤛᤠᤵ",
+      "desc": "/साप्/",
+      "group": "CR",
+      "mean": "<p>1. written document. 2. writing. 3. line. 4. design; pattern; meanraving.</p>१. लेखन; लिखत । २. लेखाइ/लेखन । ३. रेखा । ४. बुट्टा; रेखाचित्र ।"
+    },
+    "07383": {
+      "dId": "ᤛᤠᤵᤁᤢᤛᤠᤵ",
+      "desc": "/साप्कुसाप्/",
+      "group": "CR",
+      "mean": "<p>1. destiny; providence; fate. 2. true copy; fascimile.</p>१. भावीले लेखिदिएको लेखान्त; भाग्य; तकदीर । २. प्रतिलिपि; नक्कल ।"
+    },
+    "07384": {
+      "dId": "ᤛᤠᤵᤀ᤺ᤰ/ᤛᤠᤵᤀᤁ᤻",
+      "desc": "/साप्अःक्/",
+      "group": "CR",
+      "mean": "<p>tattoos.</p>शरीरमा गोदाइएका बुट्टा ।"
+    },
+    "07385": {
+      "dId": "ᤛᤠᤵᤀ᤺ᤰᤐᤠ/ᤛᤠᤵᤀᤁ᤻ᤐᤠ",
+      "desc": "/साप्अःक्पा/",
+      "group": "CR",
+      "mean": "<p>tattoo artist.</p>शरीरमा बुट्टा खोप्ने मानिस, कलाकार ।"
+    },
+    "07386": {
+      "dId": "ᤛᤠᤵᤀᤡᤱᤍᤠᤱᤒᤠ",
+      "desc": "/साप्इङ्दाङ्बा/",
+      "group": "CR",
+      "mean": "<p>(office) secretary.</p>(कार्यालय) सचिव ।"
+    },
+    "07387": {
+      "dId": "ᤛᤠᤵᤂᤰ",
+      "desc": "/साप्खक्/",
+      "group": "CR",
+      "mean": "<p>receipt.</p>अर्धकट्टी; रसीद ।"
+    },
+    "07388": {
+      "dId": "ᤛᤠᤵᤂᤠ",
+      "desc": "/साप्खा/",
+      "group": "CR",
+      "mean": "<p>ordinary; simple; plain.</p>साधारण; सरल; सादा ।"
+    },
+    "07389": {
+      "dId": "ᤛᤠᤵᤆᤠ",
+      "desc": "/साप्चा/",
+      "group": "CR",
+      "mean": "<p>science.</p>विज्ञान ।"
+    },
+    "07390": {
+      "dId": "ᤛᤠᤵᤆᤠᤒᤠ",
+      "desc": "/साप्चाबा/",
+      "group": "CR",
+      "mean": "<p>scientific.</p>वैज्ञानिक ।"
+    },
+    "07391": {
+      "dId": "ᤛᤠᤵᤆᤡᤒᤠ",
+      "desc": "/साप्चिबा/",
+      "group": "CR",
+      "mean": "<p>doctor.</p>बैदाङ; वैद्य ।"
+    },
+    "07392": {
+      "dId": "ᤛᤠᤵᤆᤢᤘᤠ",
+      "desc": "/साप्चुवा/",
+      "group": "CR",
+      "mean": "<p>devotion; piety.</p>भक्ति; श्रद्धा ।"
+    },
+    "07393": {
+      "dId": "ᤛᤠᤵᤒᤠ",
+      "desc": "/साप्चुबा/",
+      "group": "CR",
+      "mean": "<p>devotee; pious person.</p>भक्त ।"
+    },
+    "07394": {
+      "dId": "ᤛᤠᤵᤆᤢᤘᤠᤒᤠ",
+      "desc": "/साप्चुवाबा/",
+      "group": "CR",
+      "mean": "<p>devotional; pious.</p>भक्तिपूर्ण ।"
+    },
+    "07395": {
+      "dId": "ᤛᤠᤵᤆᤣ᤺ᤰ/ᤛᤠᤵᤆᤣᤁ᤻",
+      "desc": "/साप्चेःक्/",
+      "group": "CR",
+      "mean": "<p>eyesore; dust particle.</p>धूलाको कण; कसिङ्गार ।"
+    },
+    "07396": {
+      "dId": "ᤛᤠᤵᤆᤠᤣ",
+      "desc": "/साप्चो/",
+      "group": "CR",
+      "mean": "<p>skill; dexterity; craftsmanship.</p>सीप; शिल्प; कलाकौशल ।"
+    },
+    "07397": {
+      "dId": "ᤛᤠᤵᤆᤠᤣᤀᤡᤒᤠ",
+      "desc": "/साप्चोइबा/",
+      "group": "CR",
+      "mean": "<p>artistic.</p>कलात्मक ।"
+    },
+    "07398": {
+      "dId": "ᤛᤠᤵᤆᤠᤣᤃᤧᤶᤒᤠ/ᤔᤠ",
+      "desc": "/साप्चोगेम्बा/मा/",
+      "group": "CR",
+      "mean": "<p>artisan; craftsman.</p>शिल्पकार; शिल्पी; कारीगर (कालिगढ) ।"
+    },
+    "07399": {
+      "dId": "ᤛᤠᤵᤆᤠᤣᤒᤠ/ᤔᤠ",
+      "desc": "/साप्चोबा/मा/",
+      "group": "CR",
+      "mean": "<p>artist.</p>कलाकार ।"
+    },
+    "07400": {
+      "dId": "ᤛᤠᤵᤆᤧᤱ",
+      "desc": "/साप्चेङ्/",
+      "group": "CR",
+      "mean": "<p>(written) talk.</p>वार्ता; भेटवार्ता (पत्रपत्रिका, रेडियो वा टी. भी. मा प्रकाशन/प्रसारण गरिने विषयगत लेख) ।"
+    },
+    "07401": {
+      "dId": "ᤛᤠᤵᤆᤧᤴ",
+      "desc": "/साप्चेन्/",
+      "group": "CR",
+      "mean": "<p>cyclostyle.</p>साइक्लो स्टाइल; दाँतीवाला पाङ्ग्रा भएको कलमले कोरेर हातले घुमाउने यन्त्र ।"
+    },
+    "07402": {
+      "dId": "ᤛᤠᤵᤆᤩᤠ᤺ᤰᤐᤠ/ᤛᤠᤵᤆᤩᤠᤁ᤻ᤐᤠ",
+      "desc": "/साप्च्यःक्पा/",
+      "group": "CR",
+      "mean": "<p>sharp; keen; pointed.</p>तीखो ।"
+    },
+    "07403": {
+      "dId": "ᤛᤠᤵᤋᤢ",
+      "desc": "/साप्तु/",
+      "group": "CR",
+      "mean": "<p>pannier; a Nepalese basket used to keep Yakcha, the immature unfiltered millet beer.</p>'याक्चा' जाँड (छोक्रा) राख्ने टोकरी ।"
+    },
+    "07404": {
+      "dId": "ᤛᤠᤵᤋᤢᤱᤃᤧ᤺ᤰᤏᤠ/ᤛᤠᤵᤋᤢᤱᤃᤧᤁ᤻ᤏᤠ",
+      "desc": "/साप्तुङ्गेःक्ना/",
+      "group": "CR",
+      "mean": "<p>grasshopper; cricket.</p>फट्याङ्ग्रो ।"
+    },
+    "07405": {
+      "dId": "ᤛᤠᤵᤋᤢ᤺ᤰᤂᤣ᤹/ᤛᤠᤵᤋᤢᤁ᤻ᤂᤣ᤹",
+      "desc": "/साप्तुःक्खे?/",
+      "group": "CR",
+      "mean": "<p>duster.</p>कालोपाटी पुछ्ने डस्टर ।"
+    },
+    "07406": {
+      "dId": "ᤛᤠᤵᤋᤢᤱ",
+      "desc": "/साप्तुङ्/",
+      "group": "CR",
+      "mean": "<p>angle.</p>कोण ।"
+    },
+    "07407": {
+      "dId": "ᤛᤠᤵᤋᤠᤣ᤺ᤰ/ᤛᤠᤵᤋᤠᤣᤁ᤻",
+      "desc": "/साप्तोःक्/",
+      "group": "CR",
+      "mean": "<p>1. cover. 2. a vessel (for holding beer) made of the hollow stem of a bamboo, usually used at worship.</p>१. खोल । २. पूजामा प्रयोग गरिने, टुप्पा वा मसिनो भागतिर छड्के मुख भएको, बाँसको सानो तोङ्बा ।"
+    },
+    "07408": {
+      "dId": "ᤛᤠᤵᤋᤧᤴ",
+      "desc": "/साप्तेन्/",
+      "group": "CR",
+      "mean": "<p>writing table; sth to support/prop writing materials.</p>लेख्नका लागि प्रयोग गरिने आधार (जस्तै टेबिल खटिया आदि) ।"
+    },
+    "07409": {
+      "dId": "ᤛᤠᤵᤏᤧ",
+      "desc": "/साप्ने/",
+      "group": "CR",
+      "mean": "<p>small bookstand which is made by joining two planks by means mortises and tenons cut of them.</p>कापे; पढ्नको लागि पुस्तक पल्टाएर राख्न सजिलो हुने गरी बीचमा खाल्टो र दायाँबायाँ उठाएर बनाइएको आधार पात्र (खटिया) ।"
+    },
+    "07410": {
+      "dId": "ᤛᤠᤵᤐᤰᤘᤠ",
+      "desc": "/साप्पक्वा/",
+      "group": "CR",
+      "mean": "<p>article; composition.</p>लेख; रचना ।"
+    },
+    "07411": {
+      "dId": "ᤛᤠᤵᤐᤴ",
+      "desc": "/साप्पन्/",
+      "group": "CR",
+      "mean": "<p>book.</p>पुस्तक; किताब ।"
+    },
+    "07412": {
+      "dId": "ᤛᤠᤵᤐᤠ",
+      "desc": "/साप्पा/",
+      "group": "CR",
+      "mean": "<p>a kind of big coriander seed. <i>Coriandrum stivum.</i></p>ठूलो प्रकारको धनियाँ ।"
+    },
+    "07413": {
+      "dId": "ᤛᤠᤵᤐᤠ᤺ᤴ/ᤛᤠᤵᤐᤠᤏ᤻",
+      "desc": "/साप्पाःन्/",
+      "group": "CR",
+      "mean": "<p>(written) language.</p>(लेख्य) भाषा ।"
+    },
+    "07414": {
+      "dId": "ᤛᤠᤵᤐᤠ᤺ᤱᤃᤧᤶᤒᤠ/ᤛᤠᤵᤐᤠᤅ᤻ᤃᤧᤶᤒᤠ",
+      "desc": "/साप्पाःङ्गेम्बा/",
+      "group": "CR",
+      "mean": "<p>linguist.</p>भाषाविद; भाषाशास्त्री ।"
+    },
+    "07415": {
+      "dId": "ᤛᤠᤵᤐᤡ᤹ ",
+      "desc": "/साप्पि?/",
+      "group": "CR",
+      "mean": "<p>edition.</p>संस्करण ।"
+    },
+    "07416": {
+      "dId": "ᤛᤠᤵᤐᤧᤛᤠ",
+      "desc": "/साप्पेसा/",
+      "group": "CR",
+      "mean": "<p>leaflet; pamphlet.</p>पर्चा; पम्फलेट ।"
+    },
+    "07417": {
+      "dId": "ᤛᤠᤵᤐᤠᤧᤣ",
+      "desc": "/साप्पो/",
+      "group": "CR",
+      "mean": "<p>pannier; a Nepalese basket carried on the back.</p>डोको ।"
+    },
+    "07418": {
+      "dId": "ᤛᤠᤵᤐᤠᤧᤣ᤺ᤰ/ᤛᤠᤵᤐᤠᤣᤁ᤻",
+      "desc": "/साप्पोःक्/",
+      "group": "CR",
+      "mean": "<p>stomach; belly.</p>भुँडी; पेट; उदर ।"
+    },
+    "07419": {
+      "dId": "ᤛᤠᤵᤐᤠᤧᤣ᤺ᤰ/ᤛᤠᤵᤐᤠᤣᤁ᤻ -ᤆᤠᤣᤔᤣᤴ/ᤆᤠᤧ᤹ᤔᤣᤴ",
+      "desc": "/साप्पोःक् -चोमेन्/-चो?मेन्/",
+      "group": "CR",
+      "mean": "<p>worship of the womb carried out for the maintenance of good health of the pregnant woman and for her safe delivery.</p>कोख/भुँडी पूजा; गर्भिणी र गर्भको सुस्वास्थ्य र स्वस्थ प्रसुतिको लागि गरिने पूजा ।"
+    },
+    "07420": {
+      "dId": "ᤛᤠᤵᤐᤧᤴ",
+      "desc": "/साप्पेन्/",
+      "group": "CR",
+      "mean": "<p>writing; transcription.</p>लेखन; आलेखन ।"
+    },
+    "07421": {
+      "dId": "ᤛᤠᤵᤐᤪᤡ ",
+      "desc": "/साप्प्रि/",
+      "group": "CR",
+      "mean": "<p>cane box.</p>चोयाको पेटारो ।"
+    },
+    "07422": {
+      "dId": "ᤛᤠᤵᤑᤰᤁᤪᤠ",
+      "desc": "/साप्फक्क्रा/",
+      "group": "CR",
+      "mean": "<p>jute.</p>सनपाट ।"
+    },
+    "07423": {
+      "dId": "ᤛᤠᤵᤑᤱᤃᤠ",
+      "desc": "/साप्फङ्गा/",
+      "group": "CR",
+      "mean": "<p>cymbal.</p>झ्याम्टा ।"
+    },
+    "07424": {
+      "dId": "ᤛᤠᤵᤑᤠᤣ᤺ᤴᤍᤠ/ᤛᤠᤵᤑᤠᤣᤏ᤻ᤍᤠ",
+      "desc": "/साप्फोःन्दा/",
+      "group": "CR",
+      "mean": "<p>blackboard; chalkboard.</p>(झुन्ड्याइने) कालोपाटी ।"
+    },
+    "07425": {
+      "dId": "ᤛᤠᤵᤑᤧᤍᤠᤱ",
+      "desc": "/साप्फेदाङ्/",
+      "group": "CR",
+      "mean": "<p>a (scriptural) priest.</p>(शास्त्रपाठ गर्ने) पुरोहित/पण्डित ।"
+    },
+    "07426": {
+      "dId": "ᤛᤠᤵᤑᤪᤡ ",
+      "desc": "/साप्फ्रि/",
+      "group": "CR",
+      "mean": "<p>leather bag for keeping money (esp coins).</p>पैसा (विशेषतः सिक्का) राख्ने थैली।"
+    },
+    "07427": {
+      "dId": "ᤛᤠᤵᤑᤪᤧ᤹ᤘᤠ",
+      "desc": "/साप्फ्रे?वा/",
+      "group": "CR",
+      "mean": "<p>children's group.</p>बालबालिककाो समूह ।"
+    },
+    "07428": {
+      "dId": "ᤛᤠᤵᤔᤠ",
+      "desc": "/साप्मा/",
+      "group": "CR",
+      "mean": "<p>to write.</p>लेख्नु ।"
+    },
+    "07429": {
+      "dId": "ᤛᤠᤵᤔᤠ ᤅᤠ",
+      "desc": "/साप्मा ङा/",
+      "group": "CR",
+      "mean": "<p>a kind of mountain fish with white and black stripes but no scales.</p>गडेला माछा; जीउमा सेता काला धर्का हुने तर कत्ला नहुने उचाईका खोल्सा खोल्सिमा पाईने एक प्रकारको माछो ।"
+    },
+    "07430": {
+      "dId": "ᤛᤠᤵᤔᤢᤴᤎᤢᤶ",
+      "desc": "/साप्मुन्धुम्/",
+      "group": "CR",
+      "mean": "<p>history.</p>इतिहास ।"
+    },
+    "07431": {
+      "dId": "ᤛᤠᤵᤔᤢᤴᤎᤢᤶᤔᤡᤒᤠ",
+      "desc": "/साप्मुन्धुम्मिबा/",
+      "group": "CR",
+      "mean": "<p>historical.</p>ऐतिहासिक ।"
+    },
+    "07432": {
+      "dId": "ᤛᤠᤵᤔᤢᤴᤎᤢᤶᤛᤠᤶᤒᤠ",
+      "desc": "/साप्मुन्धुम्साम्बा/",
+      "group": "CR",
+      "mean": "<p>historian.</p>इतिहासकार ।"
+    },
+    "07433": {
+      "dId": "ᤛᤠᤵᤗᤠᤰ",
+      "desc": "/साप्लक्/",
+      "group": "CR",
+      "mean": "<p>1. meanraving; inscription. 2. embroidery. type.</p>१. कपेर बनाएको बुट्टा; कुँदेको चित्र वा अक्षर । २. बुनेको बुट्टा । ३. टङ्कन ।"
+    },
+    "07434": {
+      "dId": "ᤛᤠᤵᤗᤠᤰᤘᤠ",
+      "desc": "/साप्लक्वा/",
+      "group": "CR",
+      "mean": "<p>typewriter.</p>टाइपराइटर; टङ्कन यन्त्र ।"
+    },
+    "07435": {
+      "dId": "ᤛᤠᤵᤗᤠᤰᤐᤠ",
+      "desc": "/साप्लक्पा/",
+      "group": "CR",
+      "mean": "<p>1. typist. 2. compositor; type-setter.</p>१. लिपिक; टङ्कक; टाइपिष्ट । २. कम्पोजिटर; अक्षर कम्पोज गर्ने मान्छे ।"
+    },
+    "07436": {
+      "dId": "ᤛᤠᤵᤗ᤺ᤴ/ᤛᤠᤵᤗᤏ᤻",
+      "desc": "/साप्लःन्/",
+      "group": "CR",
+      "mean": "<p>publication.</p>प्रकाशन ।"
+    },
+    "07437": {
+      "dId": "ᤛᤠᤵᤗ᤺ᤵᤐᤠ/ᤛᤠᤵᤗᤐ᤻ᤐᤠ",
+      "desc": "/साप्लःप्पा/",
+      "group": "CR",
+      "mean": "<p>publisher.</p>प्रकाशक ।"
+    },
+    "07438": {
+      "dId": "ᤛᤠᤵᤗᤠ",
+      "desc": "/साप्ला/",
+      "group": "CR",
+      "mean": "<p>paper.</p>कागत ।"
+    },
+    "07439": {
+      "dId": "ᤛᤠᤵᤗᤠᤂᤢ",
+      "desc": "/साप्लाखु/",
+      "group": "CR",
+      "mean": "<p>cane box (to keep box); rack/cane box to keep book in.</p>(पुस्तक राख्ने) चोयाको बाकस; पुस्तक राख्ने ताक/बाकस ।"
+    },
+    "07440": {
+      "dId": "ᤛᤠᤵᤗᤠᤰ",
+      "desc": "/साप्लाक्/",
+      "group": "CR",
+      "mean": "<p>1. fawning; flattering; servility. 2. fun; jest; joke.</p>१. लुटुपुटु । २. ख्यालठट्टा ।"
+    },
+    "07441": {
+      "dId": "ᤛᤠᤵᤗᤡᤱᤃᤡ ",
+      "desc": "/साप्लिङ्गि/",
+      "group": "CR",
+      "mean": "<p>draft/cheque.</p>हुन्डी ।"
+    },
+    "07442": {
+      "dId": "ᤛᤠᤵᤗᤡᤱᤃᤧ",
+      "desc": "/साप्लिङ्गे/",
+      "group": "CR",
+      "mean": "<p>big basket of split bamboo with big eyes in it.</p>ठूलो/धोबे डोको ।"
+    },
+    "07443": {
+      "dId": "ᤛᤠᤵᤗᤡᤒᤠ",
+      "desc": "/साप्लिबा/",
+      "group": "CR",
+      "mean": "<p>rectangle.</p>चतुर्भुज ।"
+    },
+    "07444": {
+      "dId": "ᤛᤠᤐᤍᤢᤱ",
+      "desc": "/साप्लुङ्/",
+      "group": "CR",
+      "mean": "<p>writing slate/stone board.</p>सिलेट; पाटी ।"
+    },
+    "07445": {
+      "dId": "ᤛᤵᤗᤢᤶ",
+      "desc": "/साप्लुप्/",
+      "group": "CR",
+      "mean": "<p>library.</p>पुस्तकालय ।"
+    },
+    "07446": {
+      "dId": "ᤛᤵᤗᤧᤱ",
+      "desc": "/साप्लेङ्/",
+      "group": "CR",
+      "mean": "<p>duplicate; true copy; facsimile; transcript.</p>प्रतिलिपि; नक्कल ।"
+    },
+    "07447": {
+      "dId": "ᤛᤵᤗᤧᤂᤠ",
+      "desc": "/साप्लेखा/",
+      "group": "CR",
+      "mean": "<p>seal; stamp; mark.</p>छाप; टाँचा ।"
+    },
+    "07448": {
+      "dId": "ᤛᤠᤵᤗᤧᤵ",
+      "desc": "/साप्लेप्/",
+      "group": "CR",
+      "mean": "<p>syllabus.</p>पाठ्यक्रम ।"
+    },
+    "07449": {
+      "dId": "ᤛᤠᤵᤘᤠ",
+      "desc": "/साप्वा/",
+      "group": "CR",
+      "mean": "<p>ink.</p>मसी ।"
+    },
+    "07450": {
+      "dId": "ᤛᤠᤵᤛᤰ",
+      "desc": "/साप्सक्/",
+      "group": "CR",
+      "mean": "<p>litrature.</p>साहित्य ।"
+    },
+    "07451": {
+      "dId": "ᤛᤠᤵᤛᤰᤁᤡᤒᤠ",
+      "desc": "/साप्सक्किबा/",
+      "group": "CR",
+      "mean": "<p>literary.</p>साहित्यिक ।"
+    },
+    "07452": {
+      "dId": "ᤛᤠᤵᤛᤰᤁᤧᤶᤒᤠ",
+      "desc": "/साप्सक्केम्बा/",
+      "group": "CR",
+      "mean": "<p>litterateur; literator; literary person.</p>साहित्यकार ।"
+    },
+    "07453": {
+      "dId": "ᤛᤠᤵᤛᤰᤛᤠᤒᤠ",
+      "desc": "/साप्सक्साबा/",
+      "group": "CR",
+      "mean": "<p>author; writer.</p>ग्रन्थकार; लेखक ।"
+    },
+    "07454": {
+      "dId": "ᤛᤠᤵᤛᤡᤱ",
+      "desc": "/साप्सिङ्/",
+      "group": "CR",
+      "mean": "<p>1. tree/wood of Machilus odoratissima; its leaves often used by Limbu priests or shamans. 2. a piece of wood/short stick hold by left hand to beat the Chyabrung while dancing the Chyabrung dance.</p>१. काउलो; झाँक्रीकाठ झाँक्रीले प्रयोग गर्ने स्याउलोको रुख । २. च्याब्रुङ् बजाउन देब्रे हातले प्रयोग गर्ने काठको टुक्रा ।"
+    },
+    "07455": {
+      "dId": "ᤛᤠᤵᤛᤡᤱᤔᤠ",
+      "desc": "/साप्सिङ्मा/",
+      "group": "CR",
+      "mean": "<p>to protect oneself from heat.</p>(तातो भाँडा आदि समात्दा) तातोबाट जोगिनु/जोगिन होसियार हुनु ।"
+    },
+    "07456": {
+      "dId": "ᤛᤠᤵᤛᤣ᤺ᤰᤔᤠ/ᤛᤠᤵᤛᤣᤁ᤻ᤔᤠ",
+      "desc": "/साप्सेःक्मा/",
+      "group": "CR",
+      "mean": "<p>1. to satire/ridicule. 2. (of exorcist, Shaman etc) to divine/foretell sth evil.</p>१. खिसि गर्नु; खिल्ली उडाउनु; ब्यङ्ग्य गर्नु । २. (धामी-झाँक्री आदि ले) नराम्रो जोखाना भन्नु/बताउनु; नराम्रो मानी शङ्का गर्नु ।"
+    },
+    "07457": {
+      "dId": "ᤛᤠᤵᤛᤣ᤺ᤱ/ᤛᤠᤵᤛᤣᤅ᤻",
+      "desc": "/साप्सेःङ्/",
+      "group": "CR",
+      "mean": "<p>slandering remark; ridicule; satire.</p>खिल्ली; खिसी; ब्यङ्ग्य ।"
+    },
+    "07458": {
+      "dId": "ᤛᤠᤵᤛᤣ᤺ᤱᤒᤠ/ᤛᤠᤵᤛᤣᤅ᤻ᤒᤠ",
+      "desc": "/साप्सेःङ्बा/",
+      "group": "CR",
+      "mean": "<p>satirist.</p>ब्यङ्ग्यकार; विदूषक ।"
+    },
+    "07459": {
+      "dId": "ᤛᤠᤵᤛᤣ᤺ᤱᤗᤠᤒᤠ/ᤛᤠᤵᤛᤣᤅ᤻ᤗᤠᤒᤠ",
+      "desc": "/साप्सेःङ्लाबा/",
+      "group": "CR",
+      "mean": "<p>satirical.</p>ब्यङ्गात्मक ।"
+    },
+    "07460": {
+      "dId": "ᤛᤠᤵᤛᤣ᤺ᤱᤛᤠᤶᤒᤠ/ᤛᤠᤵᤛᤣᤅ᤻ᤛᤠᤶᤒᤠ",
+      "desc": "/साप्सेःङ्साम्बा/",
+      "group": "CR",
+      "mean": "<p>satirist.</p>ब्यङ्ग्यकार ।"
+    },
+    "07461": {
+      "dId": "ᤛᤠᤵᤜᤰ",
+      "desc": "/साप्हक्/",
+      "group": "CR",
+      "mean": "<p>book cover.</p>जिल्दा; किताबको खोल ।"
+    },
+    "07462": {
+      "dId": "ᤛᤠᤒᤶᤓᤣ",
+      "desc": "/साबम्भे/",
+      "group": "CR",
+      "mean": "<p>a share of meat in the spoil(s) of a chase or a share of meat.</p>शिकारको बिलो; मासुको भाग ।"
+    },
+    "07463": {
+      "dId": "ᤛᤠᤒᤠ",
+      "desc": "/साबा/",
+      "group": "CR",
+      "mean": "<p>attitude particle adding emphasis of meaning to a verb (eg. 'so it is', 'no, not at all')</p>कुनै क्रियापदको पछाडि आएर त्य पदको अर्थलाई जोडदिने निपात, जस्तै-  'नि';  'त' ।"
+    },
+    "07464": {
+      "dId": "ᤛᤠᤒᤠᤱᤍᤣᤴ",
+      "desc": "/साबाङ्देन्/",
+      "group": "CR",
+      "mean": "<p>1. hunting place. 2. the place wherein God Theba used to hunt wild animals; Theba's hunting place.</p>१. शिकार खेल्ने ठाँउ । २. थेवा देवताले शिकार खेल्ने ठाँउ ।"
+    },
+    "07465": {
+      "dId": "ᤛᤠᤒᤢᤜᤡᤶ",
+      "desc": "/साबुहिम्/",
+      "group": "CR",
+      "mean": "<p>zoo; zoological park.</p>चिडियाखाना ।"
+    },
+    "07466": {
+      "dId": "ᤛᤠᤒᤪᤠᤱᤄᤧ᤺ᤰ/ᤛᤠᤒᤪᤠᤱᤄᤧᤁ᤻",
+      "desc": "/साब्राङ्घेःक्/",
+      "group": "CR",
+      "mean": "<p>a particular style of sitting cross-legged.</p>पलेंटी; पलेंटी मारेर बस्ने किसिम ।"
+    },
+    "07467": {
+      "dId": "ᤛᤠᤓᤠᤱ(ᤆᤠ)",
+      "desc": "/साभाङ्(चा)/",
+      "group": "CR",
+      "mean": "<p>feast; banquet.</p>भोज; भतेर  ।"
+    },
+    "07468": {
+      "dId": "ᤛᤠᤓᤠᤱᤗᤢᤱ",
+      "desc": "/साभाङ्लुङ्/",
+      "group": "CR",
+      "mean": "<p>court; law court; court of law.</p>न्यायलय; अदालत ।"
+    },
+    "07469": {
+      "dId": "ᤛᤠᤔᤠᤛᤣ᤺ᤰᤂᤣ/ᤛᤠᤔᤠᤛᤣᤁ᤻ᤂᤣ",
+      "desc": "/सामासेःक्खे/",
+      "group": "CR",
+      "mean": "<p>bravery; gallantry; courage; boldness; daring.</p>सहास; आँट ।"
+    },
+    "07470": {
+      "dId": "ᤛᤠᤔᤡ ",
+      "desc": "/सामि/",
+      "group": "CR",
+      "mean": "<p>electricity; power.</p>शक्तिको रुपमा प्रयोग गरिने बिद्युत (शक्ति); बिजुली ।"
+    },
+    "07471": {
+      "dId": "ᤛᤠᤔᤢᤀᤡᤄᤰ",
+      "desc": "/सामुइघक्/",
+      "group": "CR",
+      "mean": "<p>vasectomy.</p>(परिवार नियोजनका लागि) नसच्छेदन ।"
+    },
+    "07472": {
+      "dId": "ᤛᤠᤔᤢᤸᤗᤠ",
+      "desc": "/सामुल्ला/",
+      "group": "CR",
+      "mean": "<p>piece/fragment/splinter (of meat).</p>(मासुको) चौटा; चोक्टा ।"
+    },
+    "07473": {
+      "dId": "ᤛᤠᤔᤠᤧᤣᤰ",
+      "desc": "/सामोक्/",
+      "group": "CR",
+      "mean": "<p>small vessel of beer.</p>सानो तोङ्बा ।"
+    },
+    "07474": {
+      "dId": "ᤛᤠᤶ",
+      "desc": "/साम्/",
+      "group": "CR",
+      "mean": "<p>1. song. 2. psalm; hymn; prayer/devotional song. 3. soul; spirit.</p>१. गीत । २. भजन । ३. आत्मा; हंश; सातो ।"
+    },
+    "07475": {
+      "dId": "ᤛᤠᤶᤏᤛᤠᤏᤡᤒᤠ",
+      "desc": "/साम्नसानिबा/",
+      "group": "CR",
+      "mean": "<p>self confident.</p>आत्मविश्वासी ।"
+    },
+    "07476": {
+      "dId": "ᤛᤡᤛᤠᤶ",
+      "desc": "/सिसाम्/",
+      "group": "CR",
+      "mean": "<p>evil soul/spirit of a dead person.</p>दुरात्मा; मृतकको आत्मा ।"
+    },
+    "07477": {
+      "dId": "ᤛᤠᤶᤀᤡᤰ",
+      "desc": "/साम्इक्/",
+      "group": "CR",
+      "mean": "<p>music.</p>संगीत ।"
+    },
+    "07478": {
+      "dId": "ᤛᤠᤶᤍᤠᤱᤂᤣᤘᤠ/ᤛᤠᤶᤍᤠᤱᤒᤠ",
+      "desc": "/साम्दाङ्खेवा/साम्दाङ्वा/",
+      "group": "CR",
+      "mean": "<p>damfey; the national bird of Nepal; the Himalayan impeyan pheasant. <i>Lophophorus impejanus.</i></p>डाँफे ।"
+    },
+    "07479": {
+      "dId": "ᤛᤠᤶᤍᤡᤱ",
+      "desc": "/साम्दिङ्/",
+      "group": "CR",
+      "mean": "<p>warning.</p>चेतावनी ।"
+    },
+    "07480": {
+      "dId": "ᤛᤠᤶᤍᤡ᤺ᤰᤗᤠ/ᤛᤠᤶᤍᤡᤁ᤻ᤗᤠ",
+      "desc": "/साम्दिःक्ला/",
+      "group": "CR",
+      "mean": "<p>tune/rhythm (of song); rhyme.</p>(गीतको) लय/भाका/धुन; छन्द ।"
+    },
+    "07481": {
+      "dId": "ᤛᤠᤶᤍᤢᤱᤘᤠ",
+      "desc": "/साम्दुङ्वा/",
+      "group": "CR",
+      "mean": "<p>humidity.</p>आर्द्रता  ।"
+    },
+    "07482": {
+      "dId": "ᤛᤠᤶᤍᤠᤣ᤺ᤰ/ᤛᤠᤶᤍᤠᤣᤁ᤻",
+      "desc": "/साम्दोःक्/",
+      "group": "CR",
+      "mean": "<p>a thorny shrub with bitter yellow berries. <i>Solanum indicum.</i></p>बिहीं ।"
+    },
+    "07483": {
+      "dId": "ᤛᤠᤶᤎᤖᤣ᤹",
+      "desc": "/साम्धरे?/",
+      "group": "CR",
+      "mean": "<p>thatch grass coiled thrice or four times into a ladder and hung in teh middle of the canopy (namchaya), climbing which a dead soul, in Limbu belief, reaches/attains heaven.</p>शवयात्रामा लासको माथि झुन्ड्याइने (चँदुवा) नामछायाँको बीचमा झुन्ड्याइने खरलाई तीनकुने पारी  बनाइएको तीन वा चार तला (खुड्किलो) को भर्याङ् जसबाट उक्लेर मृतात्मा स्वर्ग जान्छ भन्ने लिम्बूजातिमा विश्वास  गरिन्छ ।"
+    },
+    "07484": {
+      "dId": "ᤛᤠᤶᤎᤢᤶ",
+      "desc": "/साम्धुम्/",
+      "group": "CR",
+      "mean": "<p>enthusiasm.</p>जाँगर ।"
+    },
+    "07485": {
+      "dId": "ᤛᤠᤶᤏᤡᤃᤧᤴ",
+      "desc": "/साम्निगेन्/",
+      "group": "CR",
+      "mean": "<p>wisdom; knowledge; intuition.</p>प्रज्ञा; ज्ञान ।"
+    },
+    "07486": {
+      "dId": "ᤛᤠᤶᤏᤡᤃᤧᤶᤒᤠ",
+      "desc": "/साम्निगेम्बा/",
+      "group": "CR",
+      "mean": "<p>academician; member of an academy; wise.</p>प्राज्ञ; ज्ञानी ।"
+    },
+    "07487": {
+      "dId": "ᤛᤠᤶᤏᤡᤒᤠ",
+      "desc": "/साम्निबा/",
+      "group": "CR",
+      "mean": "<p>scholar; man of letters.</p>विद्वान; बुद्धिजीवी ।"
+    },
+    "07488": {
+      "dId": "ᤛᤠᤶᤑᤡᤰᤁᤪᤡ ",
+      "desc": "/साम्फिक्क्रि/",
+      "group": "CR",
+      "mean": "<p>a kind of earthworm with red rings on its body.</p>रातो धर्का धर्का परेको गड्यौला विशेष ।"
+    },
+    "07489": {
+      "dId": "ᤛᤠᤶᤒᤳᤋᤠ",
+      "desc": "/साम्बत्ता/",
+      "group": "CR",
+      "mean": "<p>a variety of big, yellow summer (May-June) berries. <i>Rubus ellipticus.</i></p>जेठमा फल्ने ठूलो खाले ऐंसेलु ।"
+    },
+    "07490": {
+      "dId": "ᤛᤠᤶᤒᤠ",
+      "desc": "/साम्बा/",
+      "group": "CR",
+      "mean": "<p>1. a priest, other than the Phedangma, who goes on dancing and singing stories of creation, evolution and traditions and who erects a nice storeyed  (storied) pole and worship by beating/playing finger symbol. 2. singer; folk-songster; minstrel. 3. poet; bard.</p>१. सृष्टि, विकास र परम्पराको आख्यान गाएर भन्ने, नौ तले लिङ्गो गाडेर थाल ठटाइ पूजा गर्ने, फेदाङ्मा भन्दा अर्कै प्रकारको गायक र नर्तक पुरोहित । २. गायक; लोकगायक; लोक-आख्यान गायक। ३. कवि ।"
+    },
+    "07491": {
+      "dId": "ᤛᤠᤶᤒᤠ᤺ᤴ/ᤛᤠᤶᤒᤠᤏ᤻",
+      "desc": "/साम्बाःन्/",
+      "group": "CR",
+      "mean": "<p>fine; penalty (originally due to fire).</p>(प्रारम्भमा आगोका लागि) जरिवाना; दण्ड ।"
+    },
+    "07492": {
+      "dId": "ᤛᤠᤶᤒᤣ",
+      "desc": "/साम्बे/",
+      "group": "CR",
+      "mean": "<p>velvet flower. <i>Amaranthus caudatas.</i></p>(रातो फुल्ने) लट्टे ।"
+    },
+    "07493": {
+      "dId": "ᤛᤠᤶᤒᤣ᤺ᤰ/ᤛᤠᤶᤒᤣᤁ᤻",
+      "desc": "/साम्बेःक्/",
+      "group": "CR",
+      "mean": "<p>flattened/beaten/parched rice.</p>चिउरा ।"
+    },
+    "07494": {
+      "dId": "ᤛᤠᤶᤒᤣ᤺ᤰ ᤗᤢᤱ/ᤛᤠᤶᤒᤣᤁ᤻ ᤗᤢᤱ",
+      "desc": "/साम्बेःक् लुङ्/",
+      "group": "CR",
+      "mean": "<p>talc; mica.</p>खभ्रख ।"
+    },
+    "07495": {
+      "dId": "ᤛᤠᤶᤒᤠᤣ᤹ᤏᤠ",
+      "desc": "/साम्बो?ना/",
+      "group": "CR",
+      "mean": "<p>garrulous; chattering; prattling.</p>फतफते; फतफत कराइरहने ।"
+    },
+    "07496": {
+      "dId": "ᤛᤠᤶᤒᤠᤣ᤺ᤰ/ᤛᤠᤶᤒᤠᤣᤁ᤻ -ᤆᤰᤘᤠ",
+      "desc": "/साम्बोःक्-चक्वा/",
+      "group": "CR",
+      "mean": "<p>1. a kind of preparation from rice dish. 2. a kind of dish made of rice boiled in soup and spice; dry pulau.</p>१. चाम्रे; चामलको खानाको एक परिकार । २. पुलाउ ।"
+    },
+    "07497": {
+      "dId": "ᤛᤠᤶᤒᤠᤣ᤺ᤱᤛᤠ/ᤛᤠᤶᤒᤠᤣᤅ᤻ᤛᤠ",
+      "desc": "/साम्बोःङ्सा/",
+      "group": "CR",
+      "mean": "<p>advance in/possessed of knowledge; well versed in scripture.</p>पंडित; ज्ञानवृद्ध; ज्ञानी; शास्त्रका मर्मज्ञ; शास्त्र जान्ने ।"
+    },
+    "07498": {
+      "dId": "ᤛᤠᤶᤒᤠᤣ᤺ᤴ/ᤛᤠᤶᤒᤠᤣᤏ᤻",
+      "desc": "/साम्बोःन्/",
+      "group": "CR",
+      "mean": "<p>prostrate; turned upside down; with face downward.</p>घोप्टो ।"
+    },
+    "07499": {
+      "dId": "ᤛᤠᤶᤒᤪᤡ᤺ᤵᤐᤠ/ᤛᤠᤶᤒᤪᤡᤐ᤻ᤐᤠ",
+      "desc": "/साम्ब्रिःप्पा/",
+      "group": "CR",
+      "mean": "<p>shadow; image; reflection.</p>छायाँ; प्रतिबिम्ब ।"
+    },
+    "07500": {
+      "dId": "ᤛᤠᤶᤓᤱ",
+      "desc": "/साम्भङ्/",
+      "group": "CR",
+      "mean": "<p>explosives (bomb etc)</p>विस्फोटक पदार्थ (बम आदि) ।"
+    },
+    "07501": {
+      "dId": "ᤛᤠᤶᤓᤠᤱ",
+      "desc": "/साम्भाङ्/",
+      "group": "CR",
+      "mean": "<p>musical beat; rhythm.</p>(सङ्गीत) ताल; पारा ।"
+    },
+    "07502": {
+      "dId": "ᤛᤠᤶᤓᤣ",
+      "desc": "/साम्भे/",
+      "group": "CR",
+      "mean": "<p>lightning.</p>बिजुली (आकाशको) ।"
+    },
+    "07503": {
+      "dId": "ᤛᤠᤶᤓᤣᤛᤡᤰ",
+      "desc": "/साम्भेसिक्/",
+      "group": "CR",
+      "mean": "<p>electricity.</p>बिजुली ।"
+    },
+    "07504": {
+      "dId": "ᤛᤠᤶᤓᤠᤣ᤺ᤰ/ᤛᤠᤶᤓᤠᤣᤁ᤻",
+      "desc": "/साम्भोःक्/",
+      "group": "CR",
+      "mean": "<p>a kind of lawn grass. <i>Cynodon dactylon.</i></p>एक प्रकारको ठूलो खाले  दूबो ।"
+    },
+    "07505": {
+      "dId": "ᤛᤠᤶᤓᤠᤣ᤺ᤴ/ᤛᤠᤶᤓᤠᤣᤏ᤻",
+      "desc": "/साम्भोःन्/",
+      "group": "CR",
+      "mean": "<p>surrender.</p>आत्मसमर्पण ।"
+    },
+    "07506": {
+      "dId": "ᤛᤠᤶᤔᤠ",
+      "desc": "/साम्मा/",
+      "group": "CR",
+      "mean": "<p>1. poetess. 2. to incite; encourage/boost/buck up. 3. to praise/extol.</p>१. कवयित्री । २. फुर्क्याउनस; हौस्याउनु; जोस्याउनु  । ३. प्रशंसा गर्नु ।  "
+    },
+    "07507": {
+      "dId": "ᤛᤠᤶᤔᤠᤰᤂᤠᤣ",
+      "desc": "/साम्माक्खो?/",
+      "group": "CR",
+      "mean": "<p>Nepali aromatic leafy garlic. <i>Allium hypsistum stearn.</i></p>जिम्बु ।"
+    },
+    "07508": {
+      "dId": "ᤛᤠᤶᤔᤠᤱ",
+      "desc": "/साम्माङ्/",
+      "group": "CR",
+      "mean": "<p>1. deities; divine beings. 2. nine planets.</p>१. देव-देवता । २. नवग्रह ।"
+    },
+    "07509": {
+      "dId": "ᤛᤠᤶᤔᤠᤱ-ᤆᤩᤠᤱ",
+      "desc": "/साम्माङ्-च्याङ्/",
+      "group": "CR",
+      "mean": "<p>effects of stars; deities of evil stars.</p>ग्रहदशा; शनि सङ्कटा ।"
+    },
+    "07510": {
+      "dId": "ᤛᤠᤶᤔᤠᤱ ᤐᤢ",
+      "desc": "/साम्माङ् पु/",
+      "group": "CR",
+      "mean": "<p>cuckoo. <i>Cuculus indicus.</i></p>कोइली ।"
+    },
+    "07511": {
+      "dId": "ᤛᤠᤶᤔᤠᤱ ᤛᤡᤱ",
+      "desc": "/साम्माङ्  सिङ्/",
+      "group": "CR",
+      "mean": "<p>1. a kind of pine tree. Pinus Wallichiana. 2. pole ( erected near an altar).</p>१. गोब्रे सल्लो । २. (पूजा गर्दा बेदीमा गाडिने) लिङ्गो । "
+    },
+    "07512": {
+      "dId": "ᤛᤠᤶᤔᤡᤰ",
+      "desc": "/साम्मिक्/",
+      "group": "CR",
+      "mean": "<p>appendix of the intestine.</p>(आन्द्राको) पुच्छर ।"
+    },
+    "07513": {
+      "dId": "ᤛᤠᤶᤔᤡᤰᤂᤢᤱ",
+      "desc": "/साम्मिक्खुङ्/",
+      "group": "CR",
+      "mean": "<p>shadow (of a person).</p>छायाँ (मान्छेको) ।"
+    },
+    "07514": {
+      "dId": "ᤛᤠᤶᤔᤡ᤺ᤳ/ᤛᤠᤶᤔᤡᤋ᤻",
+      "desc": "/साम्मिःत्/",
+      "group": "CR",
+      "mean": "<p>breeze.</p>बतास ।"
+    },
+    "07515": {
+      "dId": "ᤛᤠᤶᤔᤡᤒᤠ",
+      "desc": "/साम्मिबा/",
+      "group": "CR",
+      "mean": "<p>praiseworthy; laudable; admirable.</p>प्रशंसनीय; प्रशंसायोग्य ।"
+    },
+    "07516": {
+      "dId": "ᤛᤠᤶᤔᤡᤗᤠ",
+      "desc": "/साम्मिला/",
+      "group": "CR",
+      "mean": "<p>poem; poetry; verse.</p>कविता; पद्य ।"
+    },
+    "07517": {
+      "dId": "ᤛᤠᤶᤔᤢᤰ",
+      "desc": "/साम्मुक्/",
+      "group": "CR",
+      "mean": "<p>genius; talent.</p>प्रतिभा ।"
+    },
+    "07518": {
+      "dId": "ᤛᤠᤶᤔᤢᤰᤐᤠ",
+      "desc": "/साम्मुक्पा/",
+      "group": "CR",
+      "mean": "<p>talented.</p>प्रतिभाशाली ।"
+    },
+    "07519": {
+      "dId": "ᤛᤠᤶᤔᤣᤒᤠ/ᤛᤠᤶᤔᤣᤵᤐᤠ",
+      "desc": "/साम्मेबा/साम्मेप्पा/",
+      "group": "CR",
+      "mean": "<p>singer.</p>गायक ।"
+    },
+    "07520": {
+      "dId": "ᤛᤠᤶᤔᤣᤔᤠ/ᤛᤠᤶᤔᤣᤵᤔᤠ",
+      "desc": "/साम्मेमा/साम्मेप्मा/",
+      "group": "CR",
+      "mean": "<p>(fem.) singer.</p>गायिका ।"
+    },
+    "07521": {
+      "dId": "ᤛᤠᤶᤔᤣᤛᤠᤵᤐᤠ",
+      "desc": "/साम्मेसाप्पा/",
+      "group": "CR",
+      "mean": "<p>lyricist.</p>गीतकार (लेखक) ।"
+    },
+    "07522": {
+      "dId": "ᤛᤠᤶᤔᤣᤜᤢᤵᤐᤠ",
+      "desc": "/साम्मेहुप्पा/",
+      "group": "CR",
+      "mean": "<p>musician/composer.</p>संगीतकार ।"
+    },
+    "07523": {
+      "dId": "ᤛᤠᤶᤔᤧᤵᤔᤠ",
+      "desc": "/साम्मेप्मा/",
+      "group": "CR",
+      "mean": "<p>to sing religious/hymns/devotional/prayer songs.</p>भजन/प्रार्थना गीत गाउनु ।"
+    },
+    "07524": {
+      "dId": "ᤛᤠᤶᤔᤧ᤺ᤍᤠᤰ/ᤛᤠᤶᤔᤧᤏ᤻ᤍᤠᤰ",
+      "desc": "/साम्मेःन्दाक्/",
+      "group": "CR",
+      "mean": "<p>Tibetan goat.</p>च्याङ्ग्रा ।"
+    },
+    "07525": {
+      "dId": "ᤛᤠᤶᤔᤩᤠᤱ",
+      "desc": "/साम्म्याङ्/",
+      "group": "CR",
+      "mean": "<p>gold.</p>सुन ।"
+    },
+    "07526": {
+      "dId": "ᤛᤠᤶᤔᤩᤱᤑᤢᤱ",
+      "desc": "/साम्याङ्फुङ्/",
+      "group": "CR",
+      "mean": "<p>flower-like gold ornament for head.</p>शिरफूल (सुनको फूल); एक प्रकारको गहना ।"
+    },
+    "07527": {
+      "dId": "ᤛᤠᤶᤔᤩᤠᤣᤰᤐᤠ",
+      "desc": "/साम्म्योक्पा/",
+      "group": "CR",
+      "mean": "<p>buck wheat. <i>Fagopyrum cymoseum.</i></p>फापर ।"
+    },
+    "07528": {
+      "dId": "ᤛᤠᤶᤔᤩᤠᤣ᤺ᤰ/ᤛᤠᤶᤔᤩᤠᤣᤁ᤻",
+      "desc": "/साम्म्योःक्/",
+      "group": "CR",
+      "mean": "<p>sacred/lawn grass.</p>दूबो (झार) ।"
+    },
+    "07529": {
+      "dId": "ᤛᤠᤶᤔᤪᤡᤰᤂᤠᤧᤠᤣᤔᤠ",
+      "desc": "/साम्म्रिक्खोमा/",
+      "group": "CR",
+      "mean": "<p>whirlwind; hurricane; tornado.</p>हावाको भुँवरी; भुँवरी-हावा; चक्रवात ।"
+    },
+    "07530": {
+      "dId": "ᤛᤠᤶᤔᤪᤠᤣ᤺ᤵᤐᤠ/ᤛᤠᤶᤔᤪᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/साम्म्रोःप्पा/",
+      "group": "CR",
+      "mean": "<p>navel.</p>नाइटो ।"
+    },
+    "07531": {
+      "dId": "ᤛᤠᤶᤕᤠᤵᤔᤡ ",
+      "desc": "/साम्याप्मि/",
+      "group": "CR",
+      "mean": "<p>celestial musician; a class of demi-god.</p>गन्धर्ब; किन्नर ।"
+    },
+    "07532": {
+      "dId": "ᤛᤠᤶᤕᤢᤰ",
+      "desc": "/साम्युक्/",
+      "group": "CR",
+      "mean": "<p>a particular position of planets, stars etc.</p>योग ।"
+    },
+    "07533": {
+      "dId": "ᤛᤠᤶᤕᤢᤰᤏᤠ",
+      "desc": "/साम्युक्ना/",
+      "group": "CR",
+      "mean": "<p>the world/adobe  of souls; the world wherein souls of the dead stay/reside.</p>आत्मालोक; मृतकहरूको आत्मा बस्ने  लोक् ।"
+    },
+    "07534": {
+      "dId": "ᤛᤠᤶᤕᤠᤣ/ᤛᤠᤶᤔᤩᤠᤣ",
+      "desc": "/साम्यो/साम्म्यो/",
+      "group": "CR",
+      "mean": "<p>religion.</p>धर्म ।"
+    },
+    "07535": {
+      "dId": "ᤛᤠᤶᤗᤠᤣ",
+      "desc": "/साम्लो/",
+      "group": "CR",
+      "mean": "<p>song.</p>गीत ।"
+    },
+    "07536": {
+      "dId": "ᤛᤠᤶᤗᤠᤣ᤺ᤳᤋᤡ/ᤛᤠᤶᤗᤠᤣᤋ᤻ᤋᤡ ",
+      "desc": "/साम्लोःत्ति/",
+      "group": "CR",
+      "mean": "<p>(fem.) singer.</p>गायिका ।"
+    },
+    "07537": {
+      "dId": "ᤛᤠᤶᤗᤠᤣ᤺ᤳᤋᤣ(ᤕᤩᤠ)/ᤛᤠᤶᤗᤠᤣᤋ᤻ᤋᤣ(ᤕᤩᤠ)",
+      "desc": "/साम्लोःत्ते(त्या)/",
+      "group": "CR",
+      "mean": "<p>(slang) songster; singer.</p>गीताङ्गे; गायक ।"
+    },
+    "07538": {
+      "dId": "ᤛᤠᤶᤗᤠᤣ᤺ᤶᤓᤧᤳ/ᤛᤠᤶᤗᤠᤣᤔ᤻ᤓᤧᤳ",
+      "desc": "/साम् लोःम्भेत्/",
+      "group": "CR",
+      "mean": "<p>split bamboo mat on which one spreads/exhibits the dress, ornament etc of teh dead person during the purification rituals/rite.</p>काजकिरियाको समयमा मृतकको लुगा गहना आदि प्रदर्शन (गर्ने रीतमा प्रयोग) गरिने मान्द्रो (आसन) ।"
+    },
+    "07539": {
+      "dId": "ᤛᤠᤶᤗᤠᤣ᤺ᤔᤠ",
+      "desc": "/साम्लोःमा/",
+      "group": "CR",
+      "mean": "<p>to sing.</p>गीत गाउनु ।"
+    },
+    "07540": {
+      "dId": "ᤛᤠᤶᤛᤠ᤺ᤔᤠ᤹",
+      "desc": "/साम्साःमा?/",
+      "group": "CR",
+      "mean": "<p>ceremony of consigning/cremating the food offered to the dead spirit three of four days after a death in the family; a rite of accompanying the sole of the deceased person to the other world.</p>परिवार भित्र कसैको मृत्यु भएको ती वा चार दिनमा मृतात्मालाई चढाएको पिण्ड सेलाउने संस्कार; मृतकको हंस/आत्मालाई अर्कै लोकमा पुर्याउने संस्कार ।"
+    },
+    "07541": {
+      "dId": "ᤛᤠᤶᤛᤡᤱ(ᤘᤠ)",
+      "desc": "/साम्सिङ्(वा)/",
+      "group": "CR",
+      "mean": "<p>zeal; energy; enthusiasm.</p>उत्साह; सुरिने  काम ।"
+    },
+    "07542": {
+      "dId": "ᤛᤠᤶᤛᤢᤱ",
+      "desc": "/साम्सुङ्/",
+      "group": "CR",
+      "mean": "<p>a kind of speargrass. <i>Triumfetta pilosa.</i></p>डल्ले र सानो किसिमको कुरो (झार) ।"
+    },
+    "07543": {
+      "dId": "ᤛᤠᤶᤛᤢᤖᤡᤳ ",
+      "desc": "/साम्सुरित्/",
+      "group": "CR",
+      "mean": "<p>tempest; storm; hurricane; whirlwind; tornado.</p>आँधिबेहरी ।"
+    },
+    "07544": {
+      "dId": "ᤛᤠᤶᤛᤣᤃᤣ",
+      "desc": "/साम्सेगे/",
+      "group": "CR",
+      "mean": "<p>bold; daring; courageous.</p>साहसी ।"
+    },
+    "07545": {
+      "dId": "ᤛᤠᤶᤛᤪᤡ/ᤛᤠᤶᤛᤡᤖᤡ ",
+      "desc": "/साम्स्रि/साम्सिरि/",
+      "group": "CR",
+      "mean": "<p>one of the constellations.</p>पुनर्वसु (नक्षत्र) ।"
+    },
+    "07546": {
+      "dId": "ᤛᤠᤶᤜᤡᤰ",
+      "desc": "/साम्हिक्/",
+      "group": "CR",
+      "mean": "<p>air.</p>हावा; वायु ।"
+    },
+    "07547": {
+      "dId": "ᤛᤠᤕᤠ ᤔᤢᤍᤧᤴ",
+      "desc": "/साया मुदेन्/",
+      "group": "CR",
+      "mean": "<p>the nearest planet  of the sun, Mercury.</p>बुध ग्रह ।"
+    },
+    "07548": {
+      "dId": "ᤛᤠᤖᤠ",
+      "desc": "/सारा/",
+      "group": "CR",
+      "mean": "<p>1. wild boar. 2. branch. 3. large beam; flat raft.</p>१. बँदेल  । २. हाँगो । ३. तेर्छो बलो ।"
+    },
+    "07549": {
+      "dId": "ᤛᤠᤖᤠᤱ",
+      "desc": "/साराङ्/",
+      "group": "CR",
+      "mean": "<p>leg of pork which is offered to the bride's parents after the marriage ceremony.</p>मासु सहितको फिला जो विवाह पश्चात बेहुलीको माइतमा रीतबापत बेहुलाको तर्फबाट बुझाइने गरिन्छ ।"
+    },
+    "07550": {
+      "dId": "ᤛᤠᤖᤠᤓᤣ",
+      "desc": "/साराभे/",
+      "group": "CR",
+      "mean": "<p>uterus.</p>पाठेघर ।"
+    },
+    "07551": {
+      "dId": "ᤛᤠᤖᤡ ",
+      "desc": "/सारि/",
+      "group": "CR",
+      "mean": "<p>ewer; metallic vessel with a  narrow neck; a scared water-pot used in religious rites.</p>कलश;  पूजाआजामा स्थपना गरिने जलपूर्ण पात्र ।"
+    },
+    "07552": {
+      "dId": "ᤛᤠᤖᤡᤰ",
+      "desc": "/सारिक्/",
+      "group": "CR",
+      "mean": "<p>too/very much; enough; more than sufficient.</p>सारै; ज्यादै; साह्रै; धेरै नै; अति ।"
+    },
+    "07553": {
+      "dId": "ᤛᤠᤷᤕᤩᤠᤱ",
+      "desc": "/सार् ग्याङ्/",
+      "group": "CR",
+      "mean": "<p>sausage (intestines filled with spices).</p>आन्द्रामा मसला भरेर बनाइने एक परिकार; ससेज ।"
+    },
+    "07554": {
+      "dId": "ᤛᤠᤘᤠ",
+      "desc": "/सावा/",
+      "group": "CR",
+      "mean": "<p>all; whole.</p>समग्र; सबै; सकल; समस्त ।"
+    },
+    "07555": {
+      "dId": "ᤛᤠᤘᤠᤃᤧᤶᤒᤠ",
+      "desc": "/सावागेम्बा/",
+      "group": "CR",
+      "mean": "<p>1. the famous hunter described in the Mundhum. 2. a hunter; chaser.</p>१. मुन्धुममा वर्णित प्रसिद्ध शिकारी पुरुष । २. शिकारी; आखेटकारी ।"
+    },
+    "07556": {
+      "dId": "ᤛᤠᤘᤠᤈᤠ",
+      "desc": "/सावाजा/",
+      "group": "CR",
+      "mean": "<p>boil; skin allergy.</p>डाबर  ।"
+    },
+    "07557": {
+      "dId": "ᤛᤠᤘᤠᤔᤠ",
+      "desc": "/सावामा/",
+      "group": "CR",
+      "mean": "<p>black hornet.</p>कालो खालको अरिङ्गाल ।"
+    },
+    "07558": {
+      "dId": "ᤛᤠᤘᤠᤠᤗᤠ",
+      "desc": "/सावाला/",
+      "group": "CR",
+      "mean": "<p>origin; creation.</p>उत्पत्ति; सृष्टि ।"
+    },
+    "07559": {
+      "dId": "ᤛᤠᤘᤠ᤺ᤴ/ᤛᤠᤘᤠᤏ᤻",
+      "desc": "/सावाःन्/",
+      "group": "CR",
+      "mean": "<p>birth.</p>जन्म ।"
+    },
+    "07560": {
+      "dId": "ᤛᤠᤘᤠ᤺ᤴᤇᤡᤱᤔᤠ/ᤛᤠᤘᤠᤏ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/सावाःन्छिङ्मा/",
+      "group": "CR",
+      "mean": "<p>to be born.</p>जन्म लिनु; जन्मनु ।"
+    },
+    "07561": {
+      "dId": "ᤛᤠᤘᤣᤳ",
+      "desc": "/सावेत्/",
+      "group": "CR",
+      "mean": "<p>tendon, strong cords of tissue which joins the muscle to bone.</p>स्नायु-रज्जु; मांसपेशीलाई हड्डीसँग बाँध्ने नसाको त्यान्द्रो ।"
+    },
+    "07562": {
+      "dId": "ᤛᤠᤛᤡ ",
+      "desc": "/सासि/",
+      "group": "CR",
+      "mean": "<p>marrow.</p>मासी ।"
+    },
+    "07563": {
+      "dId": "ᤛᤠᤛᤡᤱᤔᤠ",
+      "desc": "/सासिङ्मा/",
+      "group": "CR",
+      "mean": "<p>to escort/drop sb/sth to each other to some destination.</p>एकार्कामा पुर्याइने काम गर्नु ।"
+    },
+    "07564": {
+      "dId": "ᤛᤠᤛᤠᤣ᤺ᤳ/ᤛᤠᤛᤠᤣᤋ᤻",
+      "desc": "/सासोःत्/",
+      "group": "CR",
+      "mean": "<p>fat.</p>बोसो ।"
+    },
+    "07565": {
+      "dId": "ᤛᤠᤛᤧᤳᤋᤧᤴ",
+      "desc": "/सासेत्तेन्/",
+      "group": "CR",
+      "mean": "<p>slaughter house.</p>कसाईखाना; गोसखाना ।"
+    },
+    "07566": {
+      "dId": "ᤛᤠ᤺",
+      "desc": "/साः/",
+      "group": "CR",
+      "mean": "<p>1. children; offspring. 2. descendants.</p>१. छोराछोरी; सन्तान; बच्चा । २. वंशज ।"
+    },
+    "07567": {
+      "dId": "ᤛᤠ᤺ᤰ/ᤛᤠᤁ᤻",
+      "desc": "/साःक्/",
+      "group": "CR",
+      "mean": "<p>1. very much; more; extreme; exceeding. 2. hard.</p>१. अति; धेरै । २. कडा; कठोर ।"
+    },
+    "07568": {
+      "dId": "ᤛᤠ᤺ᤰᤔᤠ/ᤛᤠᤁ᤻ᤔᤠ",
+      "desc": "/साःक्मा/",
+      "group": "CR",
+      "mean": "<p>1. to sort/cull; to sift; to remove impurities;  to clear up; to disentangle (wool yarn); to comb wool. 2. to weed (by hand). 3. (of male) to castrate; (or female) to spay; (of male and female) to geld.</p>१. केलाउनु । २. गोड्नु; गोडमेल गर्नु । ३. खसी पार्नु ।"
+    },
+    "07569": {
+      "dId": "ᤛᤠ᤺ᤱ/ᤛᤠᤅ᤻",
+      "desc": "/साःङ्/",
+      "group": "CR",
+      "mean": "<p>ray; beam; light; brightness.</p>किरण;  ज्योति; उज्यालो ।"
+    },
+    "07570": {
+      "dId": "ᤛᤠ᤺ᤱᤃᤠ/ᤛᤠᤅ᤻ᤃᤠ",
+      "desc": "/साःङ्गा/",
+      "group": "CR",
+      "mean": "<p>tent.</p>पाल; तम्बू; त्रिपाल ।"
+    },
+    "07571": {
+      "dId": "ᤛᤠ᤺ᤱᤃᤢ/ᤛᤠᤅ᤻ᤃᤢ",
+      "desc": "/साःङ्गु/",
+      "group": "CR",
+      "mean": "<p>1. breath; respiration. 2. life force.</p>१. सास; प्रश्वास । २. प्राण; जीवनशक्ति ।"
+    },
+    "07572": {
+      "dId": "ᤛᤠ᤺ᤱᤃᤢᤃᤧᤶᤒᤠ/ᤛᤠᤅ᤻ᤃᤢᤃᤧᤶᤒᤠ",
+      "desc": "/साःङ्गुगेम्बा/",
+      "group": "CR",
+      "mean": "<p>living; lively; full of life.</p>जीवन्त ।"
+    },
+    "07573": {
+      "dId": "ᤛᤠ᤺ᤱᤃᤢᤍᤡᤶᤒᤠ/ᤛᤠᤅ᤻ᤃᤢᤍᤡᤶᤒᤠ",
+      "desc": "/साःङ्गुदिम्बा/",
+      "group": "CR",
+      "mean": "<p>vital; vitalizing.</p>जीवनदायी ।"
+    },
+    "07574": {
+      "dId": "ᤛᤠ᤺ᤱᤃᤢᤗ᤺ᤶᤒᤠ/ᤛᤠᤅ᤻ᤃᤢᤗᤔ᤻ᤒᤠ",
+      "desc": "/साःङ्गुलःम्बा/",
+      "group": "CR",
+      "mean": "<p>ventilator.</p>रोशनदान; हावादानी ।"
+    },
+    "07575": {
+      "dId": "ᤛᤠ᤺ᤱᤎᤢᤱᤒᤣ/ᤛᤠᤅ᤻ᤎᤢᤱᤒᤣ",
+      "desc": "/साःङ्धुङ्बे/",
+      "group": "CR",
+      "mean": "<p>1. wooden rack/plank for putting utensils, books, 2. cupboard; drawer; shelf.</p>१. (तखताको) ताक  । २. दराज ।"
+    },
+    "07576": {
+      "dId": "ᤛᤠ᤺ᤱᤒᤣ/ᤛᤠᤅ᤻ᤒᤣ",
+      "desc": "/साःङ्बे/",
+      "group": "CR",
+      "mean": "<p>shrine; sanctuary.</p>देवताको थान; थानमान; पूजास्थान ।"
+    },
+    "07577": {
+      "dId": "ᤛᤠ᤺ᤱᤔᤠ/ᤛᤠᤅ᤻ᤔᤠ",
+      "desc": "/साःङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. (of hair) to disentangle/untwist. 2. to let the boiled rice cool placing it beside the hearth and opening its lid so that the vapour comes out. 3. to stir (solid, cooked rice etc).</p>१. (कपालको) लट्टा फोर्नु । २. भात भर्साउनु  । ३ (पाकेको भात, आदि) चलाउनु ।"
+    },
+    "07578": {
+      "dId": "ᤛᤠ᤺ᤱᤘᤧᤳ/ᤛᤠᤅ᤻ᤘᤧᤳ",
+      "desc": "/साःङ्वेत्/",
+      "group": "CR",
+      "mean": "<p>buffalo.</p>राँगो वा भैंसी ।"
+    },
+    "07579": {
+      "dId": "ᤛᤠ᤺ᤱᤘᤧᤳᤇᤠ/ᤛᤠᤅ᤻ᤘᤧᤳᤇᤠ",
+      "desc": "/साःङ्वेत्छा/",
+      "group": "CR",
+      "mean": "<p>young buffalo; calf/heifer.</p>पाडोपाडी ।"
+    },
+    "07580": {
+      "dId": "ᤛᤠ᤺ᤳᤇᤡᤱᤔᤠ/ᤛᤠᤋ᤻ᤇᤡᤱᤔᤠ",
+      "desc": "/साःत्छिङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. to tease each other. 2. to try to rival/pick a quarrel. 3. to deliver sth to each other.</p>१. एकअर्कालाई जिस्क्याउनु । २. जोरी/निहुँ खोज्नु । ३. एकअर्कालाई (कुनै चीज) पुर्याइदिनु ।"
+    },
+    "07581": {
+      "dId": "ᤛᤠ᤺ᤵ/ᤛᤠᤐ᤻",
+      "desc": "/साःप्/",
+      "group": "CR",
+      "mean": "<p>root.</p>जरो ।"
+    },
+    "07582": {
+      "dId": "ᤛᤠ᤺ᤵᤐᤠ᤹/ᤛᤠᤐ᤻ᤐᤠ᤹",
+      "desc": "/साःप्पा?/",
+      "group": "CR",
+      "mean": "<p>maggot; flies eggs; a kind of insect that breads on rotten meat.</p>औंसा; झिँगाको फुल ।"
+    },
+    "07583": {
+      "dId": "ᤛᤠ᤺ᤵᤑᤡᤰ/ᤛᤠᤐ᤻ᤑᤡᤰ",
+      "desc": "/साःप्फिक्/",
+      "group": "CR",
+      "mean": "<p>extremely; to a great extent; too  much.</p>बेसरी; धेरै नै; अति धेरै  ।"
+    },
+    "07584": {
+      "dId": "ᤛᤠ᤺ᤵᤑᤧᤰᤘᤠ/ᤛᤠᤐ᤻ᤑᤧᤰᤘᤠ",
+      "desc": "/साःप्फेक्वा/",
+      "group": "CR",
+      "mean": "<p>Phalgun; eleventh Nepalese month (Feb-Mar); the penultimate month of Nepali calendar.</p>फागुन (महिना) ।"
+    },
+    "07585": {
+      "dId": "ᤛᤠ᤺ᤵᤔᤠ/ᤛᤠᤐ᤻ᤔᤠ",
+      "desc": "/साःप्मा/",
+      "group": "CR",
+      "mean": "<p>1. to mock/taunt/tease/rebuke/make fun of. 2. to exorcise the evil spirits.</p>१. जिस्काउनु । २. मन्साउनु ।"
+    },
+    "07586": {
+      "dId": "ᤛᤠ᤺ᤵᤗᤠᤔᤠ/ᤛᤠᤐ᤻ᤗᤠᤔᤠ",
+      "desc": "/साःप्लामा/",
+      "group": "CR",
+      "mean": "<p><i>Lycopodium clavatum.</i></p>नागबेली लहरो; एक प्रकारको लहरो ।"
+    },
+    "07587": {
+      "dId": "ᤛᤠ᤺ᤵᤛᤣ᤹(ᤒᤠ)/ᤛᤠᤐ᤻ᤛᤣ(ᤒᤠ)",
+      "desc": "/साःप्से?(बा)/",
+      "group": "CR",
+      "mean": "<p>tick; wild louse.</p>किर्ना; किर्नो ।"
+    },
+    "07588": {
+      "dId": "ᤛᤠ᤺ᤔᤠ",
+      "desc": "/साःमा/",
+      "group": "CR",
+      "mean": "<p>1. to deliver/escort/carry (lead) to. 2. things; goods; commodities; articles; stock-in-trade.</p>१. पु्र्याउनु; लगिदिनु । २. सरसामान; वस्तु; चीजबीज ।"
+    },
+    "07589": {
+      "dId": "ᤛᤠ᤺ᤔᤧᤴᤇᤠ᤹",
+      "desc": "/साःमेन्छा?/",
+      "group": "CR",
+      "mean": "<p>1. offspring; descendants. 2. sons and grandsons.</p>१. दरसन्तान; वंशज । २. छोरानाति ।"
+    },
+    "07590": {
+      "dId": "ᤛᤠ᤺ᤶᤒᤣ/ᤛᤠᤔ᤻ᤒᤣ",
+      "desc": "/साःम्बे/",
+      "group": "CR",
+      "mean": "<p>epic.</p>काव्य ।"
+    },
+    "07591": {
+      "dId": "ᤛᤠ᤺ᤶᤓᤣ/ᤛᤠᤔ᤻ᤓᤣ",
+      "desc": "/साःम्भे/",
+      "group": "CR",
+      "mean": "<p>lightning.</p>(आकाशमा चम्कने) बिजुली ।"
+    },
+    "07592": {
+      "dId": "ᤛᤠ᤺ᤶᤔᤠ/ᤛᤠᤔ᤻ᤔᤠ",
+      "desc": "/साःम्मा/",
+      "group": "CR",
+      "mean": "<p>1. to cleanse/husk (rice etc) in a mortar; to polish (of milled rice). 2. to scrub; to cleanse (pots etc) by rubbing. 3. (of weapons etc) to lift (as if it strike/hit/cut); to threaten (raising a stick, weapon or hand).</p>१. फल्नु (ढिकी आदिमा कुट्नु); फलाउनु । २. मस्काउनु; मस्काएर चम्काउनु । ३. (लट्ठी/हतियार, हात आदि) उज्याउनु (हान्न, हिर्काउन वा काट्न) तयार भएर तर्साउनु, तर्तु ।"
+    },
+    "07593": {
+      "dId": "ᤛᤠ᤺ᤶᤛᤡᤱᤔᤠ/ᤛᤠᤔ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/साःम्सिङ्मा/",
+      "group": "CR",
+      "mean": "<p>1. to be bold/emboldened/incited. 2. to lift up (arms, weapons, tools etc). 3. to get ready/be prepared to strike/hit each other.</p>१. (लड्न भिड्न) सुरिनु; उल्कनु; डुक्रनु । २. (हातहतियार आदि) उजाउनु/तर्नु । ३. एकले अर्कोलाई हिर्काउने तयारी गर्नु ।"
+    },
+    "07594": {
+      "dId": "ᤛᤠ᤺ᤗᤧᤶᤔᤠ",
+      "desc": "/साःलेम्मा/",
+      "group": "CR",
+      "mean": "<p>(of a pregnant woman) to have/suffer a miscarriage; to be miscarried/aborted/prematurely born.</p>गर्भ पतन हुनु; तुहिनु ।"
+    },
+    "07595": {
+      "dId": "ᤛᤠ᤺ᤘᤠ᤺ᤵᤔᤠ/ᤛᤠ᤺ᤘᤠᤐ᤻ᤔᤠ",
+      "desc": "/साःवाःप्मा/",
+      "group": "CR",
+      "mean": "<p>to deliver/bear/give birth to.</p>जन्माउनु; बच्चा पाउनु । "
+    },
+    "07596": {
+      "dId": "ᤛᤠ᤺ᤘᤠ᤺ᤶᤔᤠ/ᤛᤠ᤺ᤘᤠᤔ᤻ᤔᤠ",
+      "desc": "/साःवाःम्मा/",
+      "group": "CR",
+      "mean": "<p>to make sb pregnant.</p>भूँडी बोकाउनु ।"
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "Dic": {
+    "07071": {
+      "dId": "ᤘᤣ᤹",
+      "desc": "/वे?/",
+      "group": "CP",
+      "mean": "<p>other; different ones; separate.</p>अरू; अन्य; अर्को; भिन्नै ।"
+    },
+    "07072": {
+      "dId": "ᤘᤣ᤹ᤋᤱᤒᤠ",
+      "desc": "/वे?तङ्बा/",
+      "group": "CP",
+      "mean": "<p>different.</p>अर्कै किसिमको; अर्कै जस्तो ।"
+    },
+    "07073": {
+      "dId": "ᤘᤣ᤹ᤗᤠᤈᤧ᤹ᤒᤠ",
+      "desc": "/वे?लाजे?बा/",
+      "group": "CP",
+      "mean": "<p>foreign; alien; non-native.</p>विदेशी ।"
+    },
+    "07074": {
+      "dId": "ᤘᤣ᤹ᤕᤱᤒᤠ ᤛᤢᤳᤗᤠ",
+      "desc": "/वे?याङ्बा सुत्ला/",
+      "group": "CP",
+      "mean": "<p>loan/foreign words.</p>आगन्तुक शब्द ।"
+    },
+    "07075": {
+      "dId": "ᤘᤣ᤹ᤔᤏᤠ",
+      "desc": "/वे?मना/",
+      "group": "CP",
+      "mean": "<p>third person.</p>तृतीय पुरुष ।"
+    },
+    "07076": {
+      "dId": "ᤘᤣ᤹ᤔᤠ",
+      "desc": "/वे?मा/",
+      "group": "CP",
+      "mean": "<p>to entangle (with a hook); to catch with a hook.</p>(आङ्कुसेले) अल्झाउनु ।"
+    },
+    "07077": {
+      "dId": "ᤘᤣ᤹ᤖᤒᤣ",
+      "desc": "/वे?रबे/",
+      "group": "CP",
+      "mean": "<p>opposite; reverse; contrary.</p>उल्टो ।"
+    },
+    "07078": {
+      "dId": "ᤘᤣ᤹ᤛᤢᤔᤠ",
+      "desc": "/वे?सुमा/",
+      "group": "CP",
+      "mean": "<p>different; of another type.</p>भिन्दै;  अर्कै खाले; अर्कै किसिमको ।"
+    },
+    "07079": {
+      "dId": "ᤘᤣᤕᤢ᤺",
+      "desc": "/वेयुः/",
+      "group": "CP",
+      "mean": "<p>a kind of grass used as a bait for fish.</p>माछा मार्न प्रयोग गरिने एक प्रकारको झारविशेष ।"
+    },
+    "07080": {
+      "dId": "ᤘᤣᤘᤠᤴᤍᤢ",
+      "desc": "/वेवान्दु/",
+      "group": "CP",
+      "mean": "<p>a kind of netted grass.</p>जाले झार ।"
+    },
+    "07081": {
+      "dId": "ᤘᤣ᤺ᤘᤰᤗᤠ",
+      "desc": "/वेःवक्ला/",
+      "group": "CP",
+      "mean": "<p>complication; tangle; embroilment.</p>अप्ठ्यारो अवस्था; अप्ठ्यारो पन; उल्झन ।"
+    },
+    "07082": {
+      "dId": "ᤘᤣ᤺ᤱᤔᤠ/ᤘᤣᤅ᤻ᤔᤠ",
+      "desc": "/वेःङ्मा/",
+      "group": "CP",
+      "mean": "<p>to coil/lump/make (sth) round.</p>गुडुल्काउनु; बटारेर (बिटो पारे झैं) डल्लो पार्नु ।"
+    },
+    "07083": {
+      "dId": "ᤘᤣ᤺ᤱᤛᤡᤱᤔᤠ/ᤘᤣᤅ᤻ᤛᤡᤱᤔᤠ",
+      "desc": "/वेःङ्सिङ्मा/",
+      "group": "CP",
+      "mean": "<p>to be coiled/huddled (like snakes).</p>गुटमुटिनु/गुडुल्किनु ।"
+    },
+    "07084": {
+      "dId": "ᤘᤣ᤺ᤵᤔᤠ/ᤘᤣᤐ᤻ᤔᤠ",
+      "desc": "/वेःप्मा/",
+      "group": "CP",
+      "mean": "<p>to get well; to recover/recuperate form disease; to convalesce.</p>बिरामीबाट निको हुनु; बिसेक हुनु; तङ्ग्रनु; सन्चो हुनु; जाति हुनु ।"
+    },
+    "07085": {
+      "dId": "ᤘᤣ᤺ᤶᤔᤠ/ᤘᤣᤔ᤻ᤔᤠ",
+      "desc": "/वेःम्मा/",
+      "group": "CP",
+      "mean": "<p>to cure; to heal; to make well.</p>निको पार्नु; बिसेक पार्नु । "
+    },
+    "07086": {
+      "dId": "ᤘᤧᤰᤘᤧᤰ",
+      "desc": "/वेक्वेक्/",
+      "group": "CP",
+      "mean": "<p>arousing vomiting tendency; making to spew forth; in a way that causes vomiting.</p>वाकवाक लगाउने गरि; वाकवाकी ।"
+    },
+    "07087": {
+      "dId": "ᤘᤧᤄᤰᤁᤩᤠᤣ",
+      "desc": "/वेघक्क्यो/",
+      "group": "CP",
+      "mean": "<p>a kind of small mulberry. <i>Mours alba.</i></p>सानो खाले किम्बु ।"
+    },
+    "07088": {
+      "dId": "ᤘᤧᤱᤈᤠᤱ",
+      "desc": "/वेङ्जाङ्/",
+      "group": "CP",
+      "mean": "<p>selfishness.</p>स्वार्थ ।"
+    },
+    "07089": {
+      "dId": "ᤘᤧᤱᤈᤠᤱᤒᤠ",
+      "desc": "/वेङ्जाङ्बा/",
+      "group": "CP",
+      "mean": "<p>selfish.</p>स्वार्थी ।"
+    },
+    "07090": {
+      "dId": "ᤘᤧᤱᤔᤠ",
+      "desc": "/वेङ्मा/",
+      "group": "CP",
+      "mean": "<p>1. to cut into the middle. 2. to cut and thus separate the central part.</p>१. बीचमा चिरेर फार्नु (अलग्याउनु) । २. बीचको भाग चिरेर अलग्ग पार्नु ।"
+    },
+    "07091": {
+      "dId": "ᤘᤧᤱᤘᤠ",
+      "desc": "/वेङ्वा/",
+      "group": "CP",
+      "mean": "<p>flow; current.</p>प्रवाह; बहाइ ।"
+    },
+    "07092": {
+      "dId": "ᤘᤧᤱᤛ᤺ᤰ/ᤘᤧᤱᤛᤁ᤻",
+      "desc": "/वेङ्सःक्/",
+      "group": "CP",
+      "mean": "<p>looseness.</p>खुकुलोपन ।"
+    },
+    "07093": {
+      "dId": "ᤘᤧᤱᤛ᤺ᤰᤛ᤺ᤰᤐᤠ/ᤘᤧᤱᤛᤁ᤻ᤛᤁ᤻ᤐᤠ",
+      "desc": "/वेङ्सःक्सःक्पा/",
+      "group": "CP",
+      "mean": "<p>(of knot) loose.</p>खुकुलो ।"
+    },
+    "07094": {
+      "dId": "ᤘᤧᤳᤇᤠ᤹",
+      "desc": "/वेत्छा?/",
+      "group": "CP",
+      "mean": "<p>paddy.</p>धान ।"
+    },
+    "07095": {
+      "dId": "ᤘᤧᤴ",
+      "desc": "/वेन्/",
+      "group": "CP",
+      "mean": "<p>youth.</p>बैंस ।"
+    },
+    "07096": {
+      "dId": "ᤘᤧᤴᤔᤡᤰ",
+      "desc": "/वेन्मिक्/",
+      "group": "CP",
+      "mean": "<p>pimple.</p>डन्डीफोर ।"
+    },
+    "07097": {
+      "dId": "ᤘᤧᤵᤔᤠ",
+      "desc": "/वेप्मा/",
+      "group": "CP",
+      "mean": "<p>to spill/be spilt/poured down; to run down.</p>पोखिनु; पोखिएर छरिनु ।"
+    },
+    "07098": {
+      "dId": "ᤘᤧᤔᤡᤰᤐᤱ",
+      "desc": "/वेमिक्पङ्/",
+      "group": "CP",
+      "mean": "<p>1. a kind of grass. 2. an eye disease of a fowl.</p>१. खोर्साने झार । २. कुखुराको आँखा दुख्ने रोग ।"
+    },
+    "07099": {
+      "dId": "ᤘᤧᤶᤔᤠ",
+      "desc": "/वेम्मा/",
+      "group": "CP",
+      "mean": "<p>1. to be in one’s prime youth. 2. to prosper/flourish; to be successful.</p>१. बैंस चढ्नु; बढ्नु । २. मौलाउनु; फस्टाउनु । "
+    },
+    "07100": {
+      "dId": "ᤘᤧᤖᤧ",
+      "desc": "/वेरे/",
+      "group": "CP",
+      "mean": "<p>saliva.</p>र्याल ।"
+    },
+    "07101": {
+      "dId": "ᤘᤧᤖᤧᤰ(ᤐᤠ)",
+      "desc": "/वेरेक्(पा)/",
+      "group": "CP",
+      "mean": "<p>throat.</p>गला; कण्ठ ।"
+    },
+    "07102": {
+      "dId": "ᤘᤧᤖᤧᤰᤔᤠ",
+      "desc": "/वेरेक्मा/",
+      "group": "CP",
+      "mean": "<p>[Sikkim] to wash (pot, vessel, cane etc).</p>[सिक्किम] पखाल्नु (ढुङ्ग्रो, ठेकी, भाँडा, गाग्री आदि) ।  "
+    },
+    "07103": {
+      "dId": "ᤘᤧᤖᤧᤶᤘᤠᤒᤠ",
+      "desc": "/वेरेम्वाबा/",
+      "group": "CP",
+      "mean": "<p>parasite.</p>परजीवी ।"
+    },
+    "07104": {
+      "dId": "ᤘᤧᤸᤗᤧᤰ",
+      "desc": "/वेल्लेक्/",
+      "group": "CP",
+      "mean": "<p>full; up to the brim.</p>भरी;  निम्ठो हुने गरी ।"
+    },
+    "07105": {
+      "dId": "ᤘᤧ᤺ᤰᤔᤠ/ᤘᤧᤁ᤻ᤔᤠ",
+      "desc": "/वेःक्मा/",
+      "group": "CP",
+      "mean": "<p>1. to cut (radish, cucumber etc) circular. 2. to scoop and throw up water with one’s hand; to draw/lift up water with bucket like devices (for irrigation in the field). 3. scolded/abused sb.</p>१. गोलो चाना पारेर काट्नु; फलफूल आदिको कुनै भाग मात्र गोलो चाना कटेर निकाल्नु । २. पानी उघाउनु । ३. गाली गर्नु । "
+    },
+    "07106": {
+      "dId": "ᤘᤧ᤺ᤱᤃᤠᤰ/ᤘᤧᤅ᤻ᤃᤠᤰ",
+      "desc": "/वेःङ्गाक्/",
+      "group": "CP",
+      "mean": "<p>looseness; loosely.</p>खुकुलोपन; खुकुलो किसिमले ।"
+    },
+    "07107": {
+      "dId": "ᤘᤧ᤺ᤱᤃᤠᤰᤐᤠ/ᤘᤧᤅ᤻ᤃᤠᤰᤐᤠ",
+      "desc": "/वेःङ्गाक्पा/",
+      "group": "CP",
+      "mean": "<p>loose.</p>खुकुलो।"
+    },
+    "07108": {
+      "dId": "ᤘᤧ᤺ᤴᤍᤢᤰ/ᤘᤧᤏ᤻ᤍᤢᤰ",
+      "desc": "/वेःन्दुक्/",
+      "group": "CP",
+      "mean": "<p>in a manner of being loose/limp/maimed due to tenderness/slenderness.</p>पातलो भइ लुलो हुने किसिमले ।"
+    }
+  }
+}

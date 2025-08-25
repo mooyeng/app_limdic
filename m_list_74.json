@@ -1,0 +1,364 @@
+{
+  "Dic": {
+    "08101": {
+      "dId": "ᤛᤠᤣ᤹ᤏᤠ",
+      "desc": "/सो?ना/",
+      "group": "CV",
+      "mean": "<p>bond friend (female) of a women; woman friend made by another woman through a special ceremony.</p>मितिनी ।"
+    },
+    "08102": {
+      "dId": "ᤛᤠᤣ᤹ᤏᤣᤳ",
+      "desc": "/सो?नेत्/",
+      "group": "CV",
+      "mean": "<p>(observation of) mourning a relative's death by abstaining to eat salt, oil, meat etc; forbidding/abstaining to eat salt, oil meat, etc during the period of mourning.</p>(मर्दापर्दा) आशौच/जुठो/नुनतेल बार्ने काम; निषेध ।"
+    },
+    "08103": {
+      "dId": "ᤛᤠᤣ᤹ᤒᤢ",
+      "desc": "/सो?बु/",
+      "group": "CV",
+      "mean": "<p>male friend made by a special ceremony; bond friend (male).</p>मित ।"
+    },
+    "08104": {
+      "dId": "ᤛᤠᤣ᤹ᤔᤠ",
+      "desc": "/सो?मा/",
+      "group": "CV",
+      "mean": "<p>1.adultery; immoral act; fornication; incest. 2. sin. 3. to be sinned/guilty of sin.</p>१. व्यभिचार; अनैतिक/पातकी कर्म । २. पाप । ३. पाप लाग्नु ।"
+    },
+    "08105": {
+      "dId": "ᤛᤠᤣ᤹ᤃᤧᤴ",
+      "desc": "/सो?गेन्/",
+      "group": "CV",
+      "mean": "<p>sin of adultery; incest; sexual infidelity; faithlessness/disloyalty of a spouse.</p>यौनजन्य पाप; व्यभिचार; परपुरुष/स्त्री गमन ।"
+    },
+    "08106": {
+      "dId": "ᤛᤠᤣ᤹ᤔᤡ᤺ᤳ/ᤛᤠᤣ᤹ᤔᤡᤋ᤻",
+      "desc": "/सो?मिःत्/",
+      "group": "CV",
+      "mean": "<p>brother-in-law's sister and brothers; sister-in-law's brothers and sister.</p>सोल्टी वा सोल्टिनी ।"
+    },
+    "08107": {
+      "dId": "ᤛᤠᤣᤄᤠ",
+      "desc": "/सोघा/",
+      "group": "CV",
+      "mean": "<p>malevolent spirits born after accidental death.</p>दुर्घटनाजन्य मृत्युबाट हुने प्रेतात्मा ।"
+    },
+    "08108": {
+      "dId": "ᤛᤠᤣᤳᤌᤩᤧ",
+      "desc": "/सोथ्ये/",
+      "group": "CV",
+      "mean": "<p>blowpipe (of bamboo).</p>(आगो फुक्ने) ढुङ्ग्रो ।"
+    },
+    "08109": {
+      "dId": "ᤛᤠᤣᤍᤠ᤺ᤰ/ᤛᤠᤣᤍᤠᤁ᤻",
+      "desc": "/सोदाःक्/",
+      "group": "CV",
+      "mean": "<p>stirrup.</p>रिकाब (घोडाको जीनको) ।"
+    },
+    "08110": {
+      "dId": "ᤛᤠᤣᤍᤢᤱ-ᤐᤠᤣᤍᤢᤱ",
+      "desc": "/सोदुङ्-पोदुङ्/",
+      "group": "CV",
+      "mean": "<p>1. upside down; topsy-turvy. 2. intermingling/mixing/mixture (of many things in one place haphazardly).</p>१. उल्टोपाल्टो; उल्टापाल्टी । २. छ्यासमिस ।"
+    },
+    "08111": {
+      "dId": "ᤛᤠᤣᤎᤢᤱ",
+      "desc": "/सोधुङ्/",
+      "group": "CV",
+      "mean": "<p>regard; respect.</p>श्रद्धा ।"
+    },
+    "08112": {
+      "dId": "ᤛᤠᤣᤎᤢᤱᤃᤧᤴ",
+      "desc": "/सोधुङ्गेन्/",
+      "group": "CV",
+      "mean": "<p>respectful; honourable; venerable.</p>श्रद्धेय; मान्यवर; श्रद्धा गर्न योग्य; माननीय ।"
+    },
+    "08113": {
+      "dId": "ᤛᤠᤣᤏᤡᤱᤘᤠ᤹",
+      "desc": "/सोनिङ्वा?/",
+      "group": "CV",
+      "mean": "<p>concentration of mind.</p>एकाग्रता ।"
+    },
+    "08114": {
+      "dId": "ᤛᤠᤣᤏᤡᤱᤘᤠ᤹ᤒᤠ",
+      "desc": "/सोनिङ्वा?बा/",
+      "group": "CV",
+      "mean": "<p>concentrated; resolute; undisturbed.</p>एक मन वा चित्त भएको; एकाग्र ।"
+    },
+    "08115": {
+      "dId": "ᤛᤠᤣᤴᤕᤠ᤹",
+      "desc": "/सोन्या?/",
+      "group": "CV",
+      "mean": "<p>crops (millet etc) unhusked and separated by hand; e.g. which is offered to God or a deity as a symbol of beer adding only the yeast.</p>हातैले झाँटेको अन्न; जस्तै- जसमा फुक्को मर्चा हालेर जाँडको रूपमा देवतालाई चढाइने गरिन्छ ।"
+    },
+    "08116": {
+      "dId": "ᤛᤠᤣᤐᤠ",
+      "desc": "/सोपा/",
+      "group": "CV",
+      "mean": "<p>aniseed. <i>Anethum gravelones.</i></p>सोंफ ।"
+    },
+    "08117": {
+      "dId": "ᤛᤠᤣᤓᤠᤰ",
+      "desc": "/सोभाक्/",
+      "group": "CV",
+      "mean": "<p>conch mark in the thumb.</p>औंलाको चक्र ।"
+    },
+    "08118": {
+      "dId": "ᤛᤠᤣᤔᤠ᤹",
+      "desc": "/सोमा?/",
+      "group": "CV",
+      "mean": "<p>temple; gill; upper part of the flat side of the forehead.</p>कन्चट; चलनी ।"
+    },
+    "08119": {
+      "dId": "ᤛᤠᤣᤔᤡ᤺ᤵᤐᤠ/ᤛᤠᤣᤔᤡᤐ᤻ᤐᤠ",
+      "desc": "/सोमिःप्पा/",
+      "group": "CV",
+      "mean": "<p>1. elder brother's wife's brother; sister-in-law's brothers. 2. [Tamor/Phedape] younger brothers of one's husband (address term used by females only but also used in reference by males).</p>१. सोल्टी । २. [तमर/फेदापे] देवर (स्त्री जातिले मात्र प्रयोग गर्ने शब्द तर शन्दर्भका रूपमा पुरुषले पति प्रयोग गर्ने ) । "
+    },
+    "08120": {
+      "dId": "ᤛᤠᤣᤔᤡ᤺ᤵᤔᤠ/ᤛᤠᤣᤔᤡᤐ᤻ᤔᤠ",
+      "desc": "/सोमिःप्मा/",
+      "group": "CV",
+      "mean": "<p>1. sister of one's sister-in-law or sister of one's sister's husband. 2. [Tamor/Phedape] sister-in-law; wife of one's brother (address used by males only but used in reference by female also).</p>१. सोल्टिनी; भाउज्युको दिदी वा बहिनी । २. [तमर/फेदापे] भाउज्यू (पुरुष जातिले मात्र प्रयोग गर्ने शब्द तर शन्दर्भका रूपमा स्त्रीले पनि प्रयोग गर्ने ।"
+    },
+    "08121": {
+      "dId": "ᤛᤠᤣᤔᤧᤏᤠ",
+      "desc": "/सोमेना/",
+      "group": "CV",
+      "mean": "<p>a kind of wood.</p>कोइली काठ ।"
+    },
+    "08122": {
+      "dId": "ᤛᤠᤣᤕᤠᤣᤀᤡᤱᤔᤡ ",
+      "desc": "/सोयोइङ्मि/",
+      "group": "CV",
+      "mean": "<p>procession; marriage procession.</p>लस्कर; जुलुस; जन्ती ।"
+    },
+    "08123": {
+      "dId": "ᤛᤠᤣᤕᤠᤣᤍᤠᤵ",
+      "desc": "/सोयोदाप्/",
+      "group": "CV",
+      "mean": "<p>yellow parasitical creeper that grows on bluish thorns.</p>बोट र फेद नभएको, नील काँडामाथि हुने एक प्रकारको पहेंलो परजीवी लहरोविशेष ।"
+    },
+    "08124": {
+      "dId": "ᤛᤠᤣᤖᤱᤒᤠ",
+      "desc": "/सोरङ्बा/",
+      "group": "CV",
+      "mean": "<p>cinnamon, its bark. <i>Cinnamomum zeylanicum.</i></p>दालचिनी ।"
+    },
+    "08125": {
+      "dId": "ᤛᤠᤣᤖᤡᤰ",
+      "desc": "/सोरिक्/",
+      "group": "CV",
+      "mean": "<p>(together/along) with.</p>सँगै ।"
+    },
+    "08126": {
+      "dId": "ᤛᤠᤣᤖᤡᤶᤒᤢᤱ",
+      "desc": "/सोरिम्बुङ्/",
+      "group": "CV",
+      "mean": "<p>sweet lemon (lemon). <i>Citrus limettioides.</i></p>चाक्सीको बोट ।"
+    },
+    "08127": {
+      "dId": "ᤛᤠᤣᤖᤧᤰ",
+      "desc": "/सोरेक्/",
+      "group": "CV",
+      "mean": "<p>joke; jest; fun.</p>ख्याल; ठट्टा; ख्यालठट्टा ।"
+    },
+    "08128": {
+      "dId": "ᤛᤠᤣᤗᤰ",
+      "desc": "/सोलक्/",
+      "group": "CV",
+      "mean": "<p>1. mana; a kind of measuring pot. 2. eight part of a pathi; half a seer.</p>१. माना; एक पाथीको आठौं भाग मात्र नाप्ने यन्त्र । २. तौल; एक पाथीको आठौं भाग ।"
+    },
+    "08129": {
+      "dId": "ᤛᤠᤣᤗᤠ",
+      "desc": "/सोला/",
+      "group": "CV",
+      "mean": "<p>funeral pyre.</p>चिता; लास जलाउन लगाइएको दाउराको थाक ।"
+    },
+    "08130": {
+      "dId": "ᤛᤠᤣᤗᤠᤰ",
+      "desc": "/सोलाक्/",
+      "group": "CV",
+      "mean": "<p>open palms joined or cupped together; palms made into cups.</p>अँजुली ।"
+    },
+    "08131": {
+      "dId": "ᤛᤠᤣᤸᤍ᤺ᤷ/ᤛᤠᤣᤸᤍᤖ᤻",
+      "desc": "/सोल्दःर्/",
+      "group": "CV",
+      "mean": "<p>broth prepared from whey; sour milk/curd.</p>कढी ।"
+    },
+    "08132": {
+      "dId": "ᤛᤠᤣᤛᤠᤶ",
+      "desc": "/सोसाम्/",
+      "group": "CV",
+      "mean": "<p>1. consciousness; presence of mind. 2. spirit, soul.</p>१. चेतना; चैतन्य । २. सातो; हंश । "
+    },
+    "08133": {
+      "dId": "ᤛᤠᤣᤜᤰ",
+      "desc": "/सोहक्/",
+      "group": "CV",
+      "mean": "<p>a kind of custard-apple. <i>Annona sp.</i></p>सीताफल; एक प्रकारको सरिफा ।"
+    },
+    "08134": {
+      "dId": "ᤛᤠᤣᤜᤡᤃᤠᤰ",
+      "desc": "/सोहिगाक्/",
+      "group": "CV",
+      "mean": "<p>chocolate; candy; sweets; toffee; lozmeane; bonbon; lollies.</p>चकलेट; टफी; लजेन्ज; मिठाई ।"
+    },
+    "08135": {
+      "dId": "ᤛᤠᤣ᤺ᤰ/ᤛᤠᤣᤁ᤻",
+      "desc": "/सोःक्/",
+      "group": "CV",
+      "mean": "<p>1. span of hand; span/distance between the point of the thumb and the forefinger. 2. case. 3. intention; desire; wish will; motive; target; aim.</p>१. बित्ता; कुरेत । २. कारक । ३. अभिप्राय; उद्देश्य; लक्ष्य; ताकेको कुरा ।"
+    },
+    "08136": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤆᤠ/ᤛᤠᤣᤁ᤻ᤆᤠ",
+      "desc": "/सोःक्चा/",
+      "group": "CV",
+      "mean": "<p>breakfast.</p>बिहानको खाजा ।"
+    },
+    "08137": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤆᤠᤣ/ᤛᤠᤣᤁ᤻ᤆᤣ",
+      "desc": "/सोःक्चो/",
+      "group": "CV",
+      "mean": "<p>index finger.</p>चोर औंलो ।"
+    },
+    "08138": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤐᤢ/ᤛᤠᤣᤁ᤻ᤐᤢ",
+      "desc": "/सोःक्पु/",
+      "group": "CV",
+      "mean": "<p>a kind of bird.</p>ककरी (चरो) ।"
+    },
+    "08139": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤐᤧᤴ/ᤛᤠᤣᤁ᤻ᤐᤧᤴ",
+      "desc": "/सोःक्पेन्/",
+      "group": "CV",
+      "mean": "<p>subject; agent.</p>कर्ता ।"
+    },
+    "08140": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤑᤢᤱ/ᤛᤠᤣᤁ᤻ᤑᤢᤱ",
+      "desc": "/सोःक्फुङ्/",
+      "group": "CV",
+      "mean": "<p>beginning of the trade; first sale of the day.</p>बोहनी; बोनी ।"
+    },
+    "08141": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤔᤠ/ᤛᤠᤣᤁ᤻ᤔᤠ",
+      "desc": "/सोःक्मा/",
+      "group": "CV",
+      "mean": "<p>1. to intend/desire. 2. to aim at. 3. to point out with the finger.</p>१. इच्छा/चाह गर्नु । २. ताक्नु; तारो ताक्नु । ३. औंल्याउनु; औलाले देखाउनु; इङ्गित/इशारा गर्नु ।"
+    },
+    "08142": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤔᤧᤸᤗᤢᤱ/ᤛᤠᤣᤁ᤻ᤔᤧᤸᤗᤢᤱ",
+      "desc": "/सोःक्मेल्लुङ्/",
+      "group": "CV",
+      "mean": "<p>bill; receipt (of purchase and sale).</p>बिल; खरिदबिक्रीको रसिद ।"
+    },
+    "08143": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤛᤡ᤺ᤰ/ᤛᤠᤣᤁ᤻ᤛᤡᤁ᤻",
+      "desc": "/सोःक्सिःक्/",
+      "group": "CV",
+      "mean": "<p>span of hand; span/distance between the point of the thumb and the forefinger.</p>बित्ता; कुरेत ।"
+    },
+    "08144": {
+      "dId": "ᤛᤠᤣ᤺ᤰᤛᤣᤁ᤻ᤐᤠ/ᤛᤠᤣᤁ᤻ᤛᤣᤁ᤻ᤐᤠ",
+      "desc": "/सोःक्सेःक्पा/",
+      "group": "CV",
+      "mean": "<p>1. recruit; newly recruited soldier. 2. candidate.</p>१. रङरुट; नयाँ छानिएको सिपाहीको उम्मेद्वार । २. उमेद्वार ।"
+    },
+    "08145": {
+      "dId": "ᤛᤠᤣ᤺ᤱᤍᤣᤴ/ᤛᤠᤣᤱᤍᤣᤏ᤻",
+      "desc": "/सोःङ्देन्/",
+      "group": "CV",
+      "mean": "<p>chaitya; stupa; hemispherical Buddhist shrine.</p>चैत्य; स्तुप ।"
+    },
+    "08146": {
+      "dId": "ᤛᤠᤣ᤺ᤳ/ᤛᤠᤣᤋ᤻",
+      "desc": "/सोःत्/",
+      "group": "CV",
+      "mean": "<p>fat; grease; tallow.</p>बोसो ।"
+    },
+    "08147": {
+      "dId": "ᤛᤠᤣ᤺ᤳᤋᤠᤰ/ᤛᤠᤣᤋ᤻ᤋᤠᤰ",
+      "desc": "/सोःत्ताक्/",
+      "group": "CV",
+      "mean": "<p>good omen/augury present of fruit and flower of drinks and eatables offered as a mark or sigh of good omen or good luck.</p>सगुन; माङ्गलिक कामनाका वस्तु; मङ्गलसुचक वस्तु (फूलपात तथा पेय पदार्थ) ।"
+    },
+    "08148": {
+      "dId": "ᤛᤠᤣ᤺ᤳᤗᤠᤱ/ᤛᤠᤣᤋ᤻ᤗᤠᤱ",
+      "desc": "/सोःत्लाङ्/",
+      "group": "CV",
+      "mean": "<p>sugarcane. <i>Saccharum officinarum.</i></p>उखु ।"
+    },
+    "08149": {
+      "dId": "ᤛᤠᤣ᤺ᤴ/ᤛᤠᤣᤏ᤻",
+      "desc": "/सोःन्/",
+      "group": "CV",
+      "mean": "<p>test; examination (exam); trial.</p>जाँच; परीक्षा ।"
+    },
+    "08150": {
+      "dId": "ᤛᤠᤣ᤺ᤵᤔᤢ/ᤛᤠᤣᤐ᤻ᤔᤢ",
+      "desc": "/सोःप्मु/",
+      "group": "CV",
+      "mean": "<p>itch(ing); mange; scabies.</p>लुतो; चिलाइ; चिलावट । "
+    },
+    "08151": {
+      "dId": "ᤛᤠᤣ᤺ᤔᤠ",
+      "desc": "/सोःमा/",
+      "group": "CV",
+      "mean": "<p>1. to wake up. 2. (of body) to itch; to have an irritating feeling/itching sensation in the skin. 3. to feel prurient/sexy; to have prurient/sexual feeling; (of male) to feel like fucking; (of a homosexual man sodomite/ketamite); (of female) to feel like being fucked. 4. to be fatty; to have a lot of fat.</p>१. बिउझनु । २. (जीउ) चिलाउनु; शरीरको कुनै अङ्ग वा पूरै शरीरमा कन्याउनु पर्ने अवस्था हुनु र ३. (यौनेन्द्रिय) चिलाउनु; कामेच्छा जागृत हुनु; वासना जाग्नु । ४. बोसिलो हुनु; धेरै बोसो हुनु । "
+    },
+    "08152": {
+      "dId": "ᤛᤠᤣ᤺ᤶ/ᤛᤠᤣ᤺ᤔ᤻",
+      "desc": "/सोःम्/",
+      "group": "CV",
+      "mean": "<p>1. lung. 2. respiration; breathing.</p>१. फोक्सो । २. श्वास-प्रश्वास ।"
+    },
+    "08153": {
+      "dId": "ᤛᤠᤣ᤺ᤶᤍᤠᤱᤒᤠ/ᤛᤠᤣ᤺ᤔ᤻ᤍᤠᤱᤒᤠ",
+      "desc": "/सोःम्दाङ्बा/",
+      "group": "CV",
+      "mean": "<p>controller of examinations; examiner; scrutator; one who scrutinizes/does the scrutiny.</p>परीक्षा नियन्त्रक; परीक्षक; सम्परीक्षक ।"
+    },
+    "08154": {
+      "dId": "ᤛᤠᤣ᤺ᤶᤔᤠ/ᤛᤠᤣ᤺ᤔ᤻ᤔᤠ",
+      "desc": "/सोःम्मा/",
+      "group": "CV",
+      "mean": "<p>1. (of milled rice, millet etc) to be husked/polished. 2. (of rice, millet etc) to husk again/polish (in mortar). 3. to knock/fell/topple. 4. to touch; to feel (in order to find sth out). 5. to grope; to search by touching; to explore by groping (as in the dark).</p>१. (धान, कोदो आदि) फलिनु । २. फल्नु; ओखल वा ढिकिमा कुट्नु; अन्नबाट भुस छुट्याउनु । ३. लडाउनु; ढाल्नु । ४. छाम्नु । ५. छामछाम छुमछुम गर्नु ।"
+    },
+    "08155": {
+      "dId": "ᤛᤠᤠᤣ᤺ᤖᤡᤒᤠ",
+      "desc": "/सोःरिबा/",
+      "group": "CV",
+      "mean": "<p>drooping; infirm.</p>(लत्रक्क) लत्रेको ।"
+    },
+    "08156": {
+      "dId": "ᤛᤠᤣ᤺ᤗᤧᤵ",
+      "desc": "/सोःलेप्/",
+      "group": "CV",
+      "mean": "<p>measurement of lmeanth (from elbow to finger tips/clenched hand); a cubit (18 inches).</p>एक हात । "
+    },
+    "08157": {
+      "dId": "ᤛᤠᤣ᤺ᤘᤠᤍᤠᤰ",
+      "desc": "/सोःवादाक्/",
+      "group": "CV",
+      "mean": "<p>sugar candy.</p>मिस्री ।"
+    },
+    "08158": {
+      "dId": "ᤛᤠᤣ᤺ᤜᤡᤰ",
+      "desc": "/सोःहिक्/",
+      "group": "CV",
+      "mean": "<p>sugar.</p>चिनी ।"
+    },
+    "08159": {
+      "dId": "ᤛᤧᤀᤠᤣᤋᤧ/ᤋᤩᤧ",
+      "desc": "/सेओते/त्ये/",
+      "group": "CV",
+      "mean": "<p>servant.</p>नोकर; चाकर ।"
+    },
+    "08160": {
+      "dId": "ᤛᤧᤀᤠᤣᤋᤧᤔᤠ/ᤋᤩᤧᤔᤠ",
+      "desc": "/सेओतेमा/त्येमा/",
+      "group": "CV",
+      "mean": "<p>maid; (female) servant.</p>नोकर्नी; चाकर्नी ।"
+    }
+  }
+}

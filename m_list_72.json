@@ -1,0 +1,940 @@
+{
+  "Dic": {
+    "07878": {
+      "dId": "ᤛᤢ",
+      "desc": "/सु/",
+      "group": "CT",
+      "mean": "<p>1. intensifier; prefix denoting 'nice, good', etc. 2. a kind of wild yam. <i>Dioscorea sp.</i></p>१. राम्रो, असल आदि अर्थमा गम्भिरता बुझाउने उपसर्ग । २. भ्यागुर ।"
+    },
+    "07879": {
+      "dId": "ᤛᤢ᤹ᤔᤠ",
+      "desc": "/सु?मा/",
+      "group": "CT",
+      "mean": "<p>churning stick.</p>मी पार्ने/मथ्ने काठ; मधानी ।"
+    },
+    "07880": {
+      "dId": "ᤛᤢᤰ",
+      "desc": "/सुक्/",
+      "group": "CT",
+      "mean": "<p>border; bank; verge; edge; side; shore.</p>किनार; तीर; छेउ ।"
+    },
+    "07881": {
+      "dId": "ᤛᤢᤰᤁᤢᤔᤠ",
+      "desc": "/सुक्कुमा/",
+      "group": "CT",
+      "mean": "<p>a variety of cobra found in hill.</p>साँभे साँप ।"
+    },
+    "07882": {
+      "dId": "ᤛᤢᤰᤁᤢᤶ",
+      "desc": "/सुक्कुम्/",
+      "group": "CT",
+      "mean": "<p>bud.</p>कोपिला ।"
+    },
+    "07883": {
+      "dId": "ᤛᤢᤰᤂᤡ ",
+      "desc": "/सुक्खि/",
+      "group": "CT",
+      "mean": "<p>dried fish.</p>सिद्रा (माछा) ।"
+    },
+    "07884": {
+      "dId": "ᤛᤢᤰᤋᤠᤵᤐᤠ",
+      "desc": "/सुक्ताप्पा/",
+      "group": "CT",
+      "mean": "<p>curly duck; a kind of plant which cures nettle stings. <i>Rumex nepalensis.</i></p>हलहले झार ।"
+    },
+    "07885": {
+      "dId": "ᤛᤢᤰᤏᤠᤶ",
+      "desc": "/सुक्नाम्/",
+      "group": "CT",
+      "mean": "<p>moss; mildew; a kind of fungus that affects in paper, cloth, leather etc when damp.</p>ढुसी; ढुँडी; लेउ ।"
+    },
+    "07886": {
+      "dId": "ᤛᤢᤰᤐᤠ᤺ ᤛᤡᤱ",
+      "desc": "/सुक्पाः सिङ्/",
+      "group": "CT",
+      "mean": "<p>a kind of pine/fir tree from which incense is made. <i>Juniperus sp.</i></p>धूपीको बोट ।"
+    },
+    "07887": {
+      "dId": "ᤛᤢᤰᤔᤠ",
+      "desc": "/सुक्मा/",
+      "group": "CT",
+      "mean": "<p>1. to lie in wait; to wait in ambush. 2. to be able/capable.</p>१. कुर्नु; ढुक्नु । २. सक्नु; समर्थ/सक्षम हुनु ।"
+    },
+    "07888": {
+      "dId": "ᤛᤢᤰᤔᤧ᤺ᤴᤇᤢᤰ/ᤛᤢᤰᤔᤧᤏ᤻ᤇᤢᤰ",
+      "desc": "/सुक्मेःन्छुक्/",
+      "group": "CT",
+      "mean": "<p>doing the utmost; with the greatest effort.</p>सकी नसकी ।"
+    },
+    "07889": {
+      "dId": "ᤛᤢᤰᤛᤢᤰ",
+      "desc": "/सुक्सुक्/",
+      "group": "CT",
+      "mean": "<p>as far as possible/one can.</p>सकेसम्म; सामार्थ्यले भ्याए सम्म; यथाशक्ति; यथासक्य; भरिसक्य ।"
+    },
+    "07890": {
+      "dId": "ᤛᤢᤰᤛᤢᤰᤐᤠ",
+      "desc": "/सुक्सुक्पा/",
+      "group": "CT",
+      "mean": "<p>as far as possible; as much as practicable; to one's utmost.</p>सकुन्जेल; सकेसम्म ।"
+    },
+    "07891": {
+      "dId": "ᤛᤢᤰᤘᤠ",
+      "desc": "/सुक्वा/",
+      "group": "CT",
+      "mean": "<p>one fourth; quarter; one fourth of a rupee.</p>सुका; रूपैयाँको चौथाइ भाग ।"
+    },
+    "07892": {
+      "dId": "ᤛᤢᤃᤠᤱ",
+      "desc": "/सुगाङ्/",
+      "group": "CT",
+      "mean": "<p>colic.</p>गानो; वायुको गोला; वायु-शुल ।"
+    },
+    "07893": {
+      "dId": "ᤛᤢᤃᤡᤰᤁᤡᤰᤐᤠ",
+      "desc": "/सुगिक्किक्पा/",
+      "group": "CT",
+      "mean": "<p>lean and thin; very feeble; skinny; skeletal.</p>ख्याउटे; ;सह्रै दुबुलो; नसे; सनासे; मरन्च्याँसे ।"
+    },
+    "07894": {
+      "dId": "ᤛᤢᤃᤡᤵᤔᤠ",
+      "desc": "/सुगिप्मा/",
+      "group": "CT",
+      "mean": "<p>to shrink; to feel uneasiness/hesitation/reluctance due to abhorrence/hatred/dislike.</p>सिक्सिको लाग्नु ।"
+    },
+    "07895": {
+      "dId": "ᤛᤢᤃᤪᤡᤰ",
+      "desc": "/सुग्रिक्/",
+      "group": "CT",
+      "mean": "<p>altogether, quiet; completely.</p>भुसुक्कै, भुसुक्क (निदाउने/बिर्सने चालाले) ।"
+    },
+    "07896": {
+      "dId": "ᤛᤢᤃᤢᤳ",
+      "desc": "/सुगुत्/",
+      "group": "CT",
+      "mean": "<p>evil spirit of a woman who died during delivery.</p>प्रसवकालमा मरेकी आइमाईको प्रेतात्मा ।"
+    },
+    "07897": {
+      "dId": "ᤛᤢᤃᤢᤳ ᤛᤡᤱ",
+      "desc": "/सुगुत् सिङ्/",
+      "group": "CT",
+      "mean": "<p>a kind of wood; it's tree.</p>बाहुनी काठ; त्यसको रूख ।"
+    },
+    "07898": {
+      "dId": "ᤛᤢᤄᤡᤰᤘᤠ",
+      "desc": "/सुघिक्वा/",
+      "group": "CT",
+      "mean": "<p>touch-me-not; a kind of sensitive plant. <i>Mimosa pudica.</i></p>बुहारी/लज्जावती/लज्जालु झार ।"
+    },
+    "07899": {
+      "dId": "ᤛᤢᤄᤣ",
+      "desc": "/सुघे/",
+      "group": "CT",
+      "mean": "<p>cushcush; a kind of wild creeper with a round edible and bristling root. <i>Dioscorea deltoidea.</i></p>भ्यागुर, भुत्ले भ्यागुर ।"
+    },
+    "07900": {
+      "dId": "ᤛᤢᤱ",
+      "desc": "/सुङ्/",
+      "group": "CT",
+      "mean": "<p>1. collection; anthology. 2. present; gift. 3. cough. 4. mown/mowed grass that is cut off the ground (lawn, pasture). 5. grass; weeds; litter; bedding of grass for animals.</p>१. सङ्ग्रह; सङ्कलन । २. सौगात । ३. खोकी । ४. काटिएका भुइँ-घाँस; भुइँको काटिएको घाँस; भुइँबाट काटेको घाँस (डाले घाँस होइन) । ५. झारपात; सोतर ।"
+    },
+    "07901": {
+      "dId": "ᤛᤢᤱᤃᤠ᤺ᤱᤃᤩᤠ/ᤛᤢᤱᤃᤠᤅ᤻ᤃᤩᤠ",
+      "desc": "/सुङ्गाःङ्ग्या/",
+      "group": "CT",
+      "mean": "<p>red caterpillar.</p>रातो झुसिल्कीरो ।"
+    },
+    "07902": {
+      "dId": "ᤛᤢᤱᤃᤢ᤺ᤱ-ᤛᤢᤱᤃᤢ᤺ᤱ/ᤛᤢᤱᤃᤢᤅ᤻-ᤛᤢᤱᤃᤢᤅ᤻",
+      "desc": "/सुङ्गुःङ्-सुङ्गुःङ्/",
+      "group": "CT",
+      "mean": "<p>(of smoke) in the manner of emitting/coming off smoke little by little/slowly.</p>फुसफुस धूँवा आउने चालाले ।"
+    },
+    "07903": {
+      "dId": "ᤛᤢᤱᤄᤡᤰᤐᤠ",
+      "desc": "/सुङ्घिक्पा/",
+      "group": "CT",
+      "mean": "<p>lean and thin; emaciated; very feeble.</p>लुते; दुब्लो; कमजोर; मरन्च्याँसे ।"
+    },
+    "07904": {
+      "dId": "ᤛᤢᤱᤄᤡᤱ",
+      "desc": "/सु्ङ्घिङ्/",
+      "group": "CT",
+      "mean": "<p>chiraeto; a medicinal plant, a species of gentian. <i>Swertia angustifolia.</i></p>चिराइतो; चिरेटो; भुनिम्ब ।"
+    },
+    "07905": {
+      "dId": "ᤛᤢᤱᤄᤣᤒᤠ",
+      "desc": "/सुङ्घेबा/",
+      "group": "CT",
+      "mean": "<p>coat; jacket.</p>कोट; ज्याकेट ।"
+    },
+    "07906": {
+      "dId": "ᤛᤢᤱᤓᤧᤳᤗᤠ",
+      "desc": "/सुङ्भेत्ला/",
+      "group": "CT",
+      "mean": "<p>grass; weed(s).</p>घाँसपात (झार) ।"
+    },
+    "07907": {
+      "dId": "ᤛᤢᤱᤔᤠ",
+      "desc": "/सुङ्मा/",
+      "group": "CT",
+      "mean": "<p>1. to cough. 2. to wrap (into a packet/parcel); to bundle; to pack sth up; to make a packet/parcel/bundle.</p>१. खोक्नु । २. पोको पार्नु ।"
+    },
+    "07908": {
+      "dId": "ᤛᤢᤱᤕᤠ᤺ᤴ/ᤛᤢᤱᤕᤠᤏ᤻",
+      "desc": "/सुङ्याःन्/",
+      "group": "CT",
+      "mean": "<p>grass; weed(s).</p>घाँसपात (झार) ।"
+    },
+    "07909": {
+      "dId": "ᤛᤢᤱᤛᤠ",
+      "desc": "/सुङ्सा/",
+      "group": "CT",
+      "mean": "<p>lesser panda, a kind of black/wild cat which feeds on cardamom.</p>काला; अलैंची खाने एक प्रकारको जङ्गली बिरालो ।"
+    },
+    "07910": {
+      "dId": "ᤛᤢᤱᤛᤡᤱᤔᤠ",
+      "desc": "/सुङ्सिङ्मा/",
+      "group": "CT",
+      "mean": "<p>1. to huddle/be bundled (with in clothes). 2. to be warmly wrapped up.</p>१. (लुगाभित्र) गुटुमुटु हुनु । २. न्यानो गरी पोको पर्नु ।"
+    },
+    "07911": {
+      "dId": "ᤛᤢᤈᤠ",
+      "desc": "/सुजा/",
+      "group": "CT",
+      "mean": "<p>opinion; advice.</p>राय; सल्लाह ।"
+    },
+    "07912": {
+      "dId": "ᤛᤢᤈᤡ ",
+      "desc": "/सुजि/",
+      "group": "CT",
+      "mean": "<p>dry/dried fish.</p>सुकुटी/सुकेको माछा ।"
+    },
+    "07913": {
+      "dId": "ᤛᤢᤳᤋᤠᤖᤡ ",
+      "desc": "/सुत्तारि/",
+      "group": "CT",
+      "mean": "<p>gridiron; skewer; awl; (as a long) needle; piercer; stiletto; goad; prong; good spit used by shoemakers/cobblers.</p>सुइरो; सार्किले जुत्ता सिउने सियो ।"
+    },
+    "07914": {
+      "dId": "ᤛᤢᤳᤋᤣᤀᤡ ",
+      "desc": "/सुत्तेइ/",
+      "group": "CT",
+      "mean": "<p>a kind of silver necklace; tight silver pendant.</p>हँलुसी; चाँदिको एक प्रकारको कण्ठमाला ।"
+    },
+    "07915": {
+      "dId": "ᤛᤢᤳᤋᤠᤣ",
+      "desc": "/सुत्तो/",
+      "group": "CT",
+      "mean": "<p>fortune; fate; luck; destiny.</p>भाग्य ।"
+    },
+    "07916": {
+      "dId": "ᤛᤢᤳᤏᤠ",
+      "desc": "/सुत्ना/",
+      "group": "CT",
+      "mean": "<p>nature; temperament; conduct; habit; disposition.</p>चालचलन; आनीबानी ।"
+    },
+    "07917": {
+      "dId": "ᤛᤢᤳᤗᤠ",
+      "desc": "/सुत्ला/",
+      "group": "CT",
+      "mean": "<p>word.</p>शब्द ।"
+    },
+    "07918": {
+      "dId": "ᤛᤢᤳᤗᤡ ",
+      "desc": "/सुत्लि/",
+      "group": "CT",
+      "mean": "<p>string; rope; lanyard.</p>सुत्ली; (जुटको) डोरी ।"
+    },
+    "07919": {
+      "dId": "ᤛᤢᤳᤗᤢᤱ/ᤛᤢ᤹ᤗᤢᤱ",
+      "desc": "/सुत्लुङ्/सु?लुङ्/",
+      "group": "CT",
+      "mean": "<p>tombstone; tall and pointed stone erected upon the graves.</p>चिहानामाथि गाडिने अग्लो र लाम्चो ढुङ्गा ।"
+    },
+    "07920": {
+      "dId": "ᤛᤢᤍᤡᤱ",
+      "desc": "/सुदिङ्/",
+      "group": "CT",
+      "mean": "<p>bronze.</p>काँस ।"
+    },
+    "07921": {
+      "dId": "ᤛᤢᤍᤢᤰᤔᤠ",
+      "desc": "/सुदुक्मा/",
+      "group": "CT",
+      "mean": "<p>communicable/contagious/infectious/infective disease.</p>सरुवा/संक्रामक रोग; छूतको बिमारी ।"
+    },
+    "07922": {
+      "dId": "ᤛᤢᤎᤠ᤺ᤶ/ᤛᤢᤎᤠᤔ᤻",
+      "desc": "/सुधाःम्/",
+      "group": "CT",
+      "mean": "<p>total ruin/destruction/devastation/annihilation.</p>समाप्त भएको/(टाकटुक) सकिएको अवस्था ।"
+    },
+    "07923": {
+      "dId": "ᤛᤢᤎᤧᤒᤠ",
+      "desc": "/सुधेबा/",
+      "group": "CT",
+      "mean": "<p>grandfather's father; great grandfather.</p>बाजेको बाबु; बराजु(ज्यू) ।"
+    },
+    "07924": {
+      "dId": "ᤛᤢᤏᤠ",
+      "desc": "/सुना/",
+      "group": "CT",
+      "mean": "<p>prefix denoting 'fine; nice; beautiful; good; virtuous'.</p>'राम्रो; असल' जनाउने उपसर्ग ।"
+    },
+    "07925": {
+      "dId": "ᤛᤢᤏᤠᤀᤡᤱᤏᤠ",
+      "desc": "/सुनाइङ्ना/",
+      "group": "CT",
+      "mean": "<p>congratulation; felicitation.</p>बधाई ।"
+    },
+    "07926": {
+      "dId": "ᤛᤢᤏᤠᤀᤠᤣ᤺ᤴᤎᤠᤰ/ᤛᤢᤏᤠᤀᤠᤣᤏ᤻ᤎᤠᤰ",
+      "desc": "/सुनाओःन्धाक्/",
+      "group": "CT",
+      "mean": "<p>show; exhibition; demonstration.</p>प्रदर्शनी ।"
+    },
+    "07927": {
+      "dId": "ᤛᤢᤏᤠᤶ",
+      "desc": "/सुनाम्/",
+      "group": "CT",
+      "mean": "<p>Aquarius; sign of zodiac.</p>कुम्भ (राशि) ।"
+    },
+    "07928": {
+      "dId": "ᤛᤢᤏᤠᤜᤴ",
+      "desc": "/सुनाहन्/",
+      "group": "CT",
+      "mean": "<p>(of ceremony) inauguration/opening.</p>(समारोह) उद्घाटन ।"
+    },
+    "07929": {
+      "dId": "ᤛᤢᤵᤔᤠ",
+      "desc": "/सुप्मा/",
+      "group": "CT",
+      "mean": "<p>1. to clean the straw/pipe by inserting it in the Tongba (full of millet-beer with water) and pressing it with thumb on its top so that it sucks some water, which is then thrown away by turning the pipe upside down thus drink the Tongba (beer); to insert the straw/pipe into a fresh pot of beer or Tongba and drink. 2. to be shut/closed.</p>१. पिःत्छिङ्लाई जाँडले र पानीले भरिएको तोङ्बाभित्र फेदसम्म चोबली पिःत्छिङ्को मुखमा बुढी औंलाले थुनी पानी तानेर उल्टा पारी पखाल्नु र पिउनु । २. थुनिनु; बन्द हुनु ।"
+    },
+    "07930": {
+      "dId": "ᤛᤢᤵᤗᤧᤰ",
+      "desc": "/सुप्लेक्/",
+      "group": "CT",
+      "mean": "<p>with a sudden glance; with a peculiar stare; askance.</p>पुलुक्क/पिर्लिक्क/पिलिक्क (हेर्ने किसिमले) ।"
+    },
+    "07931": {
+      "dId": "ᤛᤢᤑᤠᤣ",
+      "desc": "/सुफो/",
+      "group": "CT",
+      "mean": "<p>sight; vision; point of judgement/discretion.</p>दृष्टि; ठम्याउने/दृष्टि क्षमता ।"
+    },
+    "07932": {
+      "dId": "ᤛᤢᤒᤠ",
+      "desc": "/सुबा/",
+      "group": "CT",
+      "mean": "<p>rat.</p>मूसो ।"
+    },
+    "07933": {
+      "dId": "ᤛᤢᤒᤠᤜᤠᤣ᤹",
+      "desc": "/सुबाहो?/",
+      "group": "CT",
+      "mean": "<p>boil without its eye.</p>मुख नदेखिने पिलो ।"
+    },
+    "07934": {
+      "dId": "ᤛᤢᤒᤡ ",
+      "desc": "/सुबि/",
+      "group": "CT",
+      "mean": "<p>interjection denoting 'disgust, irritation, hatred etc' and satiation such as 'be it so, let it be, no matter, (it) does not matter, damn it etc'.</p>'विरक्ति, झिज्याहट, घृणा', आदि दिक्दारीको तथा पुगेको भन्ने भाव जनाउने शब्द; जस्तै- 'होस; भो; भइहाल्यो आदि' । "
+    },
+    "07935": {
+      "dId": "ᤛᤢᤒᤢᤒᤢ",
+      "desc": "/सुबुबु/",
+      "group": "CT",
+      "mean": "<p>in a rumbling/rushing manner; hastily.</p>गुडुडु/गुरुरु (कुद्ने किसिमले) ।"
+    },
+    "07936": {
+      "dId": "ᤛᤢᤷᤒᤣ᤺ᤵᤐᤣᤵᤐᤠ/ᤛᤢᤷᤒᤣᤐ᤻ᤐᤣᤐ᤻ᤐᤠ",
+      "desc": "/सुर्बेःप्पेःप्पा/",
+      "group": "CT",
+      "mean": "<p>flat-nosed.</p>नेप्टे ।"
+    },
+    "07937": {
+      "dId": "ᤛᤢᤓᤠ",
+      "desc": "/सुभा/",
+      "group": "CT",
+      "mean": "<p>1. under the Kipat system an elderly Limbu who has received the title of 'Talukdaar/Subba' through royal seal/rescript and legal declarations (Sawal-Sanad), and empowered as a local magistrate called Amali. 2. ethnic term for the Limbu tribe, eg 'Subba'; non-Limbu address/term for a Limbu.</p>१. किपट व्यवस्थामा लालमोहर वा सवाल सनदद्वारा सुब्बाङ्गी पाएको तथा तोकिएको हदसम्म मुद्दा छिन्ने तथा ठिङ्ग्रो मुङ्ग्रोको अधिकार भएको वा अमाल गर्न सक्ने अमाली; लिम्बू जेठोबाठो तालुकदार/सुब्बा । २. लिम्बू जातिलाई बुझाउने शब्द; अन्य जातिले लिम्बू जातिलाई सम्बोधन गर्ने शब्द ।"
+    },
+    "07938": {
+      "dId": "ᤛᤢᤔᤠ᤹",
+      "desc": "/सुमा?/",
+      "group": "CT",
+      "mean": "<p>1. aunt; wife of father's younger brother. 2. aunt; mother's sister.</p>१. काकी । २. आमाकी बहिनी; छ्यामा; सानी आमा ।"
+    },
+    "07939": {
+      "dId": "ᤛᤢᤔᤠ",
+      "desc": "/सुमा/",
+      "group": "CT",
+      "mean": "<p>1. a kind of weed. Polugonum runcinatum. 2. surname; family name; lineage. 3. caste; community; cult; ethnic group.</p>१. रत्नौलो झार । २. थर; पारिवारिक नाम/समुह/वर्ग । ३. जात; समुदाय ।"
+    },
+    "07940": {
+      "dId": "ᤛᤢᤔᤠᤈᤡᤒᤠ",
+      "desc": "/सुमाजिबा/",
+      "group": "CT",
+      "mean": "<p>social.</p>सामाजिक; सामुदायिक ।"
+    },
+    "07941": {
+      "dId": "ᤛᤢᤔᤠᤱᤘᤧᤳ",
+      "desc": "/सुमाङ्वेत्/",
+      "group": "CT",
+      "mean": "<p>1. raw; unripe; green. 2. a kind of root which is eaten raw.</p>१. काँचो; कचिलो । २. (काँचै) खाइने कन्दमुल ।"
+    },
+    "07942": {
+      "dId": "ᤛᤢᤔᤠᤣᤄᤣ",
+      "desc": "/सुमोघे/",
+      "group": "CT",
+      "mean": "<p>a kind of grass.</p>भर्लाङ् (झार) ।"
+    },
+    "07943": {
+      "dId": "ᤛᤢᤔᤧᤳᤗᤠ",
+      "desc": "/सुमेत्ला/",
+      "group": "CT",
+      "mean": "<p>chayote, christophine. <i>Sechium edule.</i></p>इस्कुस ।"
+    },
+    "07944": {
+      "dId": "ᤛᤢᤔᤧᤴᤇᤠ᤹",
+      "desc": "/सुमेन्छा?/",
+      "group": "CT",
+      "mean": "<p>great grandson and great granddaughter.</p>पनाति पनातिनी ।"
+    },
+    "07945": {
+      "dId": "ᤛᤢᤶ",
+      "desc": "/सुम्/",
+      "group": "CT",
+      "mean": "<p>1. three; the number and the figure 3 . 2. conduct/manner/character. 3. essence; core. 4. substance; meaning. 5. essay.</p>१. तीन; तीनको सङ्ख्या; ३ को अङ्क । २. स्वभाव; चालढाल; ढङ्ग; रङ्गढङ्ग; पारा । ३. सार । ४. अर्थ । ५. निबन्ध ।"
+    },
+    "07946": {
+      "dId": "ᤛᤢᤶᤄᤡᤒᤠ",
+      "desc": "/सुम्घिबा/",
+      "group": "CT",
+      "mean": "<p>Limbu word denoting the Kshatriya caste (second in Hindu varna system).</p>क्षेत्री; क्षेत्री जात जनाउने लिम्बू  शब्द ।"
+    },
+    "07947": {
+      "dId": "ᤛᤢᤶᤄᤣᤛᤣ",
+      "desc": "/सुम्घेसे/",
+      "group": "CT",
+      "mean": "<p>name of three particular stars that always appear in a straight line.</p>तीन आँख्ले तारा; तीनतारे (तारा) ।"
+    },
+    "07948": {
+      "dId": "ᤛᤢᤶᤈᤰᤘᤠ",
+      "desc": "/सुम्जक्वा/",
+      "group": "CT",
+      "mean": "<p>particular kind of strong wine/alcohol/liquor.</p>कडा रक्सी; तीनपाने रक्सी ।"
+    },
+    "07949": {
+      "dId": "ᤛᤢᤶᤈᤡᤰᤐᤠ",
+      "desc": "/सुम्जिक्पा/",
+      "group": "CT",
+      "mean": "<p>communism.</p>साम्यवाद ।"
+    },
+    "07950": {
+      "dId": "ᤛᤢᤶᤈᤡᤖᤡ ᤑᤢᤱ",
+      "desc": "/सुम्जिरि फुङ्/",
+      "group": "CT",
+      "mean": "<p>lotus flower. <i>Nelumbo nucifera.</i></p>कमलको फूल ।"
+    },
+    "07951": {
+      "dId": "ᤛᤢᤶᤈᤢᤗᤡ ",
+      "desc": "/सुम्जुलि/",
+      "group": "CT",
+      "mean": "<p>trident; three-pronged weapon carried by Lord Shiva.</p>त्रिशुल; तिनओटा तीखा चुच्चा भएको अस्त्र; भगवाना शिवको हतियार ।"
+    },
+    "07952": {
+      "dId": "ᤛᤢᤶᤍᤠᤱ",
+      "desc": "/सुम्दाङ्/",
+      "group": "CT",
+      "mean": "<p>mortar (for milling/pounding in).</p>ओखल; ओख्ली ।"
+    },
+    "07953": {
+      "dId": "ᤛᤢᤶᤍᤡᤰᤘᤠ",
+      "desc": "/सुम्दिक्वा/",
+      "group": "CT",
+      "mean": "<p>a kind of bird.</p>संसारी चरो ।"
+    },
+    "07954": {
+      "dId": "ᤛᤢᤴᤏᤧᤰᤂᤡ ",
+      "desc": "/सुम्नेक्खि/",
+      "group": "CT",
+      "mean": "<p>cabbage. <i>Brassica oleracca var. capitata.</i></p>बन्दा (काउली); बन्दाकोपी ।"
+    },
+    "07955": {
+      "dId": "ᤛᤢᤶᤒᤠ",
+      "desc": "/सुम्बा/",
+      "group": "CT",
+      "mean": "<p>trousers.</p>सुरुवाल ।"
+    },
+    "07956": {
+      "dId": "ᤛᤢᤶᤒᤠᤰ",
+      "desc": "/सुम्बाक्/",
+      "group": "CT",
+      "mean": "<p>soup; curry.</p>तिहुन ।"
+    },
+    "07957": {
+      "dId": "ᤛᤢᤶᤒᤢᤶᤒᤠ",
+      "desc": "/सुम्बुम्बा/",
+      "group": "CT",
+      "mean": "<p>guava. <i.Psidium guajava.</i></p>अम्बक; अम्बा; बेलौती ।"
+    },
+    "07958": {
+      "dId": "ᤛᤢᤶᤒᤣ",
+      "desc": "/सुम्बे/",
+      "group": "CT",
+      "mean": "<p>third case-ending.</p>तृतीया विभक्ति ।"
+    },
+    "07959": {
+      "dId": "ᤛᤢᤶᤒᤠᤣ",
+      "desc": "/सुम्बो/",
+      "group": "CT",
+      "mean": "<p>virtue; talent; merit; quality; attribute.</p>गुण ।"
+    },
+    "07960": {
+      "dId": "ᤛᤢᤶᤒᤠᤣᤒᤠ",
+      "desc": "/सुम्बोबा/",
+      "group": "CT",
+      "mean": "<p>virtuous; meritorious; full of virtue and merit.</p>गुणी; गण/शुभलक्षणयुक्त ।"
+    },
+    "07961": {
+      "dId": "ᤛᤢᤶᤒᤠᤣᤎᤠ",
+      "desc": "/सुम्बोधा/",
+      "group": "CT",
+      "mean": "<p>1. ability; capability; capacity; qualification; worth(iness).</p>योग्यता; गुण ।"
+    },
+    "07962": {
+      "dId": "ᤛᤢᤶᤒᤠᤣ᤺ᤴ/ᤛᤢᤶᤒᤠᤣᤏ᤻",
+      "desc": "/सुम्बोःन्/",
+      "group": "CT",
+      "mean": "<p>good/ominous/auspicious sign.</p>लक्षण; शुभलक्षणको चिन्ह/सङ्केत ।"
+    },
+    "07963": {
+      "dId": "ᤛᤢᤶᤒᤪᤠᤣ᤺ᤵᤐᤠ/ᤛᤢᤶᤒᤪᤠᤣᤐ᤻ᤐᤠ",
+      "desc": "/सुम्ब्रोःप्पा/",
+      "group": "CT",
+      "mean": "<p>navel.</p>नाइटो; नाभी ।"
+    },
+    "07964": {
+      "dId": "ᤛᤢᤶᤓᤢᤱ",
+      "desc": "/सुम्भुङ्/",
+      "group": "CT",
+      "mean": "<p>religious offering; tribute; present; gift.</p>कोसेली; उपहार; भेटी ।"
+    },
+    "07965": {
+      "dId": "ᤛᤢᤶᤔᤠ",
+      "desc": "/सुम्मा/",
+      "group": "CT",
+      "mean": "<p>to gather/assemble/collect/accumulate/hoard.</p>जम्मा गर्नु/पार्नु; भेला/सङ्ग्रह गर्नु ।"
+    },
+    "07966": {
+      "dId": "ᤛᤢᤶᤔᤡ ",
+      "desc": "/सुम्मि/",
+      "group": "CT",
+      "mean": "<p>Andromeda; one of the constellations.</p>स्वाति (नक्षत्र) ।"
+    },
+    "07967": {
+      "dId": "ᤛᤢᤶᤔᤡᤱ",
+      "desc": "/सुम्मिङ्/",
+      "group": "CT",
+      "mean": "<p>collective noun.</p>समुहवाचक सङ्ज्ञा ।"
+    },
+    "07968": {
+      "dId": "ᤛᤢᤶᤔᤡᤒᤠ",
+      "desc": "/सुम्मिबा/",
+      "group": "CT",
+      "mean": "<p>chief; main; leading; salient.</p>वरिष्ठ; मुख्य; प्रमुख ।"
+    },
+    "07969": {
+      "dId": "ᤛᤢᤶᤔᤡᤜᤠᤱ",
+      "desc": "/सुम्मिहाङ्/",
+      "group": "CT",
+      "mean": "<p>[Sikkim] chief minister (of India).</p>[सिक्किम] मुख्य मन्त्री ।"
+    },
+    "07970": {
+      "dId": "ᤛᤢᤶᤗᤠ",
+      "desc": "/सुम्ला/",
+      "group": "CT",
+      "mean": "<p>situation; condition.</p>स्थिति ।"
+    },
+    "07971": {
+      "dId": "ᤛᤢᤶᤗᤡᤄᤠᤣ᤹",
+      "desc": "/सुम्लिघो?/",
+      "group": "CT",
+      "mean": "<p>a kind of leguminous tree with pinnate leaves. <i>Acacia Sirissa.</i></p>शिरीष ।"
+    },
+    "07972": {
+      "dId": "ᤛᤢᤶᤗᤡᤶ",
+      "desc": "/सुम्लिङ्/",
+      "group": "CT",
+      "mean": "<p>[Phedape] three years before/back/ago; two years before the last.</p>[फेदापे] पोहोरको अघिल्लो वर्ष; पोहोर भन्दा एक वर्ष अघि; तीन वर्ष अघि ।"
+    },
+    "07973": {
+      "dId": "ᤛᤢᤶᤗᤠᤣ",
+      "desc": "/सुम्लो/",
+      "group": "CT",
+      "mean": "<p>wale; weal; a swelling in the flesh produced by flogging.</p>सुम्ला; सुन्निएर उठेको मांशपेशीको कुनै भाग ।"
+    },
+    "07974": {
+      "dId": "ᤛᤢᤶᤘᤠᤍᤠᤣ",
+      "desc": "/सुम्वादो/",
+      "group": "CT",
+      "mean": "<p>1. confluence of three rivers. 2. the confluence of Koka, Tamor and Arun in the Koshi region of eastern Nepal.</p>१. त्रिवेणी । २. पूर्वी नेपालको कोशीक्षेत्रमा अरुण, तमर तथा कका नदिको सङ्गमस्थल ।"
+    },
+    "07975": {
+      "dId": "ᤛᤢᤶᤛᤡ ",
+      "desc": "/सुम्सि/",
+      "group": "CT",
+      "mean": "<p>three (things).</p>तीनओटा/वटा ।"
+    },
+    "07976": {
+      "dId": "ᤛᤢᤶᤛᤡᤱᤔᤠ",
+      "desc": "/सुम्सिङ्मा/",
+      "group": "CT",
+      "mean": "<p>to gather together; to assemble.</p>आपसमा भेलाहुनु; जम्मा हुनु ।"
+    },
+    "07977": {
+      "dId": "ᤛᤢᤶᤛᤢᤶ",
+      "desc": "/सुम्सुम्/",
+      "group": "CT",
+      "mean": "<p>in a proper manner; modestly; politely.</p>शीलयुक्त ढङ्गले; विनम्रतापूर्वक ।"
+    },
+    "07978": {
+      "dId": "ᤛᤢᤶᤛᤢᤶᤒᤠ/ᤔᤠ",
+      "desc": "/सुम्सुम्बा/मा/",
+      "group": "CT",
+      "mean": "<p>honest; modest; gentle-tempered; grave.</p>गम्भीर; भद्र ।"
+    },
+    "07979": {
+      "dId": "ᤛᤢᤶᤛᤢ᤺ᤰᤐᤠ/ᤛᤢᤶᤛᤢᤁ᤻ᤐᤠ",
+      "desc": "/सुम्सुःक्पा/",
+      "group": "CT",
+      "mean": "<p>triangular; triangle.</p>तीनकुने; त्रिभुज ।"
+    },
+    "07980": {
+      "dId": "ᤛᤢᤶᤜᤠ᤹ᤗᤢᤱᤔᤠ",
+      "desc": "/सुम्हा?लुङ्मा/",
+      "group": "CT",
+      "mean": "<p>three-knobbed cooking place; fireside stone; oven; hearth.</p>(तिन चम्के) चुल्हो ।"
+    },
+    "07981": {
+      "dId": "ᤛᤢᤕᤠᤶᤒᤠᤣ",
+      "desc": "/सुयाम्बो/",
+      "group": "CT",
+      "mean": "<p>happiness; gladness; pleasantness; merriment; delight; gaiety.</p>खुशी; आनन्द; हर्ष ।"
+    },
+    "07982": {
+      "dId": "ᤛᤢᤕᤠᤶᤒᤠᤣᤒᤠ",
+      "desc": "/सुयाम्बोबा/",
+      "group": "CT",
+      "mean": "<p>well happy; glad; pleasant; merry; delightful; gay.</p>सुखी; आनन्दपूर्ण; हर्षपूर्ण ।"
+    },
+    "07983": {
+      "dId": "ᤛᤢᤕᤠ᤺ᤴ/ᤛᤢᤕᤠᤏ᤻",
+      "desc": "/सुयाःन्/",
+      "group": "CT",
+      "mean": "<p>a kind of weed used as a remedy for eyesore/strain.</p>आँखा दुखेको रोगको औषधीको रूपमा प्रयोग गरिने एक प्रकारको झार ।"
+    },
+    "07984": {
+      "dId": "ᤛᤢᤕᤢᤔᤠ",
+      "desc": "/सुयुमा/",
+      "group": "CT",
+      "mean": "<p>great grandmother; mother of grandmother or grandfather.</p>बाजे वा वज्यैकी आमा ।"
+    },
+    "07985": {
+      "dId": "ᤛᤢᤕᤧᤴ",
+      "desc": "/सुयेन्/",
+      "group": "CT",
+      "mean": "<p>good day.</p>राम्रो दिन; सुदिन ।"
+    },
+    "07986": {
+      "dId": "ᤛᤢᤕᤧᤶ",
+      "desc": "/सुयेम्/",
+      "group": "CT",
+      "mean": "<p>chance; opportunity; occasion.</p>अवसर; मौका; उपलक्ष ।"
+    },
+    "07987": {
+      "dId": "ᤛᤢᤕᤧᤶᤑᤣ᤹ᤒᤠ",
+      "desc": "/सुयेम्फे?बा/",
+      "group": "CT",
+      "mean": "<p>opportunist.</p>अवसरवादी ।"
+    },
+    "07988": {
+      "dId": "ᤛᤢᤖᤠ",
+      "desc": "/सुरा/",
+      "group": "CT",
+      "mean": "<p>chhurpi; frozen (and hard-to-crack) milk-cream.</p>छुर्पी ।"
+    },
+    "07989": {
+      "dId": "ᤛᤢᤖᤠᤰ",
+      "desc": "/सुराक्/",
+      "group": "CT",
+      "mean": "<p>way.</p>सुराक; गोहो ।"
+    },
+    "07990": {
+      "dId": "ᤛᤢᤖᤡᤳ",
+      "desc": "/सुरित्/",
+      "group": "CT",
+      "mean": "<p>air; breeze.</p>(मन्दमन्द बग्ने) हावा; बतास ।"
+    },
+    "07991": {
+      "dId": "ᤛᤢᤖᤡᤳᤌᤠ᤺ᤶᤒᤠ/ᤛᤢᤖᤡᤳᤌᤠᤔ᤻ᤒᤠ",
+      "desc": "/सुरित्थाःम्बा/",
+      "group": "CT",
+      "mean": "<p>1. airy/draughty place. 2. small opening for air; ventilator.</p>१. हावा लाग्ने ठाँउ; बतास लाग्ने ठाउँ । २. हावादारी; हावा छिर्ने/हावाको लागि राखिएको प्वाल; भ्याण्टिलेशन झ्याल ।"
+    },
+    "07992": {
+      "dId": "ᤛᤢᤖᤢ᤹ᤒᤠ",
+      "desc": "/सुरु?बा/",
+      "group": "CT",
+      "mean": "<p>ordinary; simple; easy9going); relaxed.</p>साधारण; सादा; सजिलो; सहज ।"
+    },
+    "07993": {
+      "dId": "ᤛᤢᤖᤢᤳ",
+      "desc": "/सुरुत्/",
+      "group": "CT",
+      "mean": "<p>doing/taking things secretly/stealthily.</p>खुस्रुक्क; खुसुक्क ।"
+    },
+    "07994": {
+      "dId": "ᤛᤢᤖᤢᤵ",
+      "desc": "/सुरुप्/",
+      "group": "CT",
+      "mean": "<p>manner of putting sth right in place.</p>ठ्याक्क (ठाउँमा) राख्ने चालाले ।"
+    },
+    "07995": {
+      "dId": "ᤛᤢᤖᤢᤖᤢᤒᤠ",
+      "desc": "/सुरुरुबा/",
+      "group": "CT",
+      "mean": "<p>down cast; having sullen look.</p>घोसे ।"
+    },
+    "07996": {
+      "dId": "ᤛᤢᤷᤃᤡ᤺ᤰ/ᤛᤢᤷᤃᤡᤁ᤻",
+      "desc": "/सुर्गिःक्/",
+      "group": "CT",
+      "mean": "<p>suddenly; easily; without difficulty; unnoticed (entering, slipping in/out/away, die etc).</p>सुत्त; सुटुक्क; चालै नपाइने गरि (पस्नु, निस्कनु, खुस्कनु, आदि) ।"
+    },
+    "07997": {
+      "dId": "ᤛᤢᤷᤑᤡᤱᤒᤠ",
+      "desc": "/सुर्फिङ्बा/",
+      "group": "CT",
+      "mean": "<p>bruise; small blue/black spot(s) on one's body due to beating.</p>निलडाम ।"
+    },
+    "07998": {
+      "dId": "ᤛᤢᤗᤠ᤹ᤒᤠ",
+      "desc": "/सुला?बा/",
+      "group": "CT",
+      "mean": "<p>natural; innate.</p>स्वाभाविक; जन्मजात; प्राकृतिक ।"
+    },
+    "07999": {
+      "dId": "ᤛᤢᤗᤡᤗᤡᤰᤐᤠ",
+      "desc": "/सुलिलिक्पा/",
+      "group": "CT",
+      "mean": "<p>thin and tall; very thin.</p>सुइँखुट्टे; दुब्लो र पातलो । "
+    },
+    "08002": {
+      "dId": "ᤛᤢᤸᤑᤠ",
+      "desc": "/सुल्फा/",
+      "group": "CT",
+      "mean": "<p>small wooden smoking pipe.</p>काठको सानो कुल्फी ।"
+    },
+    "08003": {
+      "dId": "ᤛᤢᤸᤗᤡ ",
+      "desc": "/सुल्लि/",
+      "group": "CT",
+      "mean": "<p>secretly; sneakily; unawares; deceptively.</p>लुसुक्क; सुटुक्क; खुसुक्क; चुपचाप (जाने किसिमले); कसैलाई थाहा नदिई ।"
+    },
+    "08004": {
+      "dId": "ᤛᤢᤸᤗᤡᤒᤠ",
+      "desc": "/सुल्लिबा/",
+      "group": "CT",
+      "mean": "<p>fickle (minded).</p>लरबरे ।"
+    },
+    "08005": {
+      "dId": "ᤛᤢᤘᤠᤱ",
+      "desc": "/सुवाङ्/",
+      "group": "CT",
+      "mean": "<p>nationality; tribe race.</p>जाति ।"
+    },
+    "08006": {
+      "dId": "ᤛᤢᤘᤠᤱᤃᤣᤴ",
+      "desc": "/सुवाङ्गेन्/",
+      "group": "CT",
+      "mean": "<p>national; tribal; ethnical; racial.</p>जातिय ।"
+    },
+    "08007": {
+      "dId": "ᤛᤢᤘᤧᤴ",
+      "desc": "/सुवेन्/",
+      "group": "CT",
+      "mean": "<p>bronze.</p>काँस ।"
+    },
+    "08008": {
+      "dId": "ᤛᤢᤛᤠᤱᤃᤠᤣ",
+      "desc": "/सुसाङ्गो/",
+      "group": "CT",
+      "mean": "<p>peace and security; law and order; (mental, social, political) peace and stability.</p>शान्तिसुरक्षा; अमनचैन; (मानसिक, सामाजिक, राजनैतिक आदि) शान्ति र स्थिरता ।"
+    },
+    "08009": {
+      "dId": "ᤛᤢᤛᤢ",
+      "desc": "/सुसु/",
+      "group": "CT",
+      "mean": "<p>(adj.) pleasantly cool. (adv.) 1. cooly. 2. silently; peacefully; quietly; tacitly.</p>(वि.) शीतल । (क्रिवि.) १. शीतलतापूर्वक । २. आरामपूर्वक; शान्तिपूर्वक ।"
+    },
+    "08010": {
+      "dId": "ᤛᤢᤛᤢᤒᤠ",
+      "desc": "/सुसुबा/",
+      "group": "CT",
+      "mean": "<p>cool.</p>शीतल ।"
+    },
+    "08011": {
+      "dId": "ᤛᤢᤛᤢᤘᤠ",
+      "desc": "/सुसुवा/",
+      "group": "CT",
+      "mean": "<p>coolness; cold(ness).</p>शीतलता ।"
+    },
+    "08012": {
+      "dId": "ᤛᤢᤛᤢᤰ",
+      "desc": "/सुसुक्/",
+      "group": "CT",
+      "mean": "<p>by way of taking a short nap; napping suddenly.</p>एकैछि झप्प निदाउने किसिमले; झप्प; झ्याप्प; झपक्क ।"
+    },
+    "08013": {
+      "dId": "ᤛᤢᤛᤢᤱᤃᤣ",
+      "desc": "/सुसुङ्गे/",
+      "group": "CT",
+      "mean": "<p>a kind of stinging nettle. <i>Urtica ardens.</i></p>पातले सिस्नु ।"
+    },
+    "08014": {
+      "dId": "ᤛᤢᤜᤠᤱ",
+      "desc": "/सुहाङ्/",
+      "group": "CT",
+      "mean": "<p>1. honourable person/man; Mr. 2. rajah; king, emperor.</p>१. आदरणीय/भद्र पुरुष; भलाद्मी; महाशय; महोदय; श्री; श्रीमान । २. (महा)राजा; सम्राट ।"
+    },
+    "08015": {
+      "dId": "ᤛᤢᤜᤠᤱᤃᤧᤶ",
+      "desc": "/सुहाङ्गेम्/",
+      "group": "CT",
+      "mean": "<p>reign; rule; empire.</p>शासन; साम्राज्य ।"
+    },
+    "08016": {
+      "dId": "ᤛᤢᤜᤠᤱᤃᤧᤶᤒᤠ",
+      "desc": "/सुहाङ्गेम्बा/",
+      "group": "CT",
+      "mean": "<p>ruler; administrator.</p>(प्र)शासक ।"
+    },
+    "08017": {
+      "dId": "ᤛᤢᤜᤠᤱᤔᤠ",
+      "desc": "/सुहाङ्मा/",
+      "group": "CT",
+      "mean": "<p>1. honourable lady; Madam; Mademoiselle; Mrs. 2. queen; empress.</p>१. आदरणीय/भद्र महिला; भद्रे; महाशया; महोदया; श्रीमती। २. महारानी; सम्राज्ञी; रानी ।"
+    },
+    "08018": {
+      "dId": "ᤛᤢᤜᤠᤱᤔᤡᤒᤠ",
+      "desc": "/सुहाङ्मिबा/",
+      "group": "CT",
+      "mean": "<p>secretary (government).</p>सचिव (सरकारी) ।"
+    },
+    "08019": {
+      "dId": "ᤛᤢᤜᤠᤱᤕᤢᤰᤐᤠ",
+      "desc": "/सुहाङ्युक्पा/",
+      "group": "CT",
+      "mean": "<p>officer.</p>अधिकृत ।"
+    },
+    "08020": {
+      "dId": "ᤛᤢᤜᤡᤰ",
+      "desc": "/सुहिक्/",
+      "group": "CT",
+      "mean": "<p>yellow; pale.</p>पहेंलो ।"
+    },
+    "08021": {
+      "dId": "ᤛᤢ᤺ᤰᤔᤠ/ᤛᤢᤁ᤻ᤔᤠ",
+      "desc": "/सुःक्मा/",
+      "group": "CT",
+      "mean": "<p>1. to descend/dive very swiftly (as a hawk dives at a target or prey). 2. to buzz. 3. (of wind) to rush.</p>१. गर्जेर जानु/आउनु/छोप्नु । २. वेग हान्नु । ३. (आँधी, वतास) गर्जनु ।"
+    },
+    "08022": {
+      "dId": "ᤛᤢ᤺ᤰᤘᤠ/ᤛᤢᤁ᤻ᤘᤠ",
+      "desc": "/सुःक्वा/",
+      "group": "CT",
+      "mean": "<p>bag.</p>झोला ।"
+    },
+    "08023": {
+      "dId": "ᤛᤢ᤺ᤱ/ᤛᤢᤅ᤻",
+      "desc": "/सुःङ्/",
+      "group": "CT",
+      "mean": "<p>1. taming; domestication; attachment; being tamed/domesticated/pet. 2. habit.</p>१. रत्तिने काम; रत्याइ । २. आनीबानी; बानी ।"
+    },
+    "08024": {
+      "dId": "ᤛᤢ᤺ᤇᤡᤱᤔᤠ",
+      "desc": "/सुःछिङ्मा/",
+      "group": "CT",
+      "mean": "<p>to accomplish/complete/finish sth oneself.</p>(कुनै काम) आफैले (गरि)सक्नु/सम्पन्न गर्नु ।"
+    },
+    "08025": {
+      "dId": "ᤛᤢ᤺ᤳ/ᤛᤢᤋ᤻",
+      "desc": "/सुःत्/",
+      "group": "CT",
+      "mean": "<p>sourness.</p>अमिलोपन ।"
+    },
+    "08026": {
+      "dId": "ᤛᤢ᤺ᤳᤋᤰ/ᤛᤢᤋ᤻ᤋᤰ",
+      "desc": "/सुःत्तक्/",
+      "group": "CT",
+      "mean": "<p>sweet flag rhizome. <i>Acours calamus.</i></p>बोझो झार ।"
+    },
+    "08027": {
+      "dId": "ᤛᤢ᤺ᤳᤕᤰᤛᤣ/ᤛᤢᤋ᤻ᤕᤰᤛᤣ",
+      "desc": "/सुःत्यक्से?/",
+      "group": "CT",
+      "mean": "<p>a kind of palm. <i>Prunus sp.</i></p>आलुचा (फल) ।"
+    },
+    "08028": {
+      "dId": "ᤛᤢ᤺ᤵ/ᤛᤢᤐ᤻",
+      "desc": "/सुःप्/",
+      "group": "CT",
+      "mean": "<p>sheath.</p>दाप ।"
+    },
+    "08029": {
+      "dId": "ᤛᤢ᤺ᤵᤏᤠ/ᤛᤢᤐ᤻ᤏᤠ",
+      "desc": "/सुःप्ना/",
+      "group": "CT",
+      "mean": "<p>lid; top; cap; cork; cover; stopper; nozzle.</p>बिर्को; ढकनी ।"
+    },
+    "08030": {
+      "dId": "ᤛᤢ᤺ᤵᤑᤢᤱᤘᤠ/ᤛᤢᤐ᤻ᤑᤢᤱᤘᤠ",
+      "desc": "/सुःप्फुङ्वा/",
+      "group": "CT",
+      "mean": "<p>a kind of tree bearing bitter fruits. <i>Tamarindus indica.</i></p>तित्तिरी (अमिलो फल) ।"
+    },
+    "08031": {
+      "dId": "ᤛᤢ᤺ᤵᤔᤠ/ᤛᤢᤐ᤻ᤔᤠ",
+      "desc": "/सुःप्मा/",
+      "group": "CT",
+      "mean": "<p>1. to be/get sour. 2. to cover (with a basket). 3. to close a lid/cap. 4. to accomplish/complete/finish (sth in course of time). 5. to finish (in the sense of destroying/damaging/ruining/spoiling/killing/eliminating/uprooting).</p>१. अमिलो हुनु । २. (डोको आदिले) छोप्नु । ३. बिर्को लाउनु (छोप्नु) । ४. (कुनै काम गरेर) सक्नु/सिध्याउनु; सम्पन्न वा समाप्त गर्नु । ५. सक्नु; (सत्या)नाश/बर्बाद गर्नु/पार्नु; बिगर्नु; मार्नु; रित्याउनु; निमिट्यान्न पार्नु आदि अर्थमा । "
+    },
+    "08032": {
+      "dId": "ᤛᤢ᤺ᤔᤠ",
+      "desc": "/सुःमा/",
+      "group": "CT",
+      "mean": "<p>1. to be slow/slack (due to exhaustion, idleness). 2. to be late. 3. to touch.</p>१. (अल्स्याइँले) ढिलो हुनु/गर्नु । २. अबेर हुनु/गर्नु । ३. छुनु ।"
+    },
+    "08033": {
+      "dId": "ᤛᤢ᤺ᤶᤔᤠ/ᤛᤢᤔ᤻ᤔᤠ",
+      "desc": "/सुःम्मा/",
+      "group": "CT",
+      "mean": "<p>1. to be too little; to be too few; to be inadequate. 2. to wipe clean/scrap altogether; to sweep into a pile. 3. to insult by a gesture of hand (by passing one's hand infront of sb's face in a sweeping manner).</p>१. थोरै/कम्ती हुनु । २. (केहि बाँकी नरहने गरी पुछिने किसिमले) सोर्नु (जस्तै- भाँडा सोरेर खानु); पुछ्नु । ३. लोपार्नु ।"
+    },
+    "08034": {
+      "dId": "ᤛᤢ᤺ᤸᤗᤡᤰ/ᤛᤢᤗ᤻ᤗᤡᤰ",
+      "desc": "/सुःल्लिक्/",
+      "group": "CT",
+      "mean": "<p>a little/bit/little bit.</p>अलिकति; कम्ति; थोरै ।"
+    },
+    "08035": {
+      "dId": "ᤛᤢ᤺ᤛᤢᤒᤠ",
+      "desc": "/सुःसुबा/",
+      "group": "CT",
+      "mean": "<p>sluggard; lazy; slothful.</p>ढिलो; लोते(से); लोतिखरे ।"
+    }
+  }
+}

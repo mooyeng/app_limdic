@@ -1,0 +1,394 @@
+{
+  "Dic": {
+    "08036": {
+      "dId": "ᤛᤣ",
+      "desc": "/से/",
+      "group": "CU",
+      "mean": "<p>joining to noun words denotes 'O', 'hey', 'Hello' etc.</p>नाम वा संज्ञा शब्दका पछाडि आएर 'ए', 'हो', 'हे' आदि सम्बोधन बुझाउने प्रत्यय ।"
+    },
+    "08037": {
+      "dId": "ᤛᤣ᤹ᤀᤡᤰ/ᤛᤣᤀᤡᤰ",
+      "desc": "/से?इक्/सेइक्/",
+      "group": "CU",
+      "mean": "<p>orchard.</p>फलफूलको बगैंचा ।"
+    },
+    "08038": {
+      "dId": "ᤛᤣ᤹",
+      "desc": "/से?/",
+      "group": "CU",
+      "mean": "<p>1. stone/seed (often hard) of fruit. 2. fruit.</p>१. बियाँ; फलफूल आदिको बिज । २. फल; फलफूल आदिको दाना ।"
+    },
+    "08039": {
+      "dId": "ᤛᤣ᤹ᤔᤠ",
+      "desc": "/से?मा/",
+      "group": "CU",
+      "mean": "<p>to unirate over/in front of sb.</p>(अरूलाई/देखाएर) मुत्नु/मुतिदिनु ।"
+    },
+    "08040": {
+      "dId": "ᤛᤣ᤹ᤔᤠ᤺ᤳ/ᤛᤣ᤹ᤔᤠᤋ᤻",
+      "desc": "/से?माःत्/",
+      "group": "CU",
+      "mean": "<p>urine; piss.</p>पिसाब; मूत; मूत्र । "
+    },
+    "08041": {
+      "dId": "ᤛᤣ᤹ᤖᤢᤱᤏᤧᤵᤔᤠ",
+      "desc": "/से?रुङ्नेप्मा/",
+      "group": "CU",
+      "mean": "<p>to be pregnant; to conceive.</p>पेट बोक्नु; गर्भधारण गर्नु; गर्भ रहनु ।"
+    },
+    "08042": {
+      "dId": "ᤛᤣ᤹ᤗᤡᤶ",
+      "desc": "/से?लिम्/",
+      "group": "CU",
+      "mean": "<p>honey; levulose.</p>मह; फलफूल आदिमा पाईने गुलियो तत्व ।"
+    },
+    "08043": {
+      "dId": "ᤛᤣ᤹ᤛᤢᤶ",
+      "desc": "/से?सुम्/",
+      "group": "CU",
+      "mean": "<p>three myrobalans; medicinal composition (often powder) of yellow belleric (cherry plum) and embelic myrobalan.</p>त्रिफला; हर्रो, बर्रो र अमलाको चूर्णका औषधी ।"
+    },
+    "08044": {
+      "dId": "ᤛᤣᤃᤣᤏᤠ",
+      "desc": "/सेगेना/",
+      "group": "CU",
+      "mean": "<p>piebald (black and white mixed) bird.</p>पाङ्ग्रे/पाङ्रे चरो ।"
+    },
+    "08045": {
+      "dId": "ᤛᤣᤃᤣᤖᤠ",
+      "desc": "/सेगेरा/",
+      "group": "CU",
+      "mean": "<p>morning (glow) brightness.</p>बिहानको उज्यालो ।"
+    },
+    "08046": {
+      "dId": "ᤛᤣᤄᤠᤵᤔᤡ ",
+      "desc": "/सेघाप्मि/",
+      "group": "CU",
+      "mean": "<p>cloud(s).</p>बादल ।"
+    },
+    "08047": {
+      "dId": "ᤛᤣᤈᤱᤘᤠ",
+      "desc": "/सेजङ्वा/",
+      "group": "CU",
+      "mean": "<p>liquor; wine (lit- filtered water).</p>रक्सी (शा. - सफा पानी) ।"
+    },
+    "08048": {
+      "dId": "ᤛᤣᤈᤠᤣ᤹ᤗᤠᤣ",
+      "desc": "/सेजो?लो/",
+      "group": "CU",
+      "mean": "<p>(quality of) highest/pure virtue.</p>सतगुण ।"
+    },
+    "08049": {
+      "dId": "ᤛᤣᤍᤡᤱᤍᤡᤱ ",
+      "desc": "/सेदिङ्दिङ्/",
+      "group": "CU",
+      "mean": "<p>bright; full of light.</p>उज्ज्वल; प्रकाशपूर्ण ।"
+    },
+    "08050": {
+      "dId": "ᤛᤣᤍᤡᤱᤘᤠ",
+      "desc": "/सेदिङ्बा/",
+      "group": "CU",
+      "mean": "<p>pioneer; guide; forerunner; apostle.</p>अगुवा; अग्रणी ।"
+    },
+    "08051": {
+      "dId": "ᤛᤣᤔᤣᤗᤡᤱ",
+      "desc": "/सेमेलिङ्/",
+      "group": "CU",
+      "mean": "<p>(virile) semen; sperm.</p>वीर्य; धातु; शुक्र; शुक्राणु ।"
+    },
+    "08052": {
+      "dId": "ᤛᤣᤶᤔᤣᤏᤠ ᤋᤢᤱ",
+      "desc": "/सेम्मेना तुङ्/",
+      "group": "CU",
+      "mean": "<p>dysentry.</p>(आउँ) मासी ।"
+    },
+    "08053": {
+      "dId": "ᤛᤣᤖᤡᤍᤠ᤺ᤰᤔᤠ/ᤛᤣᤖᤡᤍᤠᤁ᤻ᤔᤠ",
+      "desc": "/सेरिदाःक्मा/",
+      "group": "CU",
+      "mean": "<p>a kind of thorny plant with a poisonous juice; its plant and flowers. <i>Euphorbia antiquorum.</i></p>एक प्रकारको काँडेदार स्यूँडी; त्यसको बोट र त्यसकै फूल ।"
+    },
+    "08054": {
+      "dId": "ᤛᤣᤷᤔᤠ",
+      "desc": "/सेर्मा/",
+      "group": "CU",
+      "mean": "<p>(land) revenue.</p>(जग्गाको) तिरो ।"
+    },
+    "08055": {
+      "dId": "ᤛᤣᤘᤠ",
+      "desc": "/सेवा/",
+      "group": "CU",
+      "mean": "<p>reverential salutation; bowing with respect; respectful term for greeting elders.</p>ढोग; प्रणाम; नमस्कार; आदरणीय व्यक्तिलाई भेट्दा प्रकट गरिने आदर/सम्मानको भाव । "
+    },
+    "08056": {
+      "dId": "ᤛᤣᤘᤠᤍᤡᤱ",
+      "desc": "/सेवादिङ्/",
+      "group": "CU",
+      "mean": "<p>prayerful; solicitous; a regardful/full of entreaty; showing obeisance.</p>बिन्तीभावपूर्ण; याचनापूर्ण; भक्तिभावपूर्ण ।"
+    },
+    "08057": {
+      "dId": "ᤛᤣᤘᤠᤍᤧᤴ",
+      "desc": "/सेवादेन्/",
+      "group": "CU",
+      "mean": "<p>place of worship; sanctuary.</p>पूजा गर्ने ठाउँ; पूजास्थल ।"
+    },
+    "08058": {
+      "dId": "ᤛᤣᤘᤠᤗᤢᤱ(ᤔᤠ)",
+      "desc": "/सेवालुङ्(मा)/",
+      "group": "CU",
+      "mean": "<p>one of the mountains in the eastern Himalayas; the Kumbhakarna Himal.</p>पूर्व हिमालय पर्वतश्रृङ्खलाको एक मुख्य पर्वत; कुम्भकर्ण हिमाल ।"
+    },
+    "08059": {
+      "dId": "ᤛᤣᤘᤠᤛᤠᤒᤠ",
+      "desc": "/सेवासाबा/",
+      "group": "CU",
+      "mean": "<p>priest.</p>पूजारी ।"
+    },
+    "08060": {
+      "dId": "ᤛᤣᤘᤠᤛᤠᤶᤒᤠ",
+      "desc": "/सेवासाम्बा/",
+      "group": "CU",
+      "mean": "<p>devotee.</p>भक्त ।"
+    },
+    "08061": {
+      "dId": "ᤛᤣᤘᤠ-ᤛᤣ᤺ᤴᤍᤠᤣ/ᤛᤣᤏ᤻ᤍᤠᤣ",
+      "desc": "/सेवा-सेःन्दो/",
+      "group": "CU",
+      "mean": "<p>prayer; solicitation; entreaty; solicitous question/inquiry; interrogation.</p>याचना, अनुरोध, विनय वा विन्तीभावपूर्ण सोधाइ वा प्रश्न; सोधनी ।"
+    },
+    "08062": {
+      "dId": "ᤛᤣᤛᤠᤵ",
+      "desc": "/सेसाप्/",
+      "group": "CU",
+      "mean": "<p>split bamboos tied horizontally and parallel over the poles of the roof.</p>छाना छाप्न बलोमाथि तेर्सो पारेर बाँधिने भाटा ।"
+    },
+    "08063": {
+      "dId": "ᤛᤣᤛᤠᤵᤔᤠ",
+      "desc": "/सेसाप्मा/",
+      "group": "CU",
+      "mean": "<p>to set bamboo poles of the roof and tie the cross-beams before roofing; to tie the poles of the roof and set the bamboo cross-beams over them before roofing.</p>छाना छाँउदा पहिले डाँडा भाटाहरु गर्नु/मिलाउनु ।"
+    },
+    "08064": {
+      "dId": "ᤛᤣᤛᤣ",
+      "desc": "/सेसे/",
+      "group": "CU",
+      "mean": "<p>1. bright. 2. pure; free from impurities. 3. clear; distinct; (of speech) articulate.</p>१. उज्ज्वल । २. स्वच्छ । ३. सफा; स्पष्ट ।"
+    },
+    "08065": {
+      "dId": "ᤛᤣᤛᤣᤒᤠ",
+      "desc": "/सेसेबा/",
+      "group": "CU",
+      "mean": "<p>pure; invigorated; fresh; refreshed; zestful; full of zest.</p>स्वच्छ; ताजा ।"
+    },
+    "08066": {
+      "dId": "ᤛᤣᤛᤣᤍᤠᤱᤒᤠ",
+      "desc": "/सेसेदाङ्बा/",
+      "group": "CU",
+      "mean": "<p>fresh; energetic.</p>ताजा; चहकिलो ।"
+    },
+    "08067": {
+      "dId": "ᤛᤣᤛᤣᤔᤠᤱ",
+      "desc": "/सेसेमाङ्/",
+      "group": "CU",
+      "mean": "<p>Holy God.</p>पवित्र देवता ।"
+    },
+    "08068": {
+      "dId": "ᤛᤣᤛᤣᤖᤡᤰ",
+      "desc": "/सेसेरिक्/",
+      "group": "CU",
+      "mean": "<p>clearly; distinctly.</p>प्रष्ट; स्पष्टरूपमा ।"
+    },
+    "08069": {
+      "dId": "ᤛᤣᤛᤣᤰ ᤛᤡᤱ",
+      "desc": "/सेसेक् सिङ्/",
+      "group": "CU",
+      "mean": "<p>a kind of bush. <i>Brassiopsis hainla.</i></p>चुलेत्रो ।"
+    },
+    "08070": {
+      "dId": "ᤛᤣᤛᤣ᤺ᤰᤁᤪᤠᤣ/ᤛᤣᤛᤣᤁ᤻ᤁᤪᤠᤣ",
+      "desc": "/सेसेःकक्रो/",
+      "group": "CU",
+      "mean": "<p>Asoj; Aswin; sixth Nepalese month (Sep-Oct).</p>असोज; आश्विन (महिना) ।"
+    },
+    "08071": {
+      "dId": "ᤛᤣᤛᤣᤓᤢᤱ",
+      "desc": "/सेसेभुङ्/",
+      "group": "CU",
+      "mean": "<p>vermilion; red powder used for putting on the forehead (of the bride) as a mark of marriage.</p>सिन्दुर; सिँदुर ।"
+    },
+    "08072": {
+      "dId": "ᤛᤣᤛᤣᤗᤢᤱᤔᤠ",
+      "desc": "/सेसेलुङ्(मा)/",
+      "group": "CU",
+      "mean": "<p>name of a particular mountain in the Himalayan ranges; Dhaulagiri mountain.</p>हिमालय पर्वत श्रृङ्खलाको एक पर्वत विशेष; धौलागिरि पर्वत ।"
+    },
+    "08073": {
+      "dId": "ᤛᤣᤛᤠᤣ᤺ᤴᤍᤡ/ᤛᤣᤛᤠᤣᤏ᤻ᤍᤡ ",
+      "desc": "/सेसोःन्दि/",
+      "group": "CU",
+      "mean": "<p>sliding object (stone etc).</p>चिप्लेटी; चिप्लेटी खेल्ने वस्तु (ढुङ्गा आदि) ।"
+    },
+    "08074": {
+      "dId": "ᤛᤣ᤺",
+      "desc": "/सेः/",
+      "group": "CU",
+      "mean": "<p>cataract (of an eye).</p>फुलो (आँखाको) ।"
+    },
+    "08075": {
+      "dId": "ᤛᤣ᤺ᤰ",
+      "desc": "/सेःक्/",
+      "group": "CU",
+      "mean": "<p>1. choice; selection; election. 2. piece; splinter; slice; flake. 3. scales (of a fish).</p>१. छनाई; छनोट; चुनाव; चयन । २. टुक्रा; चोइटो । ३. कत्ला (माछाको) ।"
+    },
+    "08076": {
+      "dId": "ᤛᤣ᤺ᤰᤔᤠ",
+      "desc": "/सेःक्मा/",
+      "group": "CU",
+      "mean": "<p>1. to pinch/nip. 2. to choose/select/to make a choice. 3. to elect sb; to conduct election. 4. to pluck (flower).</p>१. चिमोट्नु; चिमट्नु । २. छान्नु; रोज्नु; चुन्नु । ३. निर्वाचन गर्नु; चुनाउ गर्नु । ४. (फूल) टिप्नु ।"
+    },
+    "08077": {
+      "dId": "ᤛᤣ᤺ᤰᤔᤢᤖᤡ ",
+      "desc": "/सेःक्मुरि/",
+      "group": "CU",
+      "mean": "<p>celery; flower which is depicted in the Mundhum as the symbol of human being. Apicum graveolens.</p>सिल्लरी फूल; मुन्धुममा मानिसको प्रतीकको रूपमा चित्रित फूल ।"
+    },
+    "08078": {
+      "dId": "ᤛᤣ᤺ᤰᤘᤠ",
+      "desc": "/सेःक्वा/",
+      "group": "CU",
+      "mean": "<p>frost.</p>तुसारो ।"
+    },
+    "08079": {
+      "dId": "ᤛᤣ᤺ᤰᤘᤠ/ᤛᤣ᤹ᤘᤠ",
+      "desc": "/सेःक्वा/से?वा/",
+      "group": "CU",
+      "mean": "<p>(of food) stale.</p>बासी ।"
+    },
+    "08080": {
+      "dId": "ᤛᤣ᤺ᤰᤛᤡᤱ",
+      "desc": "/सेःक्सिङ्/",
+      "group": "CU",
+      "mean": "<p>1. choice; selection. 2. election.</p>१. छनौट; चयन । २. चुनाव; निर्वाचन ।"
+    },
+    "08081": {
+      "dId": "ᤛᤣ᤺ᤰᤛᤡᤱᤔᤠ",
+      "desc": "/सेःक्सिङ्मा/",
+      "group": "CU",
+      "mean": "<p>to be elected/selected.</p>चुनिनु; छानिनु; चयन हुनु ।"
+    },
+    "08082": {
+      "dId": "ᤛᤣ᤺ᤱᤄᤠ/ᤛᤣᤅ᤻ᤄᤠ",
+      "desc": "/सेःङ्घा/",
+      "group": "CU",
+      "mean": "<p>lowland; malarial place; terai.</p>बेंसी; औल; खोंच; मधेस ।"
+    },
+    "08083": {
+      "dId": "ᤛᤣ᤺ᤱᤍᤠ/ᤛᤣᤅ᤻ᤍᤠ ᤅᤠ",
+      "desc": "/सेःङ्दा ङा/",
+      "group": "CU",
+      "mean": "<p>a kind of fish.</p>काभ्रे माछो ।"
+    },
+    "08084": {
+      "dId": "ᤛᤣ᤺ᤱᤔᤠ/ᤛᤣᤅ᤻ᤔᤠ",
+      "desc": "/सेःङ्मा/",
+      "group": "CU",
+      "mean": "<p>to prune/trim.</p>छिमल्नु; छाँस्नु; पात र हाँगाहरू छुट्याउनु ।"
+    },
+    "08085": {
+      "dId": "ᤛᤣ᤺ᤳ",
+      "desc": "/सेःत्/",
+      "group": "CU",
+      "mean": "<p>1. wonder. 2. bad omen; inauspicious sign.</p>१. अचम्म; आश्चार्य । २. अपसगुन; कुसाइत; लोदर; अलच्छिन ।"
+    },
+    "08086": {
+      "dId": "ᤛᤣ᤺ᤴᤍᤡ/ᤛᤣᤏ᤻ᤍᤡ ᤐᤣᤛᤠᤵ",
+      "desc": "/सेःन्दि पेसाप्/",
+      "group": "CU",
+      "mean": "<p>1. luck; lot; fate; destiny. 2. providence; fate line.</p>१. भाग्य; तकदीर; प्ररब्ध । २. भाग्यलेखा; भाग्यको लेखान्त; भावीको रेखा ।"
+    },
+    "08087": {
+      "dId": "ᤛᤣ᤺ᤴᤍᤠᤣ/ᤛᤣᤏ᤻ᤍᤠᤣ",
+      "desc": "/सेःन्दो/",
+      "group": "CU",
+      "mean": "<p>question; inquiry; query.</p>प्रश्न; सवाल; सोधनी; सोधाइ ।"
+    },
+    "08088": {
+      "dId": "ᤛᤣ᤺ᤴᤍᤠᤣᤒᤣ/ᤛᤣᤏ᤻ᤍᤠᤣᤒ",
+      "desc": "/सेःन्दोबे/",
+      "group": "CU",
+      "mean": "<p>sign/mark of interrogation (  ) in Sirijunga alphabet.</p>प्रश्नवाचक चिन्ह; सिरिजङ्गा वर्णमालाको (   ) यस्तो चिन्ह ।"
+    },
+    "08089": {
+      "dId": "ᤛᤣ᤺ᤴᤍᤠᤣ᤺ᤔᤠ/ᤛᤣᤏ᤻ᤍᤠᤣ᤺ᤔᤠ",
+      "desc": "/सेःन्दोःमा/",
+      "group": "CU",
+      "mean": "<p>to ask/question/inquire; to make a query.</p>सोध्नु; प्रश्न गर्नु ।"
+    },
+    "08090": {
+      "dId": "ᤛᤣ᤺ᤴᤍᤠᤣᤛᤣᤴ/ᤛᤣᤏ᤻ᤍᤠᤣᤛᤣᤴ",
+      "desc": "/सेःन्दोसेन्/",
+      "group": "CU",
+      "mean": "<p>investigation; inquiry; screening; interrogation.</p>सोधपुछ; छानबीन; जाँचबुझ; अनुसन्धान; केरकार ।"
+    },
+    "08091": {
+      "dId": "ᤛᤣ᤺ᤴᤏᤠᤣᤵ/ᤛᤣᤏ᤻ᤏᤠᤣᤵ",
+      "desc": "/सेःन्नोगप्/",
+      "group": "CU",
+      "mean": "<p>question and answer.</p>प्रश्नोत्तर; प्रश्न र उत्तर ।"
+    },
+    "08092": {
+      "dId": "ᤛᤣ᤺ᤴᤔᤰᤘᤠᤴ/ᤛᤣᤏ᤻ᤔᤰᤘᤠᤴ",
+      "desc": "/सेःन्मक्वान्/",
+      "group": "CU",
+      "mean": "<p>1. the Sen dynasty of Makwanpur. 2. Myanmar (Burma).</p>१. मक्वानपुरको सेन वंश । २. म्यान्मार (बर्मा) ।"
+    },
+    "08093": {
+      "dId": "ᤛᤣ᤺ᤴᤗᤠᤵ/ᤛᤣᤏ᤻ᤗᤠᤵ",
+      "desc": "/सेःन्लाप्/",
+      "group": "CU",
+      "mean": "<p>question; inquiry; interrogation.</p>प्रश्न; सवाल; सोधनी; सोधाइ ।"
+    },
+    "08094": {
+      "dId": "ᤛᤣ᤺ᤵᤔᤠ/ᤛᤣᤐ᤻ᤔᤠ",
+      "desc": "/सेःप्मा/",
+      "group": "CU",
+      "mean": "<p>wart.</p>मुसो (शरीरमा पलाएको/निस्कने मासु) ।"
+    },
+    "08095": {
+      "dId": "ᤛᤣ᤺ᤒᤠ",
+      "desc": "/सेःबा/",
+      "group": "CU",
+      "mean": "<p>[Phedape] bond(ed) friend.</p>[फेदापे] मित ।"
+    },
+    "08096": {
+      "dId": "ᤛᤣ᤺ᤔᤠ",
+      "desc": "/सेःमा/",
+      "group": "CU",
+      "mean": "<p>1. to be conscious; to come to senses; to retain consciousness. 2. to get/wake up. 3. to be pure. 4. to urinate; to pass water; to discharge urine; to piss.</p>१. चेत/होश फिर्नु; होशमा आउनु । २. ब्युँझनु । ३. शुद्ध हुनु । ४. मुत्नु; पिसाब गर्नु/फेर्नु ।"
+    },
+    "08097": {
+      "dId": "ᤛᤣ᤺ᤸᤗᤠᤵᤔᤠ/ᤛᤣᤗ᤻ᤗᤠᤵᤔᤠ",
+      "desc": "/सेःल्लाप्मा/",
+      "group": "CU",
+      "mean": "<p>to ask/question/inquire.</p>सोध्नु; प्रश्न गर्नु ।"
+    },
+    "08098": {
+      "dId": "ᤛᤤᤒᤠ",
+      "desc": "/सैबा/",
+      "group": "CU",
+      "mean": "<p>a Limbu word meaning the meanlish people.</p>अङ्ग्रेज जातिलाई बुझाउने लिम्बू शब्दविशेष; साहेब; साब(प) ।"
+    },
+    "08099": {
+      "dId": "ᤛᤤᤒᤠᤣ",
+      "desc": "/सैबो/",
+      "group": "CU",
+      "mean": "<p>enjoyment; entertainment; luxury; lust.</p>विलास; आमोद-प्रमोद ।"
+    },
+    "08100": {
+      "dId": "ᤛᤠᤣ᤹ᤍᤠᤣ᤺ᤰ/ᤛᤠᤣ᤹ᤍᤠᤣᤁ᤻",
+      "desc": "/सो?दोःक्/",
+      "group": "CU",
+      "mean": "<p>blood relations; bone relations; kin; kinsfolk; kinsman and kinswoman.</p>हाडनाता ।"
+    }
+  }
+}
